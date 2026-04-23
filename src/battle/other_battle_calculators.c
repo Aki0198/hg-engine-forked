@@ -930,15 +930,15 @@ u8 LONG_CALL CalcSpeed(void *bw, struct BattleStruct *sp, int client1, int clien
     }
 
     if ((ability1 == ABILITY_UNBURDEN)
-        && (sp->battlemon[client1].moveeffect.knockOffFlag)
-        && (sp->battlemon[client1].item == 0)) {
-        speedModifier1 = QMul_RoundUp(speedModifier1, UQ412__2_0);
+    && (sp->battlemon[client1].moveeffect.knockOffFlag)
+    && (sp->battlemon[client1].item == 0)) {
+        speedModifier1 = QMul_RoundUp(speedModifier1, UQ412__1_5);
     }
 
     if ((ability2 == ABILITY_UNBURDEN)
-        && (sp->battlemon[client2].moveeffect.knockOffFlag)
-        && (sp->battlemon[client2].item == 0)) {
-        speedModifier2 = QMul_RoundUp(speedModifier2, UQ412__2_0);
+    && (sp->battlemon[client2].moveeffect.knockOffFlag)
+    && (sp->battlemon[client2].item == 0)) {
+        speedModifier2 = QMul_RoundUp(speedModifier2, UQ412__1_5);
     }
 
 #ifdef DEBUG_SPEED_CALC
@@ -1131,6 +1131,7 @@ u8 LONG_CALL CalcSpeed(void *bw, struct BattleStruct *sp, int client1, int clien
     // Step 11: Paralysis
 
     if ((ability1 != ABILITY_QUICK_FEET)
+<<<<<<< HEAD
         && sp->battlemon[client1].condition & STATUS_PARALYSIS) {
         speed1 = QMul_RoundUp(speed1, UQ412__0_5); // gen 7 on only halves speed for paralysis
     }
@@ -1138,6 +1139,15 @@ u8 LONG_CALL CalcSpeed(void *bw, struct BattleStruct *sp, int client1, int clien
     if ((ability2 != ABILITY_QUICK_FEET)
         && sp->battlemon[client2].condition & STATUS_PARALYSIS) {
         speed2 = QMul_RoundUp(speed2, UQ412__0_5); // gen 7 on only halves speed for paralysis
+=======
+    && sp->battlemon[client1].condition & STATUS_PARALYSIS) {
+        speed1 = QMul_RoundUp(speed1, UQ412__0_25);  // gen 7 on only halves speed for paralysis
+    }
+
+    if ((ability2 != ABILITY_QUICK_FEET)
+    && sp->battlemon[client2].condition & STATUS_PARALYSIS) {
+        speed2 = QMul_RoundUp(speed2, UQ412__0_25);  // gen 7 on only halves speed for paralysis
+>>>>>>> 972dc842 (Changed scripts, added IV_tutor and custom config)
     }
 
 #ifdef DEBUG_SPEED_CALC

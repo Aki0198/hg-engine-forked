@@ -605,6 +605,11 @@ void CalcDamageOverall(void *bw, struct BattleStruct *sp) {
 
     // 6.9.14 Doubled-damage moves
 
+    // Explosion and Self-destruct
+    if (sp->moveTbl[moveno].effect == MOVE_EFFECT_HALVE_DEFENSE) {
+            finalModifier = QMul_RoundUp(finalModifier, UQ412__2_0);
+    }
+
     // 6.9.14.1 Minimize
     if (sp->battlemon[defender].effect_of_moves & MOVE_EFFECT_FLAG_MINIMIZED
         && !sp->battlemon[defender].is_currently_dynamaxed
@@ -737,7 +742,7 @@ void CalcDamageOverall(void *bw, struct BattleStruct *sp) {
         // 6.9.3 Sniper
         if ((sp->rawSpeedNonRNGClientOrder[i] == attacker)
          && (attackerAbility == ABILITY_SNIPER) && (sp->critical > 1)) {
-            finalModifier = QMul_RoundUp(finalModifier, UQ412__1_5);
+            finalModifier = QMul_RoundUp(finalModifier, UQ412__1_3333);
 #ifdef DEBUG_DAMAGE_CALC
             debug_printf("\n=================\n");
             debug_printf("[CalcBaseDamage] 6.9.3 Sniper\n");
@@ -886,8 +891,8 @@ void CalcDamageOverall(void *bw, struct BattleStruct *sp) {
         }
 
         // 6.9.12 Life Orb
-        if ((sp->rawSpeedNonRNGClientOrder[i] == attacker) && attackerItemHeldEffect == HOLD_EFFECT_HP_DRAIN_ON_ATK) {
-            finalModifier = QMul_RoundUp(finalModifier, UQ412__1_3_BUT_LOWER);
+        if ((sp->rawSpeedNonRNGClientOrder[i] == attacker) && HeldItemHoldEffectGet(sp, attacker) == HOLD_EFFECT_HP_DRAIN_ON_ATK) {
+            finalModifier = QMul_RoundUp(finalModifier, UQ412__1_2);
 #ifdef DEBUG_DAMAGE_CALC
             debug_printf("\n=================\n");
             debug_printf("[CalcBaseDamage] 6.9.12 Life Orb (client %d loop %d)\n", sp->rawSpeedNonRNGClientOrder[i], i);

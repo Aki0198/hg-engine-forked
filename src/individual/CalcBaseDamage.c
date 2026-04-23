@@ -618,10 +618,10 @@ int UNUSED CalcBaseDamageInternal(struct BattleSystem *bw, struct BattleStruct *
             }
 
             if ((AttackingMon.ability == ABILITY_RIVALRY)
-                && (AttackingMon.sex != DefendingMon.sex)
-                && (AttackingMon.sex != POKEMON_GENDER_UNKNOWN)
-                && (DefendingMon.sex != POKEMON_GENDER_UNKNOWN)) {
-                basePowerModifier = QMul_RoundUp(basePowerModifier, UQ412__0_75);
+            && (AttackingMon.sex != DefendingMon.sex)
+            && (AttackingMon.sex != POKEMON_GENDER_UNKNOWN)
+            && (DefendingMon.sex != POKEMON_GENDER_UNKNOWN)) {
+                basePowerModifier = QMul_RoundUp(basePowerModifier, UQ412__1_0);
                 continue;
             }
 
@@ -1371,13 +1371,19 @@ int UNUSED CalcBaseDamageInternal(struct BattleSystem *bw, struct BattleStruct *
 #endif
 
     // Step 4.7. Sandstorm + Rock-type
-    if ((weather & WEATHER_SANDSTORM_ANY)
-        && HasType(sp, defender, TYPE_ROCK)) {
-        sp_defense = QMul_RoundDown(sp_defense, UQ412__1_5);
-    }
-    if ((weather & WEATHER_SNOW_ANY)
+    if (noCloudNineAndAirLock) {
+        if ((field_cond & WEATHER_SANDSTORM_ANY)
+            && HasType(sp, defender, TYPE_ROCK)) {
+            sp_defense = QMul_RoundDown(sp_defense, UQ412__1_5);
+        }
+        if ((field_cond & WEATHER_SNOW_ANY)
+            && HasType(sp, defender, TYPE_ICE)) {
+            defense = QMul_RoundDown(defense, UQ412__1_5);
+        }
+        if ((field_cond & WEATHER_HAIL_ANY)
         && HasType(sp, defender, TYPE_ICE)) {
-        defense = QMul_RoundDown(defense, UQ412__1_5);
+            defense = QMul_RoundDown(defense, UQ412__1_5);
+        }
     }
 
 #ifdef DEBUG_DAMAGE_CALC
