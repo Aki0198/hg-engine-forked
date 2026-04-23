@@ -6589,9 +6589,9 @@ movedata MOVE_VACUUM_WAVE, "Vacuum Wave"
 movedata MOVE_FOCUS_BLAST, "Focus Blast"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
-    basepower 120
+    basepower 80
     type TYPE_FIGHTING
-    accuracy 70
+    accuracy 100
     pp 5
     effectchance 10
     target RANGE_SINGLE_TARGET
@@ -7323,11 +7323,11 @@ movedata MOVE_HEAL_ORDER, "Heal Order"
     movedescription MOVE_HEAL_ORDER, "The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP."
 
 movedata MOVE_HEAD_SMASH, "Head Smash"
-    battleeffect MOVE_EFFECT_RECOIL_HALF
+    battleeffect MOVE_EFFECT_RECOIL_THIRD
     pss SPLIT_PHYSICAL
-    basepower 150
+    basepower 120
     type TYPE_ROCK
-    accuracy 80
+    accuracy 100
     pp 5
     effectchance 0
     target RANGE_SINGLE_TARGET

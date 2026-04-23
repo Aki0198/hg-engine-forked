@@ -23,7 +23,7 @@ TYPE_EFFECTIVENESS_GEN equ GEN_LATEST
 // SNOW_WARNING_GENERATION controls whether to summon Snow or Hail when the ability is activated.
 // 9 or above: Snow
 // Otherwise: Hail
-SNOW_WARNING_GENERATION equ GEN_LATEST
+SNOW_WARNING_GENERATION equ 4
 
 // ALLOW_SAVE_CHANGES tells the assembler that it can build the code that pertains to expanding the save data for extra fields for our usage.
 // this is required for dex expansion and will break PKHeX compatibility!  comment this line out to prevent save changes from being made.
@@ -45,7 +45,7 @@ ALWAYS_UNCAPPED_FRAME_RATE equ 0
 BATTLES_UNCAPPED_FRAME_RATE equ 0
 
 // FAST_TEXT_PRINTING will make the text print quickly, almost instantly
-FAST_TEXT_PRINTING equ 0
+FAST_TEXT_PRINTING equ 1
 
 // NO_PARTNER_DOUBLE_BATTLES allows for setting trainers to double battles without setting up a partner trainer.  set to 0 to disable
 // note that the entry in `armips/data/trainers/trainertext.s` has to use `TEXT_DOUBLE_DEFEATED_IN_BATTLE_1`, but the overworld entries can remain the same.

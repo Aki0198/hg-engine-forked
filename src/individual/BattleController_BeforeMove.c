@@ -1205,6 +1205,16 @@ void BattleController_CheckSleepOrFrozen(struct BattleSystem *bsys, struct Battl
             ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
             return;
         } else if ((ctx->current_move_index != MOVE_SLEEP_TALK && ctx->moveNoTemp == MOVE_SLEEP_TALK) == 0) {
+
+            // NEW: Cap sleep so it never has more than 2 turns remaining.
+            {
+                u32 cond  = ctx->battlemon[ctx->attack_client].condition;
+                u32 sleep = cond & STATUS_SLEEP;
+                if (sleep > 3) {
+                    ctx->battlemon[ctx->attack_client].condition = (cond & ~STATUS_SLEEP) | 3;
+                }
+            }
+
             u32 sleepCounterDecrease;
 
             if (GetBattlerAbility(ctx, ctx->attack_client) == ABILITY_EARLY_BIRD) {
@@ -1212,6 +1222,7 @@ void BattleController_CheckSleepOrFrozen(struct BattleSystem *bsys, struct Battl
             } else {
                 sleepCounterDecrease = 1;
             }
+
             if ((ctx->battlemon[ctx->attack_client].condition & STATUS_SLEEP) < sleepCounterDecrease) {
                 ctx->battlemon[ctx->attack_client].condition &= ~STATUS_SLEEP;
             } else {
@@ -1240,7 +1251,7 @@ void BattleController_CheckSleepOrFrozen(struct BattleSystem *bsys, struct Battl
     }
 
     if (ctx->battlemon[ctx->attack_client].condition & STATUS_FREEZE) {
-        if (BattleRand(bsys) % 5 != 0) {
+        if (BattleRand(bsys) % 3 != 0) {
             if (effect != MOVE_EFFECT_THAW_AND_BURN_HIT && effect != MOVE_EFFECT_RECOIL_BURN_HIT && effect != MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT_BURN_HIT) {
                 LoadBattleSubSeqScript(ctx, ARC_BATTLE_SUB_SEQ, SUB_SEQ_FROZEN);
                 ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
@@ -2692,7 +2703,7 @@ BOOL BattleController_CheckTypeBasedMoveConditionImmunities1(struct BattleSystem
     // TODO: handle Octolock
     || (moveEffect == MOVE_EFFECT_PREVENT_ESCAPE && HasType(ctx, defender, TYPE_GHOST))
     // Grass-type powder immunity
-    || (IsPowderMove(ctx->current_move_index) && HasType(ctx, defender, TYPE_GRASS))
+    // || (IsPowderMove(ctx->current_move_index) && HasType(ctx, defender, TYPE_GRASS))
     // Ice-type immunity to Sheer Cold
     || (ctx->current_move_index == MOVE_SHEER_COLD && HasType(ctx, defender, TYPE_ICE))) {
         BattleController_ResetGeneralMoveFailureFlags(ctx, ctx->attack_client, TRUE);
@@ -2779,9 +2790,9 @@ BOOL BattleController_CheckTypeBasedMoveConditionImmunities2(struct BattleSystem
     int moveEffect = ctx->moveTbl[ctx->current_move_index].effect;
 
     // Electric-type paralysis immunity
-    if ((moveEffect == MOVE_EFFECT_STATUS_PARALYZE && HasType(ctx, defender, TYPE_ELECTRIC))
+    // if ((moveEffect == MOVE_EFFECT_STATUS_PARALYZE && HasType(ctx, defender, TYPE_ELECTRIC))
     // Fire-type burn immunity
-    || (moveEffect == MOVE_EFFECT_STATUS_BURN && HasType(ctx, defender, TYPE_FIRE))
+    if ((moveEffect == MOVE_EFFECT_STATUS_BURN && HasType(ctx, defender, TYPE_FIRE))
     // Grass-type Leech Seed immunity
     || (moveEffect == MOVE_EFFECT_STATUS_LEECH_SEED && HasType(ctx, defender, TYPE_GRASS))
     // Poison / Steel-type poison / badly poison immunity
@@ -2981,6 +2992,26 @@ int BattleController_CheckAbilityFailures4_StatBasedFailures(struct BattleSystem
     case MOVE_EFFECT_ATK_DOWN:
     case MOVE_EFFECT_ATK_DOWN_2:
         if (MoldBreakerAbilityCheck(ctx, ctx->attack_client, defender, ABILITY_HYPER_CUTTER)) {
+            subscriptToRun = SUB_SEQ_ATTACK_NOT_LOWERED;
+            break;
+        }
+        if (MoldBreakerAbilityCheck(ctx, ctx->attack_client, defender, ABILITY_INNER_FOCUS)) {
+            subscriptToRun = SUB_SEQ_ATTACK_NOT_LOWERED;
+            break;
+        }
+        if (MoldBreakerAbilityCheck(ctx, ctx->attack_client, defender, ABILITY_OWN_TEMPO)) {
+            subscriptToRun = SUB_SEQ_ATTACK_NOT_LOWERED;
+            break;
+        }
+        if (MoldBreakerAbilityCheck(ctx, ctx->attack_client, defender, ABILITY_SCRAPPY)) {
+            subscriptToRun = SUB_SEQ_ATTACK_NOT_LOWERED;
+            break;
+        }
+        if (MoldBreakerAbilityCheck(ctx, ctx->attack_client, defender, ABILITY_OBLIVIOUS)) {
+            subscriptToRun = SUB_SEQ_ATTACK_NOT_LOWERED;
+            break;
+        }
+        if (MoldBreakerAbilityCheck(ctx, ctx->attack_client, defender, ABILITY_KEEN_EYE)) {
             subscriptToRun = SUB_SEQ_ATTACK_NOT_LOWERED;
             break;
         }
@@ -4078,9 +4109,9 @@ BOOL BattleController_CheckMoveFailures5(struct BattleSystem *bsys UNUSED, struc
         // Psycho Shift
         case MOVE_EFFECT_TRANSFER_STATUS: {
             // Electric-type paralysis immunity
-            if ((attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
+            // if ((attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
                 // Fire-type burn immunity
-                || (attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
+                if ((attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
                 // Poison / Steel-type poison / badly poison immunity
                 || (attackerCondition & STATUS_POISON_ALL && (HasType(ctx, defender, TYPE_POISON) || HasType(ctx, defender, TYPE_STEEL)))) {
                 ctx->moveStatusFlagForSpreadMoves[defender] = MOVE_STATUS_FLAG_NOT_EFFECTIVE;
