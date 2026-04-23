@@ -70,11 +70,11 @@
 
 // IMPLEMENT_CAPTURE_EXPERIENCE defines whether or not capturing wild pokemon will net experience
 // commenting this line out disables capture experience
-#define IMPLEMENT_CAPTURE_EXPERIENCE
+// #define IMPLEMENT_CAPTURE_EXPERIENCE
 
 // IMPLEMENT_CRITICAL_CAPTURE defines whether or not throwing a poké ball has a certain percent chance of a guaranteed capture called a critical throw
 // commenting this line out disables critical captures
-#define IMPLEMENT_CRITICAL_CAPTURE
+// #define IMPLEMENT_CRITICAL_CAPTURE
 
 // if critical capture generation is 9 or above, then the critical capture animation will be triggered if the mon is going to be caught and has already been caught.
 // this will also make the critical capture species only count the regional dex species.
@@ -110,7 +110,7 @@
 
 // IMPLEMENT_SEASONS currently implements season mechanics. Used for changing forms of Deerling and Sawsbuck.
 // Comment the line out to disable this functionality (Gen 6+)
-#define IMPLEMENT_SEASONS
+// #define IMPLEMENT_SEASONS
 
 // IMPLEMENT_DYNAMIC_WILD_SPECIES_FORMS allows wild species to appear with different forms if it has multiple forms.
 // Normally you will use monwithform, encounterwithform, headbuttencounterwithform to specify different forms (similar to Gen 5+)
@@ -135,11 +135,11 @@
 
 // Friendship grants additional bonuses.
 // Comment out the line below to revert back to Gen 5- behaviour
-#define FRIENDSHIP_EFFECTS
+// #define FRIENDSHIP_EFFECTS
 
 // RESTORE_ITEMS_AT_BATTLE_END will restore held items that are single-use at the end of battle (Gen 9)
 // comment out the line below to revert back to Gen 8- behavior
-#define RESTORE_ITEMS_AT_BATTLE_END
+// #define RESTORE_ITEMS_AT_BATTLE_END
 
 // AI_CAN_GRAB_ITEMS allows to use Trick, Switcheroo, (Thief still todo) on the Player and actually grab items. This can result in lost items.
 #define AI_CAN_GRAB_ITEMS
@@ -153,10 +153,13 @@
 // SNOW_WARNING_GENERATION controls whether to summon Snow or Hail when the ability is activated.
 // 9 or above: Snow
 // Otherwise: Hail
-#define SNOW_WARNING_GENERATION GEN_LATEST
+#define SNOW_WARNING_GENERATION 4
 
 // IMPLEMENT_REUSABLE_REPELS defines whether or not a prompt to use another repel automatically appears upon the previous repel being used up
 #define IMPLEMENT_REUSABLE_REPELS
+
+// IMPLEMENT_IV_TUTOR defines whether or not a NPC can change your mon IV, EV, etc.
+#define IMPLEMENT_IV_TUTOR
 
 // UPDATE_VITAMIN_EV_CAPS changes the cap on the vitamins from 100 to 252 per recent generations
 #define UPDATE_VITAMIN_EV_CAPS
@@ -174,7 +177,7 @@
 #define MART_EXPANSION
 
 // POKEATHLON_EXPANSION allows for adding and modifying items to the Pokéathlon shop inventories
-// #define POKEATHLON_SHOP_EXPANSION
+#define POKEATHLON_SHOP_EXPANSION
 
 // STATIC_HP_BAR updates the HP bar to increase/decrease at a fixed rate like later generations
 #define STATIC_HP_BAR

@@ -20,7 +20,7 @@ FAIRY_TYPE_IMPLEMENTED equ 1
 // SNOW_WARNING_GENERATION controls whether to summon Snow or Hail when the ability is activated.
 // 9 or above: Snow
 // Otherwise: Hail
-SNOW_WARNING_GENERATION equ GEN_LATEST
+SNOW_WARNING_GENERATION equ 4
 
 // SLEEP_TURNS_GENERATION controls the number of turns a Pokémon can be asleep.
 // 4 : 2-5 turns (Prevents movement for 1-4 turns.)
@@ -48,7 +48,7 @@ ALWAYS_UNCAPPED_FRAME_RATE equ 0
 BATTLES_UNCAPPED_FRAME_RATE equ 0
 
 // FAST_TEXT_PRINTING will make the text print quickly, almost instantly
-FAST_TEXT_PRINTING equ 0
+FAST_TEXT_PRINTING equ 1
 
 // NO_PARTNER_DOUBLE_BATTLES allows for setting trainers to double battles without setting up a partner trainer.  set to 0 to disable
 // note that the entry in `armips/data/trainers/trainertext.s` has to use `TEXT_DOUBLE_DEFEATED_IN_BATTLE_1`, but the overworld entries can remain the same.
