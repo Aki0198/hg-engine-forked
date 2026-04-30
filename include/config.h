@@ -61,7 +61,11 @@
 
 // IMPLEMENT_TRANSPARENT_TEXTBOXES should be used if you want to implement transparent textboxes
 // uncommenting this line out will enable transparent textboxes
+<<<<<<< HEAD
 // #define IMPLEMENT_TRANSPARENT_TEXTBOXES
+=======
+#define IMPLEMENT_TRANSPARENT_TEXTBOXES
+>>>>>>> 369f0e46c (Edited type chart and small changes)
 
 // IMPLEMENT_WILD_DOUBLE_BATTLES defines whether or not grass tiles will have a 10% chance of starting a wild double battle
 // commenting this line out disables wild double battles entirely
@@ -89,17 +93,10 @@
 // uncommenting IMPLEMENT_LEVEL_CAP enables the level cap system.  make sure to also uncomment LEVEL_CAP_VARIABLE in the process
 // uncommenting UNCAP_CANDIES_FROM_LEVEL_CAP will allow for rare candies to not be capped by the level cap even with the level cap in place, like run & bun
 // uncommenting ALLOW_LEVEL_CAP_EVOLVE will allow for rare candies to evolve pokemon already at the level cap that can evolve at that level already
-<<<<<<< HEAD
-// #define IMPLEMENT_LEVEL_CAP
-// #define LEVEL_CAP_VARIABLE 0x416F
-// #define UNCAP_CANDIES_FROM_LEVEL_CAP
-// #define ALLOW_LEVEL_CAP_EVOLVE
-=======
 #define IMPLEMENT_LEVEL_CAP
 #define LEVEL_CAP_VARIABLE 0x416F
 #define UNCAP_CANDIES_FROM_LEVEL_CAP
 #define ALLOW_LEVEL_CAP_EVOLVE
->>>>>>> 187acf88c (Uncommented level caps)
 
 // System flags that need to be enabled for the player to use the gimmick. If you want to change them, remember to change them in flags.s as well for consistency
 #define FLAG_MEGA_EVOLUTION_ENABLED  2518
@@ -178,7 +175,11 @@
 #define REUSABLE_TMS
 
 // DELETABLE_HMS allows HMs to be forgotten, this also makes their quantity reduce, but the infinite TMs change prevents this.
+<<<<<<< HEAD
 // #define DELETABLE_HMS
+=======
+#define DELETABLE_HMS
+>>>>>>> 369f0e46c (Edited type chart and small changes)
 
 // MART_EXPANSION allows for adding and modifying items to the mart inventories
 #define MART_EXPANSION
