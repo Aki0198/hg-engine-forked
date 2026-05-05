@@ -1103,6 +1103,24 @@ void LONG_CALL ClearBattleMonFlags(struct BattleStruct *sp, int client)
     }
 }
 
+// Forewarn, Anticipation, and Frisk retrigger when a new opposing Pokemon switches in.
+// Called only on switch-in, not on faint, so these abilities don't fire when an opponent KOs.
+void LONG_CALL ResetSwitchInAbilityFlags(struct BattleStruct *sp, int client)
+{
+    int i;
+    // Battlers 0,2 are player-side; 1,3 are opponent-side (different parity from client = opposite team).
+    for (i = 0; i < 4; i++) {
+        if ((i & 1) != (client & 1) && sp->battlemon[i].hp) {
+            u32 ab = GetBattlerAbility(sp, i);
+            if (ab == ABILITY_FOREWARN || ab == ABILITY_ANTICIPATION || ab == ABILITY_FRISK) {
+                sp->battlemon[i].ability_activated_flag = 0;
+            }
+        }
+    }
+    // Clear frisk_tracker bit for the newly-switched-in client so Frisk can check them again
+    sp->frisk_tracker &= ~No2Bit(client);
+}
+
 /**
  *  @brief moves that soundproof blocks
  */
