@@ -1,52 +1,52 @@
 {STRVAR_1 1, 0, 0}
-♂
-♀
+㊚
+㊛
 {STRVAR_1 52, 0, 0}
-Item
+もちもの
 {STRVAR_1 8, 0, 0}
-None
-INFO
-Dex No.
+なし
+じょうほう
+ずかんＮｏ．
 {STRVAR_1 52, 0, 0}
-Name
+なまえ
 {STRVAR_1 0, 0, 0}
-Type
-OT
+タイプ
+おや
 {STRVAR_1 3, 0, 0}
-ID No.
+ＩＤＮｏ．
 {STRVAR_1 54, 0, 0}
-Exp. Points
+げんざいの   けいけんち
 {STRVAR_1 56, 0, 0}
-To Next Lv.
-
+つぎのレベルまで
+あと
 {STRVAR_1 55, 0, 0}
-???
-TRAINER MEMO
-{COLOR 2}Hardy{COLOR 0} nature.
-{COLOR 2}Lonely{COLOR 0} nature.
-{COLOR 2}Brave{COLOR 0} nature.
-{COLOR 2}Adamant{COLOR 0} nature.
-{COLOR 2}Naughty{COLOR 0} nature.
-{COLOR 2}Bold{COLOR 0} nature.
-{COLOR 2}Docile{COLOR 0} nature.
-{COLOR 2}Relaxed{COLOR 0} nature.
-{COLOR 2}Impish{COLOR 0} nature.
-{COLOR 2}Lax{COLOR 0} nature.
-{COLOR 2}Timid{COLOR 0} nature.
-{COLOR 2}Hasty{COLOR 0} nature.
-{COLOR 2}Serious{COLOR 0} nature.
-{COLOR 2}Jolly{COLOR 0} nature.
-{COLOR 2}Naive{COLOR 0} nature.
-{COLOR 2}Modest{COLOR 0} nature.
-{COLOR 2}Mild{COLOR 0} nature.
-{COLOR 2}Quiet{COLOR 0} nature.
-{COLOR 2}Bashful{COLOR 0} nature.
-{COLOR 2}Rash{COLOR 0} nature.
-{COLOR 2}Calm{COLOR 0} nature.
-{COLOR 2}Gentle{COLOR 0} nature.
-{COLOR 2}Sassy{COLOR 0} nature.
-{COLOR 2}Careful{COLOR 0} nature.
-{COLOR 2}Quirky{COLOR 0} nature.
+？？？
+トレ－ナ－メモ
+{COLOR 2}がんばりや{COLOR 0}な  せいかく。
+{COLOR 2}さみしがり{COLOR 0}な  せいかく。
+{COLOR 2}ゆうかん{COLOR 0}な  せいかく。
+{COLOR 2}いじっぱり{COLOR 0}な  せいかく。
+{COLOR 2}やんちゃ{COLOR 0}な  せいかく。
+{COLOR 2}ずぶとい{COLOR 0}  せいかく。
+{COLOR 2}すなお{COLOR 0}な  せいかく。
+{COLOR 2}のんき{COLOR 0}な  せいかく。
+{COLOR 2}わんぱく{COLOR 0}な  せいかく。
+{COLOR 2}のうてんき{COLOR 0}な  せいかく。
+{COLOR 2}おくびょう{COLOR 0}な  せいかく。
+{COLOR 2}せっかち{COLOR 0}な  せいかく。
+{COLOR 2}まじめ{COLOR 0}な  せいかく。
+{COLOR 2}ようき{COLOR 0}な  せいかく。
+{COLOR 2}むじゃき{COLOR 0}な  せいかく。
+{COLOR 2}ひかえめ{COLOR 0}な  せいかく。
+{COLOR 2}おっとり{COLOR 0}した  せいかく。
+{COLOR 2}れいせい{COLOR 0}な  せいかく。
+{COLOR 2}てれや{COLOR 0}な  せいかく。
+{COLOR 2}うっかりや{COLOR 0}な  せいかく。
+{COLOR 2}おだやか{COLOR 0}な  せいかく。
+{COLOR 2}おとなしい{COLOR 0}  せいかく。
+{COLOR 2}なまいき{COLOR 0}な  せいかく。
+{COLOR 2}しんちょう{COLOR 0}な  せいかく。
+{COLOR 2}きまぐれ{COLOR 0}な  せいかく。
 {STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nMet at Lv. {STRVAR_1 52, 3, 0}.
 {STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nApparently met at\nLv. {STRVAR_1 52, 3, 0}.
 {STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nArrived at Lv. {STRVAR_1 52, 3, 0}.
@@ -63,42 +63,42 @@ TRAINER MEMO
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg obtained.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgg hatched.\nFateful encounter.
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg obtained.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgg apparently hatched.\nFateful encounter.
 {STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nArrived at Lv. {STRVAR_1 52, 3, 0}.
-Likes {COLOR 2}spicy{COLOR 0} food.
-Likes {COLOR 2}dry{COLOR 0} food.
-Likes {COLOR 2}sweet{COLOR 0} food.
-Likes {COLOR 2}bitter{COLOR 0} food.
-Likes {COLOR 2}sour{COLOR 0} food.
-Happily eats anything.
-Loves to eat.
-Often dozes off.
-Often scatters things.
-Scatters things often.
-Likes to relax.
-Proud of its power.
-Likes to thrash about.
-A little quick tempered.
-Likes to fight.
-Quick tempered.
-Sturdy body.
-Capable of taking hits.
-Highly persistent.
-Good endurance.
-Good perseverance.
-Likes to run.
-Alert to sounds.
-Impetuous and silly.
-Somewhat of a clown.
-Quick to flee.
-Highly curious.
-Mischievous.
-Thoroughly cunning.
-Often lost in thought.
-Very finicky.
-Strong willed.
-Somewhat vain.
-Strongly defiant.
-Hates to lose.
-Somewhat stubborn.
+{COLOR 2}からい{COLOR 0}ものが  すき。
+{COLOR 2}しぶい{COLOR 0}ものが  すき。
+{COLOR 2}あまい{COLOR 0}ものが  すき。
+{COLOR 2}にがい{COLOR 0}ものが  すき。
+{COLOR 2}すっぱい{COLOR 0}ものが  すき。
+なんでも  よくたべる。
+たべるのが  だいすき。
+ひるねを  よくする。
+いねむりが  おおい。
+ものを  よく  ちらかす。
+のんびりするのが  すき。
+ちからが  じまん。
+あばれることが  すき。
+ちょっと  おこりっぽい。
+ケンカを  するのが  すき。
+ちのけが  おおい。
+からだが  じょうぶ。
+うたれ  づよい。
+ねばり  づよい。
+しんぼう  づよい。
+がまん  づよい。
+かけっこが  すき。
+ものおとに  びんかん。
+おっちょこちょい。
+すこし  おちょうしもの。
+にげるのが  はやい。
+こうきしんが  つよい。
+イタズラが  すき。
+ぬけめが  ない。
+かんがえごとが  おおい。
+とても  きちょうめん。
+きが  つよい。
+ちょっぴり  みえっぱり。
+まけんきが  つよい。
+まけずぎらい。
+ちょっぴり  ごうじょう。
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nA mysterious Pokémon\nEgg received from\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nA mysterious Pokémon\nEgg obtained in\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
 {STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\nA very mysterious\nPokémon Egg obtained\nat {COLOR 1}{STRVAR_1 4, 8, 0}{COLOR 0}.\n
@@ -107,15 +107,15 @@ Somewhat stubborn.
 “The Egg Watch”\nIt appears to move\noccasionally. It may\nbe close to hatching.
 “The Egg Watch”\nWhat will hatch from\nthis? It doesn’t seem\nclose to hatching.
 “The Egg Watch”\nIt looks like this Egg\nwill take a long time to\nhatch.
-SKILLS
-HP
-Attack
-Defense
-Sp. Atk
-Sp. Def
-Speed
-Ability
-/
+のうりょく
+ＨＰ
+こうげき
+ぼうぎょ
+とくこう
+とくぼう
+すばやさ
+とくせい
+／
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 52, 0, 0}
@@ -124,16 +124,16 @@ Ability
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 5, 0, 0}
-       
-   
-BATTLE MOVES
-    
+コンディション
+けづや
+たたかうわざ
+くわしく
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
 {STRVAR_1 6, 0, 0}
-PP
+ＰＰ
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
@@ -144,65 +144,65 @@ PP
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
 {STRVAR_1 51, 0, 0}
-{ALN_CENTER}Cancel
-POWER
-ACCURACY
-CATEGORY
+{ALN_CENTER}もどる
+いりょく
+めいちゅう
+ぶんるい
 {STRVAR_1 52, 0, 0}
 {STRVAR_1 52, 0, 0}
-SWITCH
---
----
-    
-HM moves can’t be\nforgotten now.
-PERFORMANCE
-    
-    
-        
-   
-     
-    
-   
-       
-               
-               
-               
-               
-                
-       
-                 
-                 
-                 
-                
-                
-            
-                  
-RIBBONS
-    
-   
-No. of Ribbons:
+いれかえ
+－－
+－－－
+けってい
+たいせつな  わざです。\nわすれさせる  ことは\nできません！
+パフォ－マンス
+くわしく
+けってい
+アピ－ルポイント
+もどる
+もどります
+けってい
+もどる
+すきなたべもの
+{COLOR 2}からい{COLOR 0}のがすき
+{COLOR 2}しぶい{COLOR 0}のがすき
+{COLOR 2}あまい{COLOR 0}のがすき
+{COLOR 2}にがい{COLOR 0}のがすき
+{COLOR 2}すっぱい{COLOR 0}のがすき
+すききらいなし
+かっこよさに  みがきが  かかった！
+たくましさに  みがきが  かかった！
+うつくしさに  みがきが  かかった！
+かわいさに  みがきが  かかった！
+かしこさに  みがきが  かかった！
+なにも  かわらなかった！
+もう  これいじょう  たべない  みたい
+きねんリボン
+くわしく
+もどる
+もっているかず
+{STRVAR_1 52, 0, 0}こ
 {STRVAR_1 52, 0, 0}
-     
- 
-     
-Speed
-Power
-Skill
-Stamina
-Jump
-Shiny Leaf
-{ALN_CENTER}Forget!
-{ALN_CENTER}Switch
+／
+{STRVAR_1 52, 0, 0}
+スピ－ド
+パワ－
+テクニック
+スタミナ
+ジャンプ
+かがやくはっぱ
+{ALN_CENTER}わすれさせる！
+{ALN_CENTER}いれかえ
 
-Attack↑
-Defense↑
-Sp. Atk↑
-Sp. Def↑
-Speed↑
-Attack↓
-Defense↓
-Sp. Atk↓
-Sp. Def↓
-Speed↓
-EV
-IV
+こうげき↑
+ぼうぎょ↑
+とくこう↑
+とくぼう↑
+すばやさ↑
+こうげき↓
+ぼうぎょ↓
+とくこう↓
+とくぼう↓
+すばやさ↓
+どりょくち
+こたいち

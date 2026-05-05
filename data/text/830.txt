@@ -1,537 +1,537 @@
-???
-The best Poké Ball with the ultimate\nlevel of performance. With it, you will\ncatch any wild Pokémon without fail.
-An ultra-high-performance Poké Ball\nthat provides a higher success rate\nfor catching Pokémon than a Great Ball.
-A good, high-performance Poké Ball that\nprovides a higher Pokémon catch rate\nthan a standard Poké Ball.
-A device for catching wild Pokémon.\nIt’s thrown like a ball at a Pokémon,\ncomfortably encapsulating its target.
-A special Poké Ball that was used in the\nSafari Zone in the Kanto region and in\nthe Great Marsh in the Sinnoh region.
-A somewhat different Poké Ball that\nis more effective when catching\nWater- or Bug-type Pokémon.
-A somewhat different Poké Ball that\nis more effective when catching\nPokémon in or on the water.
-A somewhat different Poké Ball that\nbecomes more effective the lower the\nlevel of the wild Pokémon.
-A somewhat different Poké Ball that\nworks especially well on a Pokémon\nspecies that has been caught before.
-A somewhat different Poké Ball that\nbecomes progressively better the\nmore turns there are in a battle.
-A particularly comfortable Poké Ball\nthat makes a wild Pokémon quickly\ngrow friendlier after being caught.
-A somewhat rare Poké Ball made to\ncommemorate a special occasion\nof some sort.
-A somewhat different Poké Ball that is\nmore effective when catching Pokémon\nat night or in dark places like caves.
-A remedial Poké Ball that restores\nHP and eliminates status conditions\nfor a Pokémon caught with it.
-A somewhat different Poké Ball that\nis more effective at catching Pokémon\nwhen used first thing in a battle.
-A quite rare Poké Ball made to\ncommemorate a special occasion of\nsome sort.
-A spray-type medicine for treating\nwounds. It can be used to restore\n20 HP to a Pokémon.
-A spray-type medicine for poisoning.\nIt can be used once to lift the effects\nof being poisoned from a Pokémon.
-A spray-type medicine for treating\nburns. It can be used to cure a\nPokémon suffering from a burn.
-A spray-type medicine for treating\nfreezing. It can be used to thaw out\na Pokémon that has been frozen solid.
-A spray-type medicine to wake the\nsleeping. It can be used to rouse a\nPokémon from the clutches of sleep.
-A spray-type medicine for treating\nparalysis. It can be used to free a\nPokémon that has been paralyzed.
-A medicine that can be used to fully\nrestore the max HP of a Pokémon and\ncure any status conditions it may have.
-A spray-type medicine for treating\nwounds. It can be used to fully\nrestore the max HP of a Pokémon.
-A spray-type medicine for treating\nwounds. It can be used to restore\n200 HP to a Pokémon.
-A spray-type medicine for treating\nwounds. It can be used to restore\n50 HP to a Pokémon.
-A spray-type medicine that is broadly\neffective. It can be used to cure any\nstatus condition a Pokémon may have.
-A medicine that can be used to revive\na Pokémon that has fainted. It also\nrestores half the Pokémon’s max HP.
-A medicine that can be used to revive\na Pokémon that has fainted. It also\nfully restores the Pokémon’s max HP.
-Water with high mineral content.\nIt can be used to restore 30 HP\nto a Pokémon.
-A highly carbonated soda drink.\nIt can be used to restore 50 HP\nto a Pokémon.
-A very sweet and refreshing drink.\nIt can be used to restore 70 HP\nto a Pokémon.
-A bottle of highly nutritious milk.\nIt can be used to restore 100 HP\nto a Pokémon.
-A very bitter medicinal powder.\nIt can be used to restore 60 HP\nto a Pokémon.
-A very bitter medicinal root.\nIt can be used to restore 120 HP\nto a Pokémon.
-A very bitter medicinal powder.\nIt can be used to cure any status\ncondition a Pokémon may have.
-A terribly bitter medicinal herb.\nIt revives a fainted Pokémon\nand fully restores its max HP.
-A medicine that can be used to\nrestore 10 PP to a single move\nthat a Pokémon knows.
-A medicine that can be used to fully\nrestore the max PP of a single move\nthat a Pokémon knows.
-A medicine that can be used to\nrestore 10 PP to all four moves\nthat a Pokémon knows.
-A medicine that can be used to fully\nrestore the max PP of all four moves\nthat a Pokémon knows.
-Lavaridge Town’s local specialty.\nIt can be used to cure any status\ncondition a Pokémon may have.
-A 100 percent pure juice made from\nBerries. It can be used to restore\n20 HP to a Pokémon.
-Ash that can be used to revive all party\nPokémon that have fainted. It also fully\nrestores the Pokémon’s max HP.
-A nutritious drink for Pokémon.\nThis drink increases base points\nfor a Pokémon’s HP stat.
-A nutritious drink for Pokémon.\nThis drink increases base points\nfor a Pokémon’s Attack stat.
-A nutritious drink for Pokémon.\nThis drink increases base points\nfor a Pokémon’s Defense stat.
-A nutritious drink for Pokémon.\nThis drink increases base points\nfor a Pokémon’s Speed stat.
-A nutritious drink for Pokémon.\nThis drink increases base points\nfor a Pokémon’s Sp. Atk stat.
-A candy that is packed with energy.\nIf consumed, it raises a Pokémon’s\nlevel by one.
-A medicine that can be used to slightly\nraise the max PP of a single move that\na Pokémon knows.
-A nutritious drink for Pokémon.\nThis drink increases base points\nfor a Pokémon’s Sp. Def stat.
-A medicine that can be used to raise the\nmax PP of a single move that a Pokémon\nknows as high as it can possibly go.
-A hidden gem found in the Old Chateau.\nIt can be used to cure any status\ncondition a Pokémon may have.
-An item that prevents Pokémon on\nyour side from having their stats\nlowered in battle for five turns.
-An item that raises the critical-hit\nratio. It can be used only once and\nwears off if the Pokémon is withdrawn.
-An item that boosts the Attack stat of\na Pokémon during battle. It wears off\nonce the Pokémon is withdrawn.
-An item that boosts the Defense stat of\na Pokémon during battle. It wears off\nonce the Pokémon is withdrawn.
-An item that boosts the Speed stat of\na Pokémon during battle. It wears off\nonce the Pokémon is withdrawn.
-An item that boosts the Accuracy stat of\na Pokémon during battle. It wears off\nonce the Pokémon is withdrawn.
-An item that boosts the Sp. Atk stat of\na Pokémon during battle. It wears off\nonce the Pokémon is withdrawn.
-An item that boosts the Sp. Def stat of\na Pokémon during battle. It wears off\nonce the Pokémon is withdrawn.
-A doll that attracts the attention\nof Pokémon. It guarantees escape\nfrom any battle with wild Pokémon.
-A toy that attracts the attention of\nPokémon. It guarantees escape from\nany battle with wild Pokémon.
-A flute made from blue glass.\nIt awakens sleeping Pokémon.
-A flute made from yellow glass.\nIt snaps Pokémon out of confusion.
-A flute made from red glass.\nIt snaps Pokémon out of infatuation.
-A flute made from black glass.\nIt makes it easier to encounter high-level\nPokémon in the place you use it.
-A flute made from white glass.\nIt makes it easier to encounter low-level\nPokémon in the place you use it.
-Salt that was found inside Shoal Cave.
-A seashell that was found inside\nShoal Cave.
-A small red shard.\nIt appears to be a fragment of some\nsort of implement made long ago.
-A small blue shard.\nIt appears to be a fragment of some\nsort of implement made long ago.
-A small yellow shard.\nIt appears to be a fragment of some\nsort of implement made long ago.
-A small green shard.\nIt appears to be a fragment of some\nsort of implement made long ago.
-An item that prevents low-level wild\nPokémon from jumping out at you for a time.\nIt lasts longer than Repel.
-An item that prevents low-level wild\nPokémon from jumping out at you for a time.\nIt lasts longer than Super Repel.
-A long and durable rope.\nUse it to escape instantly from\nlocations like caves or dungeons.
-An item that prevents low-level wild\nPokémon from jumping out at you for\na short time.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt burns as red as the evening sun.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is dark like the night sky.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a fiery orange heart.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has a distinct thunderbolt pattern.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is the clear blue of a deep pool.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt has an unmistakable leaf pattern.
-A small and rare mushroom.\nIt’s quite popular with a\ncertain class of collectors.
-A large and rare mushroom.\nIt’s extremely popular with a\ncertain class of collectors.
-A rather small pearl that has a nice\nsilvery sheen to it.\nIt can be sold at a low price to shops.
-A rather large pearl that has a nice\nsilvery sheen to it.\nIt can be sold at a high price to shops.
-Lovely red sand that flows between\nthe fingers with a loose, silky feel.\nIt can be sold at a low price to shops.
-A small shard of a beautiful gem\nthat gives off a distinctly red sparkle.\nIt can be sold at a high price to shops.
-A nugget of pure gold that gives off\na lustrous gleam.\nIt can be sold at a high price to shops.
-A pretty, heart-shaped scale that is\nextremely rare. Certain people are\ndelighted to be given one of these.
-Honey collected thanks to Pokémon’s\nefforts. It has a sweet aroma and\ncan be sold at a low price to shops.
-A fertilizer to be spread on soft soil.\nIt speeds up the growth of Berries.\nHowever, it also dries the soil faster.
-A fertilizer to be spread on soft soil.\nIt slows the growth of Berries and\ncauses the soil to dry slower.
-A fertilizer to be spread on soft soil.\nIt extends the time ripened Berries\nremain on their plants before falling.
-A fertilizer to be spread on soft soil.\nIt ups the number of times new plants\ngrow where mature plants withered.
-A fossil from a prehistoric Pokémon\nthat once lived in the sea.\nIt appears to be part of a plant’s root.
-A fossil from a prehistoric Pokémon\nthat once lived in the sea.\nIt appears to be a fragment of a claw.
-A fossil from a prehistoric Pokémon\nthat once lived in the sea.\nIt might be a piece of a seashell.
-A fossil from a prehistoric Pokémon\nthat once lived in the sea.\nIt could be a shell or carapace.
-A piece of amber that contains the\ngenetic material of an ancient Pokémon.\nIt’s clear with a tawny, reddish tint.
-A fossil from a prehistoric Pokémon\nthat once lived on the land.\nIt appears to be part of a protective collar.
-A fossil from a prehistoric Pokémon\nthat once lived on the land.\nIt appears as though it’s part of a head.
-A rare bone that is extremely valuable\nfor the study of Pokémon archeology.\nIt can be sold at a high price to shops.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt shines with a dazzling light.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt holds dark shadows within it.
-A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt sparkles like a glittering eye.
-A peculiar stone that can make a\ncertain species of Pokémon evolve.\nIt is round and smooth.
-A vital item that is needed to keep a\nstone tower from collapsing.\nVoices can be heard from it occasionally.
-A shining gem to be held by Giratina.\nIt boosts the power of Giratina’s\nDragon- and Ghost-type moves.
-Aromatic tea that has a slightly\nbitter taste.\nIt soothes a dry throat.
-- - -
-The autograph you got from the\nVermilion City Gym Leader, Lt. Surge.\nHe wrote, “Good luck!“
-A cassette to be held by Genesect.\nIt changes Genesect’s Techno Blast\nmove so it becomes Water type.
-A cassette to be held by Genesect.\nIt changes Genesect’s Techno Blast\nmove so it becomes Electric type.
-A cassette to be held by Genesect.\nIt changes Genesect’s Techno Blast\nmove so it becomes Fire type.
-A cassette to be held by Genesect.\nIt changes Genesect’s Techno Blast\nmove so it becomes Ice type.
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-A very light trunk that can carry\nclothing for you and your Pokémon.
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-- - -
-A piece of cloyingly sweet chocolate.\nIt can be used to restore 20 HP to a\nPokémon.
-A brightly shining gem to be held by Dialga.\nIt boosts the power of Dialga’s\nDragon- and Steel-type moves.
-A beautifully shining gem to be held by\nPalkia. It boosts the power of Palkia’s\nDragon- and Water-type moves.
-Stationery featuring a print\nof a refreshingly green field.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof flames in blazing red.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof a blue world underwater.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof pretty floral patterns.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof a dimly lit coal mine.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof cool mechanical designs.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof giant heart patterns.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof a chilly, snow-covered world.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\ndepicting the huge expanse of space.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof colorful letter sets.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof a vivid rainbow pattern.\nLet a Pokémon hold it for delivery.
-Stationery featuring a print\nof a tough-looking brick pattern.\nLet a Pokémon hold it for delivery.
-If a Pokémon holds one of these Berries,\nit will be able to free itself from\nparalysis.
-If a Pokémon holds one of these Berries,\nit will be able to wake itself from sleep.
-If a Pokémon holds one of these Berries,\nit will be able to lift the effects of\nbeing poisoned from itself.
-If a Pokémon holds one of these Berries,\nit will be able to cure itself of a burn.
-If a Pokémon holds one of these Berries,\nit will be able to thaw itself after being\n frozen.
-If a Pokémon holds one of these Berries,\nit will be able to restore 10 PP to a\nmove.
-If a Pokémon holds one of these Berries,\nit will be able to restore 10 HP to\nitself.
-If a Pokémon holds one of these Berries,\nit will be able to cure itself of\nconfusion.
-If a Pokémon holds one of these Berries,\nit will be able to cure itself of any\nstatus condition it may have.
-If a Pokémon holds one of these Berries,\nit will be able to restore a small amount\nof HP to itself.
-If a Pokémon holds one of these Berries,\nit restores their HP in a pinch, but will\ncause confusion if it hates the taste.
-If a Pokémon holds one of these Berries,\nit restores their HP in a pinch, but will\ncause confusion if it hates the taste.
-If a Pokémon holds one of these Berries,\nit restores their HP in a pinch, but will\ncause confusion if it hates the taste.
-If a Pokémon holds one of these Berries,\nit restores their HP in a pinch, but will\ncause confusion if it hates the taste.
-If a Pokémon holds one of these Berries,\nit restores their HP in a pinch, but will\ncause confusion if it hates the taste.
-Used to make Pokéblocks\nthat will enhance Coolness.\nIts red flesh is spicy if eaten.
-Used to make Pokéblocks\nthat will enhance Beauty.\nIts blue flesh is dry if eaten.
-Used to make Pokéblocks\nthat will enhance Cuteness.\nIts pink flesh is sweet if eaten.
-Used to make Pokéblocks\nthat will enhance Cleverness.\nIts green flesh is bitter if eaten.
-Used to make Pokéblocks\nthat will enhance Toughness.\nIts yellow flesh is sour if eaten.
-If a Pokémon is fed this Berry,\nit will grow more friendly, but it\nwill lose base points for its HP stat.
-If a Pokémon is fed this Berry,\nit will grow more friendly, but it\nwill lose base points for its Attack stat.
-If a Pokémon is fed this Berry,\nit will grow more friendly, but it\nwill lose base points for its Defense stat.
-If a Pokémon is fed this Berry,\nit will grow more friendly, but it\nwill lose base points for its Sp. Atk stat.
-If a Pokémon is fed this Berry,\nit will grow more friendly, but it\nwill lose base points for its Sp. Def stat.
-If a Pokémon is fed this Berry,\nit will grow more friendly, but it\nwill lose base points for its Speed stat.
-Used to make Pokéblocks that will\nenhance Beauty.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Cuteness.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Cleverness.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Toughness.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Cuteness.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Beauty.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Cleverness.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Cleverness.\nThis Berry is rare in other regions.
-Used to make Pokéblocks that will\nenhance Beauty.\nThis Berry is rare in other regions.
-If a Pokémon holding this Berry is hit\nwith a supereffective Fire-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Water-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Electric-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Grass-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Ice-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Fighting-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Poison-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Ground-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Flying-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Psychic-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Bug-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Rock-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Ghost-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Dragon-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Dark-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a supereffective Steel-type move,\nthe power of that move will be weakened.
-If a Pokémon holding this Berry is hit\nwith a Normal-type move, the power of\nthat move will be weakened.
-If a Pokémon holds one of these Berries,\nits Attack stat will be boosted should\nit find itself in a pinch.
-If a Pokémon holds one of these Berries,\nits Defense stat will be boosted should\nit find itself in a pinch.
-If a Pokémon holds one of these Berries,\nits Speed stat will be boosted should\nit find itself in a pinch.
-If a Pokémon holds one of these Berries,\nits Sp. Atk stat will be boosted should\nit find itself in a pinch.
-If a Pokémon holds one of these Berries,\nits Sp. Def stat will be boosted should\nit find itself in a pinch.
-If a Pokémon holds one of these Berries,\nits critical-hit ratio will be boosted\nshould it find itself in a pinch.
-If a Pokémon holds one of these Berries,\none of its stats will be sharply boosted\nshould it find itself in a pinch.
-If a Pokémon holds one of these Berries,\nit will be able to regain some HP if it is\nhit with a supereffective move.
-If a Pokémon holds one of these Berries,\nits accuracy will be boosted just once\nshould it find itself in a pinch.
-If a Pokémon holds one of these Berries,\nit will be able to act faster just once\nshould it find itself in a pinch.
-If a Pokémon holding this Berry is hit\nwith a physical move, the attacker will\nalso take damage.
-If a Pokémon holding this Berry is hit\nwith a special move, the attacker will\nalso take damage.
-An item to be held by a Pokémon.\nIt casts a tricky glare that lowers\nthe opposing Pokémon’s accuracy.
-An item to be held by a Pokémon.\nIt will restore any lowered stat\nin battle--but only once.
-An item to be held by a Pokémon.\nThis stiff, heavy brace helps Pokémon\ngrow strong but cuts Speed in battle.
-An item to be held by a Pokémon.\nThe holder gets a share of a battle’s\nExp. Points without battling.
-An item to be held by a Pokémon.\nThis light, sharp claw lets the\nholder move first occasionally.
-An item to be held by a Pokémon.\nThe comforting chime of this bell\ncalms the holder, making it friendly.
-An item to be held by a Pokémon.\nIt snaps the user out of move-binding\neffects to move freely--but only once.
-An item to be held by a Pokémon.\nThis curious headband boosts Attack\nbut only allows the use of one move.
-An item to be held by a Pokémon.\nWhen the holder successfully inflicts\ndamage, the target may also flinch.
-An item to be held by a Pokémon.\nIt’s a shiny silver powder that boosts\nthe power of the holder’s Bug-type moves.
-An item to be held by a Pokémon.\nIt doubles any prize money received\nif the holding Pokémon joins a battle.
-An item to be held by a Pokémon.\nIt helps keep wild Pokémon away when\nthe holder is the head of the party.
-A wondrous orb to be held by Latios or\nLatias. It boosts the power of their\nPsychic- and Dragon-type moves.
-An item to be held by Clamperl.\nThis fang gleams a sharp silver\nand boosts Clamperl’s Sp. Atk stat.
-An item to be held by Clamperl.\nThis scale shines with a faint pink\nand boosts Clamperl’s Sp. Def stat.
-An item to be held by a Pokémon.\nIt enables the holder to flee from any\nwild Pokémon encounter without fail.
-An item to be held by a Pokémon.\nA Pokémon holding this peculiar stone\nis prevented from evolving.
-An item to be held by a Pokémon.\nThe holder may endure a potential KO attack,\nleaving it with just 1 HP.
-An item to be held by a Pokémon.\nIt’s an egg filled with happiness that\nearns the holder extra Exp. Points.
-An item to be held by a Pokémon.\nIt’s a lens for scoping out weak points.\nIt boosts the holder’s critical-hit ratio.
-An item to be held by a Pokémon.\nIt is a special metallic film that\nboosts the power of Steel-type moves.
-An item to be held by a Pokémon.\nThe holder’s HP is slowly but steadily\nrestored throughout a battle.
-A very tough and inflexible scale.\nDragon-type Pokémon may be holding\nthis item when caught.
-An item to be held by Pikachu.\nIt’s a mysterious orb that boosts\nPikachu’s Attack and Sp. Atk stats.
-An item to be held by a Pokémon.\nIt’s a loose, silky sand that boosts\nthe power of the Ground-type moves.
-An item to be held by a Pokémon.\nIt’s a durable stone that boosts\nthe power of Rock-type moves.
-An item to be held by a Pokémon.\nIt’s a seed imbued with life-force that\nboosts the power of Grass-type moves.
-An item to be held by a Pokémon.\nIt’s a pair of shady-looking glasses that\nboost the power of Dark-type moves.
-An item to be held by a Pokémon.\nThis belt helps with focus and boosts\nthe power of Fighting-type moves.
-An item to be held by a Pokémon.\nIt’s a powerful magnet that boosts\nthe power of Electric-type moves.
-An item to be held by a Pokémon.\nThis teardrop-shaped gem boosts\nthe power of Water-type moves.
-An item to be held by a Pokémon.\nIt’s a long, sharp beak that boosts\nthe power of the Flying-type moves.
-An item to be held by a Pokémon.\nThis small poisonous barb boosts\nthe power of Poison-type moves.
-An item to be held by a Pokémon.\nIt’s a heat-repelling piece of ice that\nboosts the power of Ice-type moves.
-An item to be held by a Pokémon.\nIt’s a sinister, eerie tag that\nboosts the power of Ghost-type moves.
-An item to be held by a Pokémon.\nImbued with telekinetic power, the spoon\nboosts the power of Psychic-type moves.
-An item to be held by a Pokémon.\nIt’s a combustible fuel that boosts\nthe power of Fire-type moves.
-An item to be held by a Pokémon.\nThis hard, sharp fang boosts the power\nof the holder’s Dragon-type moves.
-An item to be held by a Pokémon.\nIt’s a sumptuous scarf that boosts\nthe power of Normal-type moves.
-A transparent device somehow filled\nwith all sorts of data.\nIt was produced by Silph Co.
-An item to be held by a Pokémon.\nThe holder restores a little HP every\ntime it inflicts damage on others.
-An item to be held by a Pokémon.\nThis incense has a curious aroma that\nboosts the power of Water-type moves.
-An item to be held by a Pokémon.\nThe curious aroma of this incense\nmay cause moves to miss its holder.
-An item to be held by Chansey.\nThis lucky boxing glove boosts the\ncritical-hit ratio of Chansey’s moves.
-An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts Ditto’s Defense stat.
-An item to be held by Cubone or Marowak.\nThis hard bone of unknown origin boosts\ntheir Attack stat.
-An item to be held by Farfetch’d.\nThis very long and stiff stalk of\nleek boosts its critical-hit ratio.
-When a Pokémon holds this during\na contest, it looks even cooler\nthan usual.
-When a Pokémon holds this during\na contest, it looks even more\nbeautiful than usual.
-When a Pokémon holds this during\na contest, it looks even cuter than\nusual.
-When a Pokémon holds this during\na contest, it looks even cleverer than\nusual.
-When a Pokémon holds this during\na contest, it looks even tougher than\nusual.
-An item to be held by a Pokémon.\nIt’s a magnifying lens that slightly\nboosts the accuracy of moves.
-An item to be held by a Pokémon.\nThis headband exudes strength, slightly\nboosting the power of physical moves.
-An item to be held by a Pokémon.\nThis thick pair of glasses slightly\nboosts the power of special moves.
-An item to be held by a Pokémon.\nIt’s a well-worn belt that slightly boosts\nthe power of supereffective moves.
-An item to be held by a Pokémon.\nProtective moves like Light Screen\nand Reflect will be effective longer.
-An item to be held by a Pokémon.\nIt boosts the power of moves but\nat the cost of some HP on each hit.
-An item to be held by a Pokémon.\nIt allows the instant use of a move that\ncharges on the first turn--but only once.
-An item to be held by a Pokémon.\nIt’s a bizarre orb that will badly\npoison the holder during battle.
-An item to be held by a Pokémon.\nIt’s a bizarre orb that will afflict\nthe holder with a burn during battle.
-An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts Ditto’s Speed stat.
-An item to be held by a Pokémon.\nIf it has full HP, the holder will endure\none potential KO attack, leaving 1 HP.
-An item to be held by a Pokémon.\nWhen the holder acts after its target,\nits move will be more accurate than usual.
-An item to be held by a Pokémon.\nIt boosts moves used consecutively\nbut only until a different move is used.
-A Pokémon held item that cuts Speed.\nIt makes Flying-type and levitating\nholders susceptible to Ground moves.
-An item to be held by a Pokémon.\nIt is tremendously heavy and makes\nthe holder move slower than usual.
-An item to be held by a Pokémon.\nIf the holder becomes infatuated,\nthe opposing Pokémon will be, too.
-An item to be held by a Pokémon.\nIt gradually restores HP to Poison-type\nPokémon. It damages any other type.
-An item to be held by a Pokémon.\nWhen the weather changes to snow,\nit will persist longer than usual.
-An item to be held by a Pokémon.\nWhen the weather changes to sandstorm,\nit will persist longer than usual.
-An item to be held by a Pokémon.\nWhen the weather changes to harsh sunlight,\nit will persist longer than usual.
-An item to be held by a Pokémon.\nWhen the weather changes to rain,\nit will persist longer than usual.
-An item to be held by a Pokémon.\nIt extends the duration of multi-turn\nattacks, such as Bind and Wrap.
-An item to be held by a Pokémon.\nThis curious scarf boosts Speed\nbut only allows the use of one move.
-An item to be held by a Pokémon.\nIt damages the holder every turn and may\nlatch on to Pokémon that touch the holder.
-An item to be held by a Pokémon.\nIt reduces Speed but allows the holder’s\nAttack stat to grow more after battling.
-An item to be held by a Pokémon.\nIt reduces Speed but allows the holder’s\nDefense stat to grow more after battling.
-An item to be held by a Pokémon.\nIt reduces Speed but allows the holder’s\nSp. Atk stat to grow more after battling.
-An item to be held by a Pokémon.\nIt reduces Speed but allows the holder’s\nSp. Def stat to grow more after battling.
-An item to be held by a Pokémon.\nIt reduces Speed but allows the holder’s\nSpeed stat to grow more after battling.
-An item to be held by a Pokémon.\nIt reduces Speed but allows the holder’s\nHP stat to grow more after battling.
-An item to be held by a Pokémon.\nThis discarded carapace enables the holder\nto switch out of battle without fail.
-An item to be held by a Pokémon.\nIt boosts the amount of HP the holder\nrestores from HP-stealing moves.
-An item to be held by a Pokémon.\nThese curious glasses boost Sp. Atk\nbut only allow the use of one move.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Fire-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Water-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Electric-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Grass-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Ice-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Fighting-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Poison-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Ground-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Flying-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Psychic-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Bug-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Rock-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Ghost-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Dragon-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Dark-type moves.
-An item to be held by a Pokémon.\nIt’s a stone tablet that boosts\nthe power of Steel-type moves.
-An item to be held by a Pokémon.\nThis incense has a curious aroma that\nboosts the power of Psychic-type moves.
-An item to be held by a Pokémon.\nThis incense has a curious aroma that\nboosts the power of Rock-type moves.
-An item to be held by a Pokémon.\nThis incense has a curious aroma that\nmakes the holder move slower than usual.
-An item to be held by a Pokémon.\nThis incense has a curious aroma that\nboosts the power of Water-type moves.
-An item to be held by a Pokémon.\nThis incense has a curious aroma that\nboosts the power of Grass-type moves.
-An item to be held by a Pokémon.\nIt doubles any prize money received as long\nas the holder joins the battle at least once.
-An item to be held by a Pokémon.\nIt helps keep wild Pokémon away when\nthe holder is the head of the party.
-A protective item of some sort.\nIt is extremely stiff and heavy.\nIt’s loved by a certain Pokémon.
-A box packed with a tremendous amount\nof electric energy.\nIt’s loved by a certain Pokémon.
-A box packed with a tremendous amount\nof magma energy.\nIt’s loved by a certain Pokémon.
-A transparent device overflowing with\ndubious data.\nIt’s loved by a certain Pokémon.
-A cloth imbued with horrifyingly strong\nspiritual energy.\nIt’s loved by a certain Pokémon.
-An item to be held by a Pokémon.\nThis sharply hooked claw boosts the\ncritical-hit ratio of the holder’s moves.
-An item to be held by a Pokémon.\nWhen the holder successfully inflicts\ndamage, the target may also flinch.
-The user focuses its mind before\nlaunching this attack. It will fail\nif the user is hit before it is used.
-Sharp, huge claws hook and slash\nthe foe quickly and with great\npower.
-The foe is hit with a pulsing blast\nof water. It may also confuse the\ntarget.
-The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk\nand Sp. Def stats.
-The foe is scared off, to be replaced\nby another Pokémon in its party.\nIn the wild, the battle ends.
-A move that leaves the foe badly\npoisoned. This poison damage\nworsens every turn.
-Summons a hailstorm that lasts for\nfive turns. The hailstorm damages\nall types except Ice.
-The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.
-The user forcefully shoots seeds at\nthe foe. Two to five seeds are shot in\nrapid succession.
-A variable move that changes type\nand power depending on the hidden\nability of the Pokémon using it.
-The user intensifies the sun for\nfive turns, powering up Fire-type\nmoves.
-The foe is taunted into a rage that\nallows it to use only attack moves for\ntwo to four turns.
-The foe is struck with an icy-cold\nbeam of energy. It may also freeze\nthe target solid.
-A howling blizzard is summoned to\nstrike the foe. It may also freeze\nthe target solid.
-The foe is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.
-A wondrous wall of light is put up to\nsuppress damage from special attacks\nfor five turns.
-It enables the user to evade all\nattacks. Its chance of failing rises\nif it is used in succession.
-The user summons a heavy rain that\nfalls for five turns, powering up\nWater-type moves.
-A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.
-The user creates a protective field\nthat prevents status problems like\npoison, paralysis, burn, and sleep.
-A full-power attack that grows more\npowerful the less the user likes its\nTrainer.
-A two-turn attack. The user gathers\nlight, then blasts a bundled beam on\nthe second turn.
-The foe is slammed with a sturdy\ntail of steel. It may also lower the\ntarget’s Defense stat if it hits.
-A strong electric blast is loosed at\nthe foe. It may also leave the foe\nparalyzed.
-A wicked thunderbolt is dropped on the\nfoe to inflict damage. It may also\nleave the target paralyzed.
-The user sets off an earthquake\nthat hits all the Pokémon in the\nbattle.
-A full-power attack that grows more\npowerful the more the user likes its\nTrainer.
-The user burrows, then attacks on the\nsecond turn. It can also be used to\nexit dungeons.
-The foe is hit by a strong telekinetic\nforce. It may also reduce the foe’s\nSp. Def stat.
-The user hurls a shadowy blob at the\nfoe. It may also lower the foe’s\nSp. Def stat.
-The user attacks with tough fists,\netc. It can also break any barrier\nsuch as Light Screen and Reflect.
-The user begins moving so quickly\nthat it creates illusory copies to\nraise its evasiveness.
-A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.
-The user strikes the foe with a quick\njolt of electricity. This attack cannot\nbe evaded.
-The foe is scorched with an intense\nblast of fire. The target may also be\nleft with a burn.
-Unsanitary sludge is hurled at\nthe foe. It may also poison the\ntarget.
-A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.
-The foe is attacked with an intense\nblast of all-consuming fire. It may\nalso leave the target with a burn.
-Large boulders are hurled at the foe\nto inflict damage. It lowers the foe’s\nSpeed.
-The user confounds the foe with speed,\nthen strikes. The attack lands without\nfail.
-The user torments and enrages the\nfoe, making it incapable of using the\nsame move twice in a row.
-An attack move that doubles its power\nif the user is poisoned, paralyzed, or\nhas a burn.
-An attack move with effects that\nvary depending on the user’s\nenvironment.
-The user goes to sleep for two\nturns. It fully restores the user’s HP\nand heals any status problem.
-If it is the opposite gender of the\nuser, the foe becomes infatuated\nand less likely to attack.
-The user attacks and steals the foe’s\nheld item simultaneously. It can’t\nsteal if the user holds an item.
-The foe is hit with wings of steel.\nIt may also raise the user’s Defense\nstat.
-The user employs its psychic power to\nexchange abilities with the foe.\n
-The user steals the effects of any\nhealing or status-changing move the\nfoe attempts to use.
-The user attacks the foe at full\npower using fiery energy. It also\nsharply reduces the user’s Sp. Atk.
-The user lands and rests its body.\nIt restores the user’s HP by up to\nhalf of its max HP.
-The user attacks at full power.\nIt may also lower the foe’s Sp. Def\nstat if it hits.
-The user draws power from nature and\nfires it at the foe. It may also lower\nthe target’s Sp. Def.
-A restrained attack that prevents the\nfoe from fainting. The target is left\nwith at least 1 HP.
-If the foe’s HP is down to under half,\nthis attack will hit with double the\npower.
-The user flings its held item at the\nfoe to attack. Its power and effects\ndepend on the item.
-The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.
-The user endures any attack, leaving\n1 HP. Its chance of failing rises if it\nis used in succession.
-The foe is attacked with a shock\nwave generated by the user’s gaping\nmouth.
-An energy-draining punch. The user’s\nHP is restored by half the damage\ntaken by the target.
-The user shoots a sinister, bluish\nwhite flame at the foe to inflict a\nburn.
-The foe is attacked with powdery\nscales blown by wind. It may also\nraise all the user’s stats.
-It prevents the foe from using its\nheld item. Its Trainer is also\nprevented from using items on it.
-The user explodes to inflict damage on\nall Pokémon in battle. The user faints\nupon using this move.
-The user slashes with a sharp claw\nmade from shadows. It has a high\ncritical-hit ratio.
-The user stores power, then attacks.\nIf the user can use this attack after\nthe foe, its power is doubled.
-The user recycles a single-use item\nthat has been used in battle so it can\nbe used again.
-The user charges the foe using every\nbit of its power. It must rest on the\nnext turn to recover.
-The user polishes its body to reduce\ndrag. It sharply raises the Speed\nstat.
-The user flashes a light that cuts the\nfoe’s accuracy. It can also be used to\nilluminate caves.
-The user stabs the foe with a\nsharpened stone from below. It has\na high critical-hit ratio.
-An attack move that inflicts double\nthe damage if the user has been hurt\nby the foe in the same turn.
-A weak electric charge is launched\nat the foe. It causes paralysis if it\nhits.
-The user tackles the foe from a\nhigh-speed spin. The slower the user,\nthe greater the damage.
-A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.
-The user lays a trap of levitating\nstones around the foe. The trap hurts\nfoes that switch into battle.
-The user hypnotizes itself into\ncopying any stat change made\nby the foe.
-If it is the opposite gender of the\nuser, the foe is charmed into sharply\nlowering its Sp. Atk stat.
-The user releases a horrible aura\nimbued with dark thoughts. It may also\nmake the target flinch.
-Large boulders are hurled at the foe\nto inflict damage. It may also make the\ntarget flinch.
-The user slashes at the foe by\ncrossing its scythes or claws as if\nthey were a pair of scissors.
-While it is asleep, the user\nrandomly uses one of the moves\nit knows.
-The user draws power from the Berry\nit is holding to attack. The Berry\ndetermines its type and power.
-The foe is stabbed with a tentacle or\narm steeped with poison. It may also\npoison the foe.
-An attack that works only on a\nsleeping foe. It absorbs half the\ndamage caused to heal the user’s HP.
-The user snares the foe with grass\nand trips it. The heavier the foe, the\ngreater the damage.
-The user enrages the foe into\nconfusion. However, it also sharply\nraises the foe’s Attack stat.
-The user pecks the foe. If the foe is\nholding a Berry, the user plucks it and\ngains its effect.
-After making its attack, the user\nrushes back to switch places with a\nparty Pokémon in waiting.
-The user makes a copy of itself using\nsome of its HP. The copy serves as\nthe user’s decoy.
-The user gathers all its light energy\nand releases it in one shot. It may\nalso lower the foe’s Sp. Def stat.
-The user creates a bizarre space in\nwhich slower Pokémon get to move\nfirst for five turns.
-The foe is cut with a scythe or a claw.\nIt can also be used to cut down thin\ntrees.
-The user soars, then strikes on the\nsecond turn. It can also be used to\nfly to any familiar town.
-It swamps the entire battlefield with\na giant wave. It can also be used\nto cross water.
-The foe is slugged with a punch thrown\nat maximum power. It can also be used\nto move boulders.
-Traps foes in a violent swirling\nwhirlpool. It can also be used to\ntraverse whirlpools.
-The user slugs the foe with a\nshattering punch. It can also smash\ncracked boulders.
-The user charges the foe at an\nawesome speed. It can also be used\nto climb a waterfall.
-A charging attack that may also leave\nthe foe confused. It can also be used\nto scale rocky walls.
-A bag filled with convenient tools for\nexploring. It provides access to the\nUnderground in the Sinnoh region.
-A sturdy, spacious bag that is used\nto carry any treasures or loot\nobtained in the coal mine.
-It lists the rules for holding battles.\nFor Link Battles, you may choose which\nset of rules you wish to use.
-A tool that can search out Pokémon\nthat are hiding in the tall grass.\nIts battery is recharged as you walk.
-A card that lists how many Battle\nPoints you have earned.
-A notebook that keeps a record of\nyour adventure so far.
-A case for storing Stickers that can\nbe applied to Ball Capsules.
-A wondrous, pretty case to store\nlots of colorful Props for your\nPokémon to wear in a musical.
-A tiny bag that can hold 10 Stickers\nfor decorating Ball Capsules.
-A convenient notepad that is used to\nregister your friends and keep a\nrecord of your gameplay.
-A large key for operating the doors of\nthe Valley Windworks in the canyon.\nIt was held by a Team Galactic Grunt.
-An ancient good-luck charm made of\nPokémon bones to be taken to the\nelder of Celestic Town.
-A card key for disengaging the security\nsystems in the Galactic HQ. Losing it\ncan result in punishment, apparently.
-A mythical chain that is said to\nbind the Legendary Pokémon that\ncreated the Sinnoh region.
-A very convenient map that can be\nviewed anytime. It even shows you\nyour present location in the region.
-A device that indicates Trainers who\nwant to battle.\nIts battery charges while you walk.
-A case for holding coins obtained at the\nGame Corner.\nIt can hold up to 50,000 coins.
-An old and beat-up fishing rod.\nUse it at bodies of water to fish\nfor Pokémon.
-A new, good-quality fishing rod.\nUse it at bodies of water to fish\nfor Pokémon.
-An awesome, high-spec fishing rod.\nUse it at bodies of water to fish\nfor Pokémon.
-A watering can shaped like a Psyduck.\nIt helps promote the healthy growth\nof any Berries planted in good, soft soil.
-A case for storing Poffins cooked\nfrom Berries.
-A folding bike that enables a rider\nto get around much faster than with\nRunning Shoes.
-A key to one of the suites at a certain\nluxury hotel by a lake.\nFor some odd reason, it often disappears.
-A letter from Professor Oak.\nWritten in it is a request\nfor you to go to Route 224.
-A feather that glows like the moon.\nIt’s said to possess the power to\ndispel nightmares.
-A card needed for entering the inn\nin Canalave City. Oddly, the last\ndate marked on it was 50 years ago.
-A flute that puts out echoing sounds\nthat do not seem to be of this world.\nNo one knows who made it or when.
-A ticket required for sailing on\nthe high-speed ferry S.S. Aqua.\nIt has a drawing of a ship on it.
-A pass required for entering Pokémon\nContests. It has a drawing of an\naward ribbon on its front.
-A stone formed by boulders melting in\nintensely hot magma, then hardening.\nMagma remains sealed inside it.
-A parcel entrusted into your care.\nYou’re supposed to deliver it to your\nchildhood friend who left Twinleaf Town.
-A coupon to be exchanged for a\nPokémon Watch- Pokétch for short.\nThree coupons are needed.
-A coupon to be exchanged for a\nPokémon Watch- Pokétch for short.\nThree coupons are needed.
-A coupon to be exchanged for a\nPokémon Watch- Pokétch for short.\nThree coupons are needed.
-The key to Team Galactic’s sinister\nwarehouse located at the edge of\nVeilstone City.
-A fantastic medicine dispensed by the\npharmacy in Cianwood City.\nIt fully heals a Pokémon of any ailment.
-An amazing device that can record a\nbattle between friends or the battles\nat certain special battle facilities.
-A flower sometimes bundled in\nbouquets to convey gratitude on\nspecial occasions, such as birthdays.
-A high-tech key that has to be used at\na specific location. It emits a special\nelectronic signal to open a door.
-A handy box where you can store up\nto 99 of each kind of Apricorn.
-A report of all the discovered kinds\nof Unown.
-Portable containers that allow you\nto easily cultivate Berries anywhere\nand anytime.
-The latest device for showing the\nlocation of hidden items.\nIt’s worn on the head when in use.
-A card to save points for the\nBuena’s Password show.
-A very tasty tail of something.\nIt can be sold at a high price to shops.
-A very old-fashioned bell that makes\na gentle ringing sound.
-A card key that opens a shutter in\nthe Radio Tower.
-A key that opens a door in the\nGoldenrod Tunnel.
-A bottle used for watering plants in\nthe Berry Pots.
-A scale from a red Gyarados that\nappeared at the Lake of Rage.\nIt glows red like a flame.
-The Mime Jr. doll that was lost by\nthe Copycat.
-A pass required for riding the Magnet Train.\nIt allows you to ride whenever and however\nmuch you’d like.
-An important part of a machine that\nwas stolen from the Power Plant.
-A strange feather that gleams with a\nsilvery color.
-A strange feather that gleams in\nrainbow colors.
-An Egg obtained from Mr. Pokémon.\nIt has a mysterious pattern on it,\nand what is in the Egg is unknown.
-A red Apricorn.\nIt has a pungent scent that assails the\nnostrils.
-A yellow Apricorn.\nIt has a light, refreshing scent.
-A blue Apricorn.\nIt has a slightly grassy smell to it.
-A green Apricorn.\nIt has a mysterious and aromatic scent.
-A pink Apricorn.\nIt has a pleasantly sweet scent.
-A white Apricorn.\nIt doesn’t have any aroma at all.
-A black Apricorn.\nIt has a smell that cannot be captured\nin words.
-A somewhat different Poké Ball that is\nmore effective when catching Pokémon\nthat are usually very quick to run away.
-A somewhat different Poké Ball that\nbecomes more effective the lower the\nlevel of the Pokémon compared to your own.
-A somewhat different Poké Ball that is\nmore effective when catching Pokémon\nin or on the water.
-A somewhat different Poké Ball that\nbecomes more effective the heavier\nthe Pokémon is.
-A somewhat different Poké Ball that is\nmore effective when catching Pokémon\nof the opposite gender to your own.
-A somewhat different Poké Ball that\nmakes a wild Pokémon more friendly\ntoward you immediately.
-A somewhat different Poké Ball that is\nmore effective when catching Pokémon\nthat can be evolved using a Moon Stone.
-A special Poké Ball that is used\nduring the Bug-Catching Contest.
-A special Poké Ball used in the Pal\nPark.
-A nice photo album for storing all\nthe photos taken along your\nadventure.
-A music player that allows you to listen\nto nostalgic songs. It’s operated with\nthe flip of a single switch.
-A very old-fashioned bell that makes\na gentle ringing sound.
-Mahogany Town’s famous candy.\nMany tourists like to buy them\nto take home.
-It holds Pokéathlon records. It is a\ncard that shows how many victories\nyou have had in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many losses you\nhave had in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon dashed in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon jumped in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Hurdle Dash.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Relay Run.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Pennant Capture.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Block Smash.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Disc Catch.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Snow Throw.
-It holds Pokéathlon records. It is a\ncard that shows how many points your\nPokémon scored in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon failed in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon impeded themselves.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon tackled in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon fell down in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Ring Drop.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Lamp Jump.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Circle Push.
-It holds Pokéathlon records. It is a\ncard that shows how many Link\nPokéathlon wins you have had.
-It holds Pokéathlon records. It is a\ncard that shows how many Link\nPokéathlon losses you have had.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nhave won a Pokéathlon event.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nhave lost a Pokéathlon event.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nswitched Pokémon in the Pokéathlon.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\nwon the Pokéathlon’s Goal Roll.
-It holds Pokéathlon records. It is a\ncard that shows how many times your\nPokémon won individual prizes.
-It holds Pokéathlon records. It is a\ncard that shows how many times you\ninstructed your Pokémon.
-It holds Pokéathlon records. It is a\ncard that shows how much time you\nspent participating in the Pokéathlon.
-A shiny green orb that is said\nto have a deep connection to\na legend of the Hoenn region.
-A sturdy Capsule that can only be\nopened with a special key.
-A shiny red orb that is said\nto have a deep connection to\na legend of the Hoenn region.
-A shiny blue orb that is said\nto have a deep connection to\na legend of the Hoenn region.
-A crystal ball that was excavated from\nthe ground. It is covered with bits of rock\nand earth, but it is still very beautiful.
+？？？
+やせいの ポケモンを かならず\nつかまえることが できる\nさいこう せいのうの ボ－ル。
+ス－パ－ボ－ルよりも さらに\nポケモンを つかまえやすくなった\nすごく せいのうのいい ボ－ル。
+モンスタ－ボ－ルよりも さらに\nポケモンを つかまえやすくなった\nすこし せいのうのいい ボ－ル。
+やせいの ポケモンに なげて\nつかまえる ための ボ－ル。\nカプセルしきに なっている。
+だいしつげんの なか だけで\nつかう とくべつな ボ－ル。\nめいさいがらに なっている。
+みずタイプと むしタイプの\nポケモンが つかまえやすくなる\nちょっと かわった ボ－ル。
+みずの せかいで くらしている\nポケモンが つかまえやすくなる\nちょっと かわった ボ－ル。
+つかまえる やせいの ポケモンが\nよわいほど つかまえやすくなる\nちょっと かわった ボ－ル。
+つかまえたことの ある\nポケモンが つかまえやすくなる\nちょっと かわった ボ－ル。
+タ－ンすうが かかれば かかるほど\nポケモンが つかまえやすくなる\nちょっと かわった ボ－ル。
+つかまえた やせいポケモンが\nとても なつきやすくなる\nいごこちの いい ボ－ル。
+なにかの きねんの しなとして\nとくべつに つくられた\nちょっと めずらしい ボ－ル。
+よるや どうくつなど くらいところで\nポケモンが つかまえやすくなる\nちょっと かわった ボ－ル。
+つかまえた ポケモンの ＨＰと\nじょうたい いじょうを かいふくする\nちょっと やさしい ボ－ル。
+せんとうが はじまって すぐに\nつかうと つかまえやすくなる\nちょっと かわった ボ－ル。
+なにかの きねんの しなとして\nとくべつに つくられた\nかなり めずらしい ボ－ル。
+スプレ－しきの キズぐすり。\nポケモン １ひきの ＨＰを\n２０だけ かいふくする。
+スプレ－しきの くすり。\nポケモン １ひきの どくの\nじょうたいを かいふくする。
+スプレ－しきの くすり。\nポケモン １ひきの やけどの\nじょうたいを かいふくする。
+スプレ－しきの くすり。\nポケモン １ひきの こおりの\nじょうたいを かいふくする。
+スプレ－しきの くすり。\nポケモン １ひきの ねむりの\nじょうたいを かいふくする。
+スプレ－しきの くすり。\nポケモン １ひきの まひの\nじょうたいを かいふくする。
+ポケモン １ひきの ＨＰと\nじょうたい いじょうを すべて\nかいふくする。
+スプレ－しきの キズぐすり。\nポケモン １ひきの ＨＰを\nすべて かいふくする。
+スプレ－しきの キズぐすり。\nポケモン １ひきの ＨＰを\n２００だけ かいふくする。
+スプレ－しきの キズぐすり。\nポケモン １ひきの ＨＰを\n５０だけ かいふくする。
+スプレ－しきの くすり。\nポケモン １ひきの じょうたいの\nいじょうを すべて かいふくする。
+ひんしに なってしまった\nポケモン １ひきの ＨＰを\nはんぶんまで かいふくする。
+ひんしに なってしまった\nポケモン １ひきの ＨＰを\nすべて かいふくする。
+ミネラル たっぷりの みず。\nポケモン １ひきの ＨＰを\n５０だけ かいふくする。
+シュワっと はじける ソ－ダ。\nポケモン １ひきの ＨＰを\n６０だけ かいふくする。
+とても あまい ジュ－ス。\nポケモン １ひきの ＨＰを\n８０だけ かいふくする。
+えいよう まんてんの ミルク。\nポケモン １ひきの ＨＰを\n１００だけ かいふくする。
+とても にがい こなぐすり。\nポケモン １ひきの ＨＰを\n５０だけ かいふくする。
+とても にがい ねっこ。\nポケモン １ひきの ＨＰを\n２００だけ かいふくする。
+とても にがい こなぐすり。\nポケモン １ひきの じょうたいの\nいじょうを すべて かいふくする。
+とても にがい やくそう。\nひんしの ポケモン １ひきの\nＨＰを すべて かいふくする。
+ポケモンが おぼえている\nわざのうち １つの ＰＰを\n１０だけ かいふくする。
+ポケモンが おぼえている\nわざのうち １つの ＰＰを\nすべて かいふくする。
+ポケモンが おぼえている\n４つの わざの ＰＰを\n１０ずつ かいふくする。
+ポケモンが おぼえている\n４つの わざの ＰＰを\nすべて かいふくする。
+フエンめいぶつの せんべい。\nポケモン １ひきの じょうたい\nいじょうを かいふくする。
+きのみ １００％の ジュ－ス。\nポケモン １ひきの ＨＰを\n２０だけ かいふくする。
+ひんしに なってしまった\nポケモン ぜんいんの ＨＰを\nすべて かいふくする。
+ポケモンの えいようドリンク。\nポケモン １ひきの ＨＰの\nきそポイントを あげる。
+ポケモンの えいようドリンク。\nポケモン １ひきの こうげきの\nきそポイントを あげる。
+ポケモンの えいようドリンク。\nポケモン １ひきの ぼうぎょの\nきそポイントを あげる。
+ポケモンの えいようドリンク。\nポケモン １ひきの すばやさの\nきそポイントを あげる。
+ポケモンの えいようドリンク。\nポケモン １ひきの とくこうの\nきそポイントを あげる。
+エネルギ－の つまった アメ。\nあたえると ポケモン １ひきの\nレベルが １だけ あがる。
+ポケモンが おぼえている\nわざのうち １つの ＰＰの\nさいだいちを すこし あげる。
+ポケモンの えいようドリンク。\nポケモン １ひきの とくぼうの\nきそポイントを あげる。
+おぼえている わざのうち\n１つの ＰＰの さいだいちを\nさいこうまで あげる。
+ハクタイの かくれた めいぶつ。\nポケモン １ひきの じょうたいの\nいじょうを すべて かいふくする。
+せんとうちゅう ５タ－ンの あいだ\nみかたの のうりょくを\nさげられなくする どうぐ。
+せんとうちゅう きゅうしょに\nあたりやすくなる どうぐ。\nひっこめると もとに もどる。
+せんとうちゅうの ポケモンの\nこうげきを あげる どうぐ。\nひっこめると もとに もどる。
+せんとうちゅうの ポケモンの\nぼうぎょを あげる どうぐ。\nひっこめると もとに もどる。
+せんとうちゅうの ポケモンの\nすばやさを あげる どうぐ。\nひっこめると もとに もどる。
+せんとうちゅうの ポケモンの\nめいちゅうを あげる どうぐ。\nひっこめると もとに もどる。
+せんとうちゅうの ポケモンの\nとくこうを あげる どうぐ。\nひっこめると もとに もどる。
+せんとうちゅうの ポケモンの\nとくぼうを あげる どうぐ。\nひっこめると もとに もどる。
+ポケモンの きを ひかせる どうぐ。\nやせいポケモンとの せんとうから\nぜったいに にげられる。
+ポケモンの きを ひかせる どうぐ。\nやせいポケモンとの せんとうから\nぜったいに にげられる。
+ガラスせいの あおい ふえ。\nポケモン １ひきの ねむりの\nじょうたいを かいふくする。
+ガラスせいの きいろい ふえ。\nポケモン １ひきの こんらんの\nじょうたいを かいふくする。
+ガラスせいの あかい ふえ。\nポケモン １ひきの メロメロの\nじょうたいを かいふくする。
+ガラスせいの くろい ふえ。\nふくと やせいの ポケモンが\nでて きにくくなる。
+ガラスせいの しろい ふえ。\nふくと やせいの ポケモンが\nでて きやすくなる。
+あさせのほらあなの なかで\nみつけた きれいな しお。\nものすごく しょっぱい。
+あさせのほらあなの なかで\nみつけた きれいな かいがら。\nあおと しろの しまもよう。
+あかい ちいさな かけら。\nむかしに つくられた なにかの\nどうぐの いちぶ らしい。
+あおい ちいさな かけら。\nむかしに つくられた なにかの\nどうぐの いちぶ らしい。
+きいろい ちいさな かけら。\nむかしに つくられた なにかの\nどうぐの いちぶ らしい。
+みどりの ちいさな かけら。\nむかしに つくられた なにかの\nどうぐの いちぶ らしい。
+２００ぽ すすむ あいだ\nよわい やせいの ポケモンが\nまったく でて こなくなる。
+２５０ぽ すすむ あいだ\nよわい やせいの ポケモンが\nまったく でて こなくなる。
+ながくて じょうぶな ヒモ。\nどうくつや ダンジョンから\nぬけだすことが できる。
+１００ぽ すすむ あいだ\nよわい やせいの ポケモンが\nまったく でて こなくなる。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nたいようのように あかい。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nよぞらのように くろい。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nだいだいいろを している。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nいなずまの もようが ある。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nすんだ みずいろを している。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nはっぱの もようが ある。
+ちいさな めずらしい キノコ。\nいちぶの マニアの あいだでは\nけっこう にんきが たかい。
+おおきな めずらしい キノコ。\nいちぶの マニアの あいだでは\nとても にんきが たかい。
+きれいな ぎんいろに ひかる\nすこし ちいさめの しんじゅ。\nショップで やすく うれる。
+きれいな ぎんいろに ひかる\nかなり おおつぶの しんじゅ。\nショップで たかく うれる。
+てざわりが サラサラの\nあかくて きれいな すな。\nショップで たかく うれる。
+キラキラと あかく ひかる\nきれいな ほうせきの かけら。\nショップで たかく うれる。
+キラキラと きんいろに ひかる\nじゅんきん せいの たま。\nショップで たかく うれる。
+きれいな ハ－トの かたちの\nとても めずらしい ウロコ。\nにじいろに うすく かがやく。
+くさむらや どうくつ などで\nつかうと あまいにおいに さそわれて\nやせいポケモンが あらわれる。
+ふかふかのつちに まいて つかう。\nつちの かわきが はやくなるが\nきのみの そだちも はやくなる。
+ふかふかのつちに まいて つかう。\nつちの かわきが おそくなるが\nきのみの そだちも おそくなる。
+ふかふかのつちに まいて つかう。\nきのみが おちるまでの じかんが\nふだんより ながくなる。
+ふかふかのつちに まいて つかう。\nかれたあとに あたらしい めが\nでてくる かいすうが ふえる。
+おおむかし うみに すんでいた\nこだい ポケモンの カセキ。\nねっこの いちぶ らしい。
+おおむかし うみに すんでいた\nこだい ポケモンの カセキ。\nツメの いちぶ らしい。
+おおむかし うみに すんでいた\nこだい ポケモンの カセキ。\nかいがらの いちぶ らしい。
+おおむかし うみに すんでいた\nこだい ポケモンの カセキ。\nこうらの いちぶ らしい。
+こだい ポケモンの いでんしが\nとじこめられている コハク。\nあかみを おびて すけている。
+おおむかし ちじょうで くらした\nこだい ポケモンの カセキ。\nえりかざりの いちぶ らしい。
+おおむかし ちじょうで くらした\nこだい ポケモンの カセキ。\nあたまの いちぶ らしい。
+ポケモンこうこがくの うえで\nとても きちょうな ホネ。\nショップで たかく うれる。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nひかりのように まぶしい。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nやみのように くらい。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nひとみのように まばゆい。
+ある とくていの ポケモンを\nしんかさせる ふしぎな いし。\nたまのように まるい。
+これがないと いしのとうが\nくずれてしまう だいじないし。\nときどき いしから こえがきこえる。
+ギラティナに もたせると ドラゴンと\nゴ－ストタイプの わざの いりょくが\nあがる ひかり かがやく たま。
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+－\n－\n－
+ディアルガに もたせると ドラゴンと\nはがねタイプの わざの いりょくが\nあがる ひかり かがやく たま。
+パルキアに もたせると ドラゴンと\nみずタイプの わざの いりょくが\nあがる うつくしく かがやく たま。
+さわやかな みどりの そうげんが \nプリントされた びんせん。\nポケモンに もたせて つかう。
+まっかに もえあがる ほのおが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+あおい みずの せかいが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+きれいな はなびら もようが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+うすぐらい たんこうの せかいが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+かっこいい きかいの もようが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+おおきな ハ－トの えがらが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+さむそうな ゆきの せかいが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+ゆうだいな うちゅう くうかんが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+カラフルな びんせんの えがらが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+あざやかな にじいろ もようが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+かたそうな レンガの えがらが\nプリントされた びんせん。\nポケモンに もたせて つかう。
+ポケモンに つかったり\nもたせたりすると\nまひを かいふくする。
+ポケモンに つかったり\nもたせたりすると\nねむりを かいふくする。
+ポケモンに つかったり\nもたせたりすると\nどくを かいふくする。
+ポケモンに つかったり\nもたせたりすると\nやけどを かいふくする。
+ポケモンに つかったり\nもたせたりすると\nこおりを かいふくする。
+ポケモンに つかったり\nもたせたりすると\nＰＰを １０だけ かいふくする。
+ポケモンに つかったり\nもたせたりすると\nＨＰを １０だけ かいふくする。
+ポケモンに つかったり\nもたせたりすると\nこんらんを かいふくする。
+ポケモンに つかったり\nもたせたりすると すべての\nじょうたい いじょうを かいふくする。
+ポケモンに つかったり\nもたせたりすると\nＨＰを すこしだけ かいふくする。
+もたせると ピンチのとき ＨＰを\nかいふく できる。 からい あじが\nきらいだと こんらんも してしまう。
+もたせると ピンチのとき ＨＰを\nかいふく できる。 しぶい あじが\nきらいだと こんらんも してしまう。
+もたせると ピンチのとき ＨＰを\nかいふく できる。  あまい あじが\nきらいだと こんらんも してしまう。
+もたせると ピンチのとき ＨＰを\nかいふく できる。  にがい あじが\nきらいだと こんらんも してしまう。
+もたせると ピンチのとき ＨＰを\nかいふく できる。 すっぱい あじが\nきらいだと こんらんも してしまう。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+ポケモンに あげると\nとても なつき やすくなるが\nＨＰの きそポイントは さがる。
+ポケモンに あげると\nとても なつき やすくなるが\nこうげきの きそポイントは さがる。
+ポケモンに あげると\nとても なつき やすくなるが\nぼうぎょの きそポイントは さがる。
+ポケモンに あげると\nとても なつき やすくなるが\nとくこうの きそポイントは さがる。
+ポケモンに あげると\nとても なつき やすくなるが\nとくぼうの きそポイントは さがる。
+ポケモンに あげると\nとても なつき やすくなるが\nすばやさの きそポイントは さがる。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+シンオウちほうでは ポフィン という\nポケモンに あげる おかしの\nざいりょうとして ゆうめい。
+ポケモンに もたせると\nこうかばつぐんの ほのお わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの みず わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの でんき わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの くさ わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの こおり わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの かくとう わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの どく わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの じめん わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの ひこう わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの エスパ－ わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの むし わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの いわ わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの ゴ－スト わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの ドラゴン わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの あく わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nこうかばつぐんの はがね わざを\nうけたとき いりょくが よわまる。
+ポケモンに もたせると\nノ－マル わざを うけたとき\nいりょくが よわまる。
+ポケモンに もたせると\nピンチのとき じぶんの\nこうげきが あがる。
+ポケモンに もたせると\nピンチのとき じぶんの\nぼうぎょが あがる。
+ポケモンに もたせると\nピンチのとき じぶんの\nすばやさが あがる。
+ポケモンに もたせると\nピンチのとき じぶんの\nとくこうが あがる。
+ポケモンに もたせると\nピンチのとき じぶんの\nとくぼうが あがる。
+ポケモンに もたせると\nピンチのとき こうげきが\nきゅうしょに あたりやすくなる。
+ポケモンに もたせると\nピンチのとき どれか １つの\nのうりょくが ぐ－んと あがる。
+ポケモンに もたせると\nこうかばつぐんの わざを\nうけたとき ＨＰを かいふくする。
+ポケモンに もたせると\nピンチのとき いちどだけ\nわざの めいちゅうりつが あがる。
+ポケモンに もたせると\nピンチのとき いちどだけ\nこうどうが はやくなる。
+ポケモンに もたせると\nぶつりわざを うけたとき\nあいてにも ダメ－ジを あたえる。
+ポケモンに もたせると\nとくしゅわざを うけたとき\nあいてにも ダメ－ジを あたえる。
+キラキラ ひかるこな。 もたせると\nひかりが あいてを まどわして\nわざが めいちゅう しにくくなる。
+もたせた ポケモンの のうりょくが\nさがったとき いちどだけ もとの\nじょうたいに もどす。
+かたくて おもい ギプス。\nもたせると すばやさは さがるが\nふつうより つよく そだちやすい。
+もたせた ポケモンは せんとうに\nでなくても けいけんちを\nわけてもらえる べんりな そうち。
+かるくて するどい ツメ。\nもたせると あいてより さきに\nこうどう できることが ある。
+ここちよい ねいろの すず。\nもたせた ポケモンは こころが\nやすらぎ なつきやすくなる。
+もたせた ポケモンが メロメロの\nじょうたいに なったときに\nいちどだけ かいふくする。
+ちょっと こだわった ハチマキ。\nもたせると こうげきは あがるが\nおなじ わざしか だせなくなる。
+もたせると こうげきして\nダメ－ジを あたえたときに\nあいてを  ひるませることが ある。
+ぎんいろに かがやく こな。\nもたせると むしタイプの\nわざの いりょくが あがる。
+もたせた ポケモンが いちどでも\nせんとうに かおを だすと\nおかねが ２ばい もらえる。
+いちばん まえの ポケモンに\nもたせると やせいポケモンが\nでて きにくくなる。
+ラティオス または ラティアスに\nもたせると とくこうと とくぼうが\nあがる ふしぎな たま。
+パ－ルルに もたせると\nとくこうが あがる キバ。\nするどく ぎんいろに ひかる。
+パ－ルルに もたせると\nとくぼうが あがる ウロコ。\nうすい ピンクいろに ひかる。
+もたせた ポケモンは やせいの\nポケモンとの せんとうから\nぜったいに にげられる。
+ポケモンに もたせると\nそのあいだ しんか しなくなる\nふしぎな いし。
+もたせると ひんしに なりそうな\nわざを うけても ＨＰを １だけ\nのこして たえることが ある。
+しあわせが つまった タマゴ。\nもたせた ポケモンは もらえる\nけいけんちが すこし ふえる。
+じゃくてんが みえる レンズ。\nもたせた ポケモンの わざが\nきゅうしょに あたりやすくなる。
+とくしゅな きんぞくの まく。\nもたせると はがねタイプの\nわざの いりょくが あがる。
+もたせると ポケモンの ＨＰが\nせんとうの あいだ すこしずつ\nかいふくする。
+かたくて じょうぶな ウロコ。\nドラゴンタイプの ポケモンが\nもっていることが ある。
+ピカチュウに もたせると\nこうげきと とくこうの いりょくが\nあがる ふしぎな たま。
+さわると サラサラする すな。\nもたせると じめんタイプの\nわざの いりょくが あがる。
+ぜったいに われない いし。\nもたせると いわタイプの\nわざの いりょくが あがる。
+せいめいが やどる タネ。\nもたせると くさタイプの\nわざの いりょくが あがる。
+あやしく みえる メガネ。\nもたせると あくタイプの\nわざの いりょくが あがる。
+きが ひきしまる おび。\nもたせると かくとうタイプの\nわざの いりょくが あがる。
+きょうりょくな じしゃく。\nもたせると でんきタイプの\nわざの いりょくが あがる。
+しずくの かたちの ほうせき。\nもたせると みずタイプの\nわざの いりょくが あがる。
+ながく とがった くちばし。\nもたせると ひこうタイプの\nわざの いりょくが あがる。
+どくのある ちいさな ハリ。\nもたせると どくタイプの\nわざの いりょくが あがる。
+ねつを よせつけない こおり。\nもたせると こおりタイプの\nわざの いりょくが あがる。
+あやしくて ぶきみな おふだ。\nもたせると ゴ－ストタイプの\nわざの いりょくが あがる。
+ねんりきを こめた スプ－ン。\nもたせると エスパ－タイプの\nわざの いりょくが あがる。
+ものを もやす ねんりょう。\nもたせると ほのおタイプの\nわざの いりょくが あがる。
+かたくて するどい キバ。\nもたせると ドラゴンタイプの\nわざの いりょくが あがる。
+はだざわりの よい スカ－フ。\nもたせると ノ－マルタイプの\nわざの いりょくが あがる。
+なかに いろんな じょうほうが\nつまった とうめいの きかい。\nシルフ カンパニ－せい。
+もたせた ポケモンが こうげきして\nあいてに ダメ－ジを あたえたとき\nＨＰを すこし かいふく できる。
+ふしぎな かおりの おこう。\nもたせると みずタイプの\nわざの いりょくが あがる。
+もたせると おこうの ふしぎな\nかおりが あいてを まどわせて\nわざが めいちゅう しにくくなる。
+こううんを よぶ グロ－ブ。\nラッキ－に もたせると わざが\nきゅうしょに あたりやすくなる。
+メタモンに もたせると ぼうぎょが\nあがる ふしぎなこな。\nとても こまかくて かたい。
+なにかの かたい ホネ。\nカラカラ または ガラガラに\nもたせると こうげきが あがる。
+とても ながくて かたい クキ。\nカモネギに もたせると わざが\nきゅうしょに あたりやすくなる。
+ポケモンに もたせて シンオウの\nコンテストに さんかさせると\nいつもより かっこよく みられる。
+ポケモンに もたせて シンオウの\nコンテストに さんかさせると\nいつもより うつくしく みられる。
+ポケモンに もたせて シンオウの\nコンテストに さんかさせると\nいつもより かわいらしく みられる。
+ポケモンに もたせて シンオウの\nコンテストに さんかさせると\nいつもより かしこく みられる。
+ポケモンに もたせて シンオウの\nコンテストに さんかさせると\nいつもより たくましく みられる。
+ものが おおきく みえる レンズ。\nもたせると わざの めいちゅうりつが\nすこし あがる。
+ちからが わいてくる ハチマキ。\nもたせると ぶつりわざの\nいりょくが すこし あがる。
+ぶあつい レンズの ついた メガネ。\nもたせると とくしゅわざの\nいりょくが すこし あがる。
+つかいこまれた くろい おび。\nもたせると こうかばつぐんの とき\nわざの いりょくが すこし あがる。
+もたせた ポケモンが ひかりのかべや\nリフレクタ－を つかったとき\nいつもよりも ながく のこる。
+もたせると こうげきする たびに\nＨＰが すこし へってしまうが\nわざの いりょくが あがる。
+もたせた ポケモンは いちどだけ\n１タ－ンめに ちからを ためるわざを\nすぐに つかうことが できる。
+さわると どくをだす ふしぎなたま。\nもたせると せんとうちゅうに\nもうどくの じょうたいに なる。
+さわると ねつをだす ふしぎなたま。\nもたせると せんとうちゅうに\nやけどの じょうたいに なる。
+メタモンに もたせると すばやさが\nあがる ふしぎなこな。\nとても こまかくて かたい。
+もたせると ＨＰが まんたんのとき\nひんしになりそうな わざを うけても \nＨＰ１で いちどだけ たえる。
+もたせた ポケモンが あいてよりも\nこうどうするのが おそいとき\nわざが めいちゅう しやすくなる。
+もたせると おなじわざを れんぞくで\nつかったとき いりょくが あがる。\nやめると いりょくは もどる。
+もたせると すばやさが さがる。\nひこうタイプや ふゆう ポケモンは\nじめんわざが あたって しまう。
+とても おもたい なにかの しっぽ。\nもたせると いつもより こうどうが\nおそくなる。
+ほそくて ながい まっかな いと。\nもたせると メロメロに なったとき\nあいても メロメロに できる。
+もたせると どくタイプの ポケモンは\nすこしずつ ＨＰを かいふくする。\nそれいがいは ＨＰが へってしまう。
+もたせた ポケモンが あられを\nつかうと いつもより あられの\nじかんが ながくなる。
+もたせた ポケモンが すなあらしを\nつかうと いつもより すなあらしの\nじかんが ながくなる。
+もたせた ポケモンが にほんばれを\nつかうと いつもより はれの\nじかんが ながくなる。
+もたせた ポケモンが あまごいを\nつかうと いつもより あめの\nじかんが ながくなる。
+もたせると しめつける まきつくなど\nダメ－ジを あたえつづける わざの\nタ－ンすうが ふえる。
+ちょっと こだわった スカ－フ。\nもたせると すばやさは あがるが\nおなじ わざしか だせなくなる。
+もたせると まいタ－ン ダメ－ジを\nうける。 じぶんに ふれてきた\nあいてに くっつく ことも ある。
+もたせると すばやさが さがるが\nふつうよりも ポケモンの こうげきが\nたかく そだちやすい。
+もたせると すばやさが さがるが\nふつうよりも ポケモンの ぼうぎょが\nたかく そだちやすい。
+もたせると すばやさが さがるが\nふつうよりも ポケモンの とくこうが\nたかく そだちやすい。
+もたせると すばやさが さがるが\nふつうよりも ポケモンの とくぼうが\nたかく そだちやすい。
+もたせると すばやさが さがるが\nふつうよりも ポケモンの すばやさが\nたかく そだちやすい。
+もたせると すばやさが さがるが\nふつうよりも ポケモンの ＨＰが\nたかく そだちやすい。
+じょうぶで かたい ぬけがら。\nもたせた ポケモンは ひかえの\nポケモンと かならず いれかわれる。
+もたせると ＨＰを すいとる わざで\nいつもより おおく じぶんの ＨＰを\nかいふくできる。
+ちょっと こだわった メガネ。\nもたせると とくこうは あがるが\nおなじ わざしか だせなくなる。
+ほのおの タイプの せきばん。\nもたせると ほのおタイプの\nわざの いりょくが つよまる。
+みずの タイプの せきばん。\nもたせると みずタイプの\nわざの いりょくが つよまる。
+でんきの タイプの せきばん。\nもたせると でんきタイプの\nわざの いりょくが つよまる。
+くさの タイプの せきばん。\nもたせると くさタイプの\nわざの いりょくが つよまる。
+こおりの タイプの せきばん。\nもたせると こおりタイプの\nわざの いりょくが つよまる。
+かくとうの タイプの せきばん。\nもたせると かくとうタイプの\nわざの いりょくが つよまる。
+どくの タイプの せきばん。\nもたせると どくタイプの\nわざの いりょくが つよまる。
+じめんの タイプの せきばん。\nもたせると じめんタイプの\nわざの いりょくが つよまる。
+ひこうの タイプの せきばん。\nもたせると ひこうタイプの\nわざの いりょくが つよまる。
+エスパ－の タイプの せきばん。\nもたせると エスパ－タイプの\nわざの いりょくが つよまる。
+むしの タイプの せきばん。\nもたせると むしタイプの\nわざの いりょくが つよまる。
+いわの タイプの せきばん。\nもたせると いわタイプの\nわざの いりょくが つよまる。
+ゴ－ストの タイプの せきばん。\nもたせると ゴ－ストタイプの\nわざの いりょくが つよまる。
+ドラゴンの タイプの せきばん。\nもたせると ドラゴンタイプの\nわざの いりょくが つよまる。
+あくの タイプの せきばん。\nもたせると あくタイプの\nわざの いりょくが つよまる。
+はがねの タイプの せきばん。\nもたせると はがねタイプの\nわざの いりょくが つよまる。
+ふしぎな かおりの おこう。\nもたせると エスパ－タイプの\nわざの いりょくが あがる。
+ふしぎな かおりの おこう。\nもたせると いわタイプの\nわざの いりょくが あがる。
+ふしぎな かおりの おこう。\nもたせた ポケモンは いつもより\nこうどうが おそくなる。
+ふしぎな かおりの おこう。\nもたせると みずタイプの\nわざの いりょくが あがる。
+ふしぎな かおりの おこう。\nもたせると くさタイプの\nわざの いりょくが あがる。
+もたせた ポケモンが いちどでも\nせんとうに かおを だすと\nおかねが ２ばい もらえる。
+いちばん まえの ポケモンに\nもたせると やせいポケモンが\nでて きにくくなる。
+なにかの プロテクタ－。\nとても かたくて おもい。\nある ポケモンが このんでいる。
+とてつもない でんきの エネルギ－が\nたくわえられている はこ。\nある ポケモンが このんでいる。
+とてつもない マグマの エネルギ－が\nたくわえられている はこ。\nある ポケモンが このんでいる。
+なかに あやしい じょうほうが\nつまった とうめいな きかい。\nせいさくしゃは ふめい。
+おそろしく つよい れいりょくが\nこめられている ぬの。\nある ポケモンが このんでいる。
+するどく とがった ツメ。\nもたせると わざが きゅうしょに\nあたりやすくなる。
+するどく とがった キバ。\nもたせると ダメ－ジを あたえたとき\nひるませることが ある。
+せいしんを たかめて こうげきする。\nわざを だすまえに こうげきを\nうけると しっぱいする。
+するどく とがった きょだいな\nツメで ひっかいて こうげきする。\n
+みずの しんどうを あたえて\nこうげきする。 あいてを こんらんの\nじょうたいに することが ある。
+しずかに せいしんを とういつして\nこころを しずめることで じぶんの\nとくこうと とくぼうを あげる。
+あいてを にがして ひかえポケモンを\nひきずりだす。 やせいポケモンなら\nせんとうは おわる。
+もうどくの じょうたいに する。\nタ－ンすうが すすむほど どくの\nダメ－ジりょうは ふえる。
+５タ－ンの あいだ あられを\nふらして こおりタイプ いがいの\nポケモンに ダメ－ジを あたえる。
+ちからを こめて きんにくを\nあつくする ことで じぶんの\nこうげきと ぼうぎょを あげる。
+タネを いきおいよく ２－５かい\nはっしゃして こうげきする。\n
+おぼえる ポケモンの かくされた\nのうりょくで わざの タイプと\nいりょくが  かわる。
+５タ－ンの あいだ ひざしを\nつよくして ほのおタイプの\nわざの いりょくを あげる。
+あいてを おこらせて ２－４タ－ンの\nあいだ ダメ－ジを あたえるわざ\nいがい だせない ようにする。
+れいきの ビ－ムを はっしゃして\nこうげきする。 あいてを こおりの\nじょうたいに することが ある。
+はげしい ふぶきを ぶつけて\nこうげきする。 あいてを こおりの\nじょうたいに することが ある。
+つよい こうせんを はっしゃする。\nつかった つぎのタ－ンは はんどうで\nうごけなくなる。
+５タ－ンの あいだ ふしぎな かべで\nあいてから うける とくしゅわざの\nダメ－ジを よわめる。
+こうげきを まったく うけない。\nわざを れんぞくで だすと しっぱい\nしやすくなる。
+５タ－ンの あいだ あめを ふらして\nみずタイプの わざの いりょくを\nあげる。
+ようぶんを すいとり こうげきする。\nあたえた ダメ－ジの はんぶんの\nＨＰを かいふく できる。
+ふしぎな ちからに まもられて\nどく まひ やけど ねむりなどの\nじょうたい いじょうに ならない。
+ふまんを はらすために ぜんりょくで\nこうげきする。 なついて いないほど\nいりょくは あがる。
+１タ－ンめに ひかりを あつめて\n２タ－ンめに ひかりの こうせんを\nはっしゃして こうげきする。
+かたいシッポで こうげきする。\nダメ－ジを あたえた あいての\nぼうぎょを さげることが ある。
+つよい でんげきを あびせて\nこうげきする。 あいてを まひの\nじょうたいに することが ある。
+はげしい かみなりを おとして\nこうげきする。 あいてを まひの\nじょうたいに することが ある。
+たたかっている ポケモン すべてに\nじしんの しょうげきを あたえて\nこうげきする。
+トレ－ナ－のために ぜんりょくで\nこうげきする。 なついて いるほど\nいりょくは あがる。
+１タ－ンめに もぐり ２タ－ンめで\nこうげきする。 どうくつで つかうと\nそとに だっしゅつ できる。
+つよい ねんりきを おくって\nこうげきする。 あいての とくぼうを\nさげることが ある。
+くろいかげの かたまりを なげて\nこうげきする。 あいての とくぼうを\nさげることが ある。
+こぶしなどで こうげきする。\nひかりのかべや リフレクタ－も\nはかいできる。
+すばやい うごきで ぶんしんを\nつくる。 あいてを まどわせることで\nかいひりつを あげる。
+５タ－ンの あいだ ふしぎな かべで\nあいてから うける ぶつりわざの\nダメ－ジを よわめる。
+でんげきを すばやく あびせて\nこうげきする。 こうげきは かならず\nめいちゅうする。
+はげしい ほのおを はっしゃして\nこうげきする。 あいてを やけどの\nじょうたいに することが ある。
+きたない ヘドロを なげつける。\nあいてを どくの じょうたいに\nすることが ある。
+５タ－ンの あいだ すなあらしで\nじめん いわ はがね タイプいがいに\nダメ－ジを あたえる。
+だいのじの ほのおで すべてを\nやきつくす。 あいてを やけどの\nじょうたいに することが ある。
+いわを なげつけ こうげきする。\nおちた いわが うごきを ふうじて\nあいての すばやさを さげる。
+すばやい うごきで ほんろうする。\nこうげきは かならず あいてに\nめいちゅうする。
+いちゃもんを つけて おなじわざを\nれんぞくで だせない ようにする。\n
+どく まひ やけど のじょうたいで\nわざを だすと ２ばいの いりょくで\nこうげき できる。
+くさむらや みずべ どうくつ など\nたたかう ばしょによって あたえる\nついかこうかが かわる。
+２タ－ンの あいだ ねむりつづける。\nＨＰと からだの いじょうを\nすべて かいふくする。
+㊚なら㊛を ㊛なら㊚を ゆうわくして\nメロメロにする。 メロメロに なった\nあいては わざが だしにくくなる。
+こうげきと どうじに もちものを\nぬすむ。 じぶんに もちものが\nあると しっぱいする。
+かたい つばさを おおきく ひろげて\nたいあたりする。 じぶんの\nぼうぎょを あげることが ある。
+ちょうのうりょくで じぶんの\nとくせいと あいての とくせいを\nいれかえる。
+あいてが つかおうとする かいふくや\nのうりょく へんかの わざを\nよこどりして じぶんに つかう。
+フルパワ－で ほのおの こうげき。\nつかったあと じぶんの とくこうは\nがくっと さがる。
+じめんにおりて からだを やすめる。\nさいだいＨＰの はんぶんだけ\nＨＰを かいふくする。
+こんしんの ちからで こうげきする。\nあたった あいての とくぼうを\nさげることが ある。
+いのちの ちからを あつめて \nこうげきする。 あたった あいての\nとくぼうを さげることが ある。
+てかげんして こうげきする。\nこうげきした あいての ＨＰは\nかならず １のこる。
+あいての ＨＰが さいだいＨＰの\nはんぶんも ないときに つかうと\nわざの いりょくは ２ばいに なる。
+どうぐを なげつけて こうげきする。\nなげる もちものに よって わざの\nいりょくと こうかは かわる。
+でんげきを あびせて こうげきする。\nのこった でんきを ためて じぶんの\nとくこうを あげることが ある。
+こうげきを うけても ＨＰを １だけ\nのこして たえる。 れんぞくで\nだすと しっぱい しやすくなる。
+おおきな くちから しょうげきはを\nはなって こうげきする。\n
+こぶしから あいての ＨＰを \nすいとり あたえた ダメ－ジの\nはんぶん ＨＰを かいふくする。
+あおじろく もえる あやしげな\nほのおを はなつ。 あいてを\nやけどの じょうたいに する。
+かぜに りんぷんを のせて\nこうげきする。 じぶんの すべての\nのうりょくを あげることが ある。
+もたせた どうぐを つかえなくする。\nトレ－ナ－も その ポケモンには\nどうぐを つかうことが できない。
+おおきな ばくはつを おこして\nまわりを まきこみ こうげきする。\nつかったあと ひんしに なる。
+かげで つくった するどいツメで\nきりさいて こうげきする。\nきゅうしょに あたりやすい。
+ちからを ためこみ こうげきする。\nあいてより あとに だせると\nわざの いりょくは ２ばいに なる。
+せんとうちゅうに つかって\nなくなった じぶんの もちものを\nもういちど つかえるように する。
+もてる ちからの すべてを あつめて\nとつげきする。 つぎの タ－ン\nはんどうで うごけなくなる。
+からだを みがきあげて くうきの\nていこうを すくなくする。\nすばやさを ぐ－んと あげる。
+あいての めいちゅうりつを さげる。\nくらい どうくつを あかるく\nてらすことも できる。
+とがった がんせきを したから\nつきさして こうげきする。\nきゅうしょに あたりやすい。
+わざを だすまえに こうげきを\nうけていたとき その あいてには\nいりょくが ２ばいに なる。
+よわい でんきを あびせることで\nあいてを まひじょうたいに する。\n
+からだを こうそくに かいてん\nさせて たいあたりする。 あいてより\nおそいほど いりょくは あがる。
+たたかいのまいを はげしく おどり\nきあいを たかめる。 じぶんの\nこうげきを ぐ－んと あげる。
+あいての まわりに とがった いわを\nうかべて こうたいで でてきた\nポケモンに ダメ－ジを あたえる。
+じぶんに あんじを かけることで\nのうりょく へんかの じょうたいを\nあいてと おなじにする。
+㊚なら㊛を ㊛なら㊚を ゆうわくして\nとくこうを がくっと さげる。\n
+あくいに みちた おそろしい\nオ－ラを はっして こうげきする。\nあいてを ひるませることが ある。
+おおきな がんせきを なげつけて\nこうげきする。\nあいてを ひるませることが ある。
+カマや ツメを ハサミのように\nこうさ させながら きりさいて\nこうげきする。
+おぼえている わざのうち どれか\n１つを くりだす。 じぶんが\nねむっている ときだけ つかえる。
+きのみから ちからを もらい\nこうげきする。 もたせた きのみで\nいりょくと タイプは かわる。
+どくに そまった しょくしゅや\nうでで こうげきする。どくの\nじょうたいに することが ある。
+ねている あいての ゆめを たべて\nこうげきする。 あたえた ダメ－ジの\nはんぶん ＨＰを かいふくする。
+くさを からませて ころばせる。\nあいてが おもいほど わざの\nいりょくは あがる。
+おこらせて こんらんさせる。\nいかりで あいての こうげきは\nぐ－んと あがってしまう。
+くちばしで こうげきする。\nあいてが きのみを もっているとき\nついばんで こうかを うけられる。
+あいてを こうげきした あとに\nひかえの ポケモンと いれかわる。\n
+じぶんの ＨＰを すこし けずって\nぶんしんを だす。 じぶんの\nかわりに こうげきを うける。
+からだの ひかりを いってんに\nあつめ ひかりを はなつ。 あいての\nとくぼうを さげることがある。
+まかふしぎな くうかんを つくる。\n５タ－ンの あいだ うごきの おそい\nポケモンから こうげきできる。
+カマや ツメなどの するどいもので\nきりつけて こうげきする。\nほそいきを きることも できる。
+１タ－ンめで そらへ とびあがって\n２タ－ンめで こうげきする。\nしっているまちに いどうも できる。
+おおきな なみを おこして\nすべての ポケモンを こうげきする。\nみずのうえを すすむことも できる。
+こんしんの ちからで こうげきする。\nおもいいわを おすことも できる。\n
+はげしく うずまく みずの なかに\nあいてを とじこめて こうげきする。\nうずのうえを とおることも できる。
+いわを くだくような パンチで\nこうげきする。 ひびわれた いわを\nこわすことも できる。
+たきを さかのぼるような すさまじい\nいきおいで とっしん こうげきする。\nたきを のぼることも できる。
+とっしん こうげきで こんらん\nさせることが ある。 ごつごつした\nいわを のぼることも できる。
+－\n－\n－
+たんこうで てにいれた\nたからものを しまっておける\nおおきくて じょうぶな ふくろ。
+たいせんの ル－ルが かかれている。\nつうしんたいせん するとき\nル－ルを えらぶことが できる。
+くさむらに かくれている ポケモンを\nさがしだせる どうぐ。\nあるくと でんちが たまる。
+かちとった バトルポイントの かずを\nみることが できる カ－ド。\n
+これまでの ぼうけんの ようすが\nきろく されている ノ－ト。\n
+ボ－ルカプセルに はりつけられる\nシ－ルが はいった いれもの。\n
+いろとりどりの アクセサリ－を\nきれいにしまえる すてきな ケ－ス。\n
+シ－ルが １０まい いれられる\nちっちゃな ふくろ。\n
+ともだちを とうろくしたり\nあそんだ ことを きろくする\nべんりな てちょう。
+たにまのはつでんしょの とびらを\nあけしめする おおきな カギ。\nなぜか ギンガだんが もっていた。
+カンナギタウンの ちょうろうに\nとどける おおむかしの おまもり。\nポケモンの ホネで つくられている。
+ギンガだんアジトの セキュリティを\nかいじょ するための カ－ドキ－。\nなくすと おしおき されるらしい。
+シンオウちほうを うみだした\nでんせつの ポケモンを つなぐと\nいわれる しんわの どうぐ。
+いつでも てがるに みることが\nできる べんりな ちず。\nじぶんの ばしょも わかる。
+たたかいたい トレ－ナ－を\nおしえてくれる きかい。\nあるくと でんちが たまる。
+ゲ－ムコ－ナ－で てにいれた\nコインを ５００００まい まで\nいれることが できる ケ－ス。
+ふるくて ボロい つりざお。\nみずの ある ばしょで つかうと\nポケモンが つれる。
+あたらしくて いい つりざお。\nみずの ある ばしょで つかうと\nポケモンが つれる。
+さいしんの すごい つりざお。\nみずの ある ばしょで つかうと\nポケモンが つれる。
+みずを かける どうぐ。\nふかふかのつちに うめた きのみを\nすくすく そだてる。
+おりょうりで つくった ポフィンを\nほぞんする いれもの。\n
+ランニングシュ－ズ よりも\nはやく はしることが できる\nおりたたみしきの じてんしゃ。
+みずうみの ほとりにある\nこうきゅうホテルの ル－ムキ－。\nなぜか よく なくなってしまう。
+オ－キドはかせ からの てがみ。\nなかには ２２４ばんどうろに\nきてほしいと かかれている。
+つきのような かがやきを はなつ\nはね。 あくむを ふりはらう ちからを\nひめていると つたえられている。
+ミオシティの やどやに はいれる\nカ－ド。 なぜか ５０ねんほどまえの\nひづけが きざまれている。
+このよの ものとは おもえない\nねいろが なりひびく ふえ。 いつ\nだれが つくったのか わからない。
+こうそくせん アクアごうに のるとき\nひつような ふねの チケット。\nふねの えが かかれている。
+もっていれば ポケモンコンテストに\nさんか することが できる。\nきねんリボンが かかれている。
+しゃくねつの マグマの ねつでとけた\nがんせきが かたまって できたもの。\nなかに マグマが のこっている。
+フタバタウンから たびだった\nおさななじみに わたすように\nたのまれた おとどけもの。
+ポケモンウォッチ ちぢめて\nポケッチを もらうために ひつような\nひきかえけん。 ３まい ひつよう。
+ポケモンウォッチ ちぢめて\nポケッチを もらうために ひつような\nひきかえけん。 ３まい ひつよう。
+ポケモンウォッチ ちぢめて\nポケッチを もらうために ひつような\nひきかえけん。 ３まい ひつよう。
+トバリシティの はずれにある\nギンガだんの あやしい\nそうこに はいるための カギ。
+タンバシティの くすりやで もらった\nどんな ポケモンでも たちまち\nげんきになる すごい くすり。
+ともだち との しょうぶや\nとくしゅな しせつでの しょうぶを\nきろくできる かっこいい きかい。
+たんじょうびや きねんび などに\nかんしゃの きもちを つたえるため\nブ－ケにして おくることが ある。
+きまった ばしょで つかうことで\nとくしゅな でんきしんごうを だして\nとびらを あける ハイテクな カギ。
+ぼんぐりを それぞれ ９９こずつ\nほぞんできる べんりな いれもの。\n
+みつけた アンノ－ンの ようすが\nきろく されている ノ－ト。\n
+いつでも てがるに きのみを\nそだてられる けいたいしきの\nさいばい ようき。
+みえない どうぐに はんのうして\nおとと ひかりで おしえて くれる\nさいしんの きかい。
+「アオイのあいことば」 ばんぐみの\nポイントを ためる カ－ド。\n
+とても おいしい なにかの しっぽ。\nショップで たかく うれる。\n
+こころ やすまる ねいろが きける\nとても ふるめかしい スズ。\n
+ラジオとうの シャッタ－を あける\nカ－ドしきの カギ。\n
+コガネちかつうろに ある とびらを\nあける カギ。\n
+みずを かける どうぐ。\nきのみプランタ－の きのみを\nすくすく そだてる。
+いかりのみずうみに あらわれた\nあかい ギャラドスの ウロコ。\nほのおのように あかく かがやく。
+モノマネむすめが なくした\nピッピの にんぎょう。\n
+リニアモ－タ－カ－に のるときに\nひつような チケット。\nいつでも のりほうだい。
+はつでんしょから ぬすまれた\nはつでんきの たいせつな ぶひん。\n
+ぎんいろに ひかり かがやく\nふしぎな はね。\n
+にじいろに ひかり かがやく\nふしぎな はね。\n
+ポケモンじいさんから あずかった\nふしぎな もようの タマゴ。\nなんの タマゴか わからない。
+あかいろの ぼんぐり。\nつ－んと はなにくる かおりが する。\n
+きいろの ぼんぐり。\nさわやかな かおりが する。\n
+あおいろの ぼんぐり。\nすこし あおくさい かおりが する。\n
+みどりいろの ぼんぐり。\nふしぎと こうばしい かおりが する。\n
+ももいろの ぼんぐり。\nあまそうな いい かおりが する。\n
+しろいろの ぼんぐり。\nなんの かおりも しない。\n
+くろいろの ぼんぐり。\nなんとも いえない かおりが する。\n
+すばやさの たかい ポケモンが\nつかまえやすくなる\nちょっと かわった ボ－ル。 
+じぶんの ポケモンより レベルが\nひくいほど つかまえやすくなる\nちょっと かわった ボ－ル。 
+つりざおで つりあげた ポケモンだと\nつかまえやすくなる\nちょっと かわった ボ－ル。 
+たいじゅうの おもい ポケモンが\nつかまえやすくなる\nちょっと かわった ボ－ル。 
+じぶんの ポケモンと せいべつが\nちがうと つかまえやすくなる\nちょっと かわった ボ－ル。 
+つかまえた やせいポケモンが\nすぐに なついて くれる\nちょっと かわった ボ－ル。 
+つきのいしで しんかする ポケモンが\nつかまえやすくなる\nちょっと かわった ボ－ル。 
+むしとりたいかいの なかで\nつかう とくべつな ボ－ル。 \n
+パルパ－クの なかで\nつかう とくべつな ボ－ル。 \n
+ぼうけんちゅうに さつえいした\nきねんしゃしんを かざる アルバム。\n
+なつかしい きょくが きける\nおんがく プレイヤ－。\nスイッチ ひとつで きりかえられる。
+こころ やすまる ねいろが きける\nとても ふるめかしい スズ。\n
+チョウジめいぶつの まんじゅう。\nおみやげひん として ゆうめい。\n
+ポケスロンの きろくが はいっている。\nゆうしょう かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nビリになった かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの ダッシュした かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの ジャンプした かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nダッシュハ－ドル １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nチェンジリレ－ １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nスティ－ルフラッグ １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nブレイクブロック １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nキャッチソ－サ－ １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nシュ－ティングスノ－ １い\nかいすうが きろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの かくとく ポイントが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの しっぱいした かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの じめつした かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの たいあたり かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの おちた かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nリングアウトファイト １い\nかいすうが きろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nバウンドフィ－ルド １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nプッシュサ－クル １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nつうしん ポケスロンの ゆうしょう\nかいすうが きろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nつうしん ポケスロンの ビリになった\nかいすうが きろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nきょうぎで １い になった\nかいすうが きろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nきょうぎで ビリになった\nかいすうが きろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンの こうたい かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nスマッシュゴ－ル １い かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nこじんしょう かくとく かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケモンを タッチした かいすうが\nきろくされた カ－ド。
+ポケスロンの きろくが はいっている。\nポケスロンで あそんだ じかんが\nきろくされた カ－ド。
+ホウエンちほうの でんせつと\nふかい かかわりが あると いわれる\nみどりいろに かがやく たま。
+とくしゅな カギで あけられる\nがんじょうな カプセル。\n
+ホウエンちほうの でんせつと\nふかい かかわりが あると いわれる\nあかく かがやく たま。
+ホウエンちほうの でんせつと\nふかい かかわりが あると いわれる\nあおく かがやく たま。
+じめんから ほりだされた\nすいしょうだま。いわと つちで\nおおわれているが とても きれい。

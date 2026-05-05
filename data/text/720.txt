@@ -1,127 +1,127 @@
- -
-Stench
-Drizzle
-Speed Boost
-Battle Armor
-Sturdy
-Damp
-Limber
-Sand Veil
-Static
-Volt Absorb
-Water Absorb
-Oblivious
-Cloud Nine
-CompoundEyes
-Insomnia
-Color Change
-Immunity
-Flash Fire
-Shield Dust
-Own Tempo
-Suction Cups
-Intimidate
-Shadow Tag
-Rough Skin
-Wonder Guard
-Levitate
-Effect Spore
-Synchronize
-Clear Body
-Natural Cure
-Lightning Rod
-Serene Grace
-Swift Swim
-Chlorophyll
-Illuminate
-Trace
-Huge Power
-Poison Point
-Inner Focus
-Magma Armor
-Water Veil
-Magnet Pull
-Soundproof
-Rain Dish
-Sand Stream
-Pressure
-Thick Fat
-Early Bird
-Flame Body
-Run Away
-Keen Eye
-Hyper Cutter
-Pickup
-Truant
-Hustle
-Cute Charm
-Plus
-Minus
-Forecast
-Sticky Hold
-Shed Skin
-Guts
-Marvel Scale
-Liquid Ooze
-Overgrow
-Blaze
-Torrent
-Swarm
-Rock Head
-Drought
-Arena Trap
-Vital Spirit
-White Smoke
-Pure Power
-Shell Armor
-Air Lock
-Tangled Feet
-Motor Drive
-Rivalry
-Steadfast
-Snow Cloak
-Gluttony
-Anger Point
-Unburden
-Heatproof
-Simple
-Dry Skin
-Download
-Iron Fist
-Poison Heal
-Adaptability
-Skill Link
-Hydration
-Solar Power
-Quick Feet
-Normalize
-Sniper
-Magic Guard
-No Guard
-Stall
-Technician
-Leaf Guard
-Klutz
-Mold Breaker
-Super Luck
-Aftermath
-Anticipation
-Forewarn
-Unaware
-Tinted Lens
-Filter
-Slow Start
-Scrappy
-Storm Drain
-Ice Body
-Solid Rock
-Snow Warning
-Honey Gather
-Frisk
-Reckless
-Multitype
-Flower Gift
-Bad Dreams
+－
+あくしゅう
+あめふらし
+かそく
+カブトア－マ－
+がんじょう
+しめりけ
+じゅうなん
+すながくれ
+せいでんき
+ちくでん
+ちょすい
+どんかん
+ノ－てんき
+ふくがん
+ふみん
+へんしょく
+めんえき
+もらいび
+りんぷん
+マイペ－ス
+きゅうばん
+いかく
+かげふみ
+さめはだ
+ふしぎなまもり
+ふゆう
+ほうし
+シンクロ
+クリアボディ
+しぜんかいふく
+ひらいしん
+てんのめぐみ
+すいすい
+ようりょくそ
+はっこう
+トレ－ス
+ちからもち
+どくのトゲ
+せいしんりょく
+マグマのよろい
+みずのベ－ル
+じりょく
+ぼうおん
+あめうけざら
+すなおこし
+プレッシャ－
+あついしぼう
+はやおき
+ほのおのからだ
+にげあし
+するどいめ
+かいりきバサミ
+ものひろい
+なまけ
+はりきり
+メロメロボディ
+プラス
+マイナス
+てんきや
+ねんちゃく
+だっぴ
+こんじょう
+ふしぎなうろこ
+ヘドロえき
+しんりょく
+もうか
+げきりゅう
+むしのしらせ
+いしあたま
+ひでり
+ありじごく
+やるき
+しろいけむり
+ヨガパワ－
+シェルア－マ－
+エアロック
+ちどりあし
+でんきエンジン
+とうそうしん
+ふくつのこころ
+ゆきがくれ
+くいしんぼう
+いかりのつぼ
+かるわざ
+たいねつ
+たんじゅん
+かんそうはだ
+ダウンロ－ド
+てつのこぶし
+ポイズンヒ－ル
+てきおうりょく
+スキルリンク
+うるおいボディ
+サンパワ－
+はやあし
+ノ－マルスキン
+スナイパ－
+マジックガ－ド
+ノ－ガ－ド
+あとだし
+テクニシャン
+リ－フガ－ド
+ぶきよう
+かたやぶり
+きょううん
+ゆうばく
+きけんよち
+よちむ
+てんねん
+いろめがね
+フィルタ－
+スロ－スタ－ト
+きもったま
+よびみず
+アイスボディ
+ハ－ドロック
+ゆきふらし
+みつあつめ
+おみとおし
+すてみ
+マルチタイプ
+フラワ－ギフト
+ナイトメア
 Pickpocket
 Sheer Force
 Contrary
