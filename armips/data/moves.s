@@ -10,7 +10,7 @@
 .include "asm/include/moves.inc"
 .include "asm/include/move_effects.inc"
 
-movedata MOVE_NONE, "-"
+movedata MOVE_NONE, "－"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 0
@@ -26,7 +26,7 @@ movedata MOVE_NONE, "-"
     terminatedata
     movedescription MOVE_NONE, "\n\n\n\n"
 
-movedata MOVE_POUND, "Pound"
+movedata MOVE_POUND, "はたく"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 40
@@ -42,7 +42,7 @@ movedata MOVE_POUND, "Pound"
     terminatedata
     movedescription MOVE_POUND, "The foe is physically\npounded with a long\ntail or a foreleg,\netc.\n"
 
-movedata MOVE_KARATE_CHOP, "Karate Chop"
+movedata MOVE_KARATE_CHOP, "からてチョップ"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 50
@@ -58,7 +58,7 @@ movedata MOVE_KARATE_CHOP, "Karate Chop"
     terminatedata
     movedescription MOVE_KARATE_CHOP, "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.\n"
 
-movedata MOVE_DOUBLE_SLAP, "Double Slap"
+movedata MOVE_DOUBLE_SLAP, "おうふくビンタ"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -74,7 +74,7 @@ movedata MOVE_DOUBLE_SLAP, "Double Slap"
     terminatedata
     movedescription MOVE_DOUBLE_SLAP, "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times in a row.\n"
 
-movedata MOVE_COMET_PUNCH, "Comet Punch"
+movedata MOVE_COMET_PUNCH, "れんぞくパンチ"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 18
@@ -90,7 +90,7 @@ movedata MOVE_COMET_PUNCH, "Comet Punch"
     terminatedata
     movedescription MOVE_COMET_PUNCH, "The foe is hit with\na flurry of punches\nthat strike two to\nfive times in a row.\n"
 
-movedata MOVE_MEGA_PUNCH, "Mega Punch"
+movedata MOVE_MEGA_PUNCH, "メガトンパンチ"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -106,7 +106,7 @@ movedata MOVE_MEGA_PUNCH, "Mega Punch"
     terminatedata
     movedescription MOVE_MEGA_PUNCH, "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.\n"
 
-movedata MOVE_PAY_DAY, "Pay Day"
+movedata MOVE_PAY_DAY, "ネコにこばん"
     battleeffect MOVE_EFFECT_INCREASE_PRIZE_MONEY
     pss SPLIT_PHYSICAL
     basepower 40
@@ -122,7 +122,7 @@ movedata MOVE_PAY_DAY, "Pay Day"
     terminatedata
     movedescription MOVE_PAY_DAY, "Numerous coins are\nhurled at the foe to\ninflict damage.\nMoney is earned\nafter battle."
 
-movedata MOVE_FIRE_PUNCH, "Fire Punch"
+movedata MOVE_FIRE_PUNCH, "ほのおのパンチ"
     battleeffect MOVE_EFFECT_BURN_HIT
     pss SPLIT_PHYSICAL
     basepower 75
@@ -138,7 +138,7 @@ movedata MOVE_FIRE_PUNCH, "Fire Punch"
     terminatedata
     movedescription MOVE_FIRE_PUNCH, "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n"
 
-movedata MOVE_ICE_PUNCH, "Ice Punch"
+movedata MOVE_ICE_PUNCH, "れいとうパンチ"
     battleeffect MOVE_EFFECT_FREEZE_HIT
     pss SPLIT_PHYSICAL
     basepower 75
@@ -154,7 +154,7 @@ movedata MOVE_ICE_PUNCH, "Ice Punch"
     terminatedata
     movedescription MOVE_ICE_PUNCH, "The foe is punched\nwith an icy fist.\nIt may leave the\ntarget frozen.\n"
 
-movedata MOVE_THUNDER_PUNCH, "Thunder Punch"
+movedata MOVE_THUNDER_PUNCH, "かみなりパンチ"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 75
@@ -170,7 +170,7 @@ movedata MOVE_THUNDER_PUNCH, "Thunder Punch"
     terminatedata
     movedescription MOVE_THUNDER_PUNCH, "The foe is punched\nwith an electrified\nfist. It may leave\nthe target with\nparalysis."
 
-movedata MOVE_SCRATCH, "Scratch"
+movedata MOVE_SCRATCH, "ひっかく"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 40
@@ -186,7 +186,7 @@ movedata MOVE_SCRATCH, "Scratch"
     terminatedata
     movedescription MOVE_SCRATCH, "Hard, pointed, and\nsharp claws rake the\nfoe to inflict damage.\n\n"
 
-movedata MOVE_VICE_GRIP, "Vise Grip"
+movedata MOVE_VICE_GRIP, "はさむ"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 55
@@ -202,7 +202,7 @@ movedata MOVE_VICE_GRIP, "Vise Grip"
     terminatedata
     movedescription MOVE_VICE_GRIP, "Huge, impressive\npincers grip and\nsqueeze the foe.\n\n"
 
-movedata MOVE_GUILLOTINE, "Guillotine"
+movedata MOVE_GUILLOTINE, "ハサミギロチン"
     battleeffect MOVE_EFFECT_ONE_HIT_KO
     pss SPLIT_PHYSICAL
     basepower 1
@@ -218,7 +218,7 @@ movedata MOVE_GUILLOTINE, "Guillotine"
     terminatedata
     movedescription MOVE_GUILLOTINE, "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits."
 
-movedata MOVE_RAZOR_WIND, "Razor Wind"
+movedata MOVE_RAZOR_WIND, "かまいたち"
     battleeffect MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -234,7 +234,7 @@ movedata MOVE_RAZOR_WIND, "Razor Wind"
     terminatedata
     movedescription MOVE_RAZOR_WIND, "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio."
 
-movedata MOVE_SWORDS_DANCE, "Swords Dance"
+movedata MOVE_SWORDS_DANCE, "つるぎのまい"
     battleeffect MOVE_EFFECT_ATK_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -250,7 +250,7 @@ movedata MOVE_SWORDS_DANCE, "Swords Dance"
     terminatedata
     movedescription MOVE_SWORDS_DANCE, "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat."
 
-movedata MOVE_CUT, "Cut"
+movedata MOVE_CUT, "いあいぎり"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 50
@@ -266,7 +266,7 @@ movedata MOVE_CUT, "Cut"
     terminatedata
     movedescription MOVE_CUT, "The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees."
 
-movedata MOVE_GUST, "Gust"
+movedata MOVE_GUST, "かぜおこし"
     battleeffect MOVE_EFFECT_DOUBLE_DAMAGE_FLY_OR_BOUNCE
     pss SPLIT_SPECIAL
     basepower 40
@@ -282,7 +282,7 @@ movedata MOVE_GUST, "Gust"
     terminatedata
     movedescription MOVE_GUST, "A gust of wind is\nwhipped up by wings\nand launched at the\nfoe to inflict damage.\n"
 
-movedata MOVE_WING_ATTACK, "Wing Attack"
+movedata MOVE_WING_ATTACK, "つばさでうつ"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -298,7 +298,7 @@ movedata MOVE_WING_ATTACK, "Wing Attack"
     terminatedata
     movedescription MOVE_WING_ATTACK, "The foe is struck\nwith large, imposing\nwings spread wide\nto inflict damage.\n"
 
-movedata MOVE_WHIRLWIND, "Whirlwind"
+movedata MOVE_WHIRLWIND, "ふきとばし"
     battleeffect MOVE_EFFECT_FORCE_SWITCH
     pss SPLIT_STATUS
     basepower 0
@@ -314,7 +314,7 @@ movedata MOVE_WHIRLWIND, "Whirlwind"
     terminatedata
     movedescription MOVE_WHIRLWIND, "The foe is blown away,\nto be replaced by\nanother Pokémon\nin its party. In the\nwild, the battle ends."
 
-movedata MOVE_FLY, "Fly"
+movedata MOVE_FLY, "そらをとぶ"
     battleeffect MOVE_EFFECT_FLY
     pss SPLIT_PHYSICAL
     basepower 90
@@ -330,7 +330,7 @@ movedata MOVE_FLY, "Fly"
     terminatedata
     movedescription MOVE_FLY, "The user soars, then\nstrikes on the second\nturn. It can also be\nused for flying to\nany familiar town."
 
-movedata MOVE_BIND, "Bind"
+movedata MOVE_BIND, "しめつける"
     battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -346,7 +346,7 @@ movedata MOVE_BIND, "Bind"
     terminatedata
     movedescription MOVE_BIND, "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns."
 
-movedata MOVE_SLAM, "Slam"
+movedata MOVE_SLAM, "たたきつける"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -362,7 +362,7 @@ movedata MOVE_SLAM, "Slam"
     terminatedata
     movedescription MOVE_SLAM, "The foe is slammed\nwith a long tail,\nvines, etc., to inflict\ndamage.\n"
 
-movedata MOVE_VINE_WHIP, "Vine Whip"
+movedata MOVE_VINE_WHIP, "つるのムチ"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 45
@@ -378,7 +378,7 @@ movedata MOVE_VINE_WHIP, "Vine Whip"
     terminatedata
     movedescription MOVE_VINE_WHIP, "The foe is struck\nwith slender, whiplike\nvines to inflict\ndamage.\n"
 
-movedata MOVE_STOMP, "Stomp"
+movedata MOVE_STOMP, "ふみつけ"
     battleeffect MOVE_EFFECT_FLINCH_MINIMIZE_DOUBLE_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -394,7 +394,7 @@ movedata MOVE_STOMP, "Stomp"
     terminatedata
     movedescription MOVE_STOMP, "The foe is stomped\nwith a big foot.\nIt may also make the\ntarget flinch.\n"
 
-movedata MOVE_DOUBLE_KICK, "Double Kick"
+movedata MOVE_DOUBLE_KICK, "にどげり"
     battleeffect MOVE_EFFECT_HIT_TWICE
     pss SPLIT_PHYSICAL
     basepower 30
@@ -410,7 +410,7 @@ movedata MOVE_DOUBLE_KICK, "Double Kick"
     terminatedata
     movedescription MOVE_DOUBLE_KICK, "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n"
 
-movedata MOVE_MEGA_KICK, "Mega Kick"
+movedata MOVE_MEGA_KICK, "メガトンキック"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -426,7 +426,7 @@ movedata MOVE_MEGA_KICK, "Mega Kick"
     terminatedata
     movedescription MOVE_MEGA_KICK, "The foe is attacked\nby a kick launched\nwith muscle-packed\npower.\n"
 
-movedata MOVE_JUMP_KICK, "Jump Kick"
+movedata MOVE_JUMP_KICK, "とびげり"
     battleeffect MOVE_EFFECT_CRASH_ON_MISS
     pss SPLIT_PHYSICAL
     basepower 100
@@ -442,7 +442,7 @@ movedata MOVE_JUMP_KICK, "Jump Kick"
     terminatedata
     movedescription MOVE_JUMP_KICK, "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself."
 
-movedata MOVE_ROLLING_KICK, "Rolling Kick"
+movedata MOVE_ROLLING_KICK, "まわしげり"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -458,7 +458,7 @@ movedata MOVE_ROLLING_KICK, "Rolling Kick"
     terminatedata
     movedescription MOVE_ROLLING_KICK, "The user lashes \nout with a quick,\nspinning kick. It\nmay also make the\ntarget flinch."
 
-movedata MOVE_SAND_ATTACK, "Sand Attack"
+movedata MOVE_SAND_ATTACK, "すなかけ"
     battleeffect MOVE_EFFECT_ACC_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -474,7 +474,7 @@ movedata MOVE_SAND_ATTACK, "Sand Attack"
     terminatedata
     movedescription MOVE_SAND_ATTACK, "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n"
 
-movedata MOVE_HEADBUTT, "Headbutt"
+movedata MOVE_HEADBUTT, "ずつき"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 70
@@ -490,7 +490,7 @@ movedata MOVE_HEADBUTT, "Headbutt"
     terminatedata
     movedescription MOVE_HEADBUTT, "The user attacks with\nits head. It may make\nthe foe flinch. To find\nPokémon, hit trees."
 
-movedata MOVE_HORN_ATTACK, "Horn Attack"
+movedata MOVE_HORN_ATTACK, "つのでつく"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -506,7 +506,7 @@ movedata MOVE_HORN_ATTACK, "Horn Attack"
     terminatedata
     movedescription MOVE_HORN_ATTACK, "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.\n"
 
-movedata MOVE_FURY_ATTACK, "Fury Attack"
+movedata MOVE_FURY_ATTACK, "みだれづき"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -522,7 +522,7 @@ movedata MOVE_FURY_ATTACK, "Fury Attack"
     terminatedata
     movedescription MOVE_FURY_ATTACK, "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times in a row.\n"
 
-movedata MOVE_HORN_DRILL, "Horn Drill"
+movedata MOVE_HORN_DRILL, "つのドリル"
     battleeffect MOVE_EFFECT_ONE_HIT_KO
     pss SPLIT_PHYSICAL
     basepower 1
@@ -538,7 +538,7 @@ movedata MOVE_HORN_DRILL, "Horn Drill"
     terminatedata
     movedescription MOVE_HORN_DRILL, "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits."
 
-movedata MOVE_TACKLE, "Tackle"
+movedata MOVE_TACKLE, "たいあたり"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 40
@@ -554,7 +554,7 @@ movedata MOVE_TACKLE, "Tackle"
     terminatedata
     movedescription MOVE_TACKLE, "A physical attack\nin which the user\ncharges and slams\ninto the foe with\nits whole body."
 
-movedata MOVE_BODY_SLAM, "Body Slam"
+movedata MOVE_BODY_SLAM, "のしかかり"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 85
@@ -570,7 +570,7 @@ movedata MOVE_BODY_SLAM, "Body Slam"
     terminatedata
     movedescription MOVE_BODY_SLAM, "The user drops onto\nthe foe with its full\nbody weight.\nIt may leave the foe\nparalyzed."
 
-movedata MOVE_WRAP, "Wrap"
+movedata MOVE_WRAP, "まきつく"
     battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -586,7 +586,7 @@ movedata MOVE_WRAP, "Wrap"
     terminatedata
     movedescription MOVE_WRAP, "A long body or vines\nare used to wrap and\nsqueeze the foe for\ntwo to five turns.\n"
 
-movedata MOVE_TAKE_DOWN, "Take Down"
+movedata MOVE_TAKE_DOWN, "とっしん"
     battleeffect MOVE_EFFECT_RECOIL_QUARTER
     pss SPLIT_PHYSICAL
     basepower 90
@@ -602,7 +602,7 @@ movedata MOVE_TAKE_DOWN, "Take Down"
     terminatedata
     movedescription MOVE_TAKE_DOWN, "A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little."
 
-movedata MOVE_THRASH, "Thrash"
+movedata MOVE_THRASH, "あばれる"
     battleeffect MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF
     pss SPLIT_PHYSICAL
     basepower 120
@@ -618,7 +618,7 @@ movedata MOVE_THRASH, "Thrash"
     terminatedata
     movedescription MOVE_THRASH, "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however."
 
-movedata MOVE_DOUBLE_EDGE, "Double-Edge"
+movedata MOVE_DOUBLE_EDGE, "すてみタックル"
     battleeffect MOVE_EFFECT_RECOIL_THIRD
     pss SPLIT_PHYSICAL
     basepower 120
@@ -634,7 +634,7 @@ movedata MOVE_DOUBLE_EDGE, "Double-Edge"
     terminatedata
     movedescription MOVE_DOUBLE_EDGE, "A reckless, life-\nrisking tackle.\nIt also damages the\nuser by a fairly large\namount, however."
 
-movedata MOVE_TAIL_WHIP, "Tail Whip"
+movedata MOVE_TAIL_WHIP, "しっぽをふる"
     battleeffect MOVE_EFFECT_DEF_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -650,7 +650,7 @@ movedata MOVE_TAIL_WHIP, "Tail Whip"
     terminatedata
     movedescription MOVE_TAIL_WHIP, "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered."
 
-movedata MOVE_POISON_STING, "Poison Sting"
+movedata MOVE_POISON_STING, "どくばり"
     battleeffect MOVE_EFFECT_POISON_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -666,7 +666,7 @@ movedata MOVE_POISON_STING, "Poison Sting"
     terminatedata
     movedescription MOVE_POISON_STING, "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target."
 
-movedata MOVE_TWINEEDLE, "Twineedle"
+movedata MOVE_TWINEEDLE, "ダブルニ－ドル"
     battleeffect MOVE_EFFECT_POISON_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 25
@@ -682,7 +682,7 @@ movedata MOVE_TWINEEDLE, "Twineedle"
     terminatedata
     movedescription MOVE_TWINEEDLE, "The foe is stabbed\ntwice by a pair of\nstingers.\nIt may also poison\nthe target."
 
-movedata MOVE_PIN_MISSILE, "Pin Missile"
+movedata MOVE_PIN_MISSILE, "ミサイルばり"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 25
@@ -698,7 +698,7 @@ movedata MOVE_PIN_MISSILE, "Pin Missile"
     terminatedata
     movedescription MOVE_PIN_MISSILE, "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row."
 
-movedata MOVE_LEER, "Leer"
+movedata MOVE_LEER, "にらみつける"
     battleeffect MOVE_EFFECT_DEF_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -714,7 +714,7 @@ movedata MOVE_LEER, "Leer"
     terminatedata
     movedescription MOVE_LEER, "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced."
 
-movedata MOVE_BITE, "Bite"
+movedata MOVE_BITE, "かみつく"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -730,7 +730,7 @@ movedata MOVE_BITE, "Bite"
     terminatedata
     movedescription MOVE_BITE, "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n"
 
-movedata MOVE_GROWL, "Growl"
+movedata MOVE_GROWL, "なきごえ"
     battleeffect MOVE_EFFECT_ATK_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -746,7 +746,7 @@ movedata MOVE_GROWL, "Growl"
     terminatedata
     movedescription MOVE_GROWL, "The user growls in an\nendearing way, making\nthe foe less wary.\nThe target’s Attack\nstat is lowered."
 
-movedata MOVE_ROAR, "Roar"
+movedata MOVE_ROAR, "ほえる"
     battleeffect MOVE_EFFECT_FORCE_SWITCH
     pss SPLIT_STATUS
     basepower 0
@@ -762,7 +762,7 @@ movedata MOVE_ROAR, "Roar"
     terminatedata
     movedescription MOVE_ROAR, "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends."
 
-movedata MOVE_SING, "Sing"
+movedata MOVE_SING, "うたう"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -778,7 +778,7 @@ movedata MOVE_SING, "Sing"
     terminatedata
     movedescription MOVE_SING, "A soothing lullaby is\nsung in a calming\nvoice that puts the\nfoe into a deep\nslumber."
 
-movedata MOVE_SUPERSONIC, "Supersonic"
+movedata MOVE_SUPERSONIC, "ちょうおんぱ"
     battleeffect MOVE_EFFECT_STATUS_CONFUSE
     pss SPLIT_STATUS
     basepower 0
@@ -794,7 +794,7 @@ movedata MOVE_SUPERSONIC, "Supersonic"
     terminatedata
     movedescription MOVE_SUPERSONIC, "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget."
 
-movedata MOVE_SONIC_BOOM, "Sonic Boom"
+movedata MOVE_SONIC_BOOM, "ソニックブ－ム"
     battleeffect MOVE_EFFECT_10_DAMAGE_FLAT
     pss SPLIT_SPECIAL
     basepower 1
@@ -810,7 +810,7 @@ movedata MOVE_SONIC_BOOM, "Sonic Boom"
     terminatedata
     movedescription MOVE_SONIC_BOOM, "The foe is hit with a\ndestructive shock\nwave that always\ninflicts 20 HP damage.\n"
 
-movedata MOVE_DISABLE, "Disable"
+movedata MOVE_DISABLE, "かなしばり"
     battleeffect MOVE_EFFECT_DISABLE
     pss SPLIT_STATUS
     basepower 0
@@ -826,7 +826,7 @@ movedata MOVE_DISABLE, "Disable"
     terminatedata
     movedescription MOVE_DISABLE, "For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused."
 
-movedata MOVE_ACID, "Acid"
+movedata MOVE_ACID, "ようかいえき"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 40
@@ -842,7 +842,7 @@ movedata MOVE_ACID, "Acid"
     terminatedata
     movedescription MOVE_ACID, "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat."
 
-movedata MOVE_EMBER, "Ember"
+movedata MOVE_EMBER, "ひのこ"
     battleeffect MOVE_EFFECT_BURN_HIT
     pss SPLIT_SPECIAL
     basepower 40
@@ -858,7 +858,7 @@ movedata MOVE_EMBER, "Ember"
     terminatedata
     movedescription MOVE_EMBER, "The foe is attacked\nwith small flames.\nThe target may also\nbe left with a burn.\n"
 
-movedata MOVE_FLAMETHROWER, "Flamethrower"
+movedata MOVE_FLAMETHROWER, "かえんほうしゃ"
     battleeffect MOVE_EFFECT_BURN_HIT
     pss SPLIT_SPECIAL
     basepower 95
@@ -874,7 +874,7 @@ movedata MOVE_FLAMETHROWER, "Flamethrower"
     terminatedata
     movedescription MOVE_FLAMETHROWER, "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn."
 
-movedata MOVE_MIST, "Mist"
+movedata MOVE_MIST, "しろいきり"
     battleeffect MOVE_EFFECT_PREVENT_STAT_REDUCTION
     pss SPLIT_STATUS
     basepower 0
@@ -890,7 +890,7 @@ movedata MOVE_MIST, "Mist"
     terminatedata
     movedescription MOVE_MIST, "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns."
 
-movedata MOVE_WATER_GUN, "Water Gun"
+movedata MOVE_WATER_GUN, "みずでっぽう"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL
     basepower 40
@@ -906,7 +906,7 @@ movedata MOVE_WATER_GUN, "Water Gun"
     terminatedata
     movedescription MOVE_WATER_GUN, "The foe is blasted\nwith a forceful shot\nof water.\n\n"
 
-movedata MOVE_HYDRO_PUMP, "Hydro Pump"
+movedata MOVE_HYDRO_PUMP, "ハイドロポンプ"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL
     basepower 120
@@ -922,7 +922,7 @@ movedata MOVE_HYDRO_PUMP, "Hydro Pump"
     terminatedata
     movedescription MOVE_HYDRO_PUMP, "The foe is blasted by\na huge volume of\nwater launched under\ngreat pressure.\n"
 
-movedata MOVE_SURF, "Surf"
+movedata MOVE_SURF, "なみのり"
     battleeffect MOVE_EFFECT_DOUBLE_DAMAGE_DIVE
     pss SPLIT_SPECIAL
     basepower 95
@@ -938,7 +938,7 @@ movedata MOVE_SURF, "Surf"
     terminatedata
     movedescription MOVE_SURF, "It swamps the entire\nbattlefield with a\ngiant wave.\nIt can also be used\nfor crossing water."
 
-movedata MOVE_ICE_BEAM, "Ice Beam"
+movedata MOVE_ICE_BEAM, "れいとうビ－ム"
     battleeffect MOVE_EFFECT_FREEZE_HIT
     pss SPLIT_SPECIAL
     basepower 95
@@ -954,7 +954,7 @@ movedata MOVE_ICE_BEAM, "Ice Beam"
     terminatedata
     movedescription MOVE_ICE_BEAM, "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid."
 
-movedata MOVE_BLIZZARD, "Blizzard"
+movedata MOVE_BLIZZARD, "ふぶき"
     battleeffect MOVE_EFFECT_BLIZZARD
     pss SPLIT_SPECIAL
     basepower 110
@@ -970,7 +970,7 @@ movedata MOVE_BLIZZARD, "Blizzard"
     terminatedata
     movedescription MOVE_BLIZZARD, "A howling blizzard is\nsummoned to strike\nthe foe.\nIt may also freeze\nthe target solid."
 
-movedata MOVE_PSYBEAM, "Psybeam"
+movedata MOVE_PSYBEAM, "サイケこうせん"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -986,7 +986,7 @@ movedata MOVE_PSYBEAM, "Psybeam"
     terminatedata
     movedescription MOVE_PSYBEAM, "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n"
 
-movedata MOVE_BUBBLE_BEAM, "Bubble Beam"
+movedata MOVE_BUBBLE_BEAM, "バブルこうせん"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -1002,7 +1002,7 @@ movedata MOVE_BUBBLE_BEAM, "Bubble Beam"
     terminatedata
     movedescription MOVE_BUBBLE_BEAM, "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat."
 
-movedata MOVE_AURORA_BEAM, "Aurora Beam"
+movedata MOVE_AURORA_BEAM, "オ－ロラビ－ム"
     battleeffect MOVE_EFFECT_LOWER_ATTACK_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -1018,7 +1018,7 @@ movedata MOVE_AURORA_BEAM, "Aurora Beam"
     terminatedata
     movedescription MOVE_AURORA_BEAM, "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat."
 
-movedata MOVE_HYPER_BEAM, "Hyper Beam"
+movedata MOVE_HYPER_BEAM, "はかいこうせん"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_SPECIAL
     basepower 150
@@ -1034,7 +1034,7 @@ movedata MOVE_HYPER_BEAM, "Hyper Beam"
     terminatedata
     movedescription MOVE_HYPER_BEAM, "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy."
 
-movedata MOVE_PECK, "Peck"
+movedata MOVE_PECK, "つつく"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 35
@@ -1050,7 +1050,7 @@ movedata MOVE_PECK, "Peck"
     terminatedata
     movedescription MOVE_PECK, "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n"
 
-movedata MOVE_DRILL_PECK, "Drill Peck"
+movedata MOVE_DRILL_PECK, "ドリルくちばし"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -1066,7 +1066,7 @@ movedata MOVE_DRILL_PECK, "Drill Peck"
     terminatedata
     movedescription MOVE_DRILL_PECK, "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.\n"
 
-movedata MOVE_SUBMISSION, "Submission"
+movedata MOVE_SUBMISSION, "じごくぐるま"
     battleeffect MOVE_EFFECT_RECOIL_QUARTER
     pss SPLIT_PHYSICAL
     basepower 90
@@ -1082,7 +1082,7 @@ movedata MOVE_SUBMISSION, "Submission"
     terminatedata
     movedescription MOVE_SUBMISSION, "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly."
 
-movedata MOVE_LOW_KICK, "Low Kick"
+movedata MOVE_LOW_KICK, "けたぐり"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_WEIGHT
     pss SPLIT_PHYSICAL
     basepower 1
@@ -1098,7 +1098,7 @@ movedata MOVE_LOW_KICK, "Low Kick"
     terminatedata
     movedescription MOVE_LOW_KICK, "A powerful low kick\nthat makes the foe\nfall over. It inflicts\ngreater damage on\nheavier foes."
 
-movedata MOVE_COUNTER, "Counter"
+movedata MOVE_COUNTER, "カウンタ－"
     battleeffect MOVE_EFFECT_COUNTER
     pss SPLIT_PHYSICAL
     basepower 1
@@ -1114,7 +1114,7 @@ movedata MOVE_COUNTER, "Counter"
     terminatedata
     movedescription MOVE_COUNTER, "A retaliation move\nthat counters any\nphysical attack,\ninflicting double the\ndamage taken."
 
-movedata MOVE_SEISMIC_TOSS, "Seismic Toss"
+movedata MOVE_SEISMIC_TOSS, "ちきゅうなげ"
     battleeffect MOVE_EFFECT_LEVEL_DAMAGE_FLAT
     pss SPLIT_PHYSICAL
     basepower 1
@@ -1130,7 +1130,7 @@ movedata MOVE_SEISMIC_TOSS, "Seismic Toss"
     terminatedata
     movedescription MOVE_SEISMIC_TOSS, "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level."
 
-movedata MOVE_STRENGTH, "Strength"
+movedata MOVE_STRENGTH, "かいりき"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -1146,7 +1146,7 @@ movedata MOVE_STRENGTH, "Strength"
     terminatedata
     movedescription MOVE_STRENGTH, "The foe is slugged\nwith a punch thrown\nat maximum power.\nIt can also be used\nto move boulders."
 
-movedata MOVE_ABSORB, "Absorb"
+movedata MOVE_ABSORB, "すいとる"
     battleeffect MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT
     pss SPLIT_SPECIAL
     basepower 30
@@ -1162,7 +1162,7 @@ movedata MOVE_ABSORB, "Absorb"
     terminatedata
     movedescription MOVE_ABSORB, "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target."
 
-movedata MOVE_MEGA_DRAIN, "Mega Drain"
+movedata MOVE_MEGA_DRAIN, "メガドレイン"
     battleeffect MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT
     pss SPLIT_SPECIAL
     basepower 50
@@ -1178,7 +1178,7 @@ movedata MOVE_MEGA_DRAIN, "Mega Drain"
     terminatedata
     movedescription MOVE_MEGA_DRAIN, "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target."
 
-movedata MOVE_LEECH_SEED, "Leech Seed"
+movedata MOVE_LEECH_SEED, "やどりぎのタネ"
     battleeffect MOVE_EFFECT_STATUS_LEECH_SEED
     pss SPLIT_STATUS
     basepower 0
@@ -1194,7 +1194,7 @@ movedata MOVE_LEECH_SEED, "Leech Seed"
     terminatedata
     movedescription MOVE_LEECH_SEED, "A seed is planted on\nthe foe. It steals\nsome HP from the foe\nto heal the user on\nevery turn."
 
-movedata MOVE_GROWTH, "Growth"
+movedata MOVE_GROWTH, "せいちょう"
     battleeffect MOVE_EFFECT_SP_ATK_UP
     pss SPLIT_STATUS
     basepower 0
@@ -1210,7 +1210,7 @@ movedata MOVE_GROWTH, "Growth"
     terminatedata
     movedescription MOVE_GROWTH, "The user’s body is\nforced to grow all at\nonce. It raises the\nSp. Atk stat.\n"
 
-movedata MOVE_RAZOR_LEAF, "Razor Leaf"
+movedata MOVE_RAZOR_LEAF, "はっぱカッタ－"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 55
@@ -1226,7 +1226,7 @@ movedata MOVE_RAZOR_LEAF, "Razor Leaf"
     terminatedata
     movedescription MOVE_RAZOR_LEAF, "Sharp-edged leaves\nare launched to slash\nat the foe. It has a\nhigh critical-hit\nratio."
 
-movedata MOVE_SOLAR_BEAM, "Solar Beam"
+movedata MOVE_SOLAR_BEAM, "ソ－ラ－ビ－ム"
     battleeffect MOVE_EFFECT_CHARGE_TURN_SUN_SKIPS
     pss SPLIT_SPECIAL
     basepower 120
@@ -1242,7 +1242,7 @@ movedata MOVE_SOLAR_BEAM, "Solar Beam"
     terminatedata
     movedescription MOVE_SOLAR_BEAM, "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn."
 
-movedata MOVE_POISON_POWDER, "Poison Powder"
+movedata MOVE_POISON_POWDER, "どくのこな"
     battleeffect MOVE_EFFECT_STATUS_POISON
     pss SPLIT_STATUS
     basepower 0
@@ -1258,7 +1258,7 @@ movedata MOVE_POISON_POWDER, "Poison Powder"
     terminatedata
     movedescription MOVE_POISON_POWDER, "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget."
 
-movedata MOVE_STUN_SPORE, "Stun Spore"
+movedata MOVE_STUN_SPORE, "しびれごな"
     battleeffect MOVE_EFFECT_STATUS_PARALYZE
     pss SPLIT_STATUS
     basepower 0
@@ -1274,7 +1274,7 @@ movedata MOVE_STUN_SPORE, "Stun Spore"
     terminatedata
     movedescription MOVE_STUN_SPORE, "The user scatters a\ncloud of paralyzing\npowder.\nIt may paralyze the\ntarget."
 
-movedata MOVE_SLEEP_POWDER, "Sleep Powder"
+movedata MOVE_SLEEP_POWDER, "ねむりごな"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -1290,7 +1290,7 @@ movedata MOVE_SLEEP_POWDER, "Sleep Powder"
     terminatedata
     movedescription MOVE_SLEEP_POWDER, "The user scatters a\nbig cloud of sleep-\ninducing dust around\nthe foe.\n"
 
-movedata MOVE_PETAL_DANCE, "Petal Dance"
+movedata MOVE_PETAL_DANCE, "はなびらのまい"
     battleeffect MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF
     pss SPLIT_SPECIAL
     basepower 120
@@ -1306,7 +1306,7 @@ movedata MOVE_PETAL_DANCE, "Petal Dance"
     terminatedata
     movedescription MOVE_PETAL_DANCE, "The user attacks by\nscattering petals for\ntwo to three turns.\nThe user then\nbecomes confused."
 
-movedata MOVE_STRING_SHOT, "String Shot"
+movedata MOVE_STRING_SHOT, "いとをはく"
     battleeffect MOVE_EFFECT_SPEED_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -1322,7 +1322,7 @@ movedata MOVE_STRING_SHOT, "String Shot"
     terminatedata
     movedescription MOVE_STRING_SHOT, "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat."
 
-movedata MOVE_DRAGON_RAGE, "Dragon Rage"
+movedata MOVE_DRAGON_RAGE, "りゅうのいかり"
     battleeffect MOVE_EFFECT_40_DAMAGE_FLAT
     pss SPLIT_SPECIAL
     basepower 1
@@ -1338,7 +1338,7 @@ movedata MOVE_DRAGON_RAGE, "Dragon Rage"
     terminatedata
     movedescription MOVE_DRAGON_RAGE, "The foe is stricken\nby a shock wave.\nThis attack always\ninflicts 40 HP\ndamage."
 
-movedata MOVE_FIRE_SPIN, "Fire Spin"
+movedata MOVE_FIRE_SPIN, "ほのおのうず"
     battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_SPECIAL
     basepower 35
@@ -1354,7 +1354,7 @@ movedata MOVE_FIRE_SPIN, "Fire Spin"
     terminatedata
     movedescription MOVE_FIRE_SPIN, "The foe becomes\ntrapped within a\nfierce vortex of fire\nthat rages for two\nto five turns."
 
-movedata MOVE_THUNDER_SHOCK, "Thunder Shock"
+movedata MOVE_THUNDER_SHOCK, "でんきショック"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_SPECIAL
     basepower 40
@@ -1370,7 +1370,7 @@ movedata MOVE_THUNDER_SHOCK, "Thunder Shock"
     terminatedata
     movedescription MOVE_THUNDER_SHOCK, "A jolt of electricity\nis hurled at the foe\nto inflict damage.\nIt may also leave the\nfoe paralyzed."
 
-movedata MOVE_THUNDERBOLT, "Thunderbolt"
+movedata MOVE_THUNDERBOLT, "１０まんボルト"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_SPECIAL
     basepower 95
@@ -1386,7 +1386,7 @@ movedata MOVE_THUNDERBOLT, "Thunderbolt"
     terminatedata
     movedescription MOVE_THUNDERBOLT, "A strong electric\nblast is loosed at\nthe foe.\nIt may also leave the\nfoe paralyzed."
 
-movedata MOVE_THUNDER_WAVE, "Thunder Wave"
+movedata MOVE_THUNDER_WAVE, "でんじは"
     battleeffect MOVE_EFFECT_STATUS_PARALYZE
     pss SPLIT_STATUS
     basepower 0
@@ -1402,7 +1402,7 @@ movedata MOVE_THUNDER_WAVE, "Thunder Wave"
     terminatedata
     movedescription MOVE_THUNDER_WAVE, "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits."
 
-movedata MOVE_THUNDER, "Thunder"
+movedata MOVE_THUNDER, "かみなり"
     battleeffect MOVE_EFFECT_THUNDER // accuracy in rain & sun handled in other_battle_calculators.c
     pss SPLIT_SPECIAL
     basepower 120
@@ -1418,7 +1418,7 @@ movedata MOVE_THUNDER, "Thunder"
     terminatedata
     movedescription MOVE_THUNDER, "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed."
 
-movedata MOVE_ROCK_THROW, "Rock Throw"
+movedata MOVE_ROCK_THROW, "いわおとし"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 50
@@ -1434,7 +1434,7 @@ movedata MOVE_ROCK_THROW, "Rock Throw"
     terminatedata
     movedescription MOVE_ROCK_THROW, "The user picks up\nand throws a small\nrock at the foe to\nattack.\n"
 
-movedata MOVE_EARTHQUAKE, "Earthquake"
+movedata MOVE_EARTHQUAKE, "じしん"
     battleeffect MOVE_EFFECT_DOUBLE_DAMAGE_DIG
     pss SPLIT_PHYSICAL
     basepower 100
@@ -1450,7 +1450,7 @@ movedata MOVE_EARTHQUAKE, "Earthquake"
     terminatedata
     movedescription MOVE_EARTHQUAKE, "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n"
 
-movedata MOVE_FISSURE, "Fissure"
+movedata MOVE_FISSURE, "じわれ"
     battleeffect MOVE_EFFECT_ONE_HIT_KO
     pss SPLIT_PHYSICAL
     basepower 1
@@ -1466,7 +1466,7 @@ movedata MOVE_FISSURE, "Fissure"
     terminatedata
     movedescription MOVE_FISSURE, "The user opens up a\nfissure in the ground\nand drops the foe in.\nThe target instantly\nfaints if it hits."
 
-movedata MOVE_DIG, "Dig"
+movedata MOVE_DIG, "あなをほる"
     battleeffect MOVE_EFFECT_DIG
     pss SPLIT_PHYSICAL
     basepower 80
@@ -1482,7 +1482,7 @@ movedata MOVE_DIG, "Dig"
     terminatedata
     movedescription MOVE_DIG, "The user burrows,\nthen attacks on the\nsecond turn.\nIt can also be used\nto exit dungeons."
 
-movedata MOVE_TOXIC, "Toxic"
+movedata MOVE_TOXIC, "どくどく"
     battleeffect MOVE_EFFECT_STATUS_BADLY_POISON
     pss SPLIT_STATUS
     basepower 0
@@ -1498,7 +1498,7 @@ movedata MOVE_TOXIC, "Toxic"
     terminatedata
     movedescription MOVE_TOXIC, "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn."
 
-movedata MOVE_CONFUSION, "Confusion"
+movedata MOVE_CONFUSION, "ねんりき"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_SPECIAL
     basepower 50
@@ -1514,7 +1514,7 @@ movedata MOVE_CONFUSION, "Confusion"
     terminatedata
     movedescription MOVE_CONFUSION, "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused."
 
-movedata MOVE_PSYCHIC, "Psychic"
+movedata MOVE_PSYCHIC, "サイコキネシス"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -1530,7 +1530,7 @@ movedata MOVE_PSYCHIC, "Psychic"
     terminatedata
     movedescription MOVE_PSYCHIC, "The foe is hit by a\nstrong telekinetic\nforce. It may also\nreduce the foe’s\nSp. Def stat."
 
-movedata MOVE_HYPNOSIS, "Hypnosis"
+movedata MOVE_HYPNOSIS, "さいみんじゅつ"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -1546,7 +1546,7 @@ movedata MOVE_HYPNOSIS, "Hypnosis"
     terminatedata
     movedescription MOVE_HYPNOSIS, "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep."
 
-movedata MOVE_MEDITATE, "Meditate"
+movedata MOVE_MEDITATE, "ヨガのポ－ズ"
     battleeffect MOVE_EFFECT_ATK_UP
     pss SPLIT_STATUS
     basepower 0
@@ -1562,7 +1562,7 @@ movedata MOVE_MEDITATE, "Meditate"
     terminatedata
     movedescription MOVE_MEDITATE, "The user meditates\nto awaken the power\ndeep within its body\nand raise its Attack\nstat."
 
-movedata MOVE_AGILITY, "Agility"
+movedata MOVE_AGILITY, "こうそくいどう"
     battleeffect MOVE_EFFECT_SPEED_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -1578,7 +1578,7 @@ movedata MOVE_AGILITY, "Agility"
     terminatedata
     movedescription MOVE_AGILITY, "The user relaxes and\nlightens its body to\nmove faster.\nIt sharply boosts\nthe Speed stat."
 
-movedata MOVE_QUICK_ATTACK, "Quick Attack"
+movedata MOVE_QUICK_ATTACK, "でんこうせっか"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 40
@@ -1594,7 +1594,7 @@ movedata MOVE_QUICK_ATTACK, "Quick Attack"
     terminatedata
     movedescription MOVE_QUICK_ATTACK, "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first."
 
-movedata MOVE_RAGE, "Rage"
+movedata MOVE_RAGE, "いかり"
     battleeffect MOVE_EFFECT_RAISE_ATK_WHEN_HIT
     pss SPLIT_PHYSICAL
     basepower 20
@@ -1610,7 +1610,7 @@ movedata MOVE_RAGE, "Rage"
     terminatedata
     movedescription MOVE_RAGE, "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n"
 
-movedata MOVE_TELEPORT, "Teleport"
+movedata MOVE_TELEPORT, "テレポ－ト"
     battleeffect MOVE_EFFECT_FLEE_FROM_WILD_BATTLE
     pss SPLIT_STATUS
     basepower 0
@@ -1626,7 +1626,7 @@ movedata MOVE_TELEPORT, "Teleport"
     terminatedata
     movedescription MOVE_TELEPORT, "Use it to flee from\nany wild Pokémon.\nIt can also warp to\nthe last Pokémon\nCenter visited."
 
-movedata MOVE_NIGHT_SHADE, "Night Shade"
+movedata MOVE_NIGHT_SHADE, "ナイトヘッド"
     battleeffect MOVE_EFFECT_LEVEL_DAMAGE_FLAT
     pss SPLIT_SPECIAL
     basepower 1
@@ -1642,7 +1642,7 @@ movedata MOVE_NIGHT_SHADE, "Night Shade"
     terminatedata
     movedescription MOVE_NIGHT_SHADE, "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel."
 
-movedata MOVE_MIMIC, "Mimic"
+movedata MOVE_MIMIC, "ものまね"
     battleeffect MOVE_EFFECT_COPY_MOVE_FOR_BATTLE
     pss SPLIT_STATUS
     basepower 0
@@ -1658,7 +1658,7 @@ movedata MOVE_MIMIC, "Mimic"
     terminatedata
     movedescription MOVE_MIMIC, "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle."
 
-movedata MOVE_SCREECH, "Screech"
+movedata MOVE_SCREECH, "いやなおと"
     battleeffect MOVE_EFFECT_DEF_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -1674,7 +1674,7 @@ movedata MOVE_SCREECH, "Screech"
     terminatedata
     movedescription MOVE_SCREECH, "An earsplitting\nscreech is emitted to\nsharply reduce the\nfoe’s Defense stat.\n"
 
-movedata MOVE_DOUBLE_TEAM, "Double Team"
+movedata MOVE_DOUBLE_TEAM, "かげぶんしん"
     battleeffect MOVE_EFFECT_EVA_UP
     pss SPLIT_STATUS
     basepower 0
@@ -1690,7 +1690,7 @@ movedata MOVE_DOUBLE_TEAM, "Double Team"
     terminatedata
     movedescription MOVE_DOUBLE_TEAM, "By moving rapidly, the\nuser makes illusory\ncopies of itself to\nraise its evasiveness.\n"
 
-movedata MOVE_RECOVER, "Recover"
+movedata MOVE_RECOVER, "じこさいせい"
     battleeffect MOVE_EFFECT_RESTORE_HALF_HP
     pss SPLIT_STATUS
     basepower 0
@@ -1706,7 +1706,7 @@ movedata MOVE_RECOVER, "Recover"
     terminatedata
     movedescription MOVE_RECOVER, "A self-healing move.\nThe user restores its\nown HP by up to half\nof its max HP.\n"
 
-movedata MOVE_HARDEN, "Harden"
+movedata MOVE_HARDEN, "かたくなる"
     battleeffect MOVE_EFFECT_DEF_UP
     pss SPLIT_STATUS
     basepower 0
@@ -1722,7 +1722,7 @@ movedata MOVE_HARDEN, "Harden"
     terminatedata
     movedescription MOVE_HARDEN, "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n"
 
-movedata MOVE_MINIMIZE, "Minimize"
+movedata MOVE_MINIMIZE, "ちいさくなる"
     battleeffect MOVE_EFFECT_EVA_UP_2_MINIMIZE
     pss SPLIT_STATUS
     basepower 0
@@ -1738,7 +1738,7 @@ movedata MOVE_MINIMIZE, "Minimize"
     terminatedata
     movedescription MOVE_MINIMIZE, "The user compresses\nits body to make\nitself look smaller.\nThe user’s evasion\nstat is boosted."
 
-movedata MOVE_SMOKESCREEN, "Smokescreen"
+movedata MOVE_SMOKESCREEN, "えんまく"
     battleeffect MOVE_EFFECT_ACC_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -1754,7 +1754,7 @@ movedata MOVE_SMOKESCREEN, "Smokescreen"
     terminatedata
     movedescription MOVE_SMOKESCREEN, "The user releases an\nobscuring cloud of\nsmoke or ink.\nIt reduces the foe’s\naccuracy."
 
-movedata MOVE_CONFUSE_RAY, "Confuse Ray"
+movedata MOVE_CONFUSE_RAY, "あやしいひかり"
     battleeffect MOVE_EFFECT_STATUS_CONFUSE
     pss SPLIT_STATUS
     basepower 0
@@ -1770,7 +1770,7 @@ movedata MOVE_CONFUSE_RAY, "Confuse Ray"
     terminatedata
     movedescription MOVE_CONFUSE_RAY, "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.\n"
 
-movedata MOVE_WITHDRAW, "Withdraw"
+movedata MOVE_WITHDRAW, "からにこもる"
     battleeffect MOVE_EFFECT_DEF_UP
     pss SPLIT_STATUS
     basepower 0
@@ -1786,7 +1786,7 @@ movedata MOVE_WITHDRAW, "Withdraw"
     terminatedata
     movedescription MOVE_WITHDRAW, "The user withdraws\nits body into its hard\nshell, raising its\nDefense stat.\n"
 
-movedata MOVE_DEFENSE_CURL, "Defense Curl"
+movedata MOVE_DEFENSE_CURL, "まるくなる"
     battleeffect MOVE_EFFECT_DEF_UP_DOUBLE_ROLLOUT_POWER
     pss SPLIT_STATUS
     basepower 0
@@ -1802,7 +1802,7 @@ movedata MOVE_DEFENSE_CURL, "Defense Curl"
     terminatedata
     movedescription MOVE_DEFENSE_CURL, "The user curls up to\nconceal weak spots\nand raise its Defense\nstat.\n"
 
-movedata MOVE_BARRIER, "Barrier"
+movedata MOVE_BARRIER, "バリア－"
     battleeffect MOVE_EFFECT_DEF_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -1818,7 +1818,7 @@ movedata MOVE_BARRIER, "Barrier"
     terminatedata
     movedescription MOVE_BARRIER, "The user throws up a\nsturdy wall that\nsharply raises its\nDefense stat.\n"
 
-movedata MOVE_LIGHT_SCREEN, "Light Screen"
+movedata MOVE_LIGHT_SCREEN, "ひかりのかべ"
     battleeffect MOVE_EFFECT_SET_LIGHT_SCREEN
     pss SPLIT_STATUS
     basepower 0
@@ -1834,7 +1834,7 @@ movedata MOVE_LIGHT_SCREEN, "Light Screen"
     terminatedata
     movedescription MOVE_LIGHT_SCREEN, "A wondrous wall of\nlight is put up to\nsuppress damage from\nspecial attacks for\nfive turns."
 
-movedata MOVE_HAZE, "Haze"
+movedata MOVE_HAZE, "くろいきり"
     battleeffect MOVE_EFFECT_RESET_STAT_CHANGES
     pss SPLIT_STATUS
     basepower 0
@@ -1850,7 +1850,7 @@ movedata MOVE_HAZE, "Haze"
     terminatedata
     movedescription MOVE_HAZE, "The user creates a\nhaze that eliminates\nevery stat change\namong all the Pokémon\nengaged in battle."
 
-movedata MOVE_REFLECT, "Reflect"
+movedata MOVE_REFLECT, "リフレクタ－"
     battleeffect MOVE_EFFECT_SET_REFLECT
     pss SPLIT_STATUS
     basepower 0
@@ -1866,7 +1866,7 @@ movedata MOVE_REFLECT, "Reflect"
     terminatedata
     movedescription MOVE_REFLECT, "A wondrous wall of\nlight is put up to\nsuppress damage from\nphysical attacks for\nfive turns."
 
-movedata MOVE_FOCUS_ENERGY, "Focus Energy"
+movedata MOVE_FOCUS_ENERGY, "きあいだめ"
     battleeffect MOVE_EFFECT_CRIT_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -1882,7 +1882,7 @@ movedata MOVE_FOCUS_ENERGY, "Focus Energy"
     terminatedata
     movedescription MOVE_FOCUS_ENERGY, "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks."
 
-movedata MOVE_BIDE, "Bide"
+movedata MOVE_BIDE, "がまん"
     battleeffect MOVE_EFFECT_BIDE
     pss SPLIT_PHYSICAL
     basepower 1
@@ -1898,7 +1898,7 @@ movedata MOVE_BIDE, "Bide"
     terminatedata
     movedescription MOVE_BIDE, "The user endures\nattacks for two\nturns, then strikes\nback to cause double\nthe damage taken."
 
-movedata MOVE_METRONOME, "Metronome"
+movedata MOVE_METRONOME, "ゆびをふる"
     battleeffect MOVE_EFFECT_CALL_RANDOM_MOVE
     pss SPLIT_STATUS
     basepower 0
@@ -1914,7 +1914,7 @@ movedata MOVE_METRONOME, "Metronome"
     terminatedata
     movedescription MOVE_METRONOME, "The user waggles a\nfinger and stimulates\nthe brain into\nrandomly using nearly\nany move."
 
-movedata MOVE_MIRROR_MOVE, "Mirror Move"
+movedata MOVE_MIRROR_MOVE, "オウムがえし"
     battleeffect MOVE_EFFECT_COPY_MOVE
     pss SPLIT_STATUS
     basepower 0
@@ -1930,7 +1930,7 @@ movedata MOVE_MIRROR_MOVE, "Mirror Move"
     terminatedata
     movedescription MOVE_MIRROR_MOVE, "The user counters\nthe foe by mimicking\nthe move last used\nby the foe."
 
-movedata MOVE_SELF_DESTRUCT, "Self-Destruct"
+movedata MOVE_SELF_DESTRUCT, "じばく"
     battleeffect MOVE_EFFECT_HALVE_DEFENSE
     pss SPLIT_PHYSICAL
     basepower 200
@@ -1946,7 +1946,7 @@ movedata MOVE_SELF_DESTRUCT, "Self-Destruct"
     terminatedata
     movedescription MOVE_SELF_DESTRUCT, "The user blows up to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move."
 
-movedata MOVE_EGG_BOMB, "Egg Bomb"
+movedata MOVE_EGG_BOMB, "タマゴばくだん"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -1962,7 +1962,7 @@ movedata MOVE_EGG_BOMB, "Egg Bomb"
     terminatedata
     movedescription MOVE_EGG_BOMB, "A large egg is hurled\nwith maximum force at\nthe foe to inflict\ndamage.\n"
 
-movedata MOVE_LICK, "Lick"
+movedata MOVE_LICK, "したでなめる"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 30
@@ -1978,7 +1978,7 @@ movedata MOVE_LICK, "Lick"
     terminatedata
     movedescription MOVE_LICK, "The foe is licked with\na long tongue, causing\ndamage.\nIt may also paralyze\nthe target."
 
-movedata MOVE_SMOG, "Smog"
+movedata MOVE_SMOG, "スモッグ"
     battleeffect MOVE_EFFECT_POISON_HIT
     pss SPLIT_SPECIAL
     basepower 30
@@ -1994,7 +1994,7 @@ movedata MOVE_SMOG, "Smog"
     terminatedata
     movedescription MOVE_SMOG, "The foe is attacked\nwith a discharge of\nfilthy gases.\nIt may also poison\nthe target."
 
-movedata MOVE_SLUDGE, "Sludge"
+movedata MOVE_SLUDGE, "ヘドロこうげき"
     battleeffect MOVE_EFFECT_POISON_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -2010,7 +2010,7 @@ movedata MOVE_SLUDGE, "Sludge"
     terminatedata
     movedescription MOVE_SLUDGE, "Unsanitary sludge is\nhurled at the foe.\nIt may also poison\nthe target.\n"
 
-movedata MOVE_BONE_CLUB, "Bone Club"
+movedata MOVE_BONE_CLUB, "ホネこんぼう"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -2026,7 +2026,7 @@ movedata MOVE_BONE_CLUB, "Bone Club"
     terminatedata
     movedescription MOVE_BONE_CLUB, "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n"
 
-movedata MOVE_FIRE_BLAST, "Fire Blast"
+movedata MOVE_FIRE_BLAST, "だいもんじ"
     battleeffect MOVE_EFFECT_BURN_HIT
     pss SPLIT_SPECIAL
     basepower 120
@@ -2042,7 +2042,7 @@ movedata MOVE_FIRE_BLAST, "Fire Blast"
     terminatedata
     movedescription MOVE_FIRE_BLAST, "The foe is attacked\nwith an intense blast\nof all-consuming fire.\nIt may also leave the\ntarget with a burn."
 
-movedata MOVE_WATERFALL, "Waterfall"
+movedata MOVE_WATERFALL, "たきのぼり"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -2058,7 +2058,7 @@ movedata MOVE_WATERFALL, "Waterfall"
     terminatedata
     movedescription MOVE_WATERFALL, "The user charges at\nthe foe rapidly, and\nmay make it flinch.\nIt can also be used\nto climb a waterfall."
 
-movedata MOVE_CLAMP, "Clamp"
+movedata MOVE_CLAMP, "からではさむ"
     battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_PHYSICAL
     basepower 35
@@ -2074,7 +2074,7 @@ movedata MOVE_CLAMP, "Clamp"
     terminatedata
     movedescription MOVE_CLAMP, "The foe is clamped\nand squeezed by\nthe user’s very thick\nand sturdy shell for\ntwo to five turns."
 
-movedata MOVE_SWIFT, "Swift"
+movedata MOVE_SWIFT, "スピ－ドスタ－"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_SPECIAL
     basepower 60
@@ -2090,7 +2090,7 @@ movedata MOVE_SWIFT, "Swift"
     terminatedata
     movedescription MOVE_SWIFT, "Star-shaped rays are\nshot at the foe.\nThis attack never\nmisses.\n"
 
-movedata MOVE_SKULL_BASH, "Skull Bash"
+movedata MOVE_SKULL_BASH, "ロケットずつき"
     battleeffect MOVE_EFFECT_CHARGE_TURN_DEF_UP
     pss SPLIT_PHYSICAL
     basepower 130
@@ -2106,7 +2106,7 @@ movedata MOVE_SKULL_BASH, "Skull Bash"
     terminatedata
     movedescription MOVE_SKULL_BASH, "The user tucks in its\nhead to raise its\nDefense in the first\nturn, then rams the\nfoe on the next turn."
 
-movedata MOVE_SPIKE_CANNON, "Spike Cannon"
+movedata MOVE_SPIKE_CANNON, "とげキャノン"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 20
@@ -2122,7 +2122,7 @@ movedata MOVE_SPIKE_CANNON, "Spike Cannon"
     terminatedata
     movedescription MOVE_SPIKE_CANNON, "Sharp spikes are\nfired at the foe to\nstrike two to five\ntimes in rapid\nsuccession."
 
-movedata MOVE_CONSTRICT, "Constrict"
+movedata MOVE_CONSTRICT, "からみつく"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_PHYSICAL
     basepower 10
@@ -2138,7 +2138,7 @@ movedata MOVE_CONSTRICT, "Constrict"
     terminatedata
     movedescription MOVE_CONSTRICT, "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed."
 
-movedata MOVE_AMNESIA, "Amnesia"
+movedata MOVE_AMNESIA, "ドわすれ"
     battleeffect MOVE_EFFECT_SP_DEF_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -2154,7 +2154,7 @@ movedata MOVE_AMNESIA, "Amnesia"
     terminatedata
     movedescription MOVE_AMNESIA, "The user temporarily\nempties its mind to\nforget its concerns.\nIt sharply raises the\nuser’s Sp. Def stat."
 
-movedata MOVE_KINESIS, "Kinesis"
+movedata MOVE_KINESIS, "スプ－ンまげ"
     battleeffect MOVE_EFFECT_ACC_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -2170,7 +2170,7 @@ movedata MOVE_KINESIS, "Kinesis"
     terminatedata
     movedescription MOVE_KINESIS, "The user distracts\nthe foe by bending a\nspoon.\nIt may lower the\ntarget’s accuracy."
 
-movedata MOVE_SOFT_BOILED, "Soft-Boiled"
+movedata MOVE_SOFT_BOILED, "タマゴうみ"
     battleeffect MOVE_EFFECT_RESTORE_HALF_HP
     pss SPLIT_STATUS
     basepower 0
@@ -2186,7 +2186,7 @@ movedata MOVE_SOFT_BOILED, "Soft-Boiled"
     terminatedata
     movedescription MOVE_SOFT_BOILED, "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP."
 
-movedata MOVE_HIGH_JUMP_KICK, "High Jump Kick"
+movedata MOVE_HIGH_JUMP_KICK, "とびひざげり"
     battleeffect MOVE_EFFECT_CRASH_ON_MISS
     pss SPLIT_PHYSICAL
     basepower 130
@@ -2202,7 +2202,7 @@ movedata MOVE_HIGH_JUMP_KICK, "High Jump Kick"
     terminatedata
     movedescription MOVE_HIGH_JUMP_KICK, "The foe is attacked\nwith a knee kick from\na jump. If it misses,\nthe user is hurt\ninstead."
 
-movedata MOVE_GLARE, "Glare"
+movedata MOVE_GLARE, "へびにらみ"
     battleeffect MOVE_EFFECT_STATUS_PARALYZE
     pss SPLIT_STATUS
     basepower 0
@@ -2218,7 +2218,7 @@ movedata MOVE_GLARE, "Glare"
     terminatedata
     movedescription MOVE_GLARE, "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n"
 
-movedata MOVE_DREAM_EATER, "Dream Eater"
+movedata MOVE_DREAM_EATER, "ゆめくい"
     battleeffect MOVE_EFFECT_RECOVER_DAMAGE_SLEEP
     pss SPLIT_SPECIAL
     basepower 100
@@ -2234,7 +2234,7 @@ movedata MOVE_DREAM_EATER, "Dream Eater"
     terminatedata
     movedescription MOVE_DREAM_EATER, "An attack that works\nonly on a sleeping\nfoe. It absorbs half\nthe damage caused to\nheal the user’s HP."
 
-movedata MOVE_POISON_GAS, "Poison Gas"
+movedata MOVE_POISON_GAS, "どくガス"
     battleeffect MOVE_EFFECT_STATUS_POISON
     pss SPLIT_STATUS
     basepower 0
@@ -2250,7 +2250,7 @@ movedata MOVE_POISON_GAS, "Poison Gas"
     terminatedata
     movedescription MOVE_POISON_GAS, "A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget."
 
-movedata MOVE_BARRAGE, "Barrage"
+movedata MOVE_BARRAGE, "たまなげ"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -2266,7 +2266,7 @@ movedata MOVE_BARRAGE, "Barrage"
     terminatedata
     movedescription MOVE_BARRAGE, "Round objects are\nhurled at the foe to\nstrike two to five\ntimes in a row.\n"
 
-movedata MOVE_LEECH_LIFE, "Leech Life"
+movedata MOVE_LEECH_LIFE, "きゅうけつ"
     battleeffect MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -2282,7 +2282,7 @@ movedata MOVE_LEECH_LIFE, "Leech Life"
     terminatedata
     movedescription MOVE_LEECH_LIFE, "A blood-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target."
 
-movedata MOVE_LOVELY_KISS, "Lovely Kiss"
+movedata MOVE_LOVELY_KISS, "あくまのキッス"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -2298,7 +2298,7 @@ movedata MOVE_LOVELY_KISS, "Lovely Kiss"
     terminatedata
     movedescription MOVE_LOVELY_KISS, "With a scary face, the\nuser tries to force a\nkiss on the foe. If it\nsucceeds, the target\nfalls asleep."
 
-movedata MOVE_SKY_ATTACK, "Sky Attack"
+movedata MOVE_SKY_ATTACK, "ゴッドバ－ド"
     battleeffect MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT_FLINCH
     pss SPLIT_PHYSICAL
     basepower 140
@@ -2314,7 +2314,7 @@ movedata MOVE_SKY_ATTACK, "Sky Attack"
     terminatedata
     movedescription MOVE_SKY_ATTACK, "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_TRANSFORM, "Transform"
+movedata MOVE_TRANSFORM, "へんしん"
     battleeffect MOVE_EFFECT_TRANSFORM
     pss SPLIT_STATUS
     basepower 0
@@ -2330,7 +2330,7 @@ movedata MOVE_TRANSFORM, "Transform"
     terminatedata
     movedescription MOVE_TRANSFORM, "The user transforms\ninto a copy of the\nfoe right down to\nhaving the same move\nset."
 
-movedata MOVE_BUBBLE, "Bubble"
+movedata MOVE_BUBBLE, "あわ"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_SPECIAL
     basepower 20
@@ -2346,7 +2346,7 @@ movedata MOVE_BUBBLE, "Bubble"
     terminatedata
     movedescription MOVE_BUBBLE, "A spray of countless\nbubbles is jetted at\nthe foe.\nIt may also lower the\ntarget’s Speed stat."
 
-movedata MOVE_DIZZY_PUNCH, "Dizzy Punch"
+movedata MOVE_DIZZY_PUNCH, "ピヨピヨパンチ"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
     basepower 70
@@ -2362,7 +2362,7 @@ movedata MOVE_DIZZY_PUNCH, "Dizzy Punch"
     terminatedata
     movedescription MOVE_DIZZY_PUNCH, "The foe is hit with\nrhythmically launched\npunches that may also\nleave it confused.\n"
 
-movedata MOVE_SPORE, "Spore"
+movedata MOVE_SPORE, "キノコのほうし"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -2378,7 +2378,7 @@ movedata MOVE_SPORE, "Spore"
     terminatedata
     movedescription MOVE_SPORE, "The user scatters\nbursts of spores\nthat induce sleep.\n\n"
 
-movedata MOVE_FLASH, "Flash"
+movedata MOVE_FLASH, "フラッシュ"
     battleeffect MOVE_EFFECT_ACC_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -2394,7 +2394,7 @@ movedata MOVE_FLASH, "Flash"
     terminatedata
     movedescription MOVE_FLASH, "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves."
 
-movedata MOVE_PSYWAVE, "Psywave"
+movedata MOVE_PSYWAVE, "サイコウェ－ブ"
     battleeffect MOVE_EFFECT_RANDOM_DAMAGE_1_TO_150_LEVEL
     pss SPLIT_SPECIAL
     basepower 1
@@ -2410,7 +2410,7 @@ movedata MOVE_PSYWAVE, "Psywave"
     terminatedata
     movedescription MOVE_PSYWAVE, "The foe is attacked\nwith an odd, hot\nenergy wave.\nThe attack varies in\nintensity."
 
-movedata MOVE_SPLASH, "Splash"
+movedata MOVE_SPLASH, "はねる"
     battleeffect MOVE_EFFECT_DO_NOTHING
     pss SPLIT_STATUS
     basepower 0
@@ -2426,7 +2426,7 @@ movedata MOVE_SPLASH, "Splash"
     terminatedata
     movedescription MOVE_SPLASH, "The user just flops\nand splashes around\nto no effect at all...\n\n"
 
-movedata MOVE_ACID_ARMOR, "Acid Armor"
+movedata MOVE_ACID_ARMOR, "とける"
     battleeffect MOVE_EFFECT_DEF_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -2442,7 +2442,7 @@ movedata MOVE_ACID_ARMOR, "Acid Armor"
     terminatedata
     movedescription MOVE_ACID_ARMOR, "The user alters its\ncellular structure to\nliquefy itself,\nsharply raising its\nDefense stat."
 
-movedata MOVE_CRABHAMMER, "Crabhammer"
+movedata MOVE_CRABHAMMER, "クラブハンマ－"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 100
@@ -2458,7 +2458,7 @@ movedata MOVE_CRABHAMMER, "Crabhammer"
     terminatedata
     movedescription MOVE_CRABHAMMER, "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n"
 
-movedata MOVE_EXPLOSION, "Explosion"
+movedata MOVE_EXPLOSION, "だいばくはつ"
     battleeffect MOVE_EFFECT_HALVE_DEFENSE
     pss SPLIT_PHYSICAL
     basepower 250
@@ -2474,7 +2474,7 @@ movedata MOVE_EXPLOSION, "Explosion"
     terminatedata
     movedescription MOVE_EXPLOSION, "The user explodes to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move."
 
-movedata MOVE_FURY_SWIPES, "Fury Swipes"
+movedata MOVE_FURY_SWIPES, "みだれひっかき"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 18
@@ -2490,7 +2490,7 @@ movedata MOVE_FURY_SWIPES, "Fury Swipes"
     terminatedata
     movedescription MOVE_FURY_SWIPES, "The foe is raked with\nsharp claws or\nscythes for two to\nfive times in quick\nsuccession."
 
-movedata MOVE_BONEMERANG, "Bonemerang"
+movedata MOVE_BONEMERANG, "ホネブ－メラン"
     battleeffect MOVE_EFFECT_HIT_TWICE
     pss SPLIT_PHYSICAL
     basepower 50
@@ -2506,7 +2506,7 @@ movedata MOVE_BONEMERANG, "Bonemerang"
     terminatedata
     movedescription MOVE_BONEMERANG, "The user throws the\nbone it holds. The\nbone loops to hit the\nfoe twice, coming and\ngoing."
 
-movedata MOVE_REST, "Rest"
+movedata MOVE_REST, "ねむる"
     battleeffect MOVE_EFFECT_RECOVER_HEALTH_AND_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -2522,7 +2522,7 @@ movedata MOVE_REST, "Rest"
     terminatedata
     movedescription MOVE_REST, "The user goes to\nsleep for two turns.\nIt fully restores the\nuser’s HP and heals\nany status problem."
 
-movedata MOVE_ROCK_SLIDE, "Rock Slide"
+movedata MOVE_ROCK_SLIDE, "いわなだれ"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 75
@@ -2538,7 +2538,7 @@ movedata MOVE_ROCK_SLIDE, "Rock Slide"
     terminatedata
     movedescription MOVE_ROCK_SLIDE, "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_HYPER_FANG, "Hyper Fang"
+movedata MOVE_HYPER_FANG, "ひっさつまえば"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -2554,7 +2554,7 @@ movedata MOVE_HYPER_FANG, "Hyper Fang"
     terminatedata
     movedescription MOVE_HYPER_FANG, "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_SHARPEN, "Sharpen"
+movedata MOVE_SHARPEN, "かくばる"
     battleeffect MOVE_EFFECT_ATK_UP
     pss SPLIT_STATUS
     basepower 0
@@ -2570,7 +2570,7 @@ movedata MOVE_SHARPEN, "Sharpen"
     terminatedata
     movedescription MOVE_SHARPEN, "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat."
 
-movedata MOVE_CONVERSION, "Conversion"
+movedata MOVE_CONVERSION, "テクスチャ－"
     battleeffect MOVE_EFFECT_CONVERSION
     pss SPLIT_STATUS
     basepower 0
@@ -2586,7 +2586,7 @@ movedata MOVE_CONVERSION, "Conversion"
     terminatedata
     movedescription MOVE_CONVERSION, "The user changes its\ntype to become the\nsame type as one of\nits moves.\n"
 
-movedata MOVE_TRI_ATTACK, "Tri Attack"
+movedata MOVE_TRI_ATTACK, "トライアタック"
     battleeffect MOVE_EFFECT_RANDOM_PRIMARY_STATUS_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -2602,7 +2602,7 @@ movedata MOVE_TRI_ATTACK, "Tri Attack"
     terminatedata
     movedescription MOVE_TRI_ATTACK, "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target."
 
-movedata MOVE_SUPER_FANG, "Super Fang"
+movedata MOVE_SUPER_FANG, "いかりのまえば"
     battleeffect MOVE_EFFECT_HALVE_HP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -2618,7 +2618,7 @@ movedata MOVE_SUPER_FANG, "Super Fang"
     terminatedata
     movedescription MOVE_SUPER_FANG, "The user chomps hard\non the foe with its\nsharp front fangs.\nIt cuts the target’s\nHP to half."
 
-movedata MOVE_SLASH, "Slash"
+movedata MOVE_SLASH, "きりさく"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 70
@@ -2634,7 +2634,7 @@ movedata MOVE_SLASH, "Slash"
     terminatedata
     movedescription MOVE_SLASH, "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_SUBSTITUTE, "Substitute"
+movedata MOVE_SUBSTITUTE, "みがわり"
     battleeffect MOVE_EFFECT_SET_SUBSTITUTE
     pss SPLIT_STATUS
     basepower 0
@@ -2650,7 +2650,7 @@ movedata MOVE_SUBSTITUTE, "Substitute"
     terminatedata
     movedescription MOVE_SUBSTITUTE, "The user makes a\ncopy of itself using\nsome of its HP.\nThe copy serves as\nthe user’s decoy."
 
-movedata MOVE_STRUGGLE, "Struggle"
+movedata MOVE_STRUGGLE, "わるあがき"
     battleeffect MOVE_EFFECT_STRUGGLE
     pss SPLIT_PHYSICAL
     basepower 50
@@ -2666,7 +2666,7 @@ movedata MOVE_STRUGGLE, "Struggle"
     terminatedata
     movedescription MOVE_STRUGGLE, "An attack that is\nused in desperation\nonly if the user has\nno PP. It also hurts\nthe user slightly."
 
-movedata MOVE_SKETCH, "Sketch"
+movedata MOVE_SKETCH, "スケッチ"
     battleeffect MOVE_EFFECT_LEARN_MOVE_PERMANENT
     pss SPLIT_STATUS
     basepower 0
@@ -2682,7 +2682,7 @@ movedata MOVE_SKETCH, "Sketch"
     terminatedata
     movedescription MOVE_SKETCH, "It enables the user\nto permanently learn\nthe move last used by\nthe foe. Once used,\nSketch disappears."
 
-movedata MOVE_TRIPLE_KICK, "Triple Kick"
+movedata MOVE_TRIPLE_KICK, "トリプルキック"
     battleeffect MOVE_EFFECT_HIT_THREE_TIMES_INCREMENT_BASE_POWER_10
     pss SPLIT_PHYSICAL
     basepower 10
@@ -2698,7 +2698,7 @@ movedata MOVE_TRIPLE_KICK, "Triple Kick"
     terminatedata
     movedescription MOVE_TRIPLE_KICK, "A consecutive three-\nkick attack that\nbecomes more\npowerful with each \nsuccessive hit."
 
-movedata MOVE_THIEF, "Thief"
+movedata MOVE_THIEF, "どろぼう"
     battleeffect MOVE_EFFECT_STEAL_HELD_ITEM
     pss SPLIT_PHYSICAL
     basepower 60
@@ -2714,7 +2714,7 @@ movedata MOVE_THIEF, "Thief"
     terminatedata
     movedescription MOVE_THIEF, "The user attacks and\nsteals the foe’s held\nitem simultaneously.\nIt can’t steal if the\nuser holds an item."
 
-movedata MOVE_SPIDER_WEB, "Spider Web"
+movedata MOVE_SPIDER_WEB, "クモのす"
     battleeffect MOVE_EFFECT_PREVENT_ESCAPE
     pss SPLIT_STATUS
     basepower 0
@@ -2730,7 +2730,7 @@ movedata MOVE_SPIDER_WEB, "Spider Web"
     terminatedata
     movedescription MOVE_SPIDER_WEB, "The user ensnares\nthe foe with a thin,\ngooey silk so it can’t\nflee from battle.\n"
 
-movedata MOVE_MIND_READER, "Mind Reader"
+movedata MOVE_MIND_READER, "こころのめ"
     battleeffect MOVE_EFFECT_NEXT_ATTACK_ALWAYS_HITS
     pss SPLIT_STATUS
     basepower 0
@@ -2746,7 +2746,7 @@ movedata MOVE_MIND_READER, "Mind Reader"
     terminatedata
     movedescription MOVE_MIND_READER, "The user senses the\nfoe’s movements\nwith its mind to\nensure its next\nattack does not miss."
 
-movedata MOVE_NIGHTMARE, "Nightmare"
+movedata MOVE_NIGHTMARE, "あくむ"
     battleeffect MOVE_EFFECT_STATUS_NIGHTMARE
     pss SPLIT_STATUS
     basepower 0
@@ -2762,7 +2762,7 @@ movedata MOVE_NIGHTMARE, "Nightmare"
     terminatedata
     movedescription MOVE_NIGHTMARE, "A sleeping foe is\nshown a nightmare\nthat inflicts some\ndamage every turn.\n"
 
-movedata MOVE_FLAME_WHEEL, "Flame Wheel"
+movedata MOVE_FLAME_WHEEL, "かえんぐるま"
     battleeffect MOVE_EFFECT_THAW_AND_BURN_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -2778,7 +2778,7 @@ movedata MOVE_FLAME_WHEEL, "Flame Wheel"
     terminatedata
     movedescription MOVE_FLAME_WHEEL, "The user cloaks\nitself in fire and\ncharges at the foe.\nIt may also leave the\ntarget with a burn."
 
-movedata MOVE_SNORE, "Snore"
+movedata MOVE_SNORE, "いびき"
     battleeffect MOVE_EFFECT_DAMAGE_WHILE_ASLEEP
     pss SPLIT_SPECIAL
     basepower 50
@@ -2794,7 +2794,7 @@ movedata MOVE_SNORE, "Snore"
     terminatedata
     movedescription MOVE_SNORE, "An attack that can\nbe used only if the\nuser is asleep. The\nharsh noise may also\nmake the foe flinch."
 
-movedata MOVE_CURSE, "Curse"
+movedata MOVE_CURSE, "のろい"
     battleeffect MOVE_EFFECT_CURSE
     pss SPLIT_STATUS
     basepower 0
@@ -2810,7 +2810,7 @@ movedata MOVE_CURSE, "Curse"
     terminatedata
     movedescription MOVE_CURSE, "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n"
 
-movedata MOVE_FLAIL, "Flail"
+movedata MOVE_FLAIL, "じたばた"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_LESS_HP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -2826,7 +2826,7 @@ movedata MOVE_FLAIL, "Flail"
     terminatedata
     movedescription MOVE_FLAIL, "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has."
 
-movedata MOVE_CONVERSION_2, "Conversion 2"
+movedata MOVE_CONVERSION_2, "テクスチャ－２"
     battleeffect MOVE_EFFECT_CONVERSION2
     pss SPLIT_STATUS
     basepower 0
@@ -2842,7 +2842,7 @@ movedata MOVE_CONVERSION_2, "Conversion 2"
     terminatedata
     movedescription MOVE_CONVERSION_2, "The user changes its\ntype to make itself\nresistant to the type\nof the attack it\nlast took."
 
-movedata MOVE_AEROBLAST, "Aeroblast"
+movedata MOVE_AEROBLAST, "エアロブラスト"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_SPECIAL
     basepower 100
@@ -2858,7 +2858,7 @@ movedata MOVE_AEROBLAST, "Aeroblast"
     terminatedata
     movedescription MOVE_AEROBLAST, "A vortex of air is\nshot at the foe to\ninflict damage.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_COTTON_SPORE, "Cotton Spore"
+movedata MOVE_COTTON_SPORE, "わたほうし"
     battleeffect MOVE_EFFECT_SPEED_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -2874,7 +2874,7 @@ movedata MOVE_COTTON_SPORE, "Cotton Spore"
     terminatedata
     movedescription MOVE_COTTON_SPORE, "The user releases\ncottonlike spores\nthat cling to the\nfoe, sharply reducing\nits Speed stat."
 
-movedata MOVE_REVERSAL, "Reversal"
+movedata MOVE_REVERSAL, "きしかいせい"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_LESS_HP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -2890,7 +2890,7 @@ movedata MOVE_REVERSAL, "Reversal"
     terminatedata
     movedescription MOVE_REVERSAL, "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n"
 
-movedata MOVE_SPITE, "Spite"
+movedata MOVE_SPITE, "うらみ"
     battleeffect MOVE_EFFECT_DECREASE_LAST_MOVE_PP
     pss SPLIT_STATUS
     basepower 0
@@ -2906,7 +2906,7 @@ movedata MOVE_SPITE, "Spite"
     terminatedata
     movedescription MOVE_SPITE, "The user looses its\ngrudge on the move\nlast used by the foe\nby cutting 4 PP from\nit."
 
-movedata MOVE_POWDER_SNOW, "Powder Snow"
+movedata MOVE_POWDER_SNOW, "こなゆき"
     battleeffect MOVE_EFFECT_FREEZE_HIT
     pss SPLIT_SPECIAL
     basepower 40
@@ -2922,7 +2922,7 @@ movedata MOVE_POWDER_SNOW, "Powder Snow"
     terminatedata
     movedescription MOVE_POWDER_SNOW, "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target."
 
-movedata MOVE_PROTECT, "Protect"
+movedata MOVE_PROTECT, "まもる"
     battleeffect MOVE_EFFECT_PROTECT
     pss SPLIT_STATUS
     basepower 0
@@ -2938,7 +2938,7 @@ movedata MOVE_PROTECT, "Protect"
     terminatedata
     movedescription MOVE_PROTECT, "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession."
 
-movedata MOVE_MACH_PUNCH, "Mach Punch"
+movedata MOVE_MACH_PUNCH, "マッハパンチ"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 40
@@ -2954,7 +2954,7 @@ movedata MOVE_MACH_PUNCH, "Mach Punch"
     terminatedata
     movedescription MOVE_MACH_PUNCH, "The user throws a\npunch at blinding\nspeed.\nIt is certain to\nstrike first."
 
-movedata MOVE_SCARY_FACE, "Scary Face"
+movedata MOVE_SCARY_FACE, "こわいかお"
     battleeffect MOVE_EFFECT_SPEED_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -2970,7 +2970,7 @@ movedata MOVE_SCARY_FACE, "Scary Face"
     terminatedata
     movedescription MOVE_SCARY_FACE, "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat."
 
-movedata MOVE_FEINT_ATTACK, "Feint Attack"
+movedata MOVE_FEINT_ATTACK, "だましうち"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_PHYSICAL
     basepower 60
@@ -2986,7 +2986,7 @@ movedata MOVE_FEINT_ATTACK, "Feint Attack"
     terminatedata
     movedescription MOVE_FEINT_ATTACK, "The user draws up to\nthe foe disarmingly,\nthen throws a sucker\npunch.\nIt hits without fail."
 
-movedata MOVE_SWEET_KISS, "Sweet Kiss"
+movedata MOVE_SWEET_KISS, "てんしのキッス"
     battleeffect MOVE_EFFECT_STATUS_CONFUSE
     pss SPLIT_STATUS
     basepower 0
@@ -3002,7 +3002,7 @@ movedata MOVE_SWEET_KISS, "Sweet Kiss"
     terminatedata
     movedescription MOVE_SWEET_KISS, "The user kisses the\nfoe with a sweet,\nangelic cuteness that\ncauses confusion.\n"
 
-movedata MOVE_BELLY_DRUM, "Belly Drum"
+movedata MOVE_BELLY_DRUM, "はらだいこ"
     battleeffect MOVE_EFFECT_MAX_ATK_LOSE_HALF_MAX_HP
     pss SPLIT_STATUS
     basepower 0
@@ -3018,7 +3018,7 @@ movedata MOVE_BELLY_DRUM, "Belly Drum"
     terminatedata
     movedescription MOVE_BELLY_DRUM, "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP."
 
-movedata MOVE_SLUDGE_BOMB, "Sludge Bomb"
+movedata MOVE_SLUDGE_BOMB, "ヘドロばくだん"
     battleeffect MOVE_EFFECT_POISON_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -3034,7 +3034,7 @@ movedata MOVE_SLUDGE_BOMB, "Sludge Bomb"
     terminatedata
     movedescription MOVE_SLUDGE_BOMB, "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target."
 
-movedata MOVE_MUD_SLAP, "Mud-Slap"
+movedata MOVE_MUD_SLAP, "どろかけ"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
     basepower 20
@@ -3050,7 +3050,7 @@ movedata MOVE_MUD_SLAP, "Mud-Slap"
     terminatedata
     movedescription MOVE_MUD_SLAP, "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n"
 
-movedata MOVE_OCTAZOOKA, "Octazooka"
+movedata MOVE_OCTAZOOKA, "オクタンほう"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -3066,7 +3066,7 @@ movedata MOVE_OCTAZOOKA, "Octazooka"
     terminatedata
     movedescription MOVE_OCTAZOOKA, "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy."
 
-movedata MOVE_SPIKES, "Spikes"
+movedata MOVE_SPIKES, "まきびし"
     battleeffect MOVE_EFFECT_SET_SPIKES
     pss SPLIT_STATUS
     basepower 0
@@ -3082,7 +3082,7 @@ movedata MOVE_SPIKES, "Spikes"
     terminatedata
     movedescription MOVE_SPIKES, "The user lays a trap\nof spikes at the\nfoe’s feet. The trap\nhurts foes that\nswitch into battle."
 
-movedata MOVE_ZAP_CANNON, "Zap Cannon"
+movedata MOVE_ZAP_CANNON, "でんじほう"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_SPECIAL
     basepower 120
@@ -3098,7 +3098,7 @@ movedata MOVE_ZAP_CANNON, "Zap Cannon"
     terminatedata
     movedescription MOVE_ZAP_CANNON, "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis."
 
-movedata MOVE_FORESIGHT, "Foresight"
+movedata MOVE_FORESIGHT, "みやぶる"
     battleeffect MOVE_EFFECT_IGNORE_EVASION_REMOVE_GHOST_IMMUNE
     pss SPLIT_STATUS
     basepower 0
@@ -3114,7 +3114,7 @@ movedata MOVE_FORESIGHT, "Foresight"
     terminatedata
     movedescription MOVE_FORESIGHT, "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe."
 
-movedata MOVE_DESTINY_BOND, "Destiny Bond"
+movedata MOVE_DESTINY_BOND, "みちづれ"
     battleeffect MOVE_EFFECT_KO_MON_THAT_DEFEATED_USER
     pss SPLIT_STATUS
     basepower 0
@@ -3130,7 +3130,7 @@ movedata MOVE_DESTINY_BOND, "Destiny Bond"
     terminatedata
     movedescription MOVE_DESTINY_BOND, "When this move is\nused, if the user\nfaints, the foe that\nlanded the knockout\nhit also faints."
 
-movedata MOVE_PERISH_SONG, "Perish Song"
+movedata MOVE_PERISH_SONG, "ほろびのうた"
     battleeffect MOVE_EFFECT_ALL_FAINT_3_TURNS
     pss SPLIT_STATUS
     basepower 0
@@ -3146,7 +3146,7 @@ movedata MOVE_PERISH_SONG, "Perish Song"
     terminatedata
     movedescription MOVE_PERISH_SONG, "Any Pokémon that\nhears this song\nfaints in three turns,\nunless it switches\nout of battle."
 
-movedata MOVE_ICY_WIND, "Icy Wind"
+movedata MOVE_ICY_WIND, "こごえるかぜ"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_SPECIAL
     basepower 55
@@ -3162,7 +3162,7 @@ movedata MOVE_ICY_WIND, "Icy Wind"
     terminatedata
     movedescription MOVE_ICY_WIND, "The user attacks with\na gust of chilled air.\nIt also lowers the\ntarget’s Speed stat.\n"
 
-movedata MOVE_DETECT, "Detect"
+movedata MOVE_DETECT, "みきり"
     battleeffect MOVE_EFFECT_PROTECT
     pss SPLIT_STATUS
     basepower 0
@@ -3178,7 +3178,7 @@ movedata MOVE_DETECT, "Detect"
     terminatedata
     movedescription MOVE_DETECT, "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession."
 
-movedata MOVE_BONE_RUSH, "Bone Rush"
+movedata MOVE_BONE_RUSH, "ボ－ンラッシュ"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 30
@@ -3194,7 +3194,7 @@ movedata MOVE_BONE_RUSH, "Bone Rush"
     terminatedata
     movedescription MOVE_BONE_RUSH, "The user strikes at\nthe foe with a hard\nbone two to five\ntimes in a row.\n"
 
-movedata MOVE_LOCK_ON, "Lock-On"
+movedata MOVE_LOCK_ON, "ロックオン"
     battleeffect MOVE_EFFECT_NEXT_ATTACK_ALWAYS_HITS
     pss SPLIT_STATUS
     basepower 0
@@ -3210,7 +3210,7 @@ movedata MOVE_LOCK_ON, "Lock-On"
     terminatedata
     movedescription MOVE_LOCK_ON, "The user takes sure\naim at the foe.\nIt ensures the next\nattack does not fail\nto hit the target."
 
-movedata MOVE_OUTRAGE, "Outrage"
+movedata MOVE_OUTRAGE, "げきりん"
     battleeffect MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF
     pss SPLIT_PHYSICAL
     basepower 120
@@ -3226,7 +3226,7 @@ movedata MOVE_OUTRAGE, "Outrage"
     terminatedata
     movedescription MOVE_OUTRAGE, "The user rampages\nand attacks for two\nto three turns.\nHowever, it then\nbecomes confused."
 
-movedata MOVE_SANDSTORM, "Sandstorm"
+movedata MOVE_SANDSTORM, "すなあらし"
     battleeffect MOVE_EFFECT_WEATHER_SANDSTORM
     pss SPLIT_STATUS
     basepower 0
@@ -3242,7 +3242,7 @@ movedata MOVE_SANDSTORM, "Sandstorm"
     terminatedata
     movedescription MOVE_SANDSTORM, "A five-turn sand-\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel."
 
-movedata MOVE_GIGA_DRAIN, "Giga Drain"
+movedata MOVE_GIGA_DRAIN, "ギガドレイン"
     battleeffect MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT
     pss SPLIT_SPECIAL
     basepower 75
@@ -3258,7 +3258,7 @@ movedata MOVE_GIGA_DRAIN, "Giga Drain"
     terminatedata
     movedescription MOVE_GIGA_DRAIN, "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target."
 
-movedata MOVE_ENDURE, "Endure"
+movedata MOVE_ENDURE, "こらえる"
     battleeffect MOVE_EFFECT_SURVIVE_WITH_1_HP
     pss SPLIT_STATUS
     basepower 0
@@ -3274,7 +3274,7 @@ movedata MOVE_ENDURE, "Endure"
     terminatedata
     movedescription MOVE_ENDURE, "The user endures any\nattack with at least\n1 HP. Its chance of\nfailing rises if it is\nused in succession."
 
-movedata MOVE_CHARM, "Charm"
+movedata MOVE_CHARM, "あまえる"
     battleeffect MOVE_EFFECT_ATK_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -3290,7 +3290,7 @@ movedata MOVE_CHARM, "Charm"
     terminatedata
     movedescription MOVE_CHARM, "The user charmingly\nstares at the foe,\nmaking it less wary.\nThe target’s Attack\nis sharply lowered."
 
-movedata MOVE_ROLLOUT, "Rollout"
+movedata MOVE_ROLLOUT, "ころがる"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO
     pss SPLIT_PHYSICAL
     basepower 30
@@ -3306,7 +3306,7 @@ movedata MOVE_ROLLOUT, "Rollout"
     terminatedata
     movedescription MOVE_ROLLOUT, "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits."
 
-movedata MOVE_FALSE_SWIPE, "False Swipe"
+movedata MOVE_FALSE_SWIPE, "みねうち"
     battleeffect MOVE_EFFECT_LEAVE_WITH_1_HP
     pss SPLIT_PHYSICAL
     basepower 40
@@ -3322,7 +3322,7 @@ movedata MOVE_FALSE_SWIPE, "False Swipe"
     terminatedata
     movedescription MOVE_FALSE_SWIPE, "A restrained attack\nthat prevents the\nfoe from fainting.\nThe target is left\nwith at least 1 HP."
 
-movedata MOVE_SWAGGER, "Swagger"
+movedata MOVE_SWAGGER, "いばる"
     battleeffect MOVE_EFFECT_ATK_UP_2_STATUS_CONFUSION
     pss SPLIT_STATUS
     basepower 0
@@ -3338,7 +3338,7 @@ movedata MOVE_SWAGGER, "Swagger"
     terminatedata
     movedescription MOVE_SWAGGER, "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat."
 
-movedata MOVE_MILK_DRINK, "Milk Drink"
+movedata MOVE_MILK_DRINK, "ミルクのみ"
     battleeffect MOVE_EFFECT_RESTORE_HALF_HP
     pss SPLIT_STATUS
     basepower 0
@@ -3354,7 +3354,7 @@ movedata MOVE_MILK_DRINK, "Milk Drink"
     terminatedata
     movedescription MOVE_MILK_DRINK, "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP."
 
-movedata MOVE_SPARK, "Spark"
+movedata MOVE_SPARK, "スパ－ク"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -3370,7 +3370,7 @@ movedata MOVE_SPARK, "Spark"
     terminatedata
     movedescription MOVE_SPARK, "The user throws an\nelectrically charged\ntackle at the foe.\nIt may also leave the\ntarget paralyzed."
 
-movedata MOVE_FURY_CUTTER, "Fury Cutter"
+movedata MOVE_FURY_CUTTER, "れんぞくぎり"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_EACH_TURN
     pss SPLIT_PHYSICAL
     basepower 40
@@ -3386,7 +3386,7 @@ movedata MOVE_FURY_CUTTER, "Fury Cutter"
     terminatedata
     movedescription MOVE_FURY_CUTTER, "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession."
 
-movedata MOVE_STEEL_WING, "Steel Wing"
+movedata MOVE_STEEL_WING, "はがねのつばさ"
     battleeffect MOVE_EFFECT_RAISE_DEF_HIT
     pss SPLIT_PHYSICAL
     basepower 70
@@ -3402,7 +3402,7 @@ movedata MOVE_STEEL_WING, "Steel Wing"
     terminatedata
     movedescription MOVE_STEEL_WING, "The foe is hit with\nwings of steel.\nIt may also raise the\nuser’s Defense stat.\n"
 
-movedata MOVE_MEAN_LOOK, "Mean Look"
+movedata MOVE_MEAN_LOOK, "くろいまなざし"
     battleeffect MOVE_EFFECT_PREVENT_ESCAPE
     pss SPLIT_STATUS
     basepower 0
@@ -3418,7 +3418,7 @@ movedata MOVE_MEAN_LOOK, "Mean Look"
     terminatedata
     movedescription MOVE_MEAN_LOOK, "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee."
 
-movedata MOVE_ATTRACT, "Attract"
+movedata MOVE_ATTRACT, "メロメロ"
     battleeffect MOVE_EFFECT_INFATUATE
     pss SPLIT_STATUS
     basepower 0
@@ -3434,7 +3434,7 @@ movedata MOVE_ATTRACT, "Attract"
     terminatedata
     movedescription MOVE_ATTRACT, "If it is the opposite\ngender of the user,\nthe foe becomes\ninfatuated and less\nlikely to attack."
 
-movedata MOVE_SLEEP_TALK, "Sleep Talk"
+movedata MOVE_SLEEP_TALK, "ねごと"
     battleeffect MOVE_EFFECT_USE_RANDOM_LEARNED_MOVE_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -3450,7 +3450,7 @@ movedata MOVE_SLEEP_TALK, "Sleep Talk"
     terminatedata
     movedescription MOVE_SLEEP_TALK, "While it is asleep, the\nuser randomly uses\none of the moves it\nknows.\n"
 
-movedata MOVE_HEAL_BELL, "Heal Bell"
+movedata MOVE_HEAL_BELL, "いやしのすず"
     battleeffect MOVE_EFFECT_CURE_PARTY_STATUS
     pss SPLIT_STATUS
     basepower 0
@@ -3466,7 +3466,7 @@ movedata MOVE_HEAL_BELL, "Heal Bell"
     terminatedata
     movedescription MOVE_HEAL_BELL, "The user makes a\nsoothing bell chime\nto heal the status\nproblems of all the\nparty Pokémon."
 
-movedata MOVE_RETURN, "Return"
+movedata MOVE_RETURN, "おんがえし"
     battleeffect MOVE_EFFECT_POWER_BASED_ON_FRIENDSHIP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -3482,7 +3482,7 @@ movedata MOVE_RETURN, "Return"
     terminatedata
     movedescription MOVE_RETURN, "A full-power attack\nthat grows more\npowerful the more\nthe user likes its\nTrainer."
 
-movedata MOVE_PRESENT, "Present"
+movedata MOVE_PRESENT, "プレゼント"
     battleeffect MOVE_EFFECT_RANDOM_POWER_MAYBE_HEAL
     pss SPLIT_PHYSICAL
     basepower 1
@@ -3498,7 +3498,7 @@ movedata MOVE_PRESENT, "Present"
     terminatedata
     movedescription MOVE_PRESENT, "The user attacks by\ngiving the foe a\nbooby-trapped gift.\nIt restores HP\nsometimes, however."
 
-movedata MOVE_FRUSTRATION, "Frustration"
+movedata MOVE_FRUSTRATION, "やつあたり"
     battleeffect MOVE_EFFECT_POWER_BASED_ON_LOW_FRIENDSHIP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -3514,7 +3514,7 @@ movedata MOVE_FRUSTRATION, "Frustration"
     terminatedata
     movedescription MOVE_FRUSTRATION, "A full-power attack\nthat grows more\npowerful the less\nthe user likes its\nTrainer."
 
-movedata MOVE_SAFEGUARD, "Safeguard"
+movedata MOVE_SAFEGUARD, "しんぴのまもり"
     battleeffect MOVE_EFFECT_PREVENT_STATUS
     pss SPLIT_STATUS
     basepower 0
@@ -3530,7 +3530,7 @@ movedata MOVE_SAFEGUARD, "Safeguard"
     terminatedata
     movedescription MOVE_SAFEGUARD, "The user creates a\nprotective field that\nprevents status\nproblems for five\nturns."
 
-movedata MOVE_PAIN_SPLIT, "Pain Split"
+movedata MOVE_PAIN_SPLIT, "いたみわけ"
     battleeffect MOVE_EFFECT_AVERAGE_HP
     pss SPLIT_STATUS
     basepower 0
@@ -3546,7 +3546,7 @@ movedata MOVE_PAIN_SPLIT, "Pain Split"
     terminatedata
     movedescription MOVE_PAIN_SPLIT, "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe."
 
-movedata MOVE_SACRED_FIRE, "Sacred Fire"
+movedata MOVE_SACRED_FIRE, "せいなるほのお"
     battleeffect MOVE_EFFECT_THAW_AND_BURN_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -3562,7 +3562,7 @@ movedata MOVE_SACRED_FIRE, "Sacred Fire"
     terminatedata
     movedescription MOVE_SACRED_FIRE, "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn."
 
-movedata MOVE_MAGNITUDE, "Magnitude"
+movedata MOVE_MAGNITUDE, "マグニチュ－ド"
     battleeffect MOVE_EFFECT_RANDOM_POWER_10_CASES
     pss SPLIT_PHYSICAL
     basepower 1
@@ -3578,7 +3578,7 @@ movedata MOVE_MAGNITUDE, "Magnitude"
     terminatedata
     movedescription MOVE_MAGNITUDE, "The user looses a\nground-shaking quake\naffecting everyone in\nbattle. Its power\nvaries."
 
-movedata MOVE_DYNAMIC_PUNCH, "Dynamic Punch"
+movedata MOVE_DYNAMIC_PUNCH, "ばくれつパンチ"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -3594,7 +3594,7 @@ movedata MOVE_DYNAMIC_PUNCH, "Dynamic Punch"
     terminatedata
     movedescription MOVE_DYNAMIC_PUNCH, "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits."
 
-movedata MOVE_MEGAHORN, "Megahorn"
+movedata MOVE_MEGAHORN, "メガホ－ン"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -3610,7 +3610,7 @@ movedata MOVE_MEGAHORN, "Megahorn"
     terminatedata
     movedescription MOVE_MEGAHORN, "Using its tough\nand impressive\nhorn, the user\nrams into the foe \nwith no letup.\n"
 
-movedata MOVE_DRAGON_BREATH, "Dragon Breath"
+movedata MOVE_DRAGON_BREATH, "りゅうのいぶき"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_SPECIAL
     basepower 60
@@ -3626,7 +3626,7 @@ movedata MOVE_DRAGON_BREATH, "Dragon Breath"
     terminatedata
     movedescription MOVE_DRAGON_BREATH, "The user exhales\na mighty gust that\ninflicts damage.\nIt may also paralyze\nthe target."
 
-movedata MOVE_BATON_PASS, "Baton Pass"
+movedata MOVE_BATON_PASS, "バトンタッチ"
     battleeffect MOVE_EFFECT_PASS_STATS_AND_STATUS
     pss SPLIT_STATUS
     basepower 0
@@ -3642,7 +3642,7 @@ movedata MOVE_BATON_PASS, "Baton Pass"
     terminatedata
     movedescription MOVE_BATON_PASS, "The user switches\nplaces with a party\nPokémon in waiting,\npassing along any\nstat changes."
 
-movedata MOVE_ENCORE, "Encore"
+movedata MOVE_ENCORE, "アンコ－ル"
     battleeffect MOVE_EFFECT_ENCORE
     pss SPLIT_STATUS
     basepower 0
@@ -3658,7 +3658,7 @@ movedata MOVE_ENCORE, "Encore"
     terminatedata
     movedescription MOVE_ENCORE, "The user compels the\nfoe to keep using\nonly the move it last\nused for three to\nseven turns."
 
-movedata MOVE_PURSUIT, "Pursuit"
+movedata MOVE_PURSUIT, "おいうち"
     battleeffect MOVE_EFFECT_HIT_BEFORE_SWITCH
     pss SPLIT_PHYSICAL
     basepower 40
@@ -3674,7 +3674,7 @@ movedata MOVE_PURSUIT, "Pursuit"
     terminatedata
     movedescription MOVE_PURSUIT, "An attack move that\ninflicts double damage\nif used on a foe that\nis switching out of\nbattle."
 
-movedata MOVE_RAPID_SPIN, "Rapid Spin"
+movedata MOVE_RAPID_SPIN, "こうそくスピン"
     battleeffect MOVE_EFFECT_REMOVE_HAZARDS_AND_BINDING
     pss SPLIT_PHYSICAL
     basepower 50
@@ -3690,7 +3690,7 @@ movedata MOVE_RAPID_SPIN, "Rapid Spin"
     terminatedata
     movedescription MOVE_RAPID_SPIN, "A spin attack that\ncan also eliminate\nsuch moves as Bind,\nWrap, Leech Seed,\nand Spikes."
 
-movedata MOVE_SWEET_SCENT, "Sweet Scent"
+movedata MOVE_SWEET_SCENT, "あまいかおり"
     battleeffect MOVE_EFFECT_EVA_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -3706,7 +3706,7 @@ movedata MOVE_SWEET_SCENT, "Sweet Scent"
     terminatedata
     movedescription MOVE_SWEET_SCENT, "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc."
 
-movedata MOVE_IRON_TAIL, "Iron Tail"
+movedata MOVE_IRON_TAIL, "アイアンテ－ル"
     battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -3722,7 +3722,7 @@ movedata MOVE_IRON_TAIL, "Iron Tail"
     terminatedata
     movedescription MOVE_IRON_TAIL, "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat."
 
-movedata MOVE_METAL_CLAW, "Metal Claw"
+movedata MOVE_METAL_CLAW, "メタルクロ－"
     battleeffect MOVE_EFFECT_RAISE_ATTACK_HIT
     pss SPLIT_PHYSICAL
     basepower 50
@@ -3738,7 +3738,7 @@ movedata MOVE_METAL_CLAW, "Metal Claw"
     terminatedata
     movedescription MOVE_METAL_CLAW, "The foe is raked\nwith steel claws.\nIt may also raise the\nuser’s Attack stat.\n"
 
-movedata MOVE_VITAL_THROW, "Vital Throw"
+movedata MOVE_VITAL_THROW, "あてみなげ"
     battleeffect MOVE_EFFECT_PRIORITY_NEG_1_BYPASS_ACCURACY
     pss SPLIT_PHYSICAL
     basepower 70
@@ -3754,7 +3754,7 @@ movedata MOVE_VITAL_THROW, "Vital Throw"
     terminatedata
     movedescription MOVE_VITAL_THROW, "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss."
 
-movedata MOVE_MORNING_SUN, "Morning Sun"
+movedata MOVE_MORNING_SUN, "あさのひざし"
     battleeffect MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER
     pss SPLIT_STATUS
     basepower 0
@@ -3770,7 +3770,7 @@ movedata MOVE_MORNING_SUN, "Morning Sun"
     terminatedata
     movedescription MOVE_MORNING_SUN, "The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather."
 
-movedata MOVE_SYNTHESIS, "Synthesis"
+movedata MOVE_SYNTHESIS, "こうごうせい"
     battleeffect MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER
     pss SPLIT_STATUS
     basepower 0
@@ -3786,7 +3786,7 @@ movedata MOVE_SYNTHESIS, "Synthesis"
     terminatedata
     movedescription MOVE_SYNTHESIS, "The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather."
 
-movedata MOVE_MOONLIGHT, "Moonlight"
+movedata MOVE_MOONLIGHT, "つきのひかり"
     battleeffect MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER
     pss SPLIT_STATUS
     basepower 0
@@ -3802,7 +3802,7 @@ movedata MOVE_MOONLIGHT, "Moonlight"
     terminatedata
     movedescription MOVE_MOONLIGHT, "The user restores its\nown HP.\nThe amount of HP\nregained varies with\nthe weather."
 
-movedata MOVE_HIDDEN_POWER, "Hidden Power"
+movedata MOVE_HIDDEN_POWER, "めざめるパワ－"
     battleeffect MOVE_EFFECT_RANDOM_TYPE_BASED_ON_IVS
     pss SPLIT_SPECIAL
     basepower 60
@@ -3818,7 +3818,7 @@ movedata MOVE_HIDDEN_POWER, "Hidden Power"
     terminatedata
     movedescription MOVE_HIDDEN_POWER, "A unique attack that\nvaries in type\ndepending on the\nPokémon using it."
 
-movedata MOVE_CROSS_CHOP, "Cross Chop"
+movedata MOVE_CROSS_CHOP, "クロスチョップ"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 100
@@ -3834,7 +3834,7 @@ movedata MOVE_CROSS_CHOP, "Cross Chop"
     terminatedata
     movedescription MOVE_CROSS_CHOP, "The user delivers a\ndouble chop with its\nforearms crossed.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_TWISTER, "Twister"
+movedata MOVE_TWISTER, "たつまき"
     battleeffect MOVE_EFFECT_FLINCH_DOUBLE_DAMAGE_FLY_OR_BOUNCE
     pss SPLIT_SPECIAL
     basepower 40
@@ -3850,7 +3850,7 @@ movedata MOVE_TWISTER, "Twister"
     terminatedata
     movedescription MOVE_TWISTER, "The user whips up a\nvicious tornado to\ntear at the foe.\nIt may also make the\nfoe flinch."
 
-movedata MOVE_RAIN_DANCE, "Rain Dance"
+movedata MOVE_RAIN_DANCE, "あまごい"
     battleeffect MOVE_EFFECT_WEATHER_RAIN
     pss SPLIT_STATUS
     basepower 0
@@ -3866,7 +3866,7 @@ movedata MOVE_RAIN_DANCE, "Rain Dance"
     terminatedata
     movedescription MOVE_RAIN_DANCE, "The user summons a\nheavy rain that falls\nfor five turns,\npowering up Water-\ntype moves."
 
-movedata MOVE_SUNNY_DAY, "Sunny Day"
+movedata MOVE_SUNNY_DAY, "にほんばれ"
     battleeffect MOVE_EFFECT_WEATHER_SUN
     pss SPLIT_STATUS
     basepower 0
@@ -3882,7 +3882,7 @@ movedata MOVE_SUNNY_DAY, "Sunny Day"
     terminatedata
     movedescription MOVE_SUNNY_DAY, "The user intensifies\nthe sun for five\nturns, powering up\nFire-type moves.\n"
 
-movedata MOVE_CRUNCH, "Crunch"
+movedata MOVE_CRUNCH, "かみくだく"
     battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -3898,7 +3898,7 @@ movedata MOVE_CRUNCH, "Crunch"
     terminatedata
     movedescription MOVE_CRUNCH, "The user crunches up\nthe foe with sharp\nfangs. It may also\nlower the target’s\nDefense stat."
 
-movedata MOVE_MIRROR_COAT, "Mirror Coat"
+movedata MOVE_MIRROR_COAT, "ミラ－コ－ト"
     battleeffect MOVE_EFFECT_MIRROR_COAT
     pss SPLIT_SPECIAL
     basepower 1
@@ -3914,7 +3914,7 @@ movedata MOVE_MIRROR_COAT, "Mirror Coat"
     terminatedata
     movedescription MOVE_MIRROR_COAT, "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken."
 
-movedata MOVE_PSYCH_UP, "Psych Up"
+movedata MOVE_PSYCH_UP, "じこあんじ"
     battleeffect MOVE_EFFECT_COPY_STAT_CHANGES
     pss SPLIT_STATUS
     basepower 0
@@ -3930,7 +3930,7 @@ movedata MOVE_PSYCH_UP, "Psych Up"
     terminatedata
     movedescription MOVE_PSYCH_UP, "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n"
 
-movedata MOVE_EXTREME_SPEED, "Extreme Speed"
+movedata MOVE_EXTREME_SPEED, "しんそく"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 80
@@ -3946,7 +3946,7 @@ movedata MOVE_EXTREME_SPEED, "Extreme Speed"
     terminatedata
     movedescription MOVE_EXTREME_SPEED, "The user charges the\nfoe at blinding speed.\nThis attack always\ngoes before any\nother move."
 
-movedata MOVE_ANCIENT_POWER, "Ancient Power"
+movedata MOVE_ANCIENT_POWER, "げんしのちから"
     battleeffect MOVE_EFFECT_RAISE_ALL_STATS_HIT
     pss SPLIT_SPECIAL
     basepower 60
@@ -3962,7 +3962,7 @@ movedata MOVE_ANCIENT_POWER, "Ancient Power"
     terminatedata
     movedescription MOVE_ANCIENT_POWER, "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce."
 
-movedata MOVE_SHADOW_BALL, "Shadow Ball"
+movedata MOVE_SHADOW_BALL, "シャド－ボ－ル"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -3978,7 +3978,7 @@ movedata MOVE_SHADOW_BALL, "Shadow Ball"
     terminatedata
     movedescription MOVE_SHADOW_BALL, "The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat."
 
-movedata MOVE_FUTURE_SIGHT, "Future Sight"
+movedata MOVE_FUTURE_SIGHT, "みらいよち"
     battleeffect MOVE_EFFECT_HIT_IN_3_TURNS
     pss SPLIT_SPECIAL
     basepower 120
@@ -3994,7 +3994,7 @@ movedata MOVE_FUTURE_SIGHT, "Future Sight"
     terminatedata
     movedescription MOVE_FUTURE_SIGHT, "Two turns after this\nmove is used, the foe\nis attacked with a\nhunk of psychic\nenergy."
 
-movedata MOVE_ROCK_SMASH, "Rock Smash"
+movedata MOVE_ROCK_SMASH, "いわくだき"
     battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
     pss SPLIT_PHYSICAL
     basepower 40
@@ -4010,7 +4010,7 @@ movedata MOVE_ROCK_SMASH, "Rock Smash"
     terminatedata
     movedescription MOVE_ROCK_SMASH, "The user hits with a\npunch that may lower\nthe target’s Defense.\nIt can also smash\ncracked boulders."
 
-movedata MOVE_WHIRLPOOL, "Whirlpool"
+movedata MOVE_WHIRLPOOL, "うずしお"
     battleeffect MOVE_EFFECT_WHIRLPOOL
     pss SPLIT_SPECIAL
     basepower 35
@@ -4026,7 +4026,7 @@ movedata MOVE_WHIRLPOOL, "Whirlpool"
     terminatedata
     movedescription MOVE_WHIRLPOOL, "Traps the foe inside a\nwhirlpool that lasts\nfor two to five turns.\nThe user can pass\nthrough whirlpools."
 
-movedata MOVE_BEAT_UP, "Beat Up"
+movedata MOVE_BEAT_UP, "ふくろだたき"
     battleeffect MOVE_EFFECT_BEAT_UP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -4042,7 +4042,7 @@ movedata MOVE_BEAT_UP, "Beat Up"
     terminatedata
     movedescription MOVE_BEAT_UP, "The user gets all the\nparty Pokémon to\nattack the foe. The\nmore party Pokémon,\nthe more damage."
 
-movedata MOVE_FAKE_OUT, "Fake Out"
+movedata MOVE_FAKE_OUT, "ねこだまし"
     battleeffect MOVE_EFFECT_ALWAYS_FLINCH_FIRST_TURN_ONLY
     pss SPLIT_PHYSICAL
     basepower 40
@@ -4058,7 +4058,7 @@ movedata MOVE_FAKE_OUT, "Fake Out"
     terminatedata
     movedescription MOVE_FAKE_OUT, "An attack that hits\nfirst and makes the\ntarget flinch. It only\nworks the first turn\nthe user is in battle."
 
-movedata MOVE_UPROAR, "Uproar"
+movedata MOVE_UPROAR, "さわぐ"
     battleeffect MOVE_EFFECT_UPROAR
     pss SPLIT_SPECIAL
     basepower 90
@@ -4074,7 +4074,7 @@ movedata MOVE_UPROAR, "Uproar"
     terminatedata
     movedescription MOVE_UPROAR, "The user attacks in\nan uproar for two to\nfive turns. Over that\ntime, no one can fall\nasleep."
 
-movedata MOVE_STOCKPILE, "Stockpile"
+movedata MOVE_STOCKPILE, "たくわえる"
     battleeffect MOVE_EFFECT_STOCKPILE
     pss SPLIT_STATUS
     basepower 0
@@ -4090,7 +4090,7 @@ movedata MOVE_STOCKPILE, "Stockpile"
     terminatedata
     movedescription MOVE_STOCKPILE, "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times."
 
-movedata MOVE_SPIT_UP, "Spit Up"
+movedata MOVE_SPIT_UP, "はきだす"
     battleeffect MOVE_EFFECT_SPIT_UP
     pss SPLIT_SPECIAL
     basepower 1
@@ -4106,7 +4106,7 @@ movedata MOVE_SPIT_UP, "Spit Up"
     terminatedata
     movedescription MOVE_SPIT_UP, "The power stored\nusing the move\nStockpile is released\nat once in an attack.\n"
 
-movedata MOVE_SWALLOW, "Swallow"
+movedata MOVE_SWALLOW, "のみこむ"
     battleeffect MOVE_EFFECT_SWALLOW
     pss SPLIT_STATUS
     basepower 0
@@ -4122,7 +4122,7 @@ movedata MOVE_SWALLOW, "Swallow"
     terminatedata
     movedescription MOVE_SWALLOW, "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP."
 
-movedata MOVE_HEAT_WAVE, "Heat Wave"
+movedata MOVE_HEAT_WAVE, "ねっぷう"
     battleeffect MOVE_EFFECT_BURN_HIT
     pss SPLIT_SPECIAL
     basepower 100
@@ -4138,7 +4138,7 @@ movedata MOVE_HEAT_WAVE, "Heat Wave"
     terminatedata
     movedescription MOVE_HEAT_WAVE, "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn."
 
-movedata MOVE_HAIL, "Hail"
+movedata MOVE_HAIL, "あられ"
     battleeffect MOVE_EFFECT_WEATHER_HAIL
     pss SPLIT_STATUS
     basepower 0
@@ -4154,7 +4154,7 @@ movedata MOVE_HAIL, "Hail"
     terminatedata
     movedescription MOVE_HAIL, "The user summons a\nhailstorm lasting five\nturns. It damages all\nPokémon except the\nIce type."
 
-movedata MOVE_TORMENT, "Torment"
+movedata MOVE_TORMENT, "いちゃもん"
     battleeffect MOVE_EFFECT_TORMENT
     pss SPLIT_STATUS
     basepower 0
@@ -4170,7 +4170,7 @@ movedata MOVE_TORMENT, "Torment"
     terminatedata
     movedescription MOVE_TORMENT, "The user torments\nand enrages the foe,\nmaking it incapable of\nusing the same move\ntwice in a row."
 
-movedata MOVE_FLATTER, "Flatter"
+movedata MOVE_FLATTER, "おだてる"
     battleeffect MOVE_EFFECT_SP_ATK_UP_CAUSE_CONFUSION
     pss SPLIT_STATUS
     basepower 0
@@ -4186,7 +4186,7 @@ movedata MOVE_FLATTER, "Flatter"
     terminatedata
     movedescription MOVE_FLATTER, "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat."
 
-movedata MOVE_WILL_O_WISP, "Will-O-Wisp"
+movedata MOVE_WILL_O_WISP, "おにび"
     battleeffect MOVE_EFFECT_STATUS_BURN
     pss SPLIT_STATUS
     basepower 0
@@ -4202,7 +4202,7 @@ movedata MOVE_WILL_O_WISP, "Will-O-Wisp"
     terminatedata
     movedescription MOVE_WILL_O_WISP, "The user shoots a\nsinister, bluish white\nflame at the foe to\ninflict a burn.\n"
 
-movedata MOVE_MEMENTO, "Memento"
+movedata MOVE_MEMENTO, "おきみやげ"
     battleeffect MOVE_EFFECT_FAINT_AND_ATK_SP_ATK_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -4218,7 +4218,7 @@ movedata MOVE_MEMENTO, "Memento"
     terminatedata
     movedescription MOVE_MEMENTO, "The user faints upon\nusing this move.\nIn return, it sharply\nlowers the target’s\nAttack and Sp. Atk."
 
-movedata MOVE_FACADE, "Facade"
+movedata MOVE_FACADE, "からげんき"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_WHEN_STATUSED
     pss SPLIT_PHYSICAL
     basepower 70
@@ -4234,7 +4234,7 @@ movedata MOVE_FACADE, "Facade"
     terminatedata
     movedescription MOVE_FACADE, "An attack move that\ndoubles its power if\nthe user is poisoned,\nparalyzed, or has a\nburn."
 
-movedata MOVE_FOCUS_PUNCH, "Focus Punch"
+movedata MOVE_FOCUS_PUNCH, "きあいパンチ"
     battleeffect MOVE_EFFECT_HIT_LAST_WHIFF_IF_HIT
     pss SPLIT_PHYSICAL
     basepower 150
@@ -4250,7 +4250,7 @@ movedata MOVE_FOCUS_PUNCH, "Focus Punch"
     terminatedata
     movedescription MOVE_FOCUS_PUNCH, "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used."
 
-movedata MOVE_SMELLING_SALTS, "Smelling Salts"
+movedata MOVE_SMELLING_SALTS, "きつけ"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_AND_CURE_PARALYSIS
     pss SPLIT_PHYSICAL
     basepower 70
@@ -4266,7 +4266,7 @@ movedata MOVE_SMELLING_SALTS, "Smelling Salts"
     terminatedata
     movedescription MOVE_SMELLING_SALTS, "This attack inflicts\ndouble damage on a\nparalyzed foe. It\nalso cures the foe’s\nparalysis, however."
 
-movedata MOVE_FOLLOW_ME, "Follow Me"
+movedata MOVE_FOLLOW_ME, "このゆびとまれ"
     battleeffect MOVE_EFFECT_MAKE_GLOBAL_TARGET
     pss SPLIT_STATUS
     basepower 0
@@ -4282,7 +4282,7 @@ movedata MOVE_FOLLOW_ME, "Follow Me"
     terminatedata
     movedescription MOVE_FOLLOW_ME, "The user draws\nattention to itself,\nmaking all foes take\naim only at the user.\n"
 
-movedata MOVE_NATURE_POWER, "Nature Power"
+movedata MOVE_NATURE_POWER, "しぜんのちから"
     battleeffect MOVE_EFFECT_NATURE_POWER
     pss SPLIT_STATUS
     basepower 0
@@ -4298,7 +4298,7 @@ movedata MOVE_NATURE_POWER, "Nature Power"
     terminatedata
     movedescription MOVE_NATURE_POWER, "An attack that makes\nuse of nature’s\npower. Its effects\nvary depending on the\nuser’s environment."
 
-movedata MOVE_CHARGE, "Charge"
+movedata MOVE_CHARGE, "じゅうでん"
     battleeffect MOVE_EFFECT_SP_DEF_UP_DOUBLE_ELECTRIC_POWER
     pss SPLIT_STATUS
     basepower 0
@@ -4314,7 +4314,7 @@ movedata MOVE_CHARGE, "Charge"
     terminatedata
     movedescription MOVE_CHARGE, "The user boosts the\npower of the Electric\nmove it uses next.\nIt also raises the\nuser’s Sp. Def stat."
 
-movedata MOVE_TAUNT, "Taunt"
+movedata MOVE_TAUNT, "ちょうはつ"
     battleeffect MOVE_EFFECT_TAUNT
     pss SPLIT_STATUS
     basepower 0
@@ -4330,7 +4330,7 @@ movedata MOVE_TAUNT, "Taunt"
     terminatedata
     movedescription MOVE_TAUNT, "The foe is taunted\ninto a rage that\nallows it to use only\nattack moves for two\nto four turns."
 
-movedata MOVE_HELPING_HAND, "Helping Hand"
+movedata MOVE_HELPING_HAND, "てだすけ"
     battleeffect MOVE_EFFECT_BOOST_ALLY_POWER_BY_50_PERCENT
     pss SPLIT_STATUS
     basepower 0
@@ -4346,7 +4346,7 @@ movedata MOVE_HELPING_HAND, "Helping Hand"
     terminatedata
     movedescription MOVE_HELPING_HAND, "A move that boosts\nthe power of the\nally’s attack in a\nDouble Battle.\n"
 
-movedata MOVE_TRICK, "Trick"
+movedata MOVE_TRICK, "トリック"
     battleeffect MOVE_EFFECT_SWITCH_HELD_ITEMS
     pss SPLIT_STATUS
     basepower 0
@@ -4362,7 +4362,7 @@ movedata MOVE_TRICK, "Trick"
     terminatedata
     movedescription MOVE_TRICK, "The user catches the\nfoe off guard and\nswaps the foe’s held\nitem with its own.\n"
 
-movedata MOVE_ROLE_PLAY, "Role Play"
+movedata MOVE_ROLE_PLAY, "なりきり"
     battleeffect MOVE_EFFECT_COPY_ABILITY
     pss SPLIT_STATUS
     basepower 0
@@ -4378,7 +4378,7 @@ movedata MOVE_ROLE_PLAY, "Role Play"
     terminatedata
     movedescription MOVE_ROLE_PLAY, "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n"
 
-movedata MOVE_WISH, "Wish"
+movedata MOVE_WISH, "ねがいごと"
     battleeffect MOVE_EFFECT_HEAL_IN_3_TURNS
     pss SPLIT_STATUS
     basepower 0
@@ -4394,7 +4394,7 @@ movedata MOVE_WISH, "Wish"
     terminatedata
     movedescription MOVE_WISH, "A self-healing move.\nThe user restores its\nown HP by up to half\nof its maximum HP\nin the next turn."
 
-movedata MOVE_ASSIST, "Assist"
+movedata MOVE_ASSIST, "ねこのて"
     battleeffect MOVE_EFFECT_USE_RANDOM_ALLY_MOVE
     pss SPLIT_STATUS
     basepower 0
@@ -4410,7 +4410,7 @@ movedata MOVE_ASSIST, "Assist"
     terminatedata
     movedescription MOVE_ASSIST, "The user hurriedly\nand randomly uses a\nmove among those\nknown by other\nPokémon in the party."
 
-movedata MOVE_INGRAIN, "Ingrain"
+movedata MOVE_INGRAIN, "ねをはる"
     battleeffect MOVE_EFFECT_GROUND_TRAP_USER_CONTINUOUS_HEAL
     pss SPLIT_STATUS
     basepower 0
@@ -4426,7 +4426,7 @@ movedata MOVE_INGRAIN, "Ingrain"
     terminatedata
     movedescription MOVE_INGRAIN, "The user lays roots\nthat restore HP on\nevery turn.\nBecause it is rooted,\nit can’t switch out."
 
-movedata MOVE_SUPERPOWER, "Superpower"
+movedata MOVE_SUPERPOWER, "ばかぢから"
     battleeffect MOVE_EFFECT_USER_ATK_DEF_DOWN_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -4442,7 +4442,7 @@ movedata MOVE_SUPERPOWER, "Superpower"
     terminatedata
     movedescription MOVE_SUPERPOWER, "The user attacks the\nfoe with great power.\nHowever, it also\nlowers the user’s\nAttack and Defense."
 
-movedata MOVE_MAGIC_COAT, "Magic Coat"
+movedata MOVE_MAGIC_COAT, "マジックコ－ト"
     battleeffect MOVE_EFFECT_MAGIC_COAT
     pss SPLIT_STATUS
     basepower 0
@@ -4458,7 +4458,7 @@ movedata MOVE_MAGIC_COAT, "Magic Coat"
     terminatedata
     movedescription MOVE_MAGIC_COAT, "A barrier reflects\nback to the foe\nmoves like Leech\nSeed and moves\nthat damage status."
 
-movedata MOVE_RECYCLE, "Recycle"
+movedata MOVE_RECYCLE, "リサイクル"
     battleeffect MOVE_EFFECT_RECYCLE
     pss SPLIT_STATUS
     basepower 0
@@ -4474,7 +4474,7 @@ movedata MOVE_RECYCLE, "Recycle"
     terminatedata
     movedescription MOVE_RECYCLE, "The user recycles a\nheld item that\nhas been used in\nbattle so it can be\nused again."
 
-movedata MOVE_REVENGE, "Revenge"
+movedata MOVE_REVENGE, "リベンジ"
     battleeffect MOVE_EFFECT_DOUBLE_DAMAGE_IF_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -4490,7 +4490,7 @@ movedata MOVE_REVENGE, "Revenge"
     terminatedata
     movedescription MOVE_REVENGE, "An attack move that\ninflicts double the\ndamage if the user\nhas been hurt by the\nfoe in the same turn."
 
-movedata MOVE_BRICK_BREAK, "Brick Break"
+movedata MOVE_BRICK_BREAK, "かわらわり"
     battleeffect MOVE_EFFECT_REMOVE_SCREENS
     pss SPLIT_PHYSICAL
     basepower 75
@@ -4506,7 +4506,7 @@ movedata MOVE_BRICK_BREAK, "Brick Break"
     terminatedata
     movedescription MOVE_BRICK_BREAK, "The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect."
 
-movedata MOVE_YAWN, "Yawn"
+movedata MOVE_YAWN, "あくび"
     battleeffect MOVE_EFFECT_STATUS_SLEEP_NEXT_TURN
     pss SPLIT_STATUS
     basepower 0
@@ -4522,7 +4522,7 @@ movedata MOVE_YAWN, "Yawn"
     terminatedata
     movedescription MOVE_YAWN, "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn."
 
-movedata MOVE_KNOCK_OFF, "Knock Off"
+movedata MOVE_KNOCK_OFF, "はたきおとす"
     battleeffect MOVE_EFFECT_REMOVE_HELD_ITEM
     pss SPLIT_PHYSICAL
     basepower 65
@@ -4538,7 +4538,7 @@ movedata MOVE_KNOCK_OFF, "Knock Off"
     terminatedata
     movedescription MOVE_KNOCK_OFF, "The user slaps down\nthe foe’s held item,\npreventing the item\nfrom being used\nduring the battle."
 
-movedata MOVE_ENDEAVOR, "Endeavor"
+movedata MOVE_ENDEAVOR, "がむしゃら"
     battleeffect MOVE_EFFECT_SET_HP_EQUAL_TO_USER
     pss SPLIT_PHYSICAL
     basepower 1
@@ -4554,7 +4554,7 @@ movedata MOVE_ENDEAVOR, "Endeavor"
     terminatedata
     movedescription MOVE_ENDEAVOR, "An attack move that\ncuts down the foe’s\nHP to equal the\nuser’s HP.\n"
 
-movedata MOVE_ERUPTION, "Eruption"
+movedata MOVE_ERUPTION, "ふんか"
     battleeffect MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP
     pss SPLIT_SPECIAL
     basepower 150
@@ -4570,7 +4570,7 @@ movedata MOVE_ERUPTION, "Eruption"
     terminatedata
     movedescription MOVE_ERUPTION, "The user attacks in\nan explosive fury.\nThe lower the user’s\nHP, the less powerful\nthis attack becomes."
 
-movedata MOVE_SKILL_SWAP, "Skill Swap"
+movedata MOVE_SKILL_SWAP, "スキルスワップ"
     battleeffect MOVE_EFFECT_SWITCH_ABILITIES
     pss SPLIT_STATUS
     basepower 0
@@ -4586,7 +4586,7 @@ movedata MOVE_SKILL_SWAP, "Skill Swap"
     terminatedata
     movedescription MOVE_SKILL_SWAP, "The user employs its\npsychic power to\nexchange abilities\nwith the foe.\n"
 
-movedata MOVE_IMPRISON, "Imprison"
+movedata MOVE_IMPRISON, "ふういん"
     battleeffect MOVE_EFFECT_MAKE_SHARED_MOVES_UNUSEABLE
     pss SPLIT_STATUS
     basepower 0
@@ -4602,7 +4602,7 @@ movedata MOVE_IMPRISON, "Imprison"
     terminatedata
     movedescription MOVE_IMPRISON, "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it."
 
-movedata MOVE_REFRESH, "Refresh"
+movedata MOVE_REFRESH, "リフレッシュ"
     battleeffect MOVE_EFFECT_HEAL_STATUS
     pss SPLIT_STATUS
     basepower 0
@@ -4618,7 +4618,7 @@ movedata MOVE_REFRESH, "Refresh"
     terminatedata
     movedescription MOVE_REFRESH, "The user rests\nto cure itself of a\npoisoning, burn, or\nparalysis.\n"
 
-movedata MOVE_GRUDGE, "Grudge"
+movedata MOVE_GRUDGE, "おんねん"
     battleeffect MOVE_EFFECT_REMOVE_ALL_PP_ON_DEFEAT
     pss SPLIT_STATUS
     basepower 0
@@ -4634,7 +4634,7 @@ movedata MOVE_GRUDGE, "Grudge"
     terminatedata
     movedescription MOVE_GRUDGE, "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out."
 
-movedata MOVE_SNATCH, "Snatch"
+movedata MOVE_SNATCH, "よこどり"
     battleeffect MOVE_EFFECT_STEAL_STATUS_MOVE
     pss SPLIT_STATUS
     basepower 0
@@ -4650,7 +4650,7 @@ movedata MOVE_SNATCH, "Snatch"
     terminatedata
     movedescription MOVE_SNATCH, "The user steals the\neffects of any\nhealing or stat-\nchanging move the foe\nattempts to use."
 
-movedata MOVE_SECRET_POWER, "Secret Power"
+movedata MOVE_SECRET_POWER, "ひみつのちから"
     battleeffect MOVE_EFFECT_SECRET_POWER
     pss SPLIT_PHYSICAL
     basepower 70
@@ -4666,7 +4666,7 @@ movedata MOVE_SECRET_POWER, "Secret Power"
     terminatedata
     movedescription MOVE_SECRET_POWER, "The user attacks with\na secret power. Its\nadded effects vary\ndepending on the\nuser’s environment."
 
-movedata MOVE_DIVE, "Dive"
+movedata MOVE_DIVE, "ダイビング"
     battleeffect MOVE_EFFECT_DIVE
     pss SPLIT_PHYSICAL
     basepower 80
@@ -4682,7 +4682,7 @@ movedata MOVE_DIVE, "Dive"
     terminatedata
     movedescription MOVE_DIVE, "A two-turn attack.\nThe user dives\nunderwater on the\nfirst turn, then hits\non the next turn."
 
-movedata MOVE_ARM_THRUST, "Arm Thrust"
+movedata MOVE_ARM_THRUST, "つっぱり"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 15
@@ -4698,7 +4698,7 @@ movedata MOVE_ARM_THRUST, "Arm Thrust"
     terminatedata
     movedescription MOVE_ARM_THRUST, "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow."
 
-movedata MOVE_CAMOUFLAGE, "Camouflage"
+movedata MOVE_CAMOUFLAGE, "ほごしょく"
     battleeffect MOVE_EFFECT_CAMOUFLAGE
     pss SPLIT_STATUS
     basepower 0
@@ -4714,7 +4714,7 @@ movedata MOVE_CAMOUFLAGE, "Camouflage"
     terminatedata
     movedescription MOVE_CAMOUFLAGE, "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave."
 
-movedata MOVE_TAIL_GLOW, "Tail Glow"
+movedata MOVE_TAIL_GLOW, "ほたるび"
     battleeffect MOVE_EFFECT_SP_ATK_UP_3
     pss SPLIT_STATUS
     basepower 0
@@ -4730,7 +4730,7 @@ movedata MOVE_TAIL_GLOW, "Tail Glow"
     terminatedata
     movedescription MOVE_TAIL_GLOW, "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat."
 
-movedata MOVE_LUSTER_PURGE, "Luster Purge"
+movedata MOVE_LUSTER_PURGE, "ラスタ－パ－ジ"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 95
@@ -4746,7 +4746,7 @@ movedata MOVE_LUSTER_PURGE, "Luster Purge"
     terminatedata
     movedescription MOVE_LUSTER_PURGE, "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat."
 
-movedata MOVE_MIST_BALL, "Mist Ball"
+movedata MOVE_MIST_BALL, "ミストボ－ル"
     battleeffect MOVE_EFFECT_LOWER_SP_ATK_HIT
     pss SPLIT_SPECIAL
     basepower 95
@@ -4762,7 +4762,7 @@ movedata MOVE_MIST_BALL, "Mist Ball"
     terminatedata
     movedescription MOVE_MIST_BALL, "A mistlike flurry of\ndown envelops and\ndamages the foe. It\nmay also lower the\ntarget’s Sp. Atk."
 
-movedata MOVE_FEATHER_DANCE, "Feather Dance"
+movedata MOVE_FEATHER_DANCE, "フェザ－ダンス"
     battleeffect MOVE_EFFECT_ATK_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -4778,7 +4778,7 @@ movedata MOVE_FEATHER_DANCE, "Feather Dance"
     terminatedata
     movedescription MOVE_FEATHER_DANCE, "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat."
 
-movedata MOVE_TEETER_DANCE, "Teeter Dance"
+movedata MOVE_TEETER_DANCE, "フラフラダンス"
     battleeffect MOVE_EFFECT_CONFUSE_ALL_ADJACENT
     pss SPLIT_STATUS
     basepower 0
@@ -4794,7 +4794,7 @@ movedata MOVE_TEETER_DANCE, "Teeter Dance"
     terminatedata
     movedescription MOVE_TEETER_DANCE, "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n"
 
-movedata MOVE_BLAZE_KICK, "Blaze Kick"
+movedata MOVE_BLAZE_KICK, "ブレイズキック"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL_BURN_HIT
     pss SPLIT_PHYSICAL
     basepower 85
@@ -4810,7 +4810,7 @@ movedata MOVE_BLAZE_KICK, "Blaze Kick"
     terminatedata
     movedescription MOVE_BLAZE_KICK, "The user launches a\nkick with a high\ncritical-hit ratio.\nIt may also leave the\ntarget with a burn."
 
-movedata MOVE_MUD_SPORT, "Mud Sport"
+movedata MOVE_MUD_SPORT, "どろあそび"
     battleeffect MOVE_EFFECT_HALVE_ELECTRIC_DAMAGE
     pss SPLIT_STATUS
     basepower 0
@@ -4826,7 +4826,7 @@ movedata MOVE_MUD_SPORT, "Mud Sport"
     terminatedata
     movedescription MOVE_MUD_SPORT, "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle."
 
-movedata MOVE_ICE_BALL, "Ice Ball"
+movedata MOVE_ICE_BALL, "アイスボ－ル"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO
     pss SPLIT_PHYSICAL
     basepower 30
@@ -4842,7 +4842,7 @@ movedata MOVE_ICE_BALL, "Ice Ball"
     terminatedata
     movedescription MOVE_ICE_BALL, "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits."
 
-movedata MOVE_NEEDLE_ARM, "Needle Arm"
+movedata MOVE_NEEDLE_ARM, "ニ－ドルア－ム"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -4858,7 +4858,7 @@ movedata MOVE_NEEDLE_ARM, "Needle Arm"
     terminatedata
     movedescription MOVE_NEEDLE_ARM, "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_SLACK_OFF, "Slack Off"
+movedata MOVE_SLACK_OFF, "なまける"
     battleeffect MOVE_EFFECT_RESTORE_HALF_HP
     pss SPLIT_STATUS
     basepower 0
@@ -4874,7 +4874,7 @@ movedata MOVE_SLACK_OFF, "Slack Off"
     terminatedata
     movedescription MOVE_SLACK_OFF, "The user slacks off,\nrestoring its own HP\nby up to half of its\nmaximum HP.\n"
 
-movedata MOVE_HYPER_VOICE, "Hyper Voice"
+movedata MOVE_HYPER_VOICE, "ハイパ－ボイス"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -4890,7 +4890,7 @@ movedata MOVE_HYPER_VOICE, "Hyper Voice"
     terminatedata
     movedescription MOVE_HYPER_VOICE, "The user lets loose\na horribly echoing\nshout with the\npower to inflict\ndamage."
 
-movedata MOVE_POISON_FANG, "Poison Fang"
+movedata MOVE_POISON_FANG, "どくどくのキバ"
     battleeffect MOVE_EFFECT_BADLY_POISON_HIT
     pss SPLIT_PHYSICAL
     basepower 50
@@ -4906,7 +4906,7 @@ movedata MOVE_POISON_FANG, "Poison Fang"
     terminatedata
     movedescription MOVE_POISON_FANG, "The user bites the\nfoe with toxic fangs.\nIt may also leave the\nfoe badly poisoned.\n"
 
-movedata MOVE_CRUSH_CLAW, "Crush Claw"
+movedata MOVE_CRUSH_CLAW, "ブレイククロ－"
     battleeffect MOVE_EFFECT_LOWER_DEFENSE_HIT
     pss SPLIT_PHYSICAL
     basepower 75
@@ -4922,7 +4922,7 @@ movedata MOVE_CRUSH_CLAW, "Crush Claw"
     terminatedata
     movedescription MOVE_CRUSH_CLAW, "The user slashes the\nfoe with hard and\nsharp claws.\nIt may also lower the\ntarget’s Defense."
 
-movedata MOVE_BLAST_BURN, "Blast Burn"
+movedata MOVE_BLAST_BURN, "ブラストバ－ン"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_SPECIAL
     basepower 150
@@ -4938,7 +4938,7 @@ movedata MOVE_BLAST_BURN, "Blast Burn"
     terminatedata
     movedescription MOVE_BLAST_BURN, "The foe is razed by\na fiery explosion.\nThe user must rest\non the next turn,\nhowever."
 
-movedata MOVE_HYDRO_CANNON, "Hydro Cannon"
+movedata MOVE_HYDRO_CANNON, "ハイドロカノン"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_SPECIAL
     basepower 150
@@ -4954,7 +4954,7 @@ movedata MOVE_HYDRO_CANNON, "Hydro Cannon"
     terminatedata
     movedescription MOVE_HYDRO_CANNON, "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever."
 
-movedata MOVE_METEOR_MASH, "Meteor Mash"
+movedata MOVE_METEOR_MASH, "コメットパンチ"
     battleeffect MOVE_EFFECT_RAISE_ATTACK_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -4970,7 +4970,7 @@ movedata MOVE_METEOR_MASH, "Meteor Mash"
     terminatedata
     movedescription MOVE_METEOR_MASH, "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack."
 
-movedata MOVE_ASTONISH, "Astonish"
+movedata MOVE_ASTONISH, "おどろかす"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 30
@@ -4986,7 +4986,7 @@ movedata MOVE_ASTONISH, "Astonish"
     terminatedata
     movedescription MOVE_ASTONISH, "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_WEATHER_BALL, "Weather Ball"
+movedata MOVE_WEATHER_BALL, "ウェザ－ボ－ル"
     battleeffect MOVE_EFFECT_CHANGE_TYPE_WITH_WEATHER
     pss SPLIT_SPECIAL
     basepower 50
@@ -5002,7 +5002,7 @@ movedata MOVE_WEATHER_BALL, "Weather Ball"
     terminatedata
     movedescription MOVE_WEATHER_BALL, "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n"
 
-movedata MOVE_AROMATHERAPY, "Aromatherapy"
+movedata MOVE_AROMATHERAPY, "アロマセラピ－"
     battleeffect MOVE_EFFECT_CURE_PARTY_STATUS
     pss SPLIT_STATUS
     basepower 0
@@ -5018,7 +5018,7 @@ movedata MOVE_AROMATHERAPY, "Aromatherapy"
     terminatedata
     movedescription MOVE_AROMATHERAPY, "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party."
 
-movedata MOVE_FAKE_TEARS, "Fake Tears"
+movedata MOVE_FAKE_TEARS, "うそなき"
     battleeffect MOVE_EFFECT_SP_DEF_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -5034,7 +5034,7 @@ movedata MOVE_FAKE_TEARS, "Fake Tears"
     terminatedata
     movedescription MOVE_FAKE_TEARS, "The user feigns\ncrying to make the\nfoe feel flustered,\nsharply lowering its\nSp. Def stat."
 
-movedata MOVE_AIR_CUTTER, "Air Cutter"
+movedata MOVE_AIR_CUTTER, "エアカッタ－"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_SPECIAL
     basepower 60
@@ -5050,7 +5050,7 @@ movedata MOVE_AIR_CUTTER, "Air Cutter"
     terminatedata
     movedescription MOVE_AIR_CUTTER, "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_OVERHEAT, "Overheat"
+movedata MOVE_OVERHEAT, "オ－バ－ヒ－ト"
     battleeffect MOVE_EFFECT_USER_SP_ATK_DOWN_2
     pss SPLIT_SPECIAL
     basepower 140
@@ -5066,7 +5066,7 @@ movedata MOVE_OVERHEAT, "Overheat"
     terminatedata
     movedescription MOVE_OVERHEAT, "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat."
 
-movedata MOVE_ODOR_SLEUTH, "Odor Sleuth"
+movedata MOVE_ODOR_SLEUTH, "かぎわける"
     battleeffect MOVE_EFFECT_IGNORE_EVASION_REMOVE_GHOST_IMMUNE
     pss SPLIT_STATUS
     basepower 0
@@ -5082,7 +5082,7 @@ movedata MOVE_ODOR_SLEUTH, "Odor Sleuth"
     terminatedata
     movedescription MOVE_ODOR_SLEUTH, "Enables the user to\nhit a Ghost type with\nany type of move. It\nalso enables the user\nto hit an evasive foe."
 
-movedata MOVE_ROCK_TOMB, "Rock Tomb"
+movedata MOVE_ROCK_TOMB, "がんせきふうじ"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -5098,7 +5098,7 @@ movedata MOVE_ROCK_TOMB, "Rock Tomb"
     terminatedata
     movedescription MOVE_ROCK_TOMB, "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSpeed by preventing\nits movement."
 
-movedata MOVE_SILVER_WIND, "Silver Wind"
+movedata MOVE_SILVER_WIND, "ぎんいろのかぜ"
     battleeffect MOVE_EFFECT_RAISE_ALL_STATS_HIT
     pss SPLIT_SPECIAL
     basepower 60
@@ -5114,7 +5114,7 @@ movedata MOVE_SILVER_WIND, "Silver Wind"
     terminatedata
     movedescription MOVE_SILVER_WIND, "The foe is attacked\nwith powdery scales\nblown by wind.\nIt may also raise all\nthe user’s stats."
 
-movedata MOVE_METAL_SOUND, "Metal Sound"
+movedata MOVE_METAL_SOUND, "きんぞくおん"
     battleeffect MOVE_EFFECT_SP_DEF_DOWN_2
     pss SPLIT_STATUS
     basepower 0
@@ -5130,7 +5130,7 @@ movedata MOVE_METAL_SOUND, "Metal Sound"
     terminatedata
     movedescription MOVE_METAL_SOUND, "A horrible sound like\nscraping metal is\nemitted to sharply\nreduce the foe’s\nSp. Def stat."
 
-movedata MOVE_GRASS_WHISTLE, "Grass Whistle"
+movedata MOVE_GRASS_WHISTLE, "くさぶえ"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -5146,7 +5146,7 @@ movedata MOVE_GRASS_WHISTLE, "Grass Whistle"
     terminatedata
     movedescription MOVE_GRASS_WHISTLE, "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n"
 
-movedata MOVE_TICKLE, "Tickle"
+movedata MOVE_TICKLE, "くすぐる"
     battleeffect MOVE_EFFECT_ATK_DEF_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -5162,7 +5162,7 @@ movedata MOVE_TICKLE, "Tickle"
     terminatedata
     movedescription MOVE_TICKLE, "The user tickles the\nfoe into laughing,\nreducing its Attack\nand Defense stats.\n"
 
-movedata MOVE_COSMIC_POWER, "Cosmic Power"
+movedata MOVE_COSMIC_POWER, "コスモパワ－"
     battleeffect MOVE_EFFECT_DEF_SP_DEF_UP
     pss SPLIT_STATUS
     basepower 0
@@ -5178,7 +5178,7 @@ movedata MOVE_COSMIC_POWER, "Cosmic Power"
     terminatedata
     movedescription MOVE_COSMIC_POWER, "The user absorbs a\nmystical power from\nspace to raise its\nDefense and Sp. Def\nstats."
 
-movedata MOVE_WATER_SPOUT, "Water Spout"
+movedata MOVE_WATER_SPOUT, "しおふき"
     battleeffect MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP
     pss SPLIT_SPECIAL
     basepower 150
@@ -5194,7 +5194,7 @@ movedata MOVE_WATER_SPOUT, "Water Spout"
     terminatedata
     movedescription MOVE_WATER_SPOUT, "The user spouts\nwater to damage the\nfoe. The lower the\nuser’s HP, the less\npowerful it becomes."
 
-movedata MOVE_SIGNAL_BEAM, "Signal Beam"
+movedata MOVE_SIGNAL_BEAM, "シグナルビ－ム"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_SPECIAL
     basepower 75
@@ -5210,7 +5210,7 @@ movedata MOVE_SIGNAL_BEAM, "Signal Beam"
     terminatedata
     movedescription MOVE_SIGNAL_BEAM, "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n"
 
-movedata MOVE_SHADOW_PUNCH, "Shadow Punch"
+movedata MOVE_SHADOW_PUNCH, "シャド－パンチ"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_PHYSICAL
     basepower 60
@@ -5226,7 +5226,7 @@ movedata MOVE_SHADOW_PUNCH, "Shadow Punch"
     terminatedata
     movedescription MOVE_SHADOW_PUNCH, "The user throws a\npunch at the foe from\nthe shadows.\nThe punch lands\nwithout fail."
 
-movedata MOVE_EXTRASENSORY, "Extrasensory"
+movedata MOVE_EXTRASENSORY, "じんつうりき"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -5242,7 +5242,7 @@ movedata MOVE_EXTRASENSORY, "Extrasensory"
     terminatedata
     movedescription MOVE_EXTRASENSORY, "The user attacks with\nan odd, unseeable\npower.\nIt may also make the\nfoe flinch."
 
-movedata MOVE_SKY_UPPERCUT, "Sky Uppercut"
+movedata MOVE_SKY_UPPERCUT, "スカイアッパ－"
     battleeffect MOVE_EFFECT_HIT_FLY
     pss SPLIT_PHYSICAL
     basepower 85
@@ -5258,7 +5258,7 @@ movedata MOVE_SKY_UPPERCUT, "Sky Uppercut"
     terminatedata
     movedescription MOVE_SKY_UPPERCUT, "The user attacks the\nfoe with an uppercut\nthrown skyward\nwith force.\n"
 
-movedata MOVE_SAND_TOMB, "Sand Tomb"
+movedata MOVE_SAND_TOMB, "すなじごく"
     battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_PHYSICAL
     basepower 35
@@ -5274,7 +5274,7 @@ movedata MOVE_SAND_TOMB, "Sand Tomb"
     terminatedata
     movedescription MOVE_SAND_TOMB, "The user traps the\nfoe inside a harshly\nraging sandstorm for\ntwo to five turns.\n"
 
-movedata MOVE_SHEER_COLD, "Sheer Cold"
+movedata MOVE_SHEER_COLD, "ぜったいれいど"
     battleeffect MOVE_EFFECT_ONE_HIT_KO
     pss SPLIT_SPECIAL
     basepower 1
@@ -5290,7 +5290,7 @@ movedata MOVE_SHEER_COLD, "Sheer Cold"
     terminatedata
     movedescription MOVE_SHEER_COLD, "The foe is attacked\nwith a blast of\nabsolute-zero cold.\nThe foe instantly\nfaints if it hits."
 
-movedata MOVE_MUDDY_WATER, "Muddy Water"
+movedata MOVE_MUDDY_WATER, "だくりゅう"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
     basepower 95
@@ -5306,7 +5306,7 @@ movedata MOVE_MUDDY_WATER, "Muddy Water"
     terminatedata
     movedescription MOVE_MUDDY_WATER, "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy."
 
-movedata MOVE_BULLET_SEED, "Bullet Seed"
+movedata MOVE_BULLET_SEED, "タネマシンガン"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 25
@@ -5322,7 +5322,7 @@ movedata MOVE_BULLET_SEED, "Bullet Seed"
     terminatedata
     movedescription MOVE_BULLET_SEED, "The user forcefully\nshoots seeds at the\nfoe. Two to five\nseeds are shot in\nrapid succession."
 
-movedata MOVE_AERIAL_ACE, "Aerial Ace"
+movedata MOVE_AERIAL_ACE, "つばめがえし"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_PHYSICAL
     basepower 60
@@ -5338,7 +5338,7 @@ movedata MOVE_AERIAL_ACE, "Aerial Ace"
     terminatedata
     movedescription MOVE_AERIAL_ACE, "The user confounds\nthe foe with speed,\nthen slashes.\nThe attack lands\nwithout fail."
 
-movedata MOVE_ICICLE_SPEAR, "Icicle Spear"
+movedata MOVE_ICICLE_SPEAR, "つららばり"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 25
@@ -5354,7 +5354,7 @@ movedata MOVE_ICICLE_SPEAR, "Icicle Spear"
     terminatedata
     movedescription MOVE_ICICLE_SPEAR, "The user launches\nsharp icicles at the\nfoe. It strikes two\nto five times in a\nrow."
 
-movedata MOVE_IRON_DEFENSE, "Iron Defense"
+movedata MOVE_IRON_DEFENSE, "てっぺき"
     battleeffect MOVE_EFFECT_DEF_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -5370,7 +5370,7 @@ movedata MOVE_IRON_DEFENSE, "Iron Defense"
     terminatedata
     movedescription MOVE_IRON_DEFENSE, "The user hardens\nits body’s surface\nlike iron, sharply\nraising its Defense\nstat."
 
-movedata MOVE_BLOCK, "Block"
+movedata MOVE_BLOCK, "とおせんぼう"
     battleeffect MOVE_EFFECT_PREVENT_ESCAPE
     pss SPLIT_STATUS
     basepower 0
@@ -5386,7 +5386,7 @@ movedata MOVE_BLOCK, "Block"
     terminatedata
     movedescription MOVE_BLOCK, "The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.\n"
 
-movedata MOVE_HOWL, "Howl"
+movedata MOVE_HOWL, "とおぼえ"
     battleeffect MOVE_EFFECT_ATK_UP
     pss SPLIT_STATUS
     basepower 0
@@ -5402,7 +5402,7 @@ movedata MOVE_HOWL, "Howl"
     terminatedata
     movedescription MOVE_HOWL, "The user howls loudly\nto raise its spirit,\nboosting its Attack\nstat.\n"
 
-movedata MOVE_DRAGON_CLAW, "Dragon Claw"
+movedata MOVE_DRAGON_CLAW, "ドラゴンクロ－"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -5418,7 +5418,7 @@ movedata MOVE_DRAGON_CLAW, "Dragon Claw"
     terminatedata
     movedescription MOVE_DRAGON_CLAW, "The user slashes the\nfoe with huge, sharp\nclaws.\n\n"
 
-movedata MOVE_FRENZY_PLANT, "Frenzy Plant"
+movedata MOVE_FRENZY_PLANT, "ハ－ドプラント"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_SPECIAL
     basepower 150
@@ -5434,7 +5434,7 @@ movedata MOVE_FRENZY_PLANT, "Frenzy Plant"
     terminatedata
     movedescription MOVE_FRENZY_PLANT, "The foe is slammed\nwith an enormous\ntree.\nThe user can’t move\non the next turn."
 
-movedata MOVE_BULK_UP, "Bulk Up"
+movedata MOVE_BULK_UP, "ビルドアップ"
     battleeffect MOVE_EFFECT_ATK_DEF_UP
     pss SPLIT_STATUS
     basepower 0
@@ -5450,7 +5450,7 @@ movedata MOVE_BULK_UP, "Bulk Up"
     terminatedata
     movedescription MOVE_BULK_UP, "The user tenses its\nmuscles to bulk up\nits body, boosting\nboth its Attack and\nDefense stats."
 
-movedata MOVE_BOUNCE, "Bounce"
+movedata MOVE_BOUNCE, "とびはねる"
     battleeffect MOVE_EFFECT_BOUNCE
     pss SPLIT_PHYSICAL
     basepower 85
@@ -5466,7 +5466,7 @@ movedata MOVE_BOUNCE, "Bounce"
     terminatedata
     movedescription MOVE_BOUNCE, "The user bounces up\nhigh, then drops on\nthe foe on the second\nturn. It may also\nparalyze the foe."
 
-movedata MOVE_MUD_SHOT, "Mud Shot"
+movedata MOVE_MUD_SHOT, "マッドショット"
     battleeffect MOVE_EFFECT_LOWER_SPEED_HIT
     pss SPLIT_SPECIAL
     basepower 55
@@ -5482,7 +5482,7 @@ movedata MOVE_MUD_SHOT, "Mud Shot"
     terminatedata
     movedescription MOVE_MUD_SHOT, "The user attacks by\nhurling a blob of mud\nat the foe.\nIt also reduces the\ntarget’s Speed."
 
-movedata MOVE_POISON_TAIL, "Poison Tail"
+movedata MOVE_POISON_TAIL, "ポイズンテ－ル"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT
     pss SPLIT_PHYSICAL
     basepower 50
@@ -5498,7 +5498,7 @@ movedata MOVE_POISON_TAIL, "Poison Tail"
     terminatedata
     movedescription MOVE_POISON_TAIL, "An attack with a\nhigh critical-hit\nratio. This tail \nattack may also \npoison the foe."
 
-movedata MOVE_COVET, "Covet"
+movedata MOVE_COVET, "ほしがる"
     battleeffect MOVE_EFFECT_STEAL_HELD_ITEM
     pss SPLIT_PHYSICAL
     basepower 60
@@ -5514,7 +5514,7 @@ movedata MOVE_COVET, "Covet"
     terminatedata
     movedescription MOVE_COVET, "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n"
 
-movedata MOVE_VOLT_TACKLE, "Volt Tackle"
+movedata MOVE_VOLT_TACKLE, "ボルテッカ－"
     battleeffect MOVE_EFFECT_RECOIL_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -5530,7 +5530,7 @@ movedata MOVE_VOLT_TACKLE, "Volt Tackle"
     terminatedata
     movedescription MOVE_VOLT_TACKLE, "The user electrifies\nitself, then charges\nat the foe. It causes\nconsiderable damage\nto the user as well."
 
-movedata MOVE_MAGICAL_LEAF, "Magical Leaf"
+movedata MOVE_MAGICAL_LEAF, "マジカルリ－フ"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_SPECIAL
     basepower 60
@@ -5546,7 +5546,7 @@ movedata MOVE_MAGICAL_LEAF, "Magical Leaf"
     terminatedata
     movedescription MOVE_MAGICAL_LEAF, "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss."
 
-movedata MOVE_WATER_SPORT, "Water Sport"
+movedata MOVE_WATER_SPORT, "みずあそび"
     battleeffect MOVE_EFFECT_HALVE_FIRE_DAMAGE
     pss SPLIT_STATUS
     basepower 0
@@ -5562,7 +5562,7 @@ movedata MOVE_WATER_SPORT, "Water Sport"
     terminatedata
     movedescription MOVE_WATER_SPORT, "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle."
 
-movedata MOVE_CALM_MIND, "Calm Mind"
+movedata MOVE_CALM_MIND, "めいそう"
     battleeffect MOVE_EFFECT_SP_ATK_SP_DEF_UP
     pss SPLIT_STATUS
     basepower 0
@@ -5578,7 +5578,7 @@ movedata MOVE_CALM_MIND, "Calm Mind"
     terminatedata
     movedescription MOVE_CALM_MIND, "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats."
 
-movedata MOVE_LEAF_BLADE, "Leaf Blade"
+movedata MOVE_LEAF_BLADE, "リ－フブレ－ド"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 90
@@ -5594,7 +5594,7 @@ movedata MOVE_LEAF_BLADE, "Leaf Blade"
     terminatedata
     movedescription MOVE_LEAF_BLADE, "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.\n"
 
-movedata MOVE_DRAGON_DANCE, "Dragon Dance"
+movedata MOVE_DRAGON_DANCE, "りゅうのまい"
     battleeffect MOVE_EFFECT_ATK_SPEED_UP
     pss SPLIT_STATUS
     basepower 0
@@ -5610,7 +5610,7 @@ movedata MOVE_DRAGON_DANCE, "Dragon Dance"
     terminatedata
     movedescription MOVE_DRAGON_DANCE, "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats."
 
-movedata MOVE_ROCK_BLAST, "Rock Blast"
+movedata MOVE_ROCK_BLAST, "ロックブラスト"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 25
@@ -5626,7 +5626,7 @@ movedata MOVE_ROCK_BLAST, "Rock Blast"
     terminatedata
     movedescription MOVE_ROCK_BLAST, "The user hurls hard\nrocks at the foe.\nTwo to five rocks are\nlaunched in quick\nsuccession."
 
-movedata MOVE_SHOCK_WAVE, "Shock Wave"
+movedata MOVE_SHOCK_WAVE, "でんげきは"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_SPECIAL
     basepower 60
@@ -5642,7 +5642,7 @@ movedata MOVE_SHOCK_WAVE, "Shock Wave"
     terminatedata
     movedescription MOVE_SHOCK_WAVE, "The user strikes the\nfoe with a quick jolt\nof electricity.\nThis attack cannot be\nevaded."
 
-movedata MOVE_WATER_PULSE, "Water Pulse"
+movedata MOVE_WATER_PULSE, "みずのはどう"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_SPECIAL
     basepower 60
@@ -5658,7 +5658,7 @@ movedata MOVE_WATER_PULSE, "Water Pulse"
     terminatedata
     movedescription MOVE_WATER_PULSE, "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe."
 
-movedata MOVE_DOOM_DESIRE, "Doom Desire"
+movedata MOVE_DOOM_DESIRE, "はめつのねがい"
     battleeffect MOVE_EFFECT_HIT_IN_3_TURNS
     pss SPLIT_SPECIAL
     basepower 140
@@ -5674,7 +5674,7 @@ movedata MOVE_DOOM_DESIRE, "Doom Desire"
     terminatedata
     movedescription MOVE_DOOM_DESIRE, "Two turns after this\nmove is used, the\nuser blasts the foe\nwith a concentrated\nbundle of light."
 
-movedata MOVE_PSYCHO_BOOST, "Psycho Boost"
+movedata MOVE_PSYCHO_BOOST, "サイコブ－スト"
     battleeffect MOVE_EFFECT_USER_SP_ATK_DOWN_2
     pss SPLIT_SPECIAL
     basepower 140
@@ -5690,7 +5690,7 @@ movedata MOVE_PSYCHO_BOOST, "Psycho Boost"
     terminatedata
     movedescription MOVE_PSYCHO_BOOST, "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat."
 
-movedata MOVE_ROOST, "Roost"
+movedata MOVE_ROOST, "はねやすめ"
     battleeffect MOVE_EFFECT_HEAL_HALF_REMOVE_FLYING_TYPE
     pss SPLIT_STATUS
     basepower 0
@@ -5706,7 +5706,7 @@ movedata MOVE_ROOST, "Roost"
     terminatedata
     movedescription MOVE_ROOST, "The user lands and\nrests its body.\nIt restores the\nuser’s HP by up to\nhalf of its max HP."
 
-movedata MOVE_GRAVITY, "Gravity"
+movedata MOVE_GRAVITY, "じゅうりょく"
     battleeffect MOVE_EFFECT_GRAVITY
     pss SPLIT_STATUS
     basepower 0
@@ -5722,7 +5722,7 @@ movedata MOVE_GRAVITY, "Gravity"
     terminatedata
     movedescription MOVE_GRAVITY, "Gravity is intensified\nfor five turns, making\nmoves involving flying\nunusable and\nnegating Levitation."
 
-movedata MOVE_MIRACLE_EYE, "Miracle Eye"
+movedata MOVE_MIRACLE_EYE, "ミラクルアイ"
     battleeffect MOVE_EFFECT_IGNORE_EVATION_REMOVE_DARK_IMMUNE
     pss SPLIT_STATUS
     basepower 0
@@ -5738,7 +5738,7 @@ movedata MOVE_MIRACLE_EYE, "Miracle Eye"
     terminatedata
     movedescription MOVE_MIRACLE_EYE, "Enables the user to\nhit a Dark type with\nany type of move. It\nalso enables the user\nto hit an evasive foe."
 
-movedata MOVE_WAKE_UP_SLAP, "Wake-Up Slap"
+movedata MOVE_WAKE_UP_SLAP, "めざましビンタ"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_HEAL_SLEEP
     pss SPLIT_PHYSICAL
     basepower 70
@@ -5754,7 +5754,7 @@ movedata MOVE_WAKE_UP_SLAP, "Wake-Up Slap"
     terminatedata
     movedescription MOVE_WAKE_UP_SLAP, "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however."
 
-movedata MOVE_HAMMER_ARM, "Hammer Arm"
+movedata MOVE_HAMMER_ARM, "ア－ムハンマ－"
     battleeffect MOVE_EFFECT_USER_SPEED_DOWN_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -5770,7 +5770,7 @@ movedata MOVE_HAMMER_ARM, "Hammer Arm"
     terminatedata
     movedescription MOVE_HAMMER_ARM, "The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however."
 
-movedata MOVE_GYRO_BALL, "Gyro Ball"
+movedata MOVE_GYRO_BALL, "ジャイロボ－ル"
     battleeffect MOVE_EFFECT_POWER_BASED_ON_LOW_SPEED
     pss SPLIT_PHYSICAL
     basepower 1
@@ -5786,7 +5786,7 @@ movedata MOVE_GYRO_BALL, "Gyro Ball"
     terminatedata
     movedescription MOVE_GYRO_BALL, "The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage."
 
-movedata MOVE_HEALING_WISH, "Healing Wish"
+movedata MOVE_HEALING_WISH, "いやしのねがい"
     battleeffect MOVE_EFFECT_FAINT_AND_FULL_HEAL_NEXT_MON
     pss SPLIT_STATUS
     basepower 0
@@ -5802,7 +5802,7 @@ movedata MOVE_HEALING_WISH, "Healing Wish"
     terminatedata
     movedescription MOVE_HEALING_WISH, "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured."
 
-movedata MOVE_BRINE, "Brine"
+movedata MOVE_BRINE, "しおみず"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_WHEN_BELOW_HALF
     pss SPLIT_SPECIAL
     basepower 65
@@ -5818,7 +5818,7 @@ movedata MOVE_BRINE, "Brine"
     terminatedata
     movedescription MOVE_BRINE, "If the foe’s HP is\ndown to about half,\nthis attack will hit\nwith double the\npower."
 
-movedata MOVE_NATURAL_GIFT, "Natural Gift"
+movedata MOVE_NATURAL_GIFT, "しぜんのめぐみ"
     battleeffect MOVE_EFFECT_NATURAL_GIFT
     pss SPLIT_PHYSICAL
     basepower 1
@@ -5834,7 +5834,7 @@ movedata MOVE_NATURAL_GIFT, "Natural Gift"
     terminatedata
     movedescription MOVE_NATURAL_GIFT, "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power."
 
-movedata MOVE_FEINT, "Feint"
+movedata MOVE_FEINT, "フェイント"
     battleeffect MOVE_EFFECT_REMOVE_PROTECT
     pss SPLIT_PHYSICAL
     basepower 30
@@ -5850,7 +5850,7 @@ movedata MOVE_FEINT, "Feint"
     terminatedata
     movedescription MOVE_FEINT, "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves."
 
-movedata MOVE_PLUCK, "Pluck"
+movedata MOVE_PLUCK, "ついばむ"
     battleeffect MOVE_EFFECT_EAT_BERRY
     pss SPLIT_PHYSICAL
     basepower 60
@@ -5866,7 +5866,7 @@ movedata MOVE_PLUCK, "Pluck"
     terminatedata
     movedescription MOVE_PLUCK, "The user pecks the\nfoe. If the foe is\nholding a Berry, the\nuser plucks it and\ngains its effect."
 
-movedata MOVE_TAILWIND, "Tailwind"
+movedata MOVE_TAILWIND, "おいかぜ"
     battleeffect MOVE_EFFECT_DOUBLE_SPEED_3_TURNS
     pss SPLIT_STATUS
     basepower 0
@@ -5882,7 +5882,7 @@ movedata MOVE_TAILWIND, "Tailwind"
     terminatedata
     movedescription MOVE_TAILWIND, "The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns."
 
-movedata MOVE_ACUPRESSURE, "Acupressure"
+movedata MOVE_ACUPRESSURE, "つぼをつく"
     battleeffect MOVE_EFFECT_RANDOM_STAT_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -5898,7 +5898,7 @@ movedata MOVE_ACUPRESSURE, "Acupressure"
     terminatedata
     movedescription MOVE_ACUPRESSURE, "The user applies\npressure to stress\npoints, sharply\nboosting one of its\nstats."
 
-movedata MOVE_METAL_BURST, "Metal Burst"
+movedata MOVE_METAL_BURST, "メタルバ－スト"
     battleeffect MOVE_EFFECT_METAL_BURST
     pss SPLIT_PHYSICAL
     basepower 1
@@ -5914,7 +5914,7 @@ movedata MOVE_METAL_BURST, "Metal Burst"
     terminatedata
     movedescription MOVE_METAL_BURST, "The user retaliates\nagainst the foe that\nlast inflicted damage\non it with much\ngreater power."
 
-movedata MOVE_U_TURN, "U-turn"
+movedata MOVE_U_TURN, "とんぼがえり"
     battleeffect MOVE_EFFECT_SWITCH_HIT
     pss SPLIT_PHYSICAL
     basepower 70
@@ -5930,7 +5930,7 @@ movedata MOVE_U_TURN, "U-turn"
     terminatedata
     movedescription MOVE_U_TURN, "After making its\nattack, the user\nrushes back to switch\nplaces with a party\nPokémon in waiting."
 
-movedata MOVE_CLOSE_COMBAT, "Close Combat"
+movedata MOVE_CLOSE_COMBAT, "インファイト"
     battleeffect MOVE_EFFECT_USER_DEF_SP_DEF_DOWN_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -5946,7 +5946,7 @@ movedata MOVE_CLOSE_COMBAT, "Close Combat"
     terminatedata
     movedescription MOVE_CLOSE_COMBAT, "The user fights the\nfoe up close without\nguarding itself. It\nalso cuts the user’s\nDefense and Sp. Def."
 
-movedata MOVE_PAYBACK, "Payback"
+movedata MOVE_PAYBACK, "しっぺがえし"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_IF_HIT
     pss SPLIT_PHYSICAL
     basepower 50
@@ -5962,7 +5962,7 @@ movedata MOVE_PAYBACK, "Payback"
     terminatedata
     movedescription MOVE_PAYBACK, "If the user can use\nthis attack after the\nfoe attacks, its\npower is doubled.\n"
 
-movedata MOVE_ASSURANCE, "Assurance"
+movedata MOVE_ASSURANCE, "ダメおし"
     battleeffect MOVE_EFFECT_DOUBLE_POWER_IF_TARGET_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -5978,7 +5978,7 @@ movedata MOVE_ASSURANCE, "Assurance"
     terminatedata
     movedescription MOVE_ASSURANCE, "If the foe has\nalready taken some\ndamage in the same\nturn, this attack’s\npower is doubled."
 
-movedata MOVE_EMBARGO, "Embargo"
+movedata MOVE_EMBARGO, "さしおさえ"
     battleeffect MOVE_EFFECT_PREVENT_ITEM_USE
     pss SPLIT_STATUS
     basepower 0
@@ -5994,7 +5994,7 @@ movedata MOVE_EMBARGO, "Embargo"
     terminatedata
     movedescription MOVE_EMBARGO, "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it."
 
-movedata MOVE_FLING, "Fling"
+movedata MOVE_FLING, "なげつける"
     battleeffect MOVE_EFFECT_FLING
     pss SPLIT_PHYSICAL
     basepower 1
@@ -6010,7 +6010,7 @@ movedata MOVE_FLING, "Fling"
     terminatedata
     movedescription MOVE_FLING, "The user flings its\nheld item at the foe\nto attack. Its power\nand effects depend\non the item."
 
-movedata MOVE_PSYCHO_SHIFT, "Psycho Shift"
+movedata MOVE_PSYCHO_SHIFT, "サイコシフト"
     battleeffect MOVE_EFFECT_TRANSFER_STATUS
     pss SPLIT_STATUS
     basepower 0
@@ -6026,7 +6026,7 @@ movedata MOVE_PSYCHO_SHIFT, "Psycho Shift"
     terminatedata
     movedescription MOVE_PSYCHO_SHIFT, "Using its psychic\npower of suggestion,\nthe user transfers\nits status problems\nto the target."
 
-movedata MOVE_TRUMP_CARD, "Trump Card"
+movedata MOVE_TRUMP_CARD, "きりふだ"
     battleeffect MOVE_EFFECT_HIGHER_POWER_WHEN_LOW_PP
     pss SPLIT_SPECIAL
     basepower 1
@@ -6042,7 +6042,7 @@ movedata MOVE_TRUMP_CARD, "Trump Card"
     terminatedata
     movedescription MOVE_TRUMP_CARD, "The fewer PP this\nmove has, the more\npower it has for\nattack.\n"
 
-movedata MOVE_HEAL_BLOCK, "Heal Block"
+movedata MOVE_HEAL_BLOCK, "かいふくふうじ"
     battleeffect MOVE_EFFECT_PREVENT_HEALING
     pss SPLIT_STATUS
     basepower 0
@@ -6058,7 +6058,7 @@ movedata MOVE_HEAL_BLOCK, "Heal Block"
     terminatedata
     movedescription MOVE_HEAL_BLOCK, "The user prevents\nthe foe from using\nany HP-recovery\nmoves for five turns.\n"
 
-movedata MOVE_WRING_OUT, "Wring Out"
+movedata MOVE_WRING_OUT, "しぼりとる"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP
     pss SPLIT_SPECIAL
     basepower 1
@@ -6074,7 +6074,7 @@ movedata MOVE_WRING_OUT, "Wring Out"
     terminatedata
     movedescription MOVE_WRING_OUT, "The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power."
 
-movedata MOVE_POWER_TRICK, "Power Trick"
+movedata MOVE_POWER_TRICK, "パワ－トリック"
     battleeffect MOVE_EFFECT_SWAP_ATK_DEF
     pss SPLIT_STATUS
     basepower 0
@@ -6090,7 +6090,7 @@ movedata MOVE_POWER_TRICK, "Power Trick"
     terminatedata
     movedescription MOVE_POWER_TRICK, "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat."
 
-movedata MOVE_GASTRO_ACID, "Gastro Acid"
+movedata MOVE_GASTRO_ACID, "いえき"
     battleeffect MOVE_EFFECT_SUPRESS_ABILITY
     pss SPLIT_STATUS
     basepower 0
@@ -6106,7 +6106,7 @@ movedata MOVE_GASTRO_ACID, "Gastro Acid"
     terminatedata
     movedescription MOVE_GASTRO_ACID, "The user hurls up its\nstomach acids on\nthe foe. The fluid\neliminates the effect\nof the foe’s ability."
 
-movedata MOVE_LUCKY_CHANT, "Lucky Chant"
+movedata MOVE_LUCKY_CHANT, "おまじない"
     battleeffect MOVE_EFFECT_PREVENT_CRITS
     pss SPLIT_STATUS
     basepower 0
@@ -6122,7 +6122,7 @@ movedata MOVE_LUCKY_CHANT, "Lucky Chant"
     terminatedata
     movedescription MOVE_LUCKY_CHANT, "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits."
 
-movedata MOVE_ME_FIRST, "Me First"
+movedata MOVE_ME_FIRST, "さきどり"
     battleeffect MOVE_EFFECT_USE_MOVE_FIRST
     pss SPLIT_STATUS
     basepower 0
@@ -6138,7 +6138,7 @@ movedata MOVE_ME_FIRST, "Me First"
     terminatedata
     movedescription MOVE_ME_FIRST, "The user tries to cut\nahead of the foe to\nsteal and use the\nfoe’s intended move\nwith greater power."
 
-movedata MOVE_COPYCAT, "Copycat"
+movedata MOVE_COPYCAT, "まねっこ"
     battleeffect MOVE_EFFECT_USE_LAST_USED_MOVE
     pss SPLIT_STATUS
     basepower 0
@@ -6154,7 +6154,7 @@ movedata MOVE_COPYCAT, "Copycat"
     terminatedata
     movedescription MOVE_COPYCAT, "The user mimics the\nmove used immediately\nbefore it. The move\nfails if no other move\nhas been used yet."
 
-movedata MOVE_POWER_SWAP, "Power Swap"
+movedata MOVE_POWER_SWAP, "パワ－スワップ"
     battleeffect MOVE_EFFECT_SWAP_ATK_SP_ATK_STAT_CHANGES
     pss SPLIT_STATUS
     basepower 0
@@ -6170,7 +6170,7 @@ movedata MOVE_POWER_SWAP, "Power Swap"
     terminatedata
     movedescription MOVE_POWER_SWAP, "The user employs its\npsychic power to\nswitch changes to\nits Attack and\nSp. Atk with the foe."
 
-movedata MOVE_GUARD_SWAP, "Guard Swap"
+movedata MOVE_GUARD_SWAP, "ガ－ドスワップ"
     battleeffect MOVE_EFFECT_SWAP_DEF_SP_DEF_STAT_CHANGES
     pss SPLIT_STATUS
     basepower 0
@@ -6186,7 +6186,7 @@ movedata MOVE_GUARD_SWAP, "Guard Swap"
     terminatedata
     movedescription MOVE_GUARD_SWAP, "The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe."
 
-movedata MOVE_PUNISHMENT, "Punishment"
+movedata MOVE_PUNISHMENT, "おしおき"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_MORE_STAT_UP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -6202,7 +6202,7 @@ movedata MOVE_PUNISHMENT, "Punishment"
     terminatedata
     movedescription MOVE_PUNISHMENT, "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n"
 
-movedata MOVE_LAST_RESORT, "Last Resort"
+movedata MOVE_LAST_RESORT, "とっておき"
     battleeffect MOVE_EFFECT_FAIL_IF_NOT_USED_ALL_OTHER_MOVES
     pss SPLIT_PHYSICAL
     basepower 140
@@ -6218,7 +6218,7 @@ movedata MOVE_LAST_RESORT, "Last Resort"
     terminatedata
     movedescription MOVE_LAST_RESORT, "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle."
 
-movedata MOVE_WORRY_SEED, "Worry Seed"
+movedata MOVE_WORRY_SEED, "なやみのタネ"
     battleeffect MOVE_EFFECT_SET_ABILITY_TO_INSOMNIA
     pss SPLIT_STATUS
     basepower 0
@@ -6234,7 +6234,7 @@ movedata MOVE_WORRY_SEED, "Worry Seed"
     terminatedata
     movedescription MOVE_WORRY_SEED, "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia."
 
-movedata MOVE_SUCKER_PUNCH, "Sucker Punch"
+movedata MOVE_SUCKER_PUNCH, "ふいうち"
     battleeffect MOVE_EFFECT_HIT_FIRST_IF_TARGET_ATTACKING
     pss SPLIT_PHYSICAL
     basepower 80
@@ -6250,7 +6250,7 @@ movedata MOVE_SUCKER_PUNCH, "Sucker Punch"
     terminatedata
     movedescription MOVE_SUCKER_PUNCH, "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however."
 
-movedata MOVE_TOXIC_SPIKES, "Toxic Spikes"
+movedata MOVE_TOXIC_SPIKES, "どくびし"
     battleeffect MOVE_EFFECT_TOXIC_SPIKES
     pss SPLIT_STATUS
     basepower 0
@@ -6266,7 +6266,7 @@ movedata MOVE_TOXIC_SPIKES, "Toxic Spikes"
     terminatedata
     movedescription MOVE_TOXIC_SPIKES, "The user lays a trap\nof poison spikes at\nthe foe’s feet. They\npoison foes that\nswitch into battle."
 
-movedata MOVE_HEART_SWAP, "Heart Swap"
+movedata MOVE_HEART_SWAP, "ハ－トスワップ"
     battleeffect MOVE_EFFECT_SWAP_STAT_CHANGES
     pss SPLIT_STATUS
     basepower 0
@@ -6282,7 +6282,7 @@ movedata MOVE_HEART_SWAP, "Heart Swap"
     terminatedata
     movedescription MOVE_HEART_SWAP, "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n"
 
-movedata MOVE_AQUA_RING, "Aqua Ring"
+movedata MOVE_AQUA_RING, "アクアリング"
     battleeffect MOVE_EFFECT_RESTORE_HP_EVERY_TURN
     pss SPLIT_STATUS
     basepower 0
@@ -6298,7 +6298,7 @@ movedata MOVE_AQUA_RING, "Aqua Ring"
     terminatedata
     movedescription MOVE_AQUA_RING, "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn."
 
-movedata MOVE_MAGNET_RISE, "Magnet Rise"
+movedata MOVE_MAGNET_RISE, "でんじふゆう"
     battleeffect MOVE_EFFECT_GIVE_GROUND_IMMUNITY
     pss SPLIT_STATUS
     basepower 0
@@ -6314,7 +6314,7 @@ movedata MOVE_MAGNET_RISE, "Magnet Rise"
     terminatedata
     movedescription MOVE_MAGNET_RISE, "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n"
 
-movedata MOVE_FLARE_BLITZ, "Flare Blitz"
+movedata MOVE_FLARE_BLITZ, "フレアドライブ"
     battleeffect MOVE_EFFECT_RECOIL_BURN_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -6330,7 +6330,7 @@ movedata MOVE_FLARE_BLITZ, "Flare Blitz"
     terminatedata
     movedescription MOVE_FLARE_BLITZ, "The user cloaks\nitself in fire and\ncharges at the foe.\nThe user sustains\nserious damage, too."
 
-movedata MOVE_FORCE_PALM, "Force Palm"
+movedata MOVE_FORCE_PALM, "はっけい"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -6346,7 +6346,7 @@ movedata MOVE_FORCE_PALM, "Force Palm"
     terminatedata
     movedescription MOVE_FORCE_PALM, "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n"
 
-movedata MOVE_AURA_SPHERE, "Aura Sphere"
+movedata MOVE_AURA_SPHERE, "はどうだん"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_SPECIAL
     basepower 90
@@ -6362,7 +6362,7 @@ movedata MOVE_AURA_SPHERE, "Aura Sphere"
     terminatedata
     movedescription MOVE_AURA_SPHERE, "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit."
 
-movedata MOVE_ROCK_POLISH, "Rock Polish"
+movedata MOVE_ROCK_POLISH, "ロックカット"
     battleeffect MOVE_EFFECT_SPEED_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -6378,7 +6378,7 @@ movedata MOVE_ROCK_POLISH, "Rock Polish"
     terminatedata
     movedescription MOVE_ROCK_POLISH, "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n"
 
-movedata MOVE_POISON_JAB, "Poison Jab"
+movedata MOVE_POISON_JAB, "どくづき"
     battleeffect MOVE_EFFECT_POISON_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -6394,7 +6394,7 @@ movedata MOVE_POISON_JAB, "Poison Jab"
     terminatedata
     movedescription MOVE_POISON_JAB, "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe."
 
-movedata MOVE_DARK_PULSE, "Dark Pulse"
+movedata MOVE_DARK_PULSE, "あくのはどう"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -6410,7 +6410,7 @@ movedata MOVE_DARK_PULSE, "Dark Pulse"
     terminatedata
     movedescription MOVE_DARK_PULSE, "The user releases a\nhorrible aura imbued\nwith dark thoughts.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_NIGHT_SLASH, "Night Slash"
+movedata MOVE_NIGHT_SLASH, "つじぎり"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 70
@@ -6426,7 +6426,7 @@ movedata MOVE_NIGHT_SLASH, "Night Slash"
     terminatedata
     movedescription MOVE_NIGHT_SLASH, "The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_AQUA_TAIL, "Aqua Tail"
+movedata MOVE_AQUA_TAIL, "アクアテ－ル"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 90
@@ -6442,7 +6442,7 @@ movedata MOVE_AQUA_TAIL, "Aqua Tail"
     terminatedata
     movedescription MOVE_AQUA_TAIL, "The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n"
 
-movedata MOVE_SEED_BOMB, "Seed Bomb"
+movedata MOVE_SEED_BOMB, "タネばくだん"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -6458,7 +6458,7 @@ movedata MOVE_SEED_BOMB, "Seed Bomb"
     terminatedata
     movedescription MOVE_SEED_BOMB, "The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above."
 
-movedata MOVE_AIR_SLASH, "Air Slash"
+movedata MOVE_AIR_SLASH, "エアスラッシュ"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_SPECIAL
     basepower 75
@@ -6474,7 +6474,7 @@ movedata MOVE_AIR_SLASH, "Air Slash"
     terminatedata
     movedescription MOVE_AIR_SLASH, "The user attacks with\na blade of air that\nslices even the sky.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_X_SCISSOR, "X-Scissor"
+movedata MOVE_X_SCISSOR, "シザ－クロス"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -6490,7 +6490,7 @@ movedata MOVE_X_SCISSOR, "X-Scissor"
     terminatedata
     movedescription MOVE_X_SCISSOR, "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors."
 
-movedata MOVE_BUG_BUZZ, "Bug Buzz"
+movedata MOVE_BUG_BUZZ, "むしのさざめき"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -6506,7 +6506,7 @@ movedata MOVE_BUG_BUZZ, "Bug Buzz"
     terminatedata
     movedescription MOVE_BUG_BUZZ, "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat."
 
-movedata MOVE_DRAGON_PULSE, "Dragon Pulse"
+movedata MOVE_DRAGON_PULSE, "りゅうのはどう"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -6522,7 +6522,7 @@ movedata MOVE_DRAGON_PULSE, "Dragon Pulse"
     terminatedata
     movedescription MOVE_DRAGON_PULSE, "The foe is attacked\nwith a shock wave\ngenerated by the\nuser’s gaping mouth.\n"
 
-movedata MOVE_DRAGON_RUSH, "Dragon Rush"
+movedata MOVE_DRAGON_RUSH, "ドラゴンダイブ"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 100
@@ -6538,7 +6538,7 @@ movedata MOVE_DRAGON_RUSH, "Dragon Rush"
     terminatedata
     movedescription MOVE_DRAGON_RUSH, "The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_POWER_GEM, "Power Gem"
+movedata MOVE_POWER_GEM, "パワ－ジェム"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -6554,7 +6554,7 @@ movedata MOVE_POWER_GEM, "Power Gem"
     terminatedata
     movedescription MOVE_POWER_GEM, "The user attacks with\na ray of light that\nsparkles as if it were\nmade of gemstones.\n"
 
-movedata MOVE_DRAIN_PUNCH, "Drain Punch"
+movedata MOVE_DRAIN_PUNCH, "ドレインパンチ"
     battleeffect MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT
     pss SPLIT_PHYSICAL
     basepower 75
@@ -6570,7 +6570,7 @@ movedata MOVE_DRAIN_PUNCH, "Drain Punch"
     terminatedata
     movedescription MOVE_DRAIN_PUNCH, "An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target."
 
-movedata MOVE_VACUUM_WAVE, "Vacuum Wave"
+movedata MOVE_VACUUM_WAVE, "しんくうは"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_SPECIAL
     basepower 40
@@ -6586,7 +6586,7 @@ movedata MOVE_VACUUM_WAVE, "Vacuum Wave"
     terminatedata
     movedescription MOVE_VACUUM_WAVE, "The user whirls its\nfists to send a wave\nof pure vacuum at\nthe foe. This move\nalways goes first."
 
-movedata MOVE_FOCUS_BLAST, "Focus Blast"
+movedata MOVE_FOCUS_BLAST, "きあいだま"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -6602,7 +6602,7 @@ movedata MOVE_FOCUS_BLAST, "Focus Blast"
     terminatedata
     movedescription MOVE_FOCUS_BLAST, "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def."
 
-movedata MOVE_ENERGY_BALL, "Energy Ball"
+movedata MOVE_ENERGY_BALL, "エナジ－ボ－ル"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -6618,7 +6618,7 @@ movedata MOVE_ENERGY_BALL, "Energy Ball"
     terminatedata
     movedescription MOVE_ENERGY_BALL, "The user draws power\nfrom nature and\nfires it at the foe.\nIt may also lower the\ntarget’s Sp. Def."
 
-movedata MOVE_BRAVE_BIRD, "Brave Bird"
+movedata MOVE_BRAVE_BIRD, "ブレイブバ－ド"
     battleeffect MOVE_EFFECT_RECOIL_THIRD
     pss SPLIT_PHYSICAL
     basepower 120
@@ -6634,7 +6634,7 @@ movedata MOVE_BRAVE_BIRD, "Brave Bird"
     terminatedata
     movedescription MOVE_BRAVE_BIRD, "The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage."
 
-movedata MOVE_EARTH_POWER, "Earth Power"
+movedata MOVE_EARTH_POWER, "だいちのちから"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 90
@@ -6650,7 +6650,7 @@ movedata MOVE_EARTH_POWER, "Earth Power"
     terminatedata
     movedescription MOVE_EARTH_POWER, "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def."
 
-movedata MOVE_SWITCHEROO, "Switcheroo"
+movedata MOVE_SWITCHEROO, "すりかえ"
     battleeffect MOVE_EFFECT_SWITCH_HELD_ITEMS
     pss SPLIT_STATUS
     basepower 0
@@ -6666,7 +6666,7 @@ movedata MOVE_SWITCHEROO, "Switcheroo"
     terminatedata
     movedescription MOVE_SWITCHEROO, "The user trades held\nitems with the foe\nfaster than the eye\ncan follow.\n"
 
-movedata MOVE_GIGA_IMPACT, "Giga Impact"
+movedata MOVE_GIGA_IMPACT, "ギガインパクト"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_PHYSICAL
     basepower 150
@@ -6682,7 +6682,7 @@ movedata MOVE_GIGA_IMPACT, "Giga Impact"
     terminatedata
     movedescription MOVE_GIGA_IMPACT, "The user charges at\nthe foe using every\nbit of its power.\nThe user must rest\non the next turn."
 
-movedata MOVE_NASTY_PLOT, "Nasty Plot"
+movedata MOVE_NASTY_PLOT, "わるだくみ"
     battleeffect MOVE_EFFECT_SP_ATK_UP_2
     pss SPLIT_STATUS
     basepower 0
@@ -6698,7 +6698,7 @@ movedata MOVE_NASTY_PLOT, "Nasty Plot"
     terminatedata
     movedescription MOVE_NASTY_PLOT, "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk."
 
-movedata MOVE_BULLET_PUNCH, "Bullet Punch"
+movedata MOVE_BULLET_PUNCH, "バレットパンチ"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 40
@@ -6714,7 +6714,7 @@ movedata MOVE_BULLET_PUNCH, "Bullet Punch"
     terminatedata
     movedescription MOVE_BULLET_PUNCH, "The user strikes\nwith a tough punch as\nfast as a bullet.\nThis move always goes\nfirst."
 
-movedata MOVE_AVALANCHE, "Avalanche"
+movedata MOVE_AVALANCHE, "ゆきなだれ"
     battleeffect MOVE_EFFECT_DOUBLE_DAMAGE_IF_HIT
     pss SPLIT_PHYSICAL
     basepower 60
@@ -6730,7 +6730,7 @@ movedata MOVE_AVALANCHE, "Avalanche"
     terminatedata
     movedescription MOVE_AVALANCHE, "An attack move that\ninflicts double the\ndamage if the user\nhas been hurt by the\nfoe in the same turn."
 
-movedata MOVE_ICE_SHARD, "Ice Shard"
+movedata MOVE_ICE_SHARD, "こおりのつぶて"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 40
@@ -6746,7 +6746,7 @@ movedata MOVE_ICE_SHARD, "Ice Shard"
     terminatedata
     movedescription MOVE_ICE_SHARD, "The user flash\nfreezes chunks of\nice and hurls them.\nThis move always goes\nfirst."
 
-movedata MOVE_SHADOW_CLAW, "Shadow Claw"
+movedata MOVE_SHADOW_CLAW, "シャド－クロ－"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 70
@@ -6762,7 +6762,7 @@ movedata MOVE_SHADOW_CLAW, "Shadow Claw"
     terminatedata
     movedescription MOVE_SHADOW_CLAW, "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_THUNDER_FANG, "Thunder Fang"
+movedata MOVE_THUNDER_FANG, "かみなりのキバ"
     battleeffect MOVE_EFFECT_FLINCH_PARALYZE_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -6778,7 +6778,7 @@ movedata MOVE_THUNDER_FANG, "Thunder Fang"
     terminatedata
     movedescription MOVE_THUNDER_FANG, "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed."
 
-movedata MOVE_ICE_FANG, "Ice Fang"
+movedata MOVE_ICE_FANG, "こおりのキバ"
     battleeffect MOVE_EFFECT_FLINCH_FREEZE_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -6794,7 +6794,7 @@ movedata MOVE_ICE_FANG, "Ice Fang"
     terminatedata
     movedescription MOVE_ICE_FANG, "The user bites with\ncold-infused fangs.\nIt may also make the\nfoe flinch or freeze.\n"
 
-movedata MOVE_FIRE_FANG, "Fire Fang"
+movedata MOVE_FIRE_FANG, "ほのおのキバ"
     battleeffect MOVE_EFFECT_FLINCH_BURN_HIT
     pss SPLIT_PHYSICAL
     basepower 65
@@ -6810,7 +6810,7 @@ movedata MOVE_FIRE_FANG, "Fire Fang"
     terminatedata
     movedescription MOVE_FIRE_FANG, "The user bites with\nflame-cloaked fangs.\nIt may also make the\nfoe flinch or sustain\na burn."
 
-movedata MOVE_SHADOW_SNEAK, "Shadow Sneak"
+movedata MOVE_SHADOW_SNEAK, "かげうち"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 40
@@ -6826,7 +6826,7 @@ movedata MOVE_SHADOW_SNEAK, "Shadow Sneak"
     terminatedata
     movedescription MOVE_SHADOW_SNEAK, "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst."
 
-movedata MOVE_MUD_BOMB, "Mud Bomb"
+movedata MOVE_MUD_BOMB, "どろばくだん"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -6842,7 +6842,7 @@ movedata MOVE_MUD_BOMB, "Mud Bomb"
     terminatedata
     movedescription MOVE_MUD_BOMB, "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy."
 
-movedata MOVE_PSYCHO_CUT, "Psycho Cut"
+movedata MOVE_PSYCHO_CUT, "サイコカッタ－"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 70
@@ -6858,7 +6858,7 @@ movedata MOVE_PSYCHO_CUT, "Psycho Cut"
     terminatedata
     movedescription MOVE_PSYCHO_CUT, "The user tears at\nthe foe with blades\nformed by psychic\npower. It has a high\ncritical-hit ratio."
 
-movedata MOVE_ZEN_HEADBUTT, "Zen Headbutt"
+movedata MOVE_ZEN_HEADBUTT, "しねんのずつき"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -6874,7 +6874,7 @@ movedata MOVE_ZEN_HEADBUTT, "Zen Headbutt"
     terminatedata
     movedescription MOVE_ZEN_HEADBUTT, "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_MIRROR_SHOT, "Mirror Shot"
+movedata MOVE_MIRROR_SHOT, "ミラ－ショット"
     battleeffect MOVE_EFFECT_LOWER_ACCURACY_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -6890,7 +6890,7 @@ movedata MOVE_MIRROR_SHOT, "Mirror Shot"
     terminatedata
     movedescription MOVE_MIRROR_SHOT, "The user looses a\nflash of energy from\nits polished body.\nIt may also lower the\ntarget’s accuracy."
 
-movedata MOVE_FLASH_CANNON, "Flash Cannon"
+movedata MOVE_FLASH_CANNON, "ラスタ－カノン"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -6906,7 +6906,7 @@ movedata MOVE_FLASH_CANNON, "Flash Cannon"
     terminatedata
     movedescription MOVE_FLASH_CANNON, "The user gathers all\nits light energy and\nreleases it at once.\nIt may also lower the\nfoe’s Sp. Def stat."
 
-movedata MOVE_ROCK_CLIMB, "Rock Climb"
+movedata MOVE_ROCK_CLIMB, "ロッククライム"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
     basepower 90
@@ -6922,7 +6922,7 @@ movedata MOVE_ROCK_CLIMB, "Rock Climb"
     terminatedata
     movedescription MOVE_ROCK_CLIMB, "A charging attack\nthat may also leave\nthe foe confused.\nIt can also be used\nto scale rocky walls."
 
-movedata MOVE_DEFOG, "Defog"
+movedata MOVE_DEFOG, "きりばらい"
     battleeffect MOVE_EFFECT_REMOVE_HAZARDS_SCREENS_EVA_DOWN
     pss SPLIT_STATUS
     basepower 0
@@ -6938,7 +6938,7 @@ movedata MOVE_DEFOG, "Defog"
     terminatedata
     movedescription MOVE_DEFOG, "It reduces the foe’s\nevasion stat. It also\nremoves spikes,\nlight screens, etc."
 
-movedata MOVE_TRICK_ROOM, "Trick Room"
+movedata MOVE_TRICK_ROOM, "トリックル－ム"
     battleeffect MOVE_EFFECT_TRICK_ROOM
     pss SPLIT_STATUS
     basepower 0
@@ -6954,7 +6954,7 @@ movedata MOVE_TRICK_ROOM, "Trick Room"
     terminatedata
     movedescription MOVE_TRICK_ROOM, "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns."
 
-movedata MOVE_DRACO_METEOR, "Draco Meteor"
+movedata MOVE_DRACO_METEOR, "りゅうせいぐん"
     battleeffect MOVE_EFFECT_USER_SP_ATK_DOWN_2
     pss SPLIT_SPECIAL
     basepower 140
@@ -6970,7 +6970,7 @@ movedata MOVE_DRACO_METEOR, "Draco Meteor"
     terminatedata
     movedescription MOVE_DRACO_METEOR, "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat."
 
-movedata MOVE_DISCHARGE, "Discharge"
+movedata MOVE_DISCHARGE, "ほうでん"
     battleeffect MOVE_EFFECT_PARALYZE_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -6986,7 +6986,7 @@ movedata MOVE_DISCHARGE, "Discharge"
     terminatedata
     movedescription MOVE_DISCHARGE, "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis."
 
-movedata MOVE_LAVA_PLUME, "Lava Plume"
+movedata MOVE_LAVA_PLUME, "ふんえん"
     battleeffect MOVE_EFFECT_BURN_HIT
     pss SPLIT_SPECIAL
     basepower 80
@@ -7002,7 +7002,7 @@ movedata MOVE_LAVA_PLUME, "Lava Plume"
     terminatedata
     movedescription MOVE_LAVA_PLUME, "An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns."
 
-movedata MOVE_LEAF_STORM, "Leaf Storm"
+movedata MOVE_LEAF_STORM, "リ－フスト－ム"
     battleeffect MOVE_EFFECT_USER_SP_ATK_DOWN_2
     pss SPLIT_SPECIAL
     basepower 140
@@ -7018,7 +7018,7 @@ movedata MOVE_LEAF_STORM, "Leaf Storm"
     terminatedata
     movedescription MOVE_LEAF_STORM, "A storm of sharp\nleaves is whipped up.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat."
 
-movedata MOVE_POWER_WHIP, "Power Whip"
+movedata MOVE_POWER_WHIP, "パワ－ウィップ"
     battleeffect MOVE_EFFECT_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -7034,7 +7034,7 @@ movedata MOVE_POWER_WHIP, "Power Whip"
     terminatedata
     movedescription MOVE_POWER_WHIP, "The user violently\nwhirls its vines or\ntentacles to harshly\nlash the foe.\n"
 
-movedata MOVE_ROCK_WRECKER, "Rock Wrecker"
+movedata MOVE_ROCK_WRECKER, "がんせきほう"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_PHYSICAL
     basepower 150
@@ -7050,7 +7050,7 @@ movedata MOVE_ROCK_WRECKER, "Rock Wrecker"
     terminatedata
     movedescription MOVE_ROCK_WRECKER, "The user launches a\nhuge boulder at the\nfoe to attack.\nIt must rest on the\nnext turn, however."
 
-movedata MOVE_CROSS_POISON, "Cross Poison"
+movedata MOVE_CROSS_POISON, "クロスポイズン"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT
     pss SPLIT_PHYSICAL
     basepower 70
@@ -7066,7 +7066,7 @@ movedata MOVE_CROSS_POISON, "Cross Poison"
     terminatedata
     movedescription MOVE_CROSS_POISON, "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_GUNK_SHOT, "Gunk Shot"
+movedata MOVE_GUNK_SHOT, "ダストシュ－ト"
     battleeffect MOVE_EFFECT_POISON_HIT
     pss SPLIT_PHYSICAL
     basepower 120
@@ -7082,7 +7082,7 @@ movedata MOVE_GUNK_SHOT, "Gunk Shot"
     terminatedata
     movedescription MOVE_GUNK_SHOT, "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target."
 
-movedata MOVE_IRON_HEAD, "Iron Head"
+movedata MOVE_IRON_HEAD, "アイアンヘッド"
     battleeffect MOVE_EFFECT_FLINCH_HIT
     pss SPLIT_PHYSICAL
     basepower 80
@@ -7098,7 +7098,7 @@ movedata MOVE_IRON_HEAD, "Iron Head"
     terminatedata
     movedescription MOVE_IRON_HEAD, "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch."
 
-movedata MOVE_MAGNET_BOMB, "Magnet Bomb"
+movedata MOVE_MAGNET_BOMB, "マグネットボム"
     battleeffect MOVE_EFFECT_BYPASS_ACCURACY
     pss SPLIT_PHYSICAL
     basepower 60
@@ -7114,7 +7114,7 @@ movedata MOVE_MAGNET_BOMB, "Magnet Bomb"
     terminatedata
     movedescription MOVE_MAGNET_BOMB, "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss."
 
-movedata MOVE_STONE_EDGE, "Stone Edge"
+movedata MOVE_STONE_EDGE, "スト－ンエッジ"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 100
@@ -7130,7 +7130,7 @@ movedata MOVE_STONE_EDGE, "Stone Edge"
     terminatedata
     movedescription MOVE_STONE_EDGE, "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n"
 
-movedata MOVE_CAPTIVATE, "Captivate"
+movedata MOVE_CAPTIVATE, "ゆうわく"
     battleeffect MOVE_EFFECT_SP_ATK_DOWN_2_OPPOSITE_GENDER
     pss SPLIT_STATUS
     basepower 0
@@ -7146,7 +7146,7 @@ movedata MOVE_CAPTIVATE, "Captivate"
     terminatedata
     movedescription MOVE_CAPTIVATE, "If it is the opposite\ngender of the user,\nthe foe is charmed\ninto sharply lowering\nits Sp. Atk stat."
 
-movedata MOVE_STEALTH_ROCK, "Stealth Rock"
+movedata MOVE_STEALTH_ROCK, "ステルスロック"
     battleeffect MOVE_EFFECT_STEALTH_ROCK
     pss SPLIT_STATUS
     basepower 0
@@ -7162,7 +7162,7 @@ movedata MOVE_STEALTH_ROCK, "Stealth Rock"
     terminatedata
     movedescription MOVE_STEALTH_ROCK, "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle."
 
-movedata MOVE_GRASS_KNOT, "Grass Knot"
+movedata MOVE_GRASS_KNOT, "くさむすび"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_WEIGHT
     pss SPLIT_SPECIAL
     basepower 1
@@ -7178,7 +7178,7 @@ movedata MOVE_GRASS_KNOT, "Grass Knot"
     terminatedata
     movedescription MOVE_GRASS_KNOT, "The user snares the\nfoe with grass and\ntrips it. The heavier\nthe foe, the greater\nthe damage."
 
-movedata MOVE_CHATTER, "Chatter"
+movedata MOVE_CHATTER, "おしゃべり"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_SPECIAL
     basepower 65
@@ -7194,7 +7194,7 @@ movedata MOVE_CHATTER, "Chatter"
     terminatedata
     movedescription MOVE_CHATTER, "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe."
 
-movedata MOVE_JUDGMENT, "Judgment"
+movedata MOVE_JUDGMENT, "さばきのつぶて"
     battleeffect MOVE_EFFECT_JUDGMENT
     pss SPLIT_SPECIAL
     basepower 100
@@ -7210,7 +7210,7 @@ movedata MOVE_JUDGMENT, "Judgment"
     terminatedata
     movedescription MOVE_JUDGMENT, "The user releases\ncountless shots of\nlight. Its type varies\nwith the kind of Plate\nthe user is holding."
 
-movedata MOVE_BUG_BITE, "Bug Bite"
+movedata MOVE_BUG_BITE, "むしくい"
     battleeffect MOVE_EFFECT_EAT_BERRY
     pss SPLIT_PHYSICAL
     basepower 60
@@ -7226,7 +7226,7 @@ movedata MOVE_BUG_BITE, "Bug Bite"
     terminatedata
     movedescription MOVE_BUG_BITE, "The user bites the\nfoe. If the foe is\nholding a Berry, the\nuser eats it and\ngains its effect."
 
-movedata MOVE_CHARGE_BEAM, "Charge Beam"
+movedata MOVE_CHARGE_BEAM, "チャ－ジビ－ム"
     battleeffect MOVE_EFFECT_RAISE_SP_ATK_HIT
     pss SPLIT_SPECIAL
     basepower 50
@@ -7242,7 +7242,7 @@ movedata MOVE_CHARGE_BEAM, "Charge Beam"
     terminatedata
     movedescription MOVE_CHARGE_BEAM, "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat."
 
-movedata MOVE_WOOD_HAMMER, "Wood Hammer"
+movedata MOVE_WOOD_HAMMER, "ウッドハンマ－"
     battleeffect MOVE_EFFECT_RECOIL_THIRD
     pss SPLIT_PHYSICAL
     basepower 120
@@ -7258,7 +7258,7 @@ movedata MOVE_WOOD_HAMMER, "Wood Hammer"
     terminatedata
     movedescription MOVE_WOOD_HAMMER, "The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage."
 
-movedata MOVE_AQUA_JET, "Aqua Jet"
+movedata MOVE_AQUA_JET, "アクアジェット"
     battleeffect MOVE_EFFECT_PRIORITY_1
     pss SPLIT_PHYSICAL
     basepower 40
@@ -7274,7 +7274,7 @@ movedata MOVE_AQUA_JET, "Aqua Jet"
     terminatedata
     movedescription MOVE_AQUA_JET, "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first."
 
-movedata MOVE_ATTACK_ORDER, "Attack Order"
+movedata MOVE_ATTACK_ORDER, "こうげきしれい"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_PHYSICAL
     basepower 90
@@ -7290,7 +7290,7 @@ movedata MOVE_ATTACK_ORDER, "Attack Order"
     terminatedata
     movedescription MOVE_ATTACK_ORDER, "The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio."
 
-movedata MOVE_DEFEND_ORDER, "Defend Order"
+movedata MOVE_DEFEND_ORDER, "ぼうぎょしれい"
     battleeffect MOVE_EFFECT_DEF_SP_DEF_UP
     pss SPLIT_STATUS
     basepower 0
@@ -7306,7 +7306,7 @@ movedata MOVE_DEFEND_ORDER, "Defend Order"
     terminatedata
     movedescription MOVE_DEFEND_ORDER, "The user calls out\nits underlings to\nshield its body,\nraising its Defense\nand Sp. Def stats."
 
-movedata MOVE_HEAL_ORDER, "Heal Order"
+movedata MOVE_HEAL_ORDER, "かいふくしれい"
     battleeffect MOVE_EFFECT_RESTORE_HALF_HP
     pss SPLIT_STATUS
     basepower 0
@@ -7322,7 +7322,7 @@ movedata MOVE_HEAL_ORDER, "Heal Order"
     terminatedata
     movedescription MOVE_HEAL_ORDER, "The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP."
 
-movedata MOVE_HEAD_SMASH, "Head Smash"
+movedata MOVE_HEAD_SMASH, "もろはのずつき"
     battleeffect MOVE_EFFECT_RECOIL_THIRD
     pss SPLIT_PHYSICAL
     basepower 120
@@ -7338,7 +7338,7 @@ movedata MOVE_HEAD_SMASH, "Head Smash"
     terminatedata
     movedescription MOVE_HEAD_SMASH, "The user delivers a\nlife-endangering\nattack at full power.\nThe user also takes\nterrible damage."
 
-movedata MOVE_DOUBLE_HIT, "Double Hit"
+movedata MOVE_DOUBLE_HIT, "ダブルアタック"
     battleeffect MOVE_EFFECT_HIT_TWICE
     pss SPLIT_PHYSICAL
     basepower 35
@@ -7354,7 +7354,7 @@ movedata MOVE_DOUBLE_HIT, "Double Hit"
     terminatedata
     movedescription MOVE_DOUBLE_HIT, "The user slams the\nfoe with a long tail,\nvines, etc. The\ntarget is hit\ntwice in a row."
 
-movedata MOVE_ROAR_OF_TIME, "Roar of Time"
+movedata MOVE_ROAR_OF_TIME, "ときのほうこう"
     battleeffect MOVE_EFFECT_RECHARGE_AFTER
     pss SPLIT_SPECIAL
     basepower 150
@@ -7370,7 +7370,7 @@ movedata MOVE_ROAR_OF_TIME, "Roar of Time"
     terminatedata
     movedescription MOVE_ROAR_OF_TIME, "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn."
 
-movedata MOVE_SPACIAL_REND, "Spacial Rend"
+movedata MOVE_SPACIAL_REND, "あくうせつだん"
     battleeffect MOVE_EFFECT_HIGH_CRITICAL
     pss SPLIT_SPECIAL
     basepower 100
@@ -7386,7 +7386,7 @@ movedata MOVE_SPACIAL_REND, "Spacial Rend"
     terminatedata
     movedescription MOVE_SPACIAL_REND, "The user tears the\nfoe along with the\nspace around it.\nThis move has a high\ncritical-hit ratio."
 
-movedata MOVE_LUNAR_DANCE, "Lunar Dance"
+movedata MOVE_LUNAR_DANCE, "みかづきのまい"
     battleeffect MOVE_EFFECT_FAINT_FULL_RESTORE_NEXT_MON
     pss SPLIT_STATUS
     basepower 0
@@ -7402,7 +7402,7 @@ movedata MOVE_LUNAR_DANCE, "Lunar Dance"
     terminatedata
     movedescription MOVE_LUNAR_DANCE, "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its status and\nHP fully restored."
 
-movedata MOVE_CRUSH_GRIP, "Crush Grip"
+movedata MOVE_CRUSH_GRIP, "にぎりつぶす"
     battleeffect MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP
     pss SPLIT_PHYSICAL
     basepower 1
@@ -7418,7 +7418,7 @@ movedata MOVE_CRUSH_GRIP, "Crush Grip"
     terminatedata
     movedescription MOVE_CRUSH_GRIP, "The foe is crushed\nwith great force.\nThe attack is more\npowerful the more HP\nthe foe has left."
 
-movedata MOVE_MAGMA_STORM, "Magma Storm"
+movedata MOVE_MAGMA_STORM, "マグマスト－ム"
     battleeffect MOVE_EFFECT_BIND_HIT
     pss SPLIT_SPECIAL
     basepower 100
@@ -7434,7 +7434,7 @@ movedata MOVE_MAGMA_STORM, "Magma Storm"
     terminatedata
     movedescription MOVE_MAGMA_STORM, "The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns."
 
-movedata MOVE_DARK_VOID, "Dark Void"
+movedata MOVE_DARK_VOID, "ダ－クホ－ル"
     battleeffect MOVE_EFFECT_STATUS_SLEEP
     pss SPLIT_STATUS
     basepower 0
@@ -7450,7 +7450,7 @@ movedata MOVE_DARK_VOID, "Dark Void"
     terminatedata
     movedescription MOVE_DARK_VOID, "The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n"
 
-movedata MOVE_SEED_FLARE, "Seed Flare"
+movedata MOVE_SEED_FLARE, "シ－ドフレア"
     battleeffect MOVE_EFFECT_LOWER_SP_DEF_2_HIT
     pss SPLIT_SPECIAL
     basepower 120
@@ -7466,7 +7466,7 @@ movedata MOVE_SEED_FLARE, "Seed Flare"
     terminatedata
     movedescription MOVE_SEED_FLARE, "The user generates\na shock wave from\nwithin its body.\nIt may also lower the\ntarget’s Sp. Def."
 
-movedata MOVE_OMINOUS_WIND, "Ominous Wind"
+movedata MOVE_OMINOUS_WIND, "あやしいかぜ"
     battleeffect MOVE_EFFECT_RAISE_ALL_STATS_HIT
     pss SPLIT_SPECIAL
     basepower 60
@@ -7482,7 +7482,7 @@ movedata MOVE_OMINOUS_WIND, "Ominous Wind"
     terminatedata
     movedescription MOVE_OMINOUS_WIND, "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once."
 
-movedata MOVE_SHADOW_FORCE, "Shadow Force"
+movedata MOVE_SHADOW_FORCE, "シャド－ダイブ"
     battleeffect MOVE_EFFECT_SHADOW_FORCE
     pss SPLIT_PHYSICAL
     basepower 120

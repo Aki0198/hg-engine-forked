@@ -14,7 +14,7 @@
 // basestats and evyields fields are formatted as such:  hp atk def speed spatk spdef
 
 
-mondata SPECIES_NONE, "-----"
+mondata SPECIES_NONE, "－－－－－"
     basestats 0, 0, 0, 0, 0, 0
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 0
@@ -35,7 +35,7 @@ mondata SPECIES_NONE, "-----"
     mondexweight SPECIES_NONE, "????.? lbs."
 
 
-mondata SPECIES_BULBASAUR, "Bulbasaur"
+mondata SPECIES_BULBASAUR, "フシギダネ"
     basestats 45, 49, 49, 45, 65, 65
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -56,7 +56,7 @@ mondata SPECIES_BULBASAUR, "Bulbasaur"
     mondexweight SPECIES_BULBASAUR, "15.2 lbs."
 
 
-mondata SPECIES_IVYSAUR, "Ivysaur"
+mondata SPECIES_IVYSAUR, "フシギソウ"
     basestats 60, 62, 63, 60, 80, 80
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -77,7 +77,7 @@ mondata SPECIES_IVYSAUR, "Ivysaur"
     mondexweight SPECIES_IVYSAUR, "28.7 lbs."
 
 
-mondata SPECIES_VENUSAUR, "Venusaur"
+mondata SPECIES_VENUSAUR, "フシギバナ"
     basestats 80, 82, 83, 80, 100, 100
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -98,7 +98,7 @@ mondata SPECIES_VENUSAUR, "Venusaur"
     mondexweight SPECIES_VENUSAUR, "220.5 lbs."
 
 
-mondata SPECIES_CHARMANDER, "Charmander"
+mondata SPECIES_CHARMANDER, "ヒトカゲ"
     basestats 39, 52, 43, 65, 60, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -119,7 +119,7 @@ mondata SPECIES_CHARMANDER, "Charmander"
     mondexweight SPECIES_CHARMANDER, "18.7 lbs."
 
 
-mondata SPECIES_CHARMELEON, "Charmeleon"
+mondata SPECIES_CHARMELEON, "リザ－ド"
     basestats 58, 64, 58, 80, 80, 65
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -140,7 +140,7 @@ mondata SPECIES_CHARMELEON, "Charmeleon"
     mondexweight SPECIES_CHARMELEON, "41.9 lbs."
 
 
-mondata SPECIES_CHARIZARD, "Charizard"
+mondata SPECIES_CHARIZARD, "リザ－ドン"
     basestats 78, 84, 78, 100, 109, 85
     types TYPE_FIRE, TYPE_FLYING
     catchrate 45
@@ -161,7 +161,7 @@ mondata SPECIES_CHARIZARD, "Charizard"
     mondexweight SPECIES_CHARIZARD, "199.5 lbs."
 
 
-mondata SPECIES_SQUIRTLE, "Squirtle"
+mondata SPECIES_SQUIRTLE, "ゼニガメ"
     basestats 44, 48, 65, 43, 50, 64
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -182,7 +182,7 @@ mondata SPECIES_SQUIRTLE, "Squirtle"
     mondexweight SPECIES_SQUIRTLE, "19.8 lbs."
 
 
-mondata SPECIES_WARTORTLE, "Wartortle"
+mondata SPECIES_WARTORTLE, "カメ－ル"
     basestats 59, 63, 80, 58, 65, 80
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -203,7 +203,7 @@ mondata SPECIES_WARTORTLE, "Wartortle"
     mondexweight SPECIES_WARTORTLE, "49.6 lbs."
 
 
-mondata SPECIES_BLASTOISE, "Blastoise"
+mondata SPECIES_BLASTOISE, "カメックス"
     basestats 79, 83, 100, 78, 85, 105
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -224,7 +224,7 @@ mondata SPECIES_BLASTOISE, "Blastoise"
     mondexweight SPECIES_BLASTOISE, "188.5 lbs."
 
 
-mondata SPECIES_CATERPIE, "Caterpie"
+mondata SPECIES_CATERPIE, "キャタピ－"
     basestats 45, 30, 35, 45, 20, 20
     types TYPE_BUG, TYPE_BUG
     catchrate 255
@@ -245,7 +245,7 @@ mondata SPECIES_CATERPIE, "Caterpie"
     mondexweight SPECIES_CATERPIE, "6.4 lbs."
 
 
-mondata SPECIES_METAPOD, "Metapod"
+mondata SPECIES_METAPOD, "トランセル"
     basestats 50, 20, 55, 30, 25, 25
     types TYPE_BUG, TYPE_BUG
     catchrate 120
@@ -266,7 +266,7 @@ mondata SPECIES_METAPOD, "Metapod"
     mondexweight SPECIES_METAPOD, "21.8 lbs."
 
 
-mondata SPECIES_BUTTERFREE, "Butterfree"
+mondata SPECIES_BUTTERFREE, "バタフリ－"
     basestats 60, 45, 50, 70, 80, 80
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
@@ -287,7 +287,7 @@ mondata SPECIES_BUTTERFREE, "Butterfree"
     mondexweight SPECIES_BUTTERFREE, "70.5 lbs."
 
 
-mondata SPECIES_WEEDLE, "Weedle"
+mondata SPECIES_WEEDLE, "ビ－ドル"
     basestats 40, 35, 30, 50, 20, 20
     types TYPE_BUG, TYPE_POISON
     catchrate 255
@@ -308,7 +308,7 @@ mondata SPECIES_WEEDLE, "Weedle"
     mondexweight SPECIES_WEEDLE, "7.1 lbs."
 
 
-mondata SPECIES_KAKUNA, "Kakuna"
+mondata SPECIES_KAKUNA, "コク－ン"
     basestats 45, 25, 50, 35, 25, 25
     types TYPE_BUG, TYPE_POISON
     catchrate 120
@@ -329,7 +329,7 @@ mondata SPECIES_KAKUNA, "Kakuna"
     mondexweight SPECIES_KAKUNA, "22.0 lbs."
 
 
-mondata SPECIES_BEEDRILL, "Beedrill"
+mondata SPECIES_BEEDRILL, "スピア－"
     basestats 65, 80, 40, 75, 45, 80
     types TYPE_BUG, TYPE_POISON
     catchrate 45
@@ -350,7 +350,7 @@ mondata SPECIES_BEEDRILL, "Beedrill"
     mondexweight SPECIES_BEEDRILL, "65.0 lbs."
 
 
-mondata SPECIES_PIDGEY, "Pidgey"
+mondata SPECIES_PIDGEY, "ポッポ"
     basestats 40, 45, 40, 56, 35, 35
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 255
@@ -371,7 +371,7 @@ mondata SPECIES_PIDGEY, "Pidgey"
     mondexweight SPECIES_PIDGEY, "4.0 lbs."
 
 
-mondata SPECIES_PIDGEOTTO, "Pidgeotto"
+mondata SPECIES_PIDGEOTTO, "ピジョン"
     basestats 63, 60, 55, 71, 50, 50
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 120
@@ -392,7 +392,7 @@ mondata SPECIES_PIDGEOTTO, "Pidgeotto"
     mondexweight SPECIES_PIDGEOTTO, "66.1 lbs."
 
 
-mondata SPECIES_PIDGEOT, "Pidgeot"
+mondata SPECIES_PIDGEOT, "ピジョット"
     basestats 93, 81, 75, 91, 70, 70
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -413,7 +413,7 @@ mondata SPECIES_PIDGEOT, "Pidgeot"
     mondexweight SPECIES_PIDGEOT, "87.1 lbs."
 
 
-mondata SPECIES_RATTATA, "Rattata"
+mondata SPECIES_RATTATA, "コラッタ"
     basestats 30, 56, 35, 72, 25, 35
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -434,7 +434,7 @@ mondata SPECIES_RATTATA, "Rattata"
     mondexweight SPECIES_RATTATA, "7.7 lbs."
 
 
-mondata SPECIES_RATICATE, "Raticate"
+mondata SPECIES_RATICATE, "ラッタ"
     basestats 55, 81, 60, 97, 50, 70
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 127
@@ -455,7 +455,7 @@ mondata SPECIES_RATICATE, "Raticate"
     mondexweight SPECIES_RATICATE, "40.8 lbs."
 
 
-mondata SPECIES_SPEAROW, "Spearow"
+mondata SPECIES_SPEAROW, "オニスズメ"
     basestats 40, 60, 30, 70, 31, 31
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 255
@@ -476,7 +476,7 @@ mondata SPECIES_SPEAROW, "Spearow"
     mondexweight SPECIES_SPEAROW, "4.4 lbs."
 
 
-mondata SPECIES_FEAROW, "Fearow"
+mondata SPECIES_FEAROW, "オニドリル"
     basestats 65, 90, 65, 100, 61, 61
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 90
@@ -497,7 +497,7 @@ mondata SPECIES_FEAROW, "Fearow"
     mondexweight SPECIES_FEAROW, "83.8 lbs."
 
 
-mondata SPECIES_EKANS, "Ekans"
+mondata SPECIES_EKANS, "ア－ボ"
     basestats 35, 60, 44, 55, 40, 54
     types TYPE_POISON, TYPE_POISON
     catchrate 255
@@ -518,7 +518,7 @@ mondata SPECIES_EKANS, "Ekans"
     mondexweight SPECIES_EKANS, "15.2 lbs."
 
 
-mondata SPECIES_ARBOK, "Arbok"
+mondata SPECIES_ARBOK, "ア－ボック"
     basestats 60, 95, 69, 80, 65, 79
     types TYPE_POISON, TYPE_POISON
     catchrate 90
@@ -539,7 +539,7 @@ mondata SPECIES_ARBOK, "Arbok"
     mondexweight SPECIES_ARBOK, "143.3 lbs."
 
 
-mondata SPECIES_PIKACHU, "Pikachu"
+mondata SPECIES_PIKACHU, "ピカチュウ"
     basestats 35, 55, 40, 90, 50, 50
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 190
@@ -560,7 +560,7 @@ mondata SPECIES_PIKACHU, "Pikachu"
     mondexweight SPECIES_PIKACHU, "13.2 lbs."
 
 
-mondata SPECIES_RAICHU, "Raichu"
+mondata SPECIES_RAICHU, "ライチュウ"
     basestats 60, 90, 55, 100, 90, 80
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 75
@@ -581,7 +581,7 @@ mondata SPECIES_RAICHU, "Raichu"
     mondexweight SPECIES_RAICHU, "66.1 lbs."
 
 
-mondata SPECIES_SANDSHREW, "Sandshrew"
+mondata SPECIES_SANDSHREW, "サンド"
     basestats 50, 75, 85, 40, 20, 30
     types TYPE_GROUND, TYPE_GROUND
     catchrate 255
@@ -602,7 +602,7 @@ mondata SPECIES_SANDSHREW, "Sandshrew"
     mondexweight SPECIES_SANDSHREW, "26.5 lbs."
 
 
-mondata SPECIES_SANDSLASH, "Sandslash"
+mondata SPECIES_SANDSLASH, "サンドパン"
     basestats 75, 100, 110, 65, 45, 55
     types TYPE_GROUND, TYPE_GROUND
     catchrate 90
@@ -623,7 +623,7 @@ mondata SPECIES_SANDSLASH, "Sandslash"
     mondexweight SPECIES_SANDSLASH, "65.0 lbs."
 
 
-mondata SPECIES_NIDORAN_F, "Nidoran♀"
+mondata SPECIES_NIDORAN_F, "ニドラン㊛"
     basestats 55, 47, 52, 41, 40, 40
     types TYPE_POISON, TYPE_POISON
     catchrate 235
@@ -644,7 +644,7 @@ mondata SPECIES_NIDORAN_F, "Nidoran♀"
     mondexweight SPECIES_NIDORAN_F, "15.4 lbs."
 
 
-mondata SPECIES_NIDORINA, "Nidorina"
+mondata SPECIES_NIDORINA, "ニドリ－ナ"
     basestats 70, 62, 67, 56, 55, 55
     types TYPE_POISON, TYPE_POISON
     catchrate 120
@@ -665,7 +665,7 @@ mondata SPECIES_NIDORINA, "Nidorina"
     mondexweight SPECIES_NIDORINA, "44.1 lbs."
 
 
-mondata SPECIES_NIDOQUEEN, "Nidoqueen"
+mondata SPECIES_NIDOQUEEN, "ニドクイン"
     basestats 90, 92, 87, 76, 75, 85
     types TYPE_POISON, TYPE_GROUND
     catchrate 45
@@ -686,7 +686,7 @@ mondata SPECIES_NIDOQUEEN, "Nidoqueen"
     mondexweight SPECIES_NIDOQUEEN, "132.3 lbs."
 
 
-mondata SPECIES_NIDORAN_M, "Nidoran♂"
+mondata SPECIES_NIDORAN_M, "ニドラン㊚"
     basestats 46, 57, 40, 50, 40, 40
     types TYPE_POISON, TYPE_POISON
     catchrate 235
@@ -707,7 +707,7 @@ mondata SPECIES_NIDORAN_M, "Nidoran♂"
     mondexweight SPECIES_NIDORAN_M, "19.8 lbs."
 
 
-mondata SPECIES_NIDORINO, "Nidorino"
+mondata SPECIES_NIDORINO, "ニドリ－ノ"
     basestats 61, 72, 57, 65, 55, 55
     types TYPE_POISON, TYPE_POISON
     catchrate 120
@@ -728,7 +728,7 @@ mondata SPECIES_NIDORINO, "Nidorino"
     mondexweight SPECIES_NIDORINO, "43.0 lbs."
 
 
-mondata SPECIES_NIDOKING, "Nidoking"
+mondata SPECIES_NIDOKING, "ニドキング"
     basestats 81, 102, 77, 85, 85, 75
     types TYPE_POISON, TYPE_GROUND
     catchrate 45
@@ -749,7 +749,7 @@ mondata SPECIES_NIDOKING, "Nidoking"
     mondexweight SPECIES_NIDOKING, "136.7 lbs."
 
 
-mondata SPECIES_CLEFAIRY, "Clefairy"
+mondata SPECIES_CLEFAIRY, "ピッピ"
     basestats 70, 45, 48, 35, 60, 65
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 150
@@ -770,7 +770,7 @@ mondata SPECIES_CLEFAIRY, "Clefairy"
     mondexweight SPECIES_CLEFAIRY, "16.5 lbs."
 
 
-mondata SPECIES_CLEFABLE, "Clefable"
+mondata SPECIES_CLEFABLE, "ピクシ－"
     basestats 95, 70, 73, 60, 95, 90
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 25
@@ -791,7 +791,7 @@ mondata SPECIES_CLEFABLE, "Clefable"
     mondexweight SPECIES_CLEFABLE, "88.2 lbs."
 
 
-mondata SPECIES_VULPIX, "Vulpix"
+mondata SPECIES_VULPIX, "ロコン"
     basestats 38, 41, 40, 65, 50, 65
     types TYPE_FIRE, TYPE_FIRE
     catchrate 190
@@ -812,7 +812,7 @@ mondata SPECIES_VULPIX, "Vulpix"
     mondexweight SPECIES_VULPIX, "21.8 lbs."
 
 
-mondata SPECIES_NINETALES, "Ninetales"
+mondata SPECIES_NINETALES, "キュウコン"
     basestats 73, 76, 75, 100, 81, 100
     types TYPE_FIRE, TYPE_FIRE
     catchrate 75
@@ -833,7 +833,7 @@ mondata SPECIES_NINETALES, "Ninetales"
     mondexweight SPECIES_NINETALES, "43.9 lbs."
 
 
-mondata SPECIES_JIGGLYPUFF, "Jigglypuff"
+mondata SPECIES_JIGGLYPUFF, "プリン"
     basestats 115, 45, 20, 20, 45, 25
     types TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 170
@@ -854,7 +854,7 @@ mondata SPECIES_JIGGLYPUFF, "Jigglypuff"
     mondexweight SPECIES_JIGGLYPUFF, "12.1 lbs."
 
 
-mondata SPECIES_WIGGLYTUFF, "Wigglytuff"
+mondata SPECIES_WIGGLYTUFF, "プクリン"
     basestats 140, 85, 55, 45, 85, 60
     types TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 50
@@ -875,7 +875,7 @@ mondata SPECIES_WIGGLYTUFF, "Wigglytuff"
     mondexweight SPECIES_WIGGLYTUFF, "26.5 lbs."
 
 
-mondata SPECIES_ZUBAT, "Zubat"
+mondata SPECIES_ZUBAT, "ズバット"
     basestats 40, 45, 35, 55, 30, 40
     types TYPE_POISON, TYPE_FLYING
     catchrate 255
@@ -896,7 +896,7 @@ mondata SPECIES_ZUBAT, "Zubat"
     mondexweight SPECIES_ZUBAT, "16.5 lbs."
 
 
-mondata SPECIES_GOLBAT, "Golbat"
+mondata SPECIES_GOLBAT, "ゴルバット"
     basestats 75, 80, 70, 90, 65, 75
     types TYPE_POISON, TYPE_FLYING
     catchrate 90
@@ -917,7 +917,7 @@ mondata SPECIES_GOLBAT, "Golbat"
     mondexweight SPECIES_GOLBAT, "121.3 lbs."
 
 
-mondata SPECIES_ODDISH, "Oddish"
+mondata SPECIES_ODDISH, "ナゾノクサ"
     basestats 45, 50, 55, 30, 75, 65
     types TYPE_GRASS, TYPE_POISON
     catchrate 255
@@ -938,7 +938,7 @@ mondata SPECIES_ODDISH, "Oddish"
     mondexweight SPECIES_ODDISH, "11.9 lbs."
 
 
-mondata SPECIES_GLOOM, "Gloom"
+mondata SPECIES_GLOOM, "クサイハナ"
     basestats 60, 65, 70, 40, 85, 75
     types TYPE_GRASS, TYPE_POISON
     catchrate 120
@@ -959,7 +959,7 @@ mondata SPECIES_GLOOM, "Gloom"
     mondexweight SPECIES_GLOOM, "19.0 lbs."
 
 
-mondata SPECIES_VILEPLUME, "Vileplume"
+mondata SPECIES_VILEPLUME, "ラフレシア"
     basestats 75, 80, 85, 50, 110, 90
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -980,7 +980,7 @@ mondata SPECIES_VILEPLUME, "Vileplume"
     mondexweight SPECIES_VILEPLUME, "41.0 lbs."
 
 
-mondata SPECIES_PARAS, "Paras"
+mondata SPECIES_PARAS, "パラス"
     basestats 35, 70, 55, 25, 45, 55
     types TYPE_BUG, TYPE_GRASS
     catchrate 190
@@ -1001,7 +1001,7 @@ mondata SPECIES_PARAS, "Paras"
     mondexweight SPECIES_PARAS, "11.9 lbs."
 
 
-mondata SPECIES_PARASECT, "Parasect"
+mondata SPECIES_PARASECT, "パラセクト"
     basestats 90, 95, 80, 30, 60, 80
     types TYPE_BUG, TYPE_GRASS
     catchrate 75
@@ -1022,7 +1022,7 @@ mondata SPECIES_PARASECT, "Parasect"
     mondexweight SPECIES_PARASECT, "65.0 lbs."
 
 
-mondata SPECIES_VENONAT, "Venonat"
+mondata SPECIES_VENONAT, "コンパン"
     basestats 60, 55, 50, 45, 40, 55
     types TYPE_BUG, TYPE_POISON
     catchrate 190
@@ -1043,7 +1043,7 @@ mondata SPECIES_VENONAT, "Venonat"
     mondexweight SPECIES_VENONAT, "66.1 lbs."
 
 
-mondata SPECIES_VENOMOTH, "Venomoth"
+mondata SPECIES_VENOMOTH, "モルフォン"
     basestats 70, 65, 60, 90, 90, 90
     types TYPE_BUG, TYPE_POISON
     catchrate 75
@@ -1064,7 +1064,7 @@ mondata SPECIES_VENOMOTH, "Venomoth"
     mondexweight SPECIES_VENOMOTH, "27.6 lbs."
 
 
-mondata SPECIES_DIGLETT, "Diglett"
+mondata SPECIES_DIGLETT, "ディグダ"
     basestats 10, 55, 25, 95, 35, 45
     types TYPE_GROUND, TYPE_GROUND
     catchrate 255
@@ -1085,7 +1085,7 @@ mondata SPECIES_DIGLETT, "Diglett"
     mondexweight SPECIES_DIGLETT, "1.8 lbs."
 
 
-mondata SPECIES_DUGTRIO, "Dugtrio"
+mondata SPECIES_DUGTRIO, "ダグトリオ"
     basestats 35, 80, 50, 120, 50, 70
     types TYPE_GROUND, TYPE_GROUND
     catchrate 50
@@ -1106,7 +1106,7 @@ mondata SPECIES_DUGTRIO, "Dugtrio"
     mondexweight SPECIES_DUGTRIO, "73.4 lbs."
 
 
-mondata SPECIES_MEOWTH, "Meowth"
+mondata SPECIES_MEOWTH, "ニャ－ス"
     basestats 40, 45, 35, 90, 40, 40
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -1127,7 +1127,7 @@ mondata SPECIES_MEOWTH, "Meowth"
     mondexweight SPECIES_MEOWTH, "9.3 lbs."
 
 
-mondata SPECIES_PERSIAN, "Persian"
+mondata SPECIES_PERSIAN, "ペルシアン"
     basestats 65, 90, 60, 115, 65, 65
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 90
@@ -1148,7 +1148,7 @@ mondata SPECIES_PERSIAN, "Persian"
     mondexweight SPECIES_PERSIAN, "70.5 lbs."
 
 
-mondata SPECIES_PSYDUCK, "Psyduck"
+mondata SPECIES_PSYDUCK, "コダック"
     basestats 50, 52, 48, 55, 65, 50
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -1169,7 +1169,7 @@ mondata SPECIES_PSYDUCK, "Psyduck"
     mondexweight SPECIES_PSYDUCK, "43.2 lbs."
 
 
-mondata SPECIES_GOLDUCK, "Golduck"
+mondata SPECIES_GOLDUCK, "ゴルダック"
     basestats 80, 82, 78, 85, 95, 80
     types TYPE_WATER, TYPE_WATER
     catchrate 75
@@ -1190,7 +1190,7 @@ mondata SPECIES_GOLDUCK, "Golduck"
     mondexweight SPECIES_GOLDUCK, "168.9 lbs."
 
 
-mondata SPECIES_MANKEY, "Mankey"
+mondata SPECIES_MANKEY, "マンキ－"
     basestats 40, 80, 35, 70, 35, 45
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 190
@@ -1211,7 +1211,7 @@ mondata SPECIES_MANKEY, "Mankey"
     mondexweight SPECIES_MANKEY, "61.7 lbs."
 
 
-mondata SPECIES_PRIMEAPE, "Primeape"
+mondata SPECIES_PRIMEAPE, "オコリザル"
     basestats 65, 105, 60, 95, 60, 70
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 75
@@ -1232,7 +1232,7 @@ mondata SPECIES_PRIMEAPE, "Primeape"
     mondexweight SPECIES_PRIMEAPE, "70.5 lbs."
 
 
-mondata SPECIES_GROWLITHE, "Growlithe"
+mondata SPECIES_GROWLITHE, "ガ－ディ"
     basestats 55, 70, 45, 60, 70, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 190
@@ -1253,7 +1253,7 @@ mondata SPECIES_GROWLITHE, "Growlithe"
     mondexweight SPECIES_GROWLITHE, "41.9 lbs."
 
 
-mondata SPECIES_ARCANINE, "Arcanine"
+mondata SPECIES_ARCANINE, "ウインディ"
     basestats 90, 110, 80, 95, 100, 80
     types TYPE_FIRE, TYPE_FIRE
     catchrate 75
@@ -1274,7 +1274,7 @@ mondata SPECIES_ARCANINE, "Arcanine"
     mondexweight SPECIES_ARCANINE, "341.7 lbs."
 
 
-mondata SPECIES_POLIWAG, "Poliwag"
+mondata SPECIES_POLIWAG, "ニョロモ"
     basestats 40, 50, 40, 90, 40, 40
     types TYPE_WATER, TYPE_WATER
     catchrate 255
@@ -1295,7 +1295,7 @@ mondata SPECIES_POLIWAG, "Poliwag"
     mondexweight SPECIES_POLIWAG, "27.3 lbs."
 
 
-mondata SPECIES_POLIWHIRL, "Poliwhirl"
+mondata SPECIES_POLIWHIRL, "ニョロゾ"
     basestats 65, 65, 65, 90, 50, 50
     types TYPE_WATER, TYPE_WATER
     catchrate 120
@@ -1316,7 +1316,7 @@ mondata SPECIES_POLIWHIRL, "Poliwhirl"
     mondexweight SPECIES_POLIWHIRL, "44.1 lbs."
 
 
-mondata SPECIES_POLIWRATH, "Poliwrath"
+mondata SPECIES_POLIWRATH, "ニョロボン"
     basestats 90, 95, 95, 70, 70, 90
     types TYPE_WATER, TYPE_FIGHTING
     catchrate 45
@@ -1337,7 +1337,7 @@ mondata SPECIES_POLIWRATH, "Poliwrath"
     mondexweight SPECIES_POLIWRATH, "119.0 lbs."
 
 
-mondata SPECIES_ABRA, "Abra"
+mondata SPECIES_ABRA, "ケ－シィ"
     basestats 25, 20, 15, 90, 105, 55
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 200
@@ -1358,7 +1358,7 @@ mondata SPECIES_ABRA, "Abra"
     mondexweight SPECIES_ABRA, "43.0 lbs."
 
 
-mondata SPECIES_KADABRA, "Kadabra"
+mondata SPECIES_KADABRA, "ユンゲラ－"
     basestats 40, 35, 30, 105, 120, 70
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 100
@@ -1379,7 +1379,7 @@ mondata SPECIES_KADABRA, "Kadabra"
     mondexweight SPECIES_KADABRA, "124.6 lbs."
 
 
-mondata SPECIES_ALAKAZAM, "Alakazam"
+mondata SPECIES_ALAKAZAM, "フ－ディン"
     basestats 55, 50, 45, 120, 135, 95
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 50
@@ -1400,7 +1400,7 @@ mondata SPECIES_ALAKAZAM, "Alakazam"
     mondexweight SPECIES_ALAKAZAM, "105.8 lbs."
 
 
-mondata SPECIES_MACHOP, "Machop"
+mondata SPECIES_MACHOP, "ワンリキ－"
     basestats 70, 80, 50, 35, 35, 35
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 180
@@ -1421,7 +1421,7 @@ mondata SPECIES_MACHOP, "Machop"
     mondexweight SPECIES_MACHOP, "43.0 lbs."
 
 
-mondata SPECIES_MACHOKE, "Machoke"
+mondata SPECIES_MACHOKE, "ゴ－リキ－"
     basestats 80, 100, 70, 45, 50, 60
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 90
@@ -1442,7 +1442,7 @@ mondata SPECIES_MACHOKE, "Machoke"
     mondexweight SPECIES_MACHOKE, "155.4 lbs."
 
 
-mondata SPECIES_MACHAMP, "Machamp"
+mondata SPECIES_MACHAMP, "カイリキ－"
     basestats 90, 130, 80, 55, 65, 85
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 45
@@ -1463,7 +1463,7 @@ mondata SPECIES_MACHAMP, "Machamp"
     mondexweight SPECIES_MACHAMP, "286.6 lbs."
 
 
-mondata SPECIES_BELLSPROUT, "Bellsprout"
+mondata SPECIES_BELLSPROUT, "マダツボミ"
     basestats 50, 75, 35, 40, 70, 30
     types TYPE_GRASS, TYPE_POISON
     catchrate 255
@@ -1484,7 +1484,7 @@ mondata SPECIES_BELLSPROUT, "Bellsprout"
     mondexweight SPECIES_BELLSPROUT, "8.8 lbs."
 
 
-mondata SPECIES_WEEPINBELL, "Weepinbell"
+mondata SPECIES_WEEPINBELL, "ウツドン"
     basestats 65, 90, 50, 55, 85, 45
     types TYPE_GRASS, TYPE_POISON
     catchrate 120
@@ -1505,7 +1505,7 @@ mondata SPECIES_WEEPINBELL, "Weepinbell"
     mondexweight SPECIES_WEEPINBELL, "14.1 lbs."
 
 
-mondata SPECIES_VICTREEBEL, "Victreebel"
+mondata SPECIES_VICTREEBEL, "ウツボット"
     basestats 80, 105, 65, 70, 100, 70
     types TYPE_GRASS, TYPE_POISON
     catchrate 45
@@ -1526,7 +1526,7 @@ mondata SPECIES_VICTREEBEL, "Victreebel"
     mondexweight SPECIES_VICTREEBEL, "34.2 lbs."
 
 
-mondata SPECIES_TENTACOOL, "Tentacool"
+mondata SPECIES_TENTACOOL, "メノクラゲ"
     basestats 40, 40, 35, 70, 50, 100
     types TYPE_WATER, TYPE_POISON
     catchrate 190
@@ -1547,7 +1547,7 @@ mondata SPECIES_TENTACOOL, "Tentacool"
     mondexweight SPECIES_TENTACOOL, "100.3 lbs."
 
 
-mondata SPECIES_TENTACRUEL, "Tentacruel"
+mondata SPECIES_TENTACRUEL, "ドククラゲ"
     basestats 80, 70, 65, 100, 80, 120
     types TYPE_WATER, TYPE_POISON
     catchrate 60
@@ -1568,7 +1568,7 @@ mondata SPECIES_TENTACRUEL, "Tentacruel"
     mondexweight SPECIES_TENTACRUEL, "121.3 lbs."
 
 
-mondata SPECIES_GEODUDE, "Geodude"
+mondata SPECIES_GEODUDE, "イシツブテ"
     basestats 40, 80, 100, 20, 30, 30
     types TYPE_ROCK, TYPE_GROUND
     catchrate 255
@@ -1589,7 +1589,7 @@ mondata SPECIES_GEODUDE, "Geodude"
     mondexweight SPECIES_GEODUDE, "44.1 lbs."
 
 
-mondata SPECIES_GRAVELER, "Graveler"
+mondata SPECIES_GRAVELER, "ゴロ－ン"
     basestats 55, 95, 115, 35, 45, 45
     types TYPE_ROCK, TYPE_GROUND
     catchrate 120
@@ -1610,7 +1610,7 @@ mondata SPECIES_GRAVELER, "Graveler"
     mondexweight SPECIES_GRAVELER, "231.5 lbs."
 
 
-mondata SPECIES_GOLEM, "Golem"
+mondata SPECIES_GOLEM, "ゴロ－ニャ"
     basestats 80, 120, 130, 45, 55, 65
     types TYPE_ROCK, TYPE_GROUND
     catchrate 45
@@ -1631,7 +1631,7 @@ mondata SPECIES_GOLEM, "Golem"
     mondexweight SPECIES_GOLEM, "661.4 lbs."
 
 
-mondata SPECIES_PONYTA, "Ponyta"
+mondata SPECIES_PONYTA, "ポニ－タ"
     basestats 50, 85, 55, 90, 65, 65
     types TYPE_FIRE, TYPE_FIRE
     catchrate 190
@@ -1652,7 +1652,7 @@ mondata SPECIES_PONYTA, "Ponyta"
     mondexweight SPECIES_PONYTA, "66.1 lbs."
 
 
-mondata SPECIES_RAPIDASH, "Rapidash"
+mondata SPECIES_RAPIDASH, "ギャロップ"
     basestats 65, 100, 70, 105, 80, 80
     types TYPE_FIRE, TYPE_FIRE
     catchrate 60
@@ -1673,7 +1673,7 @@ mondata SPECIES_RAPIDASH, "Rapidash"
     mondexweight SPECIES_RAPIDASH, "209.4 lbs."
 
 
-mondata SPECIES_SLOWPOKE, "Slowpoke"
+mondata SPECIES_SLOWPOKE, "ヤドン"
     basestats 90, 65, 65, 15, 40, 40
     types TYPE_WATER, TYPE_PSYCHIC
     catchrate 190
@@ -1694,7 +1694,7 @@ mondata SPECIES_SLOWPOKE, "Slowpoke"
     mondexweight SPECIES_SLOWPOKE, "79.4 lbs."
 
 
-mondata SPECIES_SLOWBRO, "Slowbro"
+mondata SPECIES_SLOWBRO, "ヤドラン"
     basestats 95, 75, 110, 30, 100, 80
     types TYPE_WATER, TYPE_PSYCHIC
     catchrate 75
@@ -1715,7 +1715,7 @@ mondata SPECIES_SLOWBRO, "Slowbro"
     mondexweight SPECIES_SLOWBRO, "173.1 lbs."
 
 
-mondata SPECIES_MAGNEMITE, "Magnemite"
+mondata SPECIES_MAGNEMITE, "コイル"
     basestats 25, 35, 70, 45, 95, 55
     types TYPE_ELECTRIC, TYPE_STEEL
     catchrate 190
@@ -1736,7 +1736,7 @@ mondata SPECIES_MAGNEMITE, "Magnemite"
     mondexweight SPECIES_MAGNEMITE, "13.2 lbs."
 
 
-mondata SPECIES_MAGNETON, "Magneton"
+mondata SPECIES_MAGNETON, "レアコイル"
     basestats 50, 60, 95, 70, 120, 70
     types TYPE_ELECTRIC, TYPE_STEEL
     catchrate 60
@@ -1757,7 +1757,7 @@ mondata SPECIES_MAGNETON, "Magneton"
     mondexweight SPECIES_MAGNETON, "132.3 lbs."
 
 
-mondata SPECIES_FARFETCHD, "Farfetch’d"
+mondata SPECIES_FARFETCHD, "カモネギ"
     basestats 52, 90, 55, 60, 58, 62
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -1778,7 +1778,7 @@ mondata SPECIES_FARFETCHD, "Farfetch’d"
     mondexweight SPECIES_FARFETCHD, "33.1 lbs."
 
 
-mondata SPECIES_DODUO, "Doduo"
+mondata SPECIES_DODUO, "ド－ド－"
     basestats 35, 85, 45, 75, 35, 35
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 190
@@ -1799,7 +1799,7 @@ mondata SPECIES_DODUO, "Doduo"
     mondexweight SPECIES_DODUO, "86.4 lbs."
 
 
-mondata SPECIES_DODRIO, "Dodrio"
+mondata SPECIES_DODRIO, "ド－ドリオ"
     basestats 60, 110, 70, 100, 60, 60
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -1820,7 +1820,7 @@ mondata SPECIES_DODRIO, "Dodrio"
     mondexweight SPECIES_DODRIO, "187.8 lbs."
 
 
-mondata SPECIES_SEEL, "Seel"
+mondata SPECIES_SEEL, "パウワウ"
     basestats 65, 45, 55, 45, 45, 70
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -1841,7 +1841,7 @@ mondata SPECIES_SEEL, "Seel"
     mondexweight SPECIES_SEEL, "198.4 lbs."
 
 
-mondata SPECIES_DEWGONG, "Dewgong"
+mondata SPECIES_DEWGONG, "ジュゴン"
     basestats 90, 70, 80, 70, 95, 95
     types TYPE_WATER, TYPE_ICE
     catchrate 75
@@ -1862,7 +1862,7 @@ mondata SPECIES_DEWGONG, "Dewgong"
     mondexweight SPECIES_DEWGONG, "264.6 lbs."
 
 
-mondata SPECIES_GRIMER, "Grimer"
+mondata SPECIES_GRIMER, "ベトベタ－"
     basestats 80, 80, 50, 25, 40, 50
     types TYPE_POISON, TYPE_POISON
     catchrate 190
@@ -1883,7 +1883,7 @@ mondata SPECIES_GRIMER, "Grimer"
     mondexweight SPECIES_GRIMER, "66.1 lbs."
 
 
-mondata SPECIES_MUK, "Muk"
+mondata SPECIES_MUK, "ベトベトン"
     basestats 105, 105, 75, 50, 65, 100
     types TYPE_POISON, TYPE_POISON
     catchrate 75
@@ -1904,7 +1904,7 @@ mondata SPECIES_MUK, "Muk"
     mondexweight SPECIES_MUK, "66.1 lbs."
 
 
-mondata SPECIES_SHELLDER, "Shellder"
+mondata SPECIES_SHELLDER, "シェルダ－"
     basestats 30, 65, 100, 40, 45, 25
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -1925,7 +1925,7 @@ mondata SPECIES_SHELLDER, "Shellder"
     mondexweight SPECIES_SHELLDER, "8.8 lbs."
 
 
-mondata SPECIES_CLOYSTER, "Cloyster"
+mondata SPECIES_CLOYSTER, "パルシェン"
     basestats 50, 95, 180, 70, 85, 45
     types TYPE_WATER, TYPE_ICE
     catchrate 60
@@ -1946,7 +1946,7 @@ mondata SPECIES_CLOYSTER, "Cloyster"
     mondexweight SPECIES_CLOYSTER, "292.1 lbs."
 
 
-mondata SPECIES_GASTLY, "Gastly"
+mondata SPECIES_GASTLY, "ゴ－ス"
     basestats 30, 35, 30, 80, 100, 35
     types TYPE_GHOST, TYPE_POISON
     catchrate 190
@@ -1967,7 +1967,7 @@ mondata SPECIES_GASTLY, "Gastly"
     mondexweight SPECIES_GASTLY, "0.2 lbs."
 
 
-mondata SPECIES_HAUNTER, "Haunter"
+mondata SPECIES_HAUNTER, "ゴ－スト"
     basestats 45, 50, 45, 95, 115, 55
     types TYPE_GHOST, TYPE_POISON
     catchrate 90
@@ -1988,7 +1988,7 @@ mondata SPECIES_HAUNTER, "Haunter"
     mondexweight SPECIES_HAUNTER, "0.2 lbs."
 
 
-mondata SPECIES_GENGAR, "Gengar"
+mondata SPECIES_GENGAR, "ゲンガ－"
     basestats 60, 65, 60, 110, 130, 75
     types TYPE_GHOST, TYPE_POISON
     catchrate 45
@@ -2009,7 +2009,7 @@ mondata SPECIES_GENGAR, "Gengar"
     mondexweight SPECIES_GENGAR, "89.3 lbs."
 
 
-mondata SPECIES_ONIX, "Onix"
+mondata SPECIES_ONIX, "イワ－ク"
     basestats 35, 45, 160, 70, 30, 45
     types TYPE_ROCK, TYPE_GROUND
     catchrate 45
@@ -2030,7 +2030,7 @@ mondata SPECIES_ONIX, "Onix"
     mondexweight SPECIES_ONIX, "463.0 lbs."
 
 
-mondata SPECIES_DROWZEE, "Drowzee"
+mondata SPECIES_DROWZEE, "スリ－プ"
     basestats 60, 48, 45, 42, 43, 90
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 190
@@ -2051,7 +2051,7 @@ mondata SPECIES_DROWZEE, "Drowzee"
     mondexweight SPECIES_DROWZEE, "71.4 lbs."
 
 
-mondata SPECIES_HYPNO, "Hypno"
+mondata SPECIES_HYPNO, "スリ－パ－"
     basestats 85, 73, 70, 67, 90, 115
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 75
@@ -2072,7 +2072,7 @@ mondata SPECIES_HYPNO, "Hypno"
     mondexweight SPECIES_HYPNO, "166.7 lbs."
 
 
-mondata SPECIES_KRABBY, "Krabby"
+mondata SPECIES_KRABBY, "クラブ"
     basestats 30, 105, 90, 50, 25, 25
     types TYPE_WATER, TYPE_WATER
     catchrate 225
@@ -2093,7 +2093,7 @@ mondata SPECIES_KRABBY, "Krabby"
     mondexweight SPECIES_KRABBY, "14.3 lbs."
 
 
-mondata SPECIES_KINGLER, "Kingler"
+mondata SPECIES_KINGLER, "キングラ－"
     basestats 55, 130, 115, 75, 50, 50
     types TYPE_WATER, TYPE_WATER
     catchrate 60
@@ -2114,7 +2114,7 @@ mondata SPECIES_KINGLER, "Kingler"
     mondexweight SPECIES_KINGLER, "132.3 lbs."
 
 
-mondata SPECIES_VOLTORB, "Voltorb"
+mondata SPECIES_VOLTORB, "ビリリダマ"
     basestats 40, 30, 50, 100, 55, 55
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 190
@@ -2135,7 +2135,7 @@ mondata SPECIES_VOLTORB, "Voltorb"
     mondexweight SPECIES_VOLTORB, "22.9 lbs."
 
 
-mondata SPECIES_ELECTRODE, "Electrode"
+mondata SPECIES_ELECTRODE, "マルマイン"
     basestats 60, 50, 70, 140, 80, 80
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 60
@@ -2156,7 +2156,7 @@ mondata SPECIES_ELECTRODE, "Electrode"
     mondexweight SPECIES_ELECTRODE, "146.8 lbs."
 
 
-mondata SPECIES_EXEGGCUTE, "Exeggcute"
+mondata SPECIES_EXEGGCUTE, "タマタマ"
     basestats 60, 40, 80, 40, 60, 45
     types TYPE_GRASS, TYPE_PSYCHIC
     catchrate 90
@@ -2177,7 +2177,7 @@ mondata SPECIES_EXEGGCUTE, "Exeggcute"
     mondexweight SPECIES_EXEGGCUTE, "5.5 lbs."
 
 
-mondata SPECIES_EXEGGUTOR, "Exeggutor"
+mondata SPECIES_EXEGGUTOR, "ナッシ－"
     basestats 95, 95, 85, 55, 125, 75
     types TYPE_GRASS, TYPE_PSYCHIC
     catchrate 45
@@ -2198,7 +2198,7 @@ mondata SPECIES_EXEGGUTOR, "Exeggutor"
     mondexweight SPECIES_EXEGGUTOR, "264.6 lbs."
 
 
-mondata SPECIES_CUBONE, "Cubone"
+mondata SPECIES_CUBONE, "カラカラ"
     basestats 50, 50, 95, 35, 40, 50
     types TYPE_GROUND, TYPE_GROUND
     catchrate 190
@@ -2219,7 +2219,7 @@ mondata SPECIES_CUBONE, "Cubone"
     mondexweight SPECIES_CUBONE, "14.3 lbs."
 
 
-mondata SPECIES_MAROWAK, "Marowak"
+mondata SPECIES_MAROWAK, "ガラガラ"
     basestats 60, 80, 110, 45, 50, 80
     types TYPE_GROUND, TYPE_GROUND
     catchrate 75
@@ -2240,7 +2240,7 @@ mondata SPECIES_MAROWAK, "Marowak"
     mondexweight SPECIES_MAROWAK, "99.2 lbs."
 
 
-mondata SPECIES_HITMONLEE, "Hitmonlee"
+mondata SPECIES_HITMONLEE, "サワムラ－"
     basestats 60, 120, 53, 87, 35, 110
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 45
@@ -2261,7 +2261,7 @@ mondata SPECIES_HITMONLEE, "Hitmonlee"
     mondexweight SPECIES_HITMONLEE, "109.8 lbs."
 
 
-mondata SPECIES_HITMONCHAN, "Hitmonchan"
+mondata SPECIES_HITMONCHAN, "エビワラ－"
     basestats 60, 105, 105, 76, 35, 79
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 45
@@ -2282,7 +2282,7 @@ mondata SPECIES_HITMONCHAN, "Hitmonchan"
     mondexweight SPECIES_HITMONCHAN, "110.7 lbs."
 
 
-mondata SPECIES_LICKITUNG, "Lickitung"
+mondata SPECIES_LICKITUNG, "ベロリンガ"
     basestats 90, 55, 75, 30, 60, 75
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -2303,7 +2303,7 @@ mondata SPECIES_LICKITUNG, "Lickitung"
     mondexweight SPECIES_LICKITUNG, "144.4 lbs."
 
 
-mondata SPECIES_KOFFING, "Koffing"
+mondata SPECIES_KOFFING, "ドガ－ス"
     basestats 40, 65, 95, 35, 60, 45
     types TYPE_POISON, TYPE_POISON
     catchrate 190
@@ -2324,7 +2324,7 @@ mondata SPECIES_KOFFING, "Koffing"
     mondexweight SPECIES_KOFFING, "2.2 lbs."
 
 
-mondata SPECIES_WEEZING, "Weezing"
+mondata SPECIES_WEEZING, "マタドガス"
     basestats 65, 90, 120, 60, 85, 70
     types TYPE_POISON, TYPE_POISON
     catchrate 60
@@ -2345,7 +2345,7 @@ mondata SPECIES_WEEZING, "Weezing"
     mondexweight SPECIES_WEEZING, "20.9 lbs."
 
 
-mondata SPECIES_RHYHORN, "Rhyhorn"
+mondata SPECIES_RHYHORN, "サイホ－ン"
     basestats 80, 85, 95, 25, 30, 30
     types TYPE_GROUND, TYPE_ROCK
     catchrate 120
@@ -2366,7 +2366,7 @@ mondata SPECIES_RHYHORN, "Rhyhorn"
     mondexweight SPECIES_RHYHORN, "253.5 lbs."
 
 
-mondata SPECIES_RHYDON, "Rhydon"
+mondata SPECIES_RHYDON, "サイドン"
     basestats 105, 130, 120, 40, 45, 45
     types TYPE_GROUND, TYPE_ROCK
     catchrate 60
@@ -2387,7 +2387,7 @@ mondata SPECIES_RHYDON, "Rhydon"
     mondexweight SPECIES_RHYDON, "264.6 lbs."
 
 
-mondata SPECIES_CHANSEY, "Chansey"
+mondata SPECIES_CHANSEY, "ラッキ－"
     basestats 250, 5, 5, 50, 35, 105
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 30
@@ -2408,7 +2408,7 @@ mondata SPECIES_CHANSEY, "Chansey"
     mondexweight SPECIES_CHANSEY, "76.3 lbs."
 
 
-mondata SPECIES_TANGELA, "Tangela"
+mondata SPECIES_TANGELA, "モンジャラ"
     basestats 65, 55, 115, 60, 100, 40
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -2429,7 +2429,7 @@ mondata SPECIES_TANGELA, "Tangela"
     mondexweight SPECIES_TANGELA, "77.2 lbs."
 
 
-mondata SPECIES_KANGASKHAN, "Kangaskhan"
+mondata SPECIES_KANGASKHAN, "ガル－ラ"
     basestats 105, 95, 80, 90, 40, 80
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -2450,7 +2450,7 @@ mondata SPECIES_KANGASKHAN, "Kangaskhan"
     mondexweight SPECIES_KANGASKHAN, "176.4 lbs."
 
 
-mondata SPECIES_HORSEA, "Horsea"
+mondata SPECIES_HORSEA, "タッツ－"
     basestats 30, 40, 70, 60, 70, 25
     types TYPE_WATER, TYPE_WATER
     catchrate 225
@@ -2471,7 +2471,7 @@ mondata SPECIES_HORSEA, "Horsea"
     mondexweight SPECIES_HORSEA, "17.6 lbs."
 
 
-mondata SPECIES_SEADRA, "Seadra"
+mondata SPECIES_SEADRA, "シ－ドラ"
     basestats 55, 65, 95, 85, 95, 45
     types TYPE_WATER, TYPE_WATER
     catchrate 75
@@ -2492,7 +2492,7 @@ mondata SPECIES_SEADRA, "Seadra"
     mondexweight SPECIES_SEADRA, "55.1 lbs."
 
 
-mondata SPECIES_GOLDEEN, "Goldeen"
+mondata SPECIES_GOLDEEN, "トサキント"
     basestats 45, 67, 60, 63, 35, 50
     types TYPE_WATER, TYPE_WATER
     catchrate 225
@@ -2513,7 +2513,7 @@ mondata SPECIES_GOLDEEN, "Goldeen"
     mondexweight SPECIES_GOLDEEN, "33.1 lbs."
 
 
-mondata SPECIES_SEAKING, "Seaking"
+mondata SPECIES_SEAKING, "アズマオウ"
     basestats 80, 92, 65, 68, 65, 80
     types TYPE_WATER, TYPE_WATER
     catchrate 60
@@ -2534,7 +2534,7 @@ mondata SPECIES_SEAKING, "Seaking"
     mondexweight SPECIES_SEAKING, "86.0 lbs."
 
 
-mondata SPECIES_STARYU, "Staryu"
+mondata SPECIES_STARYU, "ヒトデマン"
     basestats 30, 45, 55, 85, 70, 55
     types TYPE_WATER, TYPE_WATER
     catchrate 225
@@ -2555,7 +2555,7 @@ mondata SPECIES_STARYU, "Staryu"
     mondexweight SPECIES_STARYU, "76.1 lbs."
 
 
-mondata SPECIES_STARMIE, "Starmie"
+mondata SPECIES_STARMIE, "スタ－ミ－"
     basestats 60, 75, 85, 115, 100, 85
     types TYPE_WATER, TYPE_PSYCHIC
     catchrate 60
@@ -2576,7 +2576,7 @@ mondata SPECIES_STARMIE, "Starmie"
     mondexweight SPECIES_STARMIE, "176.4 lbs."
 
 
-mondata SPECIES_MR_MIME, "Mr. Mime"
+mondata SPECIES_MR_MIME, "バリヤ－ド"
     basestats 40, 45, 65, 90, 100, 120
     types TYPE_PSYCHIC, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_PSYCHIC
     catchrate 45
@@ -2597,7 +2597,7 @@ mondata SPECIES_MR_MIME, "Mr. Mime"
     mondexweight SPECIES_MR_MIME, "120.2 lbs."
 
 
-mondata SPECIES_SCYTHER, "Scyther"
+mondata SPECIES_SCYTHER, "ストライク"
     basestats 70, 110, 80, 105, 55, 80
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
@@ -2618,7 +2618,7 @@ mondata SPECIES_SCYTHER, "Scyther"
     mondexweight SPECIES_SCYTHER, "123.5 lbs."
 
 
-mondata SPECIES_JYNX, "Jynx"
+mondata SPECIES_JYNX, "ル－ジュラ"
     basestats 65, 50, 35, 95, 115, 95
     types TYPE_ICE, TYPE_PSYCHIC
     catchrate 45
@@ -2639,7 +2639,7 @@ mondata SPECIES_JYNX, "Jynx"
     mondexweight SPECIES_JYNX, "89.5 lbs."
 
 
-mondata SPECIES_ELECTABUZZ, "Electabuzz"
+mondata SPECIES_ELECTABUZZ, "エレブ－"
     basestats 65, 83, 57, 105, 95, 85
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
@@ -2660,7 +2660,7 @@ mondata SPECIES_ELECTABUZZ, "Electabuzz"
     mondexweight SPECIES_ELECTABUZZ, "66.1 lbs."
 
 
-mondata SPECIES_MAGMAR, "Magmar"
+mondata SPECIES_MAGMAR, "ブ－バ－"
     basestats 65, 95, 57, 93, 100, 85
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -2681,7 +2681,7 @@ mondata SPECIES_MAGMAR, "Magmar"
     mondexweight SPECIES_MAGMAR, "98.1 lbs."
 
 
-mondata SPECIES_PINSIR, "Pinsir"
+mondata SPECIES_PINSIR, "カイロス"
     basestats 65, 125, 100, 85, 55, 70
     types TYPE_BUG, TYPE_BUG
     catchrate 45
@@ -2702,7 +2702,7 @@ mondata SPECIES_PINSIR, "Pinsir"
     mondexweight SPECIES_PINSIR, "121.3 lbs."
 
 
-mondata SPECIES_TAUROS, "Tauros"
+mondata SPECIES_TAUROS, "ケンタロス"
     basestats 75, 100, 95, 110, 40, 70
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -2723,7 +2723,7 @@ mondata SPECIES_TAUROS, "Tauros"
     mondexweight SPECIES_TAUROS, "194.9 lbs."
 
 
-mondata SPECIES_MAGIKARP, "Magikarp"
+mondata SPECIES_MAGIKARP, "コイキング"
     basestats 20, 10, 55, 80, 15, 20
     types TYPE_WATER, TYPE_WATER
     catchrate 255
@@ -2744,7 +2744,7 @@ mondata SPECIES_MAGIKARP, "Magikarp"
     mondexweight SPECIES_MAGIKARP, "22.0 lbs."
 
 
-mondata SPECIES_GYARADOS, "Gyarados"
+mondata SPECIES_GYARADOS, "ギャラドス"
     basestats 95, 125, 79, 81, 60, 100
     types TYPE_WATER, TYPE_FLYING
     catchrate 45
@@ -2765,7 +2765,7 @@ mondata SPECIES_GYARADOS, "Gyarados"
     mondexweight SPECIES_GYARADOS, "518.1 lbs."
 
 
-mondata SPECIES_LAPRAS, "Lapras"
+mondata SPECIES_LAPRAS, "ラプラス"
     basestats 130, 85, 80, 60, 85, 95
     types TYPE_WATER, TYPE_ICE
     catchrate 45
@@ -2786,7 +2786,7 @@ mondata SPECIES_LAPRAS, "Lapras"
     mondexweight SPECIES_LAPRAS, "485.0 lbs."
 
 
-mondata SPECIES_DITTO, "Ditto"
+mondata SPECIES_DITTO, "メタモン"
     basestats 48, 48, 48, 48, 48, 48
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 35
@@ -2807,7 +2807,7 @@ mondata SPECIES_DITTO, "Ditto"
     mondexweight SPECIES_DITTO, "8.8 lbs."
 
 
-mondata SPECIES_EEVEE, "Eevee"
+mondata SPECIES_EEVEE, "イ－ブイ"
     basestats 55, 55, 50, 55, 45, 65
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -2828,7 +2828,7 @@ mondata SPECIES_EEVEE, "Eevee"
     mondexweight SPECIES_EEVEE, "14.3 lbs."
 
 
-mondata SPECIES_VAPOREON, "Vaporeon"
+mondata SPECIES_VAPOREON, "シャワ－ズ"
     basestats 130, 65, 60, 65, 110, 95
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -2849,7 +2849,7 @@ mondata SPECIES_VAPOREON, "Vaporeon"
     mondexweight SPECIES_VAPOREON, "63.9 lbs."
 
 
-mondata SPECIES_JOLTEON, "Jolteon"
+mondata SPECIES_JOLTEON, "サンダ－ス"
     basestats 65, 65, 60, 130, 110, 95
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
@@ -2870,7 +2870,7 @@ mondata SPECIES_JOLTEON, "Jolteon"
     mondexweight SPECIES_JOLTEON, "54.0 lbs."
 
 
-mondata SPECIES_FLAREON, "Flareon"
+mondata SPECIES_FLAREON, "ブ－スタ－"
     basestats 65, 130, 60, 65, 95, 110
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -2891,7 +2891,7 @@ mondata SPECIES_FLAREON, "Flareon"
     mondexweight SPECIES_FLAREON, "55.1 lbs."
 
 
-mondata SPECIES_PORYGON, "Porygon"
+mondata SPECIES_PORYGON, "ポリゴン"
     basestats 65, 60, 70, 40, 85, 75
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -2912,7 +2912,7 @@ mondata SPECIES_PORYGON, "Porygon"
     mondexweight SPECIES_PORYGON, "80.5 lbs."
 
 
-mondata SPECIES_OMANYTE, "Omanyte"
+mondata SPECIES_OMANYTE, "オムナイト"
     basestats 35, 40, 100, 35, 90, 55
     types TYPE_ROCK, TYPE_WATER
     catchrate 45
@@ -2933,7 +2933,7 @@ mondata SPECIES_OMANYTE, "Omanyte"
     mondexweight SPECIES_OMANYTE, "16.5 lbs."
 
 
-mondata SPECIES_OMASTAR, "Omastar"
+mondata SPECIES_OMASTAR, "オムスタ－"
     basestats 70, 60, 125, 55, 115, 70
     types TYPE_ROCK, TYPE_WATER
     catchrate 45
@@ -2954,7 +2954,7 @@ mondata SPECIES_OMASTAR, "Omastar"
     mondexweight SPECIES_OMASTAR, "77.2 lbs."
 
 
-mondata SPECIES_KABUTO, "Kabuto"
+mondata SPECIES_KABUTO, "カブト"
     basestats 30, 80, 90, 55, 55, 45
     types TYPE_ROCK, TYPE_WATER
     catchrate 45
@@ -2975,7 +2975,7 @@ mondata SPECIES_KABUTO, "Kabuto"
     mondexweight SPECIES_KABUTO, "25.4 lbs."
 
 
-mondata SPECIES_KABUTOPS, "Kabutops"
+mondata SPECIES_KABUTOPS, "カブトプス"
     basestats 60, 115, 105, 80, 65, 70
     types TYPE_ROCK, TYPE_WATER
     catchrate 45
@@ -2996,7 +2996,7 @@ mondata SPECIES_KABUTOPS, "Kabutops"
     mondexweight SPECIES_KABUTOPS, "89.3 lbs."
 
 
-mondata SPECIES_AERODACTYL, "Aerodactyl"
+mondata SPECIES_AERODACTYL, "プテラ"
     basestats 80, 105, 65, 130, 60, 75
     types TYPE_ROCK, TYPE_FLYING
     catchrate 45
@@ -3017,7 +3017,7 @@ mondata SPECIES_AERODACTYL, "Aerodactyl"
     mondexweight SPECIES_AERODACTYL, "130.1 lbs."
 
 
-mondata SPECIES_SNORLAX, "Snorlax"
+mondata SPECIES_SNORLAX, "カビゴン"
     basestats 160, 110, 65, 30, 65, 110
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 25
@@ -3038,7 +3038,7 @@ mondata SPECIES_SNORLAX, "Snorlax"
     mondexweight SPECIES_SNORLAX, "1014.1 lbs."
 
 
-mondata SPECIES_ARTICUNO, "Articuno"
+mondata SPECIES_ARTICUNO, "フリ－ザ－"
     basestats 90, 85, 100, 85, 95, 125
     types TYPE_ICE, TYPE_FLYING
     catchrate 3
@@ -3059,7 +3059,7 @@ mondata SPECIES_ARTICUNO, "Articuno"
     mondexweight SPECIES_ARTICUNO, "122.1 lbs."
 
 
-mondata SPECIES_ZAPDOS, "Zapdos"
+mondata SPECIES_ZAPDOS, "サンダ－"
     basestats 90, 90, 85, 100, 125, 90
     types TYPE_ELECTRIC, TYPE_FLYING
     catchrate 3
@@ -3080,7 +3080,7 @@ mondata SPECIES_ZAPDOS, "Zapdos"
     mondexweight SPECIES_ZAPDOS, "116.0 lbs."
 
 
-mondata SPECIES_MOLTRES, "Moltres"
+mondata SPECIES_MOLTRES, "ファイヤ－"
     basestats 90, 100, 90, 90, 125, 85
     types TYPE_FIRE, TYPE_FLYING
     catchrate 3
@@ -3101,7 +3101,7 @@ mondata SPECIES_MOLTRES, "Moltres"
     mondexweight SPECIES_MOLTRES, "132.3 lbs."
 
 
-mondata SPECIES_DRATINI, "Dratini"
+mondata SPECIES_DRATINI, "ミニリュウ"
     basestats 41, 64, 45, 50, 50, 50
     types TYPE_DRAGON, TYPE_DRAGON
     catchrate 45
@@ -3122,7 +3122,7 @@ mondata SPECIES_DRATINI, "Dratini"
     mondexweight SPECIES_DRATINI, "7.3 lbs."
 
 
-mondata SPECIES_DRAGONAIR, "Dragonair"
+mondata SPECIES_DRAGONAIR, "ハクリュ－"
     basestats 61, 84, 65, 70, 70, 70
     types TYPE_DRAGON, TYPE_DRAGON
     catchrate 45
@@ -3143,7 +3143,7 @@ mondata SPECIES_DRAGONAIR, "Dragonair"
     mondexweight SPECIES_DRAGONAIR, "36.4 lbs."
 
 
-mondata SPECIES_DRAGONITE, "Dragonite"
+mondata SPECIES_DRAGONITE, "カイリュ－"
     basestats 91, 134, 95, 80, 100, 100
     types TYPE_DRAGON, TYPE_FLYING
     catchrate 45
@@ -3164,7 +3164,7 @@ mondata SPECIES_DRAGONITE, "Dragonite"
     mondexweight SPECIES_DRAGONITE, "463.0 lbs."
 
 
-mondata SPECIES_MEWTWO, "Mewtwo"
+mondata SPECIES_MEWTWO, "ミュウツ－"
     basestats 106, 110, 90, 130, 154, 90
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -3185,7 +3185,7 @@ mondata SPECIES_MEWTWO, "Mewtwo"
     mondexweight SPECIES_MEWTWO, "269.0 lbs."
 
 
-mondata SPECIES_MEW, "Mew"
+mondata SPECIES_MEW, "ミュウ"
     basestats 100, 100, 100, 100, 100, 100
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 45
@@ -3206,7 +3206,7 @@ mondata SPECIES_MEW, "Mew"
     mondexweight SPECIES_MEW, "8.8 lbs."
 
 
-mondata SPECIES_CHIKORITA, "Chikorita"
+mondata SPECIES_CHIKORITA, "チコリ－タ"
     basestats 45, 49, 65, 45, 49, 65
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -3227,7 +3227,7 @@ mondata SPECIES_CHIKORITA, "Chikorita"
     mondexweight SPECIES_CHIKORITA, "14.1 lbs."
 
 
-mondata SPECIES_BAYLEEF, "Bayleef"
+mondata SPECIES_BAYLEEF, "ベイリ－フ"
     basestats 60, 62, 80, 60, 63, 80
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -3248,7 +3248,7 @@ mondata SPECIES_BAYLEEF, "Bayleef"
     mondexweight SPECIES_BAYLEEF, "34.8 lbs."
 
 
-mondata SPECIES_MEGANIUM, "Meganium"
+mondata SPECIES_MEGANIUM, "メガニウム"
     basestats 80, 82, 100, 80, 83, 100
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -3269,7 +3269,7 @@ mondata SPECIES_MEGANIUM, "Meganium"
     mondexweight SPECIES_MEGANIUM, "221.6 lbs."
 
 
-mondata SPECIES_CYNDAQUIL, "Cyndaquil"
+mondata SPECIES_CYNDAQUIL, "ヒノアラシ"
     basestats 39, 52, 43, 65, 60, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -3290,7 +3290,7 @@ mondata SPECIES_CYNDAQUIL, "Cyndaquil"
     mondexweight SPECIES_CYNDAQUIL, "17.4 lbs."
 
 
-mondata SPECIES_QUILAVA, "Quilava"
+mondata SPECIES_QUILAVA, "マグマラシ"
     basestats 58, 64, 58, 80, 80, 65
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -3311,7 +3311,7 @@ mondata SPECIES_QUILAVA, "Quilava"
     mondexweight SPECIES_QUILAVA, "41.9 lbs."
 
 
-mondata SPECIES_TYPHLOSION, "Typhlosion"
+mondata SPECIES_TYPHLOSION, "バクフ－ン"
     basestats 78, 84, 78, 100, 109, 85
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -3332,7 +3332,7 @@ mondata SPECIES_TYPHLOSION, "Typhlosion"
     mondexweight SPECIES_TYPHLOSION, "175.3 lbs."
 
 
-mondata SPECIES_TOTODILE, "Totodile"
+mondata SPECIES_TOTODILE, "ワニノコ"
     basestats 50, 65, 64, 43, 44, 48
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -3353,7 +3353,7 @@ mondata SPECIES_TOTODILE, "Totodile"
     mondexweight SPECIES_TOTODILE, "20.9 lbs."
 
 
-mondata SPECIES_CROCONAW, "Croconaw"
+mondata SPECIES_CROCONAW, "アリゲイツ"
     basestats 65, 80, 80, 58, 59, 63
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -3374,7 +3374,7 @@ mondata SPECIES_CROCONAW, "Croconaw"
     mondexweight SPECIES_CROCONAW, "55.1 lbs."
 
 
-mondata SPECIES_FERALIGATR, "Feraligatr"
+mondata SPECIES_FERALIGATR, "オ－ダイル"
     basestats 85, 105, 100, 78, 79, 83
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -3395,7 +3395,7 @@ mondata SPECIES_FERALIGATR, "Feraligatr"
     mondexweight SPECIES_FERALIGATR, "195.8 lbs."
 
 
-mondata SPECIES_SENTRET, "Sentret"
+mondata SPECIES_SENTRET, "オタチ"
     basestats 35, 46, 34, 20, 35, 45
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -3416,7 +3416,7 @@ mondata SPECIES_SENTRET, "Sentret"
     mondexweight SPECIES_SENTRET, "13.2 lbs."
 
 
-mondata SPECIES_FURRET, "Furret"
+mondata SPECIES_FURRET, "オオタチ"
     basestats 85, 76, 64, 90, 45, 55
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 90
@@ -3437,7 +3437,7 @@ mondata SPECIES_FURRET, "Furret"
     mondexweight SPECIES_FURRET, "71.7 lbs."
 
 
-mondata SPECIES_HOOTHOOT, "Hoothoot"
+mondata SPECIES_HOOTHOOT, "ホ－ホ－"
     basestats 60, 30, 30, 50, 36, 56
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 255
@@ -3458,7 +3458,7 @@ mondata SPECIES_HOOTHOOT, "Hoothoot"
     mondexweight SPECIES_HOOTHOOT, "46.7 lbs."
 
 
-mondata SPECIES_NOCTOWL, "Noctowl"
+mondata SPECIES_NOCTOWL, "ヨルノズク"
     basestats 100, 50, 50, 70, 86, 96
     types TYPE_DARK, TYPE_FLYING
     catchrate 90
@@ -3479,7 +3479,7 @@ mondata SPECIES_NOCTOWL, "Noctowl"
     mondexweight SPECIES_NOCTOWL, "89.9 lbs."
 
 
-mondata SPECIES_LEDYBA, "Ledyba"
+mondata SPECIES_LEDYBA, "レディバ"
     basestats 40, 20, 30, 55, 40, 80
     types TYPE_BUG, TYPE_FLYING
     catchrate 255
@@ -3500,7 +3500,7 @@ mondata SPECIES_LEDYBA, "Ledyba"
     mondexweight SPECIES_LEDYBA, "23.8 lbs."
 
 
-mondata SPECIES_LEDIAN, "Ledian"
+mondata SPECIES_LEDIAN, "レディアン"
     basestats 60, 95, 50, 85, 35, 110
     types TYPE_BUG, TYPE_FLYING
     catchrate 90
@@ -3521,7 +3521,7 @@ mondata SPECIES_LEDIAN, "Ledian"
     mondexweight SPECIES_LEDIAN, "78.5 lbs."
 
 
-mondata SPECIES_SPINARAK, "Spinarak"
+mondata SPECIES_SPINARAK, "イトマル"
     basestats 40, 60, 40, 30, 40, 40
     types TYPE_BUG, TYPE_POISON
     catchrate 255
@@ -3542,7 +3542,7 @@ mondata SPECIES_SPINARAK, "Spinarak"
     mondexweight SPECIES_SPINARAK, "18.7 lbs."
 
 
-mondata SPECIES_ARIADOS, "Ariados"
+mondata SPECIES_ARIADOS, "アリアドス"
     basestats 70, 90, 70, 40, 60, 70
     types TYPE_BUG, TYPE_POISON
     catchrate 90
@@ -3563,7 +3563,7 @@ mondata SPECIES_ARIADOS, "Ariados"
     mondexweight SPECIES_ARIADOS, "73.9 lbs."
 
 
-mondata SPECIES_CROBAT, "Crobat"
+mondata SPECIES_CROBAT, "クロバット"
     basestats 85, 90, 80, 130, 70, 80
     types TYPE_POISON, TYPE_FLYING
     catchrate 90
@@ -3584,7 +3584,7 @@ mondata SPECIES_CROBAT, "Crobat"
     mondexweight SPECIES_CROBAT, "165.3 lbs."
 
 
-mondata SPECIES_CHINCHOU, "Chinchou"
+mondata SPECIES_CHINCHOU, "チョンチ－"
     basestats 75, 38, 38, 67, 56, 56
     types TYPE_WATER, TYPE_ELECTRIC
     catchrate 190
@@ -3605,7 +3605,7 @@ mondata SPECIES_CHINCHOU, "Chinchou"
     mondexweight SPECIES_CHINCHOU, "26.5 lbs."
 
 
-mondata SPECIES_LANTURN, "Lanturn"
+mondata SPECIES_LANTURN, "ランタ－ン"
     basestats 125, 58, 58, 67, 76, 76
     types TYPE_WATER, TYPE_ELECTRIC
     catchrate 75
@@ -3626,7 +3626,7 @@ mondata SPECIES_LANTURN, "Lanturn"
     mondexweight SPECIES_LANTURN, "49.6 lbs."
 
 
-mondata SPECIES_PICHU, "Pichu"
+mondata SPECIES_PICHU, "ピチュ－"
     basestats 20, 40, 15, 60, 35, 35
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 190
@@ -3647,7 +3647,7 @@ mondata SPECIES_PICHU, "Pichu"
     mondexweight SPECIES_PICHU, "4.4 lbs."
 
 
-mondata SPECIES_CLEFFA, "Cleffa"
+mondata SPECIES_CLEFFA, "ピィ"
     basestats 50, 25, 28, 15, 45, 55
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 150
@@ -3668,7 +3668,7 @@ mondata SPECIES_CLEFFA, "Cleffa"
     mondexweight SPECIES_CLEFFA, "6.6 lbs."
 
 
-mondata SPECIES_IGGLYBUFF, "Igglybuff"
+mondata SPECIES_IGGLYBUFF, "ププリン"
     basestats 90, 30, 15, 15, 40, 20
     types TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 170
@@ -3689,7 +3689,7 @@ mondata SPECIES_IGGLYBUFF, "Igglybuff"
     mondexweight SPECIES_IGGLYBUFF, "2.2 lbs."
 
 
-mondata SPECIES_TOGEPI, "Togepi"
+mondata SPECIES_TOGEPI, "トゲピ－"
     basestats 35, 20, 65, 20, 40, 65
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 190
@@ -3710,7 +3710,7 @@ mondata SPECIES_TOGEPI, "Togepi"
     mondexweight SPECIES_TOGEPI, "3.3 lbs."
 
 
-mondata SPECIES_TOGETIC, "Togetic"
+mondata SPECIES_TOGETIC, "トゲチック"
     basestats 55, 40, 85, 40, 80, 105
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, TYPE_FLYING
     catchrate 75
@@ -3731,7 +3731,7 @@ mondata SPECIES_TOGETIC, "Togetic"
     mondexweight SPECIES_TOGETIC, "7.1 lbs."
 
 
-mondata SPECIES_NATU, "Natu"
+mondata SPECIES_NATU, "ネイティ"
     basestats 40, 50, 45, 70, 70, 45
     types TYPE_PSYCHIC, TYPE_FLYING
     catchrate 190
@@ -3752,7 +3752,7 @@ mondata SPECIES_NATU, "Natu"
     mondexweight SPECIES_NATU, "4.4 lbs."
 
 
-mondata SPECIES_XATU, "Xatu"
+mondata SPECIES_XATU, "ネイティオ"
     basestats 65, 75, 80, 95, 95, 70
     types TYPE_PSYCHIC, TYPE_FLYING
     catchrate 75
@@ -3773,7 +3773,7 @@ mondata SPECIES_XATU, "Xatu"
     mondexweight SPECIES_XATU, "33.1 lbs."
 
 
-mondata SPECIES_MAREEP, "Mareep"
+mondata SPECIES_MAREEP, "メリ－プ"
     basestats 55, 40, 40, 35, 65, 45
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 235
@@ -3794,7 +3794,7 @@ mondata SPECIES_MAREEP, "Mareep"
     mondexweight SPECIES_MAREEP, "17.2 lbs."
 
 
-mondata SPECIES_FLAAFFY, "Flaaffy"
+mondata SPECIES_FLAAFFY, "モココ"
     basestats 70, 55, 55, 45, 80, 60
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 120
@@ -3815,7 +3815,7 @@ mondata SPECIES_FLAAFFY, "Flaaffy"
     mondexweight SPECIES_FLAAFFY, "29.3 lbs."
 
 
-mondata SPECIES_AMPHAROS, "Ampharos"
+mondata SPECIES_AMPHAROS, "デンリュウ"
     basestats 90, 75, 85, 55, 115, 90
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
@@ -3836,7 +3836,7 @@ mondata SPECIES_AMPHAROS, "Ampharos"
     mondexweight SPECIES_AMPHAROS, "135.6 lbs."
 
 
-mondata SPECIES_BELLOSSOM, "Bellossom"
+mondata SPECIES_BELLOSSOM, "キレイハナ"
     basestats 75, 80, 95, 50, 90, 100
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -3857,7 +3857,7 @@ mondata SPECIES_BELLOSSOM, "Bellossom"
     mondexweight SPECIES_BELLOSSOM, "12.8 lbs."
 
 
-mondata SPECIES_MARILL, "Marill"
+mondata SPECIES_MARILL, "マリル"
     basestats 70, 20, 50, 40, 20, 50
     types TYPE_WATER, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_WATER
     catchrate 190
@@ -3878,7 +3878,7 @@ mondata SPECIES_MARILL, "Marill"
     mondexweight SPECIES_MARILL, "18.7 lbs."
 
 
-mondata SPECIES_AZUMARILL, "Azumarill"
+mondata SPECIES_AZUMARILL, "マリルリ"
     basestats 100, 50, 80, 50, 60, 80
     types TYPE_WATER, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_WATER
     catchrate 75
@@ -3899,7 +3899,7 @@ mondata SPECIES_AZUMARILL, "Azumarill"
     mondexweight SPECIES_AZUMARILL, "62.8 lbs."
 
 
-mondata SPECIES_SUDOWOODO, "Sudowoodo"
+mondata SPECIES_SUDOWOODO, "ウソッキ－"
     basestats 70, 100, 115, 30, 30, 80
     types TYPE_ROCK, TYPE_ROCK
     catchrate 65
@@ -3920,7 +3920,7 @@ mondata SPECIES_SUDOWOODO, "Sudowoodo"
     mondexweight SPECIES_SUDOWOODO, "83.8 lbs."
 
 
-mondata SPECIES_POLITOED, "Politoed"
+mondata SPECIES_POLITOED, "ニョロトノ"
     basestats 90, 75, 75, 70, 90, 100
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -3941,7 +3941,7 @@ mondata SPECIES_POLITOED, "Politoed"
     mondexweight SPECIES_POLITOED, "74.7 lbs."
 
 
-mondata SPECIES_HOPPIP, "Hoppip"
+mondata SPECIES_HOPPIP, "ハネッコ"
     basestats 35, 35, 40, 50, 35, 55
     types TYPE_GRASS, TYPE_FLYING
     catchrate 255
@@ -3962,7 +3962,7 @@ mondata SPECIES_HOPPIP, "Hoppip"
     mondexweight SPECIES_HOPPIP, "1.1 lbs."
 
 
-mondata SPECIES_SKIPLOOM, "Skiploom"
+mondata SPECIES_SKIPLOOM, "ポポッコ"
     basestats 55, 45, 50, 80, 45, 65
     types TYPE_GRASS, TYPE_FLYING
     catchrate 120
@@ -3983,7 +3983,7 @@ mondata SPECIES_SKIPLOOM, "Skiploom"
     mondexweight SPECIES_SKIPLOOM, "2.2 lbs."
 
 
-mondata SPECIES_JUMPLUFF, "Jumpluff"
+mondata SPECIES_JUMPLUFF, "ワタッコ"
     basestats 75, 80, 70, 110, 45, 95
     types TYPE_GRASS, TYPE_FLYING
     catchrate 45
@@ -4004,7 +4004,7 @@ mondata SPECIES_JUMPLUFF, "Jumpluff"
     mondexweight SPECIES_JUMPLUFF, "6.6 lbs."
 
 
-mondata SPECIES_AIPOM, "Aipom"
+mondata SPECIES_AIPOM, "エイパム"
     basestats 55, 70, 55, 85, 40, 55
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -4025,7 +4025,7 @@ mondata SPECIES_AIPOM, "Aipom"
     mondexweight SPECIES_AIPOM, "25.4 lbs."
 
 
-mondata SPECIES_SUNKERN, "Sunkern"
+mondata SPECIES_SUNKERN, "ヒマナッツ"
     basestats 30, 30, 30, 30, 30, 30
     types TYPE_GRASS, TYPE_GRASS
     catchrate 235
@@ -4046,7 +4046,7 @@ mondata SPECIES_SUNKERN, "Sunkern"
     mondexweight SPECIES_SUNKERN, "4.0 lbs."
 
 
-mondata SPECIES_SUNFLORA, "Sunflora"
+mondata SPECIES_SUNFLORA, "キマワリ"
     basestats 75, 75, 55, 30, 105, 105
     types TYPE_GRASS, TYPE_FIRE
     catchrate 120
@@ -4067,7 +4067,7 @@ mondata SPECIES_SUNFLORA, "Sunflora"
     mondexweight SPECIES_SUNFLORA, "18.7 lbs."
 
 
-mondata SPECIES_YANMA, "Yanma"
+mondata SPECIES_YANMA, "ヤンヤンマ"
     basestats 65, 65, 45, 95, 75, 45
     types TYPE_BUG, TYPE_FLYING
     catchrate 75
@@ -4088,7 +4088,7 @@ mondata SPECIES_YANMA, "Yanma"
     mondexweight SPECIES_YANMA, "83.8 lbs."
 
 
-mondata SPECIES_WOOPER, "Wooper"
+mondata SPECIES_WOOPER, "ウパ－"
     basestats 55, 45, 45, 15, 25, 25
     types TYPE_WATER, TYPE_GROUND
     catchrate 255
@@ -4109,7 +4109,7 @@ mondata SPECIES_WOOPER, "Wooper"
     mondexweight SPECIES_WOOPER, "18.7 lbs."
 
 
-mondata SPECIES_QUAGSIRE, "Quagsire"
+mondata SPECIES_QUAGSIRE, "ヌオ－"
     basestats 95, 85, 85, 35, 65, 65
     types TYPE_WATER, TYPE_GROUND
     catchrate 90
@@ -4130,7 +4130,7 @@ mondata SPECIES_QUAGSIRE, "Quagsire"
     mondexweight SPECIES_QUAGSIRE, "165.3 lbs."
 
 
-mondata SPECIES_ESPEON, "Espeon"
+mondata SPECIES_ESPEON, "エ－フィ"
     basestats 65, 65, 60, 110, 130, 95
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 45
@@ -4151,7 +4151,7 @@ mondata SPECIES_ESPEON, "Espeon"
     mondexweight SPECIES_ESPEON, "58.4 lbs."
 
 
-mondata SPECIES_UMBREON, "Umbreon"
+mondata SPECIES_UMBREON, "ブラッキ－"
     basestats 95, 65, 110, 65, 60, 130
     types TYPE_DARK, TYPE_DARK
     catchrate 45
@@ -4172,7 +4172,7 @@ mondata SPECIES_UMBREON, "Umbreon"
     mondexweight SPECIES_UMBREON, "59.5 lbs."
 
 
-mondata SPECIES_MURKROW, "Murkrow"
+mondata SPECIES_MURKROW, "ヤミカラス"
     basestats 60, 85, 42, 91, 85, 42
     types TYPE_DARK, TYPE_FLYING
     catchrate 30
@@ -4193,7 +4193,7 @@ mondata SPECIES_MURKROW, "Murkrow"
     mondexweight SPECIES_MURKROW, "4.6 lbs."
 
 
-mondata SPECIES_SLOWKING, "Slowking"
+mondata SPECIES_SLOWKING, "ヤドキング"
     basestats 95, 75, 80, 30, 100, 110
     types TYPE_WATER, TYPE_PSYCHIC
     catchrate 70
@@ -4214,7 +4214,7 @@ mondata SPECIES_SLOWKING, "Slowking"
     mondexweight SPECIES_SLOWKING, "175.3 lbs."
 
 
-mondata SPECIES_MISDREAVUS, "Misdreavus"
+mondata SPECIES_MISDREAVUS, "ムウマ"
     basestats 60, 60, 60, 85, 85, 85
     types TYPE_GHOST, TYPE_GHOST
     catchrate 45
@@ -4235,7 +4235,7 @@ mondata SPECIES_MISDREAVUS, "Misdreavus"
     mondexweight SPECIES_MISDREAVUS, "2.2 lbs."
 
 
-mondata SPECIES_UNOWN, "Unown"
+mondata SPECIES_UNOWN, "アンノ－ン"
     basestats 48, 72, 48, 48, 72, 48
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 225
@@ -4256,7 +4256,7 @@ mondata SPECIES_UNOWN, "Unown"
     mondexweight SPECIES_UNOWN, "11.0 lbs."
 
 
-mondata SPECIES_WOBBUFFET, "Wobbuffet"
+mondata SPECIES_WOBBUFFET, "ソ－ナンス"
     basestats 190, 33, 58, 33, 33, 58
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 45
@@ -4277,7 +4277,7 @@ mondata SPECIES_WOBBUFFET, "Wobbuffet"
     mondexweight SPECIES_WOBBUFFET, "62.8 lbs."
 
 
-mondata SPECIES_GIRAFARIG, "Girafarig"
+mondata SPECIES_GIRAFARIG, "キリンリキ"
     basestats 80, 80, 65, 85, 90, 65
     types TYPE_NORMAL, TYPE_PSYCHIC
     catchrate 60
@@ -4298,7 +4298,7 @@ mondata SPECIES_GIRAFARIG, "Girafarig"
     mondexweight SPECIES_GIRAFARIG, "91.5 lbs."
 
 
-mondata SPECIES_PINECO, "Pineco"
+mondata SPECIES_PINECO, "クヌギダマ"
     basestats 50, 65, 90, 15, 35, 35
     types TYPE_BUG, TYPE_BUG
     catchrate 190
@@ -4319,7 +4319,7 @@ mondata SPECIES_PINECO, "Pineco"
     mondexweight SPECIES_PINECO, "15.9 lbs."
 
 
-mondata SPECIES_FORRETRESS, "Forretress"
+mondata SPECIES_FORRETRESS, "フォレトス"
     basestats 75, 90, 140, 40, 60, 60
     types TYPE_BUG, TYPE_STEEL
     catchrate 75
@@ -4340,7 +4340,7 @@ mondata SPECIES_FORRETRESS, "Forretress"
     mondexweight SPECIES_FORRETRESS, "277.3 lbs."
 
 
-mondata SPECIES_DUNSPARCE, "Dunsparce"
+mondata SPECIES_DUNSPARCE, "ノコッチ"
     basestats 100, 70, 70, 45, 65, 65
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 190
@@ -4361,7 +4361,7 @@ mondata SPECIES_DUNSPARCE, "Dunsparce"
     mondexweight SPECIES_DUNSPARCE, "30.9 lbs."
 
 
-mondata SPECIES_GLIGAR, "Gligar"
+mondata SPECIES_GLIGAR, "グライガ－"
     basestats 65, 75, 105, 85, 35, 65
     types TYPE_GROUND, TYPE_FLYING
     catchrate 60
@@ -4382,7 +4382,7 @@ mondata SPECIES_GLIGAR, "Gligar"
     mondexweight SPECIES_GLIGAR, "142.9 lbs."
 
 
-mondata SPECIES_STEELIX, "Steelix"
+mondata SPECIES_STEELIX, "ハガネ－ル"
     basestats 75, 95, 200, 30, 55, 65
     types TYPE_STEEL, TYPE_GROUND
     catchrate 25
@@ -4403,7 +4403,7 @@ mondata SPECIES_STEELIX, "Steelix"
     mondexweight SPECIES_STEELIX, "881.8 lbs."
 
 
-mondata SPECIES_SNUBBULL, "Snubbull"
+mondata SPECIES_SNUBBULL, "ブル－"
     basestats 60, 80, 50, 30, 40, 40
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 190
@@ -4424,7 +4424,7 @@ mondata SPECIES_SNUBBULL, "Snubbull"
     mondexweight SPECIES_SNUBBULL, "17.2 lbs."
 
 
-mondata SPECIES_GRANBULL, "Granbull"
+mondata SPECIES_GRANBULL, "グランブル"
     basestats 90, 120, 85, 45, 60, 60
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 75
@@ -4445,7 +4445,7 @@ mondata SPECIES_GRANBULL, "Granbull"
     mondexweight SPECIES_GRANBULL, "107.4 lbs."
 
 
-mondata SPECIES_QWILFISH, "Qwilfish"
+mondata SPECIES_QWILFISH, "ハリ－セン"
     basestats 65, 95, 95, 85, 55, 55
     types TYPE_WATER, TYPE_POISON
     catchrate 45
@@ -4466,7 +4466,7 @@ mondata SPECIES_QWILFISH, "Qwilfish"
     mondexweight SPECIES_QWILFISH, "8.6 lbs."
 
 
-mondata SPECIES_SCIZOR, "Scizor"
+mondata SPECIES_SCIZOR, "ハッサム"
     basestats 70, 130, 100, 65, 55, 80
     types TYPE_BUG, TYPE_STEEL
     catchrate 25
@@ -4487,7 +4487,7 @@ mondata SPECIES_SCIZOR, "Scizor"
     mondexweight SPECIES_SCIZOR, "260.1 lbs."
 
 
-mondata SPECIES_SHUCKLE, "Shuckle"
+mondata SPECIES_SHUCKLE, "ツボツボ"
     basestats 20, 10, 230, 5, 10, 230
     types TYPE_BUG, TYPE_ROCK
     catchrate 190
@@ -4508,7 +4508,7 @@ mondata SPECIES_SHUCKLE, "Shuckle"
     mondexweight SPECIES_SHUCKLE, "45.2 lbs."
 
 
-mondata SPECIES_HERACROSS, "Heracross"
+mondata SPECIES_HERACROSS, "ヘラクロス"
     basestats 80, 125, 75, 85, 40, 95
     types TYPE_BUG, TYPE_FIGHTING
     catchrate 45
@@ -4529,7 +4529,7 @@ mondata SPECIES_HERACROSS, "Heracross"
     mondexweight SPECIES_HERACROSS, "119.0 lbs."
 
 
-mondata SPECIES_SNEASEL, "Sneasel"
+mondata SPECIES_SNEASEL, "ニュ－ラ"
     basestats 55, 95, 55, 115, 35, 75
     types TYPE_DARK, TYPE_ICE
     catchrate 60
@@ -4550,7 +4550,7 @@ mondata SPECIES_SNEASEL, "Sneasel"
     mondexweight SPECIES_SNEASEL, "61.7 lbs."
 
 
-mondata SPECIES_TEDDIURSA, "Teddiursa"
+mondata SPECIES_TEDDIURSA, "ヒメグマ"
     basestats 60, 80, 50, 40, 50, 50
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 120
@@ -4571,7 +4571,7 @@ mondata SPECIES_TEDDIURSA, "Teddiursa"
     mondexweight SPECIES_TEDDIURSA, "19.4 lbs."
 
 
-mondata SPECIES_URSARING, "Ursaring"
+mondata SPECIES_URSARING, "リングマ"
     basestats 90, 130, 75, 55, 75, 75
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 60
@@ -4592,7 +4592,7 @@ mondata SPECIES_URSARING, "Ursaring"
     mondexweight SPECIES_URSARING, "277.3 lbs."
 
 
-mondata SPECIES_SLUGMA, "Slugma"
+mondata SPECIES_SLUGMA, "マグマッグ"
     basestats 40, 40, 40, 20, 70, 40
     types TYPE_FIRE, TYPE_FIRE
     catchrate 190
@@ -4613,7 +4613,7 @@ mondata SPECIES_SLUGMA, "Slugma"
     mondexweight SPECIES_SLUGMA, "77.2 lbs."
 
 
-mondata SPECIES_MAGCARGO, "Magcargo"
+mondata SPECIES_MAGCARGO, "マグカルゴ"
     basestats 80, 50, 120, 30, 120, 80
     types TYPE_FIRE, TYPE_ROCK
     catchrate 75
@@ -4634,7 +4634,7 @@ mondata SPECIES_MAGCARGO, "Magcargo"
     mondexweight SPECIES_MAGCARGO, "121.3 lbs."
 
 
-mondata SPECIES_SWINUB, "Swinub"
+mondata SPECIES_SWINUB, "ウリム－"
     basestats 50, 50, 40, 50, 30, 30
     types TYPE_ICE, TYPE_GROUND
     catchrate 225
@@ -4655,7 +4655,7 @@ mondata SPECIES_SWINUB, "Swinub"
     mondexweight SPECIES_SWINUB, "14.3 lbs."
 
 
-mondata SPECIES_PILOSWINE, "Piloswine"
+mondata SPECIES_PILOSWINE, "イノム－"
     basestats 100, 100, 80, 50, 60, 60
     types TYPE_ICE, TYPE_GROUND
     catchrate 75
@@ -4676,7 +4676,7 @@ mondata SPECIES_PILOSWINE, "Piloswine"
     mondexweight SPECIES_PILOSWINE, "123.0 lbs."
 
 
-mondata SPECIES_CORSOLA, "Corsola"
+mondata SPECIES_CORSOLA, "サニ－ゴ"
     basestats 65, 75, 95, 35, 85, 95
     types TYPE_WATER, TYPE_ROCK
     catchrate 60
@@ -4697,7 +4697,7 @@ mondata SPECIES_CORSOLA, "Corsola"
     mondexweight SPECIES_CORSOLA, "11.0 lbs."
 
 
-mondata SPECIES_REMORAID, "Remoraid"
+mondata SPECIES_REMORAID, "テッポウオ"
     basestats 35, 65, 35, 65, 65, 35
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -4718,7 +4718,7 @@ mondata SPECIES_REMORAID, "Remoraid"
     mondexweight SPECIES_REMORAID, "26.5 lbs."
 
 
-mondata SPECIES_OCTILLERY, "Octillery"
+mondata SPECIES_OCTILLERY, "オクタン"
     basestats 75, 105, 75, 45, 105, 75
     types TYPE_WATER, TYPE_WATER
     catchrate 75
@@ -4739,7 +4739,7 @@ mondata SPECIES_OCTILLERY, "Octillery"
     mondexweight SPECIES_OCTILLERY, "62.8 lbs."
 
 
-mondata SPECIES_DELIBIRD, "Delibird"
+mondata SPECIES_DELIBIRD, "デリバ－ド"
     basestats 45, 75, 95, 75, 85, 95
     types TYPE_ICE, TYPE_FLYING
     catchrate 45
@@ -4760,7 +4760,7 @@ mondata SPECIES_DELIBIRD, "Delibird"
     mondexweight SPECIES_DELIBIRD, "35.3 lbs."
 
 
-mondata SPECIES_MANTINE, "Mantine"
+mondata SPECIES_MANTINE, "マンタイン"
     basestats 65, 40, 70, 70, 80, 140
     types TYPE_WATER, TYPE_FLYING
     catchrate 25
@@ -4781,7 +4781,7 @@ mondata SPECIES_MANTINE, "Mantine"
     mondexweight SPECIES_MANTINE, "485.0 lbs."
 
 
-mondata SPECIES_SKARMORY, "Skarmory"
+mondata SPECIES_SKARMORY, "エア－ムド"
     basestats 65, 80, 140, 70, 40, 70
     types TYPE_STEEL, TYPE_FLYING
     catchrate 25
@@ -4802,7 +4802,7 @@ mondata SPECIES_SKARMORY, "Skarmory"
     mondexweight SPECIES_SKARMORY, "111.3 lbs."
 
 
-mondata SPECIES_HOUNDOUR, "Houndour"
+mondata SPECIES_HOUNDOUR, "デルビル"
     basestats 45, 60, 30, 65, 80, 50
     types TYPE_DARK, TYPE_FIRE
     catchrate 120
@@ -4823,7 +4823,7 @@ mondata SPECIES_HOUNDOUR, "Houndour"
     mondexweight SPECIES_HOUNDOUR, "23.8 lbs."
 
 
-mondata SPECIES_HOUNDOOM, "Houndoom"
+mondata SPECIES_HOUNDOOM, "ヘルガ－"
     basestats 75, 90, 50, 95, 110, 80
     types TYPE_DARK, TYPE_FIRE
     catchrate 45
@@ -4844,7 +4844,7 @@ mondata SPECIES_HOUNDOOM, "Houndoom"
     mondexweight SPECIES_HOUNDOOM, "77.2 lbs."
 
 
-mondata SPECIES_KINGDRA, "Kingdra"
+mondata SPECIES_KINGDRA, "キングドラ"
     basestats 75, 95, 95, 85, 95, 95
     types TYPE_WATER, TYPE_DRAGON
     catchrate 45
@@ -4865,7 +4865,7 @@ mondata SPECIES_KINGDRA, "Kingdra"
     mondexweight SPECIES_KINGDRA, "335.1 lbs."
 
 
-mondata SPECIES_PHANPY, "Phanpy"
+mondata SPECIES_PHANPY, "ゴマゾウ"
     basestats 90, 60, 60, 40, 40, 40
     types TYPE_GROUND, TYPE_GROUND
     catchrate 120
@@ -4886,7 +4886,7 @@ mondata SPECIES_PHANPY, "Phanpy"
     mondexweight SPECIES_PHANPY, "73.9 lbs."
 
 
-mondata SPECIES_DONPHAN, "Donphan"
+mondata SPECIES_DONPHAN, "ドンファン"
     basestats 90, 120, 120, 50, 60, 60
     types TYPE_GROUND, TYPE_GROUND
     catchrate 60
@@ -4907,7 +4907,7 @@ mondata SPECIES_DONPHAN, "Donphan"
     mondexweight SPECIES_DONPHAN, "264.6 lbs."
 
 
-mondata SPECIES_PORYGON2, "Porygon2"
+mondata SPECIES_PORYGON2, "ポリゴン２"
     basestats 85, 80, 90, 60, 105, 95
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -4928,7 +4928,7 @@ mondata SPECIES_PORYGON2, "Porygon2"
     mondexweight SPECIES_PORYGON2, "71.7 lbs."
 
 
-mondata SPECIES_STANTLER, "Stantler"
+mondata SPECIES_STANTLER, "オドシシ"
     basestats 73, 95, 62, 85, 85, 65
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -4949,7 +4949,7 @@ mondata SPECIES_STANTLER, "Stantler"
     mondexweight SPECIES_STANTLER, "157.0 lbs."
 
 
-mondata SPECIES_SMEARGLE, "Smeargle"
+mondata SPECIES_SMEARGLE, "ド－ブル"
     basestats 55, 20, 35, 75, 20, 45
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -4970,7 +4970,7 @@ mondata SPECIES_SMEARGLE, "Smeargle"
     mondexweight SPECIES_SMEARGLE, "127.9 lbs."
 
 
-mondata SPECIES_TYROGUE, "Tyrogue"
+mondata SPECIES_TYROGUE, "バルキ－"
     basestats 35, 35, 35, 35, 35, 35
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 75
@@ -4991,7 +4991,7 @@ mondata SPECIES_TYROGUE, "Tyrogue"
     mondexweight SPECIES_TYROGUE, "46.3 lbs."
 
 
-mondata SPECIES_HITMONTOP, "Hitmontop"
+mondata SPECIES_HITMONTOP, "カポエラ－"
     basestats 60, 95, 95, 70, 35, 110
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 45
@@ -5012,7 +5012,7 @@ mondata SPECIES_HITMONTOP, "Hitmontop"
     mondexweight SPECIES_HITMONTOP, "105.8 lbs."
 
 
-mondata SPECIES_SMOOCHUM, "Smoochum"
+mondata SPECIES_SMOOCHUM, "ムチュ－ル"
     basestats 45, 30, 15, 65, 85, 65
     types TYPE_ICE, TYPE_PSYCHIC
     catchrate 45
@@ -5033,7 +5033,7 @@ mondata SPECIES_SMOOCHUM, "Smoochum"
     mondexweight SPECIES_SMOOCHUM, "13.2 lbs."
 
 
-mondata SPECIES_ELEKID, "Elekid"
+mondata SPECIES_ELEKID, "エレキッド"
     basestats 45, 63, 37, 95, 65, 55
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
@@ -5054,7 +5054,7 @@ mondata SPECIES_ELEKID, "Elekid"
     mondexweight SPECIES_ELEKID, "51.8 lbs."
 
 
-mondata SPECIES_MAGBY, "Magby"
+mondata SPECIES_MAGBY, "ブビィ"
     basestats 45, 75, 37, 83, 70, 55
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -5075,7 +5075,7 @@ mondata SPECIES_MAGBY, "Magby"
     mondexweight SPECIES_MAGBY, "47.2 lbs."
 
 
-mondata SPECIES_MILTANK, "Miltank"
+mondata SPECIES_MILTANK, "ミルタンク"
     basestats 95, 80, 105, 100, 40, 70
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -5096,7 +5096,7 @@ mondata SPECIES_MILTANK, "Miltank"
     mondexweight SPECIES_MILTANK, "166.4 lbs."
 
 
-mondata SPECIES_BLISSEY, "Blissey"
+mondata SPECIES_BLISSEY, "ハピナス"
     basestats 255, 10, 10, 55, 75, 135
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 30
@@ -5117,7 +5117,7 @@ mondata SPECIES_BLISSEY, "Blissey"
     mondexweight SPECIES_BLISSEY, "103.2 lbs."
 
 
-mondata SPECIES_RAIKOU, "Raikou"
+mondata SPECIES_RAIKOU, "ライコウ"
     basestats 90, 85, 75, 115, 115, 100
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 3
@@ -5138,7 +5138,7 @@ mondata SPECIES_RAIKOU, "Raikou"
     mondexweight SPECIES_RAIKOU, "392.4 lbs."
 
 
-mondata SPECIES_ENTEI, "Entei"
+mondata SPECIES_ENTEI, "エンテイ"
     basestats 115, 115, 85, 100, 90, 75
     types TYPE_FIRE, TYPE_FIRE
     catchrate 3
@@ -5159,7 +5159,7 @@ mondata SPECIES_ENTEI, "Entei"
     mondexweight SPECIES_ENTEI, "436.5 lbs."
 
 
-mondata SPECIES_SUICUNE, "Suicune"
+mondata SPECIES_SUICUNE, "スイクン"
     basestats 100, 75, 115, 85, 90, 115
     types TYPE_WATER, TYPE_WATER
     catchrate 3
@@ -5180,7 +5180,7 @@ mondata SPECIES_SUICUNE, "Suicune"
     mondexweight SPECIES_SUICUNE, "412.3 lbs."
 
 
-mondata SPECIES_LARVITAR, "Larvitar"
+mondata SPECIES_LARVITAR, "ヨ－ギラス"
     basestats 50, 64, 50, 41, 45, 50
     types TYPE_ROCK, TYPE_GROUND
     catchrate 45
@@ -5201,7 +5201,7 @@ mondata SPECIES_LARVITAR, "Larvitar"
     mondexweight SPECIES_LARVITAR, "158.7 lbs."
 
 
-mondata SPECIES_PUPITAR, "Pupitar"
+mondata SPECIES_PUPITAR, "サナギラス"
     basestats 70, 84, 70, 51, 65, 70
     types TYPE_ROCK, TYPE_GROUND
     catchrate 45
@@ -5222,7 +5222,7 @@ mondata SPECIES_PUPITAR, "Pupitar"
     mondexweight SPECIES_PUPITAR, "335.1 lbs."
 
 
-mondata SPECIES_TYRANITAR, "Tyranitar"
+mondata SPECIES_TYRANITAR, "バンギラス"
     basestats 100, 134, 110, 61, 95, 100
     types TYPE_ROCK, TYPE_DARK
     catchrate 45
@@ -5243,7 +5243,7 @@ mondata SPECIES_TYRANITAR, "Tyranitar"
     mondexweight SPECIES_TYRANITAR, "445.3 lbs."
 
 
-mondata SPECIES_LUGIA, "Lugia"
+mondata SPECIES_LUGIA, "ルギア"
     basestats 106, 90, 130, 110, 90, 154
     types TYPE_PSYCHIC, TYPE_FLYING
     catchrate 3
@@ -5264,7 +5264,7 @@ mondata SPECIES_LUGIA, "Lugia"
     mondexweight SPECIES_LUGIA, "476.2 lbs."
 
 
-mondata SPECIES_HO_OH, "Ho-oh"
+mondata SPECIES_HO_OH, "ホウオウ"
     basestats 106, 130, 90, 90, 110, 154
     types TYPE_FIRE, TYPE_FLYING
     catchrate 3
@@ -5285,7 +5285,7 @@ mondata SPECIES_HO_OH, "Ho-oh"
     mondexweight SPECIES_HO_OH, "438.7 lbs."
 
 
-mondata SPECIES_CELEBI, "Celebi"
+mondata SPECIES_CELEBI, "セレビィ"
     basestats 100, 100, 100, 100, 100, 100
     types TYPE_PSYCHIC, TYPE_GRASS
     catchrate 45
@@ -5306,7 +5306,7 @@ mondata SPECIES_CELEBI, "Celebi"
     mondexweight SPECIES_CELEBI, "11.0 lbs."
 
 
-mondata SPECIES_TREECKO, "Treecko"
+mondata SPECIES_TREECKO, "キモリ"
     basestats 40, 45, 35, 70, 65, 55
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -5327,7 +5327,7 @@ mondata SPECIES_TREECKO, "Treecko"
     mondexweight SPECIES_TREECKO, "11.0 lbs."
 
 
-mondata SPECIES_GROVYLE, "Grovyle"
+mondata SPECIES_GROVYLE, "ジュプトル"
     basestats 50, 65, 45, 95, 85, 65
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -5348,7 +5348,7 @@ mondata SPECIES_GROVYLE, "Grovyle"
     mondexweight SPECIES_GROVYLE, "47.6 lbs."
 
 
-mondata SPECIES_SCEPTILE, "Sceptile"
+mondata SPECIES_SCEPTILE, "ジュカイン"
     basestats 70, 85, 65, 120, 105, 85
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -5369,7 +5369,7 @@ mondata SPECIES_SCEPTILE, "Sceptile"
     mondexweight SPECIES_SCEPTILE, "115.1 lbs."
 
 
-mondata SPECIES_TORCHIC, "Torchic"
+mondata SPECIES_TORCHIC, "アチャモ"
     basestats 45, 60, 40, 45, 70, 50
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -5390,7 +5390,7 @@ mondata SPECIES_TORCHIC, "Torchic"
     mondexweight SPECIES_TORCHIC, "5.5 lbs."
 
 
-mondata SPECIES_COMBUSKEN, "Combusken"
+mondata SPECIES_COMBUSKEN, "ワカシャモ"
     basestats 60, 85, 60, 55, 85, 60
     types TYPE_FIRE, TYPE_FIGHTING
     catchrate 45
@@ -5411,7 +5411,7 @@ mondata SPECIES_COMBUSKEN, "Combusken"
     mondexweight SPECIES_COMBUSKEN, "43.0 lbs."
 
 
-mondata SPECIES_BLAZIKEN, "Blaziken"
+mondata SPECIES_BLAZIKEN, "バシャ－モ"
     basestats 80, 120, 70, 80, 110, 70
     types TYPE_FIRE, TYPE_FIGHTING
     catchrate 45
@@ -5432,7 +5432,7 @@ mondata SPECIES_BLAZIKEN, "Blaziken"
     mondexweight SPECIES_BLAZIKEN, "114.6 lbs."
 
 
-mondata SPECIES_MUDKIP, "Mudkip"
+mondata SPECIES_MUDKIP, "ミズゴロウ"
     basestats 50, 70, 50, 40, 50, 50
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -5453,7 +5453,7 @@ mondata SPECIES_MUDKIP, "Mudkip"
     mondexweight SPECIES_MUDKIP, "16.8 lbs."
 
 
-mondata SPECIES_MARSHTOMP, "Marshtomp"
+mondata SPECIES_MARSHTOMP, "ヌマクロ－"
     basestats 70, 85, 70, 50, 60, 70
     types TYPE_WATER, TYPE_GROUND
     catchrate 45
@@ -5474,7 +5474,7 @@ mondata SPECIES_MARSHTOMP, "Marshtomp"
     mondexweight SPECIES_MARSHTOMP, "61.7 lbs."
 
 
-mondata SPECIES_SWAMPERT, "Swampert"
+mondata SPECIES_SWAMPERT, "ラグラ－ジ"
     basestats 100, 110, 90, 60, 85, 90
     types TYPE_WATER, TYPE_GROUND
     catchrate 45
@@ -5495,7 +5495,7 @@ mondata SPECIES_SWAMPERT, "Swampert"
     mondexweight SPECIES_SWAMPERT, "180.6 lbs."
 
 
-mondata SPECIES_POOCHYENA, "Poochyena"
+mondata SPECIES_POOCHYENA, "ポチエナ"
     basestats 35, 55, 35, 35, 30, 30
     types TYPE_DARK, TYPE_DARK
     catchrate 255
@@ -5516,7 +5516,7 @@ mondata SPECIES_POOCHYENA, "Poochyena"
     mondexweight SPECIES_POOCHYENA, "30.0 lbs."
 
 
-mondata SPECIES_MIGHTYENA, "Mightyena"
+mondata SPECIES_MIGHTYENA, "グラエナ"
     basestats 70, 90, 70, 70, 60, 60
     types TYPE_DARK, TYPE_DARK
     catchrate 127
@@ -5537,7 +5537,7 @@ mondata SPECIES_MIGHTYENA, "Mightyena"
     mondexweight SPECIES_MIGHTYENA, "81.6 lbs."
 
 
-mondata SPECIES_ZIGZAGOON, "Zigzagoon"
+mondata SPECIES_ZIGZAGOON, "ジグザグマ"
     basestats 38, 30, 41, 60, 30, 41
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -5558,7 +5558,7 @@ mondata SPECIES_ZIGZAGOON, "Zigzagoon"
     mondexweight SPECIES_ZIGZAGOON, "38.6 lbs."
 
 
-mondata SPECIES_LINOONE, "Linoone"
+mondata SPECIES_LINOONE, "マッスグマ"
     basestats 78, 70, 61, 100, 50, 61
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 90
@@ -5579,7 +5579,7 @@ mondata SPECIES_LINOONE, "Linoone"
     mondexweight SPECIES_LINOONE, "71.7 lbs."
 
 
-mondata SPECIES_WURMPLE, "Wurmple"
+mondata SPECIES_WURMPLE, "ケムッソ"
     basestats 45, 45, 35, 20, 20, 30
     types TYPE_BUG, TYPE_BUG
     catchrate 255
@@ -5600,7 +5600,7 @@ mondata SPECIES_WURMPLE, "Wurmple"
     mondexweight SPECIES_WURMPLE, "7.9 lbs."
 
 
-mondata SPECIES_SILCOON, "Silcoon"
+mondata SPECIES_SILCOON, "カラサリス"
     basestats 50, 35, 55, 15, 25, 25
     types TYPE_BUG, TYPE_BUG
     catchrate 120
@@ -5621,7 +5621,7 @@ mondata SPECIES_SILCOON, "Silcoon"
     mondexweight SPECIES_SILCOON, "22.0 lbs."
 
 
-mondata SPECIES_BEAUTIFLY, "Beautifly"
+mondata SPECIES_BEAUTIFLY, "アゲハント"
     basestats 60, 70, 50, 65, 100, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
@@ -5642,7 +5642,7 @@ mondata SPECIES_BEAUTIFLY, "Beautifly"
     mondexweight SPECIES_BEAUTIFLY, "62.6 lbs."
 
 
-mondata SPECIES_CASCOON, "Cascoon"
+mondata SPECIES_CASCOON, "マユルド"
     basestats 50, 35, 55, 15, 25, 25
     types TYPE_BUG, TYPE_BUG
     catchrate 120
@@ -5663,7 +5663,7 @@ mondata SPECIES_CASCOON, "Cascoon"
     mondexweight SPECIES_CASCOON, "25.4 lbs."
 
 
-mondata SPECIES_DUSTOX, "Dustox"
+mondata SPECIES_DUSTOX, "ドクケイル"
     basestats 60, 50, 70, 65, 50, 90
     types TYPE_BUG, TYPE_POISON
     catchrate 45
@@ -5684,7 +5684,7 @@ mondata SPECIES_DUSTOX, "Dustox"
     mondexweight SPECIES_DUSTOX, "69.7 lbs."
 
 
-mondata SPECIES_LOTAD, "Lotad"
+mondata SPECIES_LOTAD, "ハスボ－"
     basestats 40, 30, 30, 30, 40, 50
     types TYPE_WATER, TYPE_GRASS
     catchrate 255
@@ -5705,7 +5705,7 @@ mondata SPECIES_LOTAD, "Lotad"
     mondexweight SPECIES_LOTAD, "5.7 lbs."
 
 
-mondata SPECIES_LOMBRE, "Lombre"
+mondata SPECIES_LOMBRE, "ハスブレロ"
     basestats 60, 50, 50, 50, 60, 70
     types TYPE_WATER, TYPE_GRASS
     catchrate 120
@@ -5726,7 +5726,7 @@ mondata SPECIES_LOMBRE, "Lombre"
     mondexweight SPECIES_LOMBRE, "71.7 lbs."
 
 
-mondata SPECIES_LUDICOLO, "Ludicolo"
+mondata SPECIES_LUDICOLO, "ルンパッパ"
     basestats 80, 70, 70, 70, 90, 100
     types TYPE_WATER, TYPE_GRASS
     catchrate 45
@@ -5747,7 +5747,7 @@ mondata SPECIES_LUDICOLO, "Ludicolo"
     mondexweight SPECIES_LUDICOLO, "121.3 lbs."
 
 
-mondata SPECIES_SEEDOT, "Seedot"
+mondata SPECIES_SEEDOT, "タネボ－"
     basestats 40, 40, 50, 30, 30, 30
     types TYPE_GRASS, TYPE_GRASS
     catchrate 255
@@ -5768,7 +5768,7 @@ mondata SPECIES_SEEDOT, "Seedot"
     mondexweight SPECIES_SEEDOT, "8.8 lbs."
 
 
-mondata SPECIES_NUZLEAF, "Nuzleaf"
+mondata SPECIES_NUZLEAF, "コノハナ"
     basestats 70, 70, 40, 60, 60, 40
     types TYPE_GRASS, TYPE_DARK
     catchrate 120
@@ -5789,7 +5789,7 @@ mondata SPECIES_NUZLEAF, "Nuzleaf"
     mondexweight SPECIES_NUZLEAF, "61.7 lbs."
 
 
-mondata SPECIES_SHIFTRY, "Shiftry"
+mondata SPECIES_SHIFTRY, "ダ－テング"
     basestats 90, 100, 60, 80, 90, 60
     types TYPE_GRASS, TYPE_DARK
     catchrate 45
@@ -5810,7 +5810,7 @@ mondata SPECIES_SHIFTRY, "Shiftry"
     mondexweight SPECIES_SHIFTRY, "131.4 lbs."
 
 
-mondata SPECIES_TAILLOW, "Taillow"
+mondata SPECIES_TAILLOW, "スバメ"
     basestats 40, 55, 30, 85, 30, 30
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 200
@@ -5831,7 +5831,7 @@ mondata SPECIES_TAILLOW, "Taillow"
     mondexweight SPECIES_TAILLOW, "5.1 lbs."
 
 
-mondata SPECIES_SWELLOW, "Swellow"
+mondata SPECIES_SWELLOW, "オオスバメ"
     basestats 60, 85, 60, 125, 75, 50
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -5852,7 +5852,7 @@ mondata SPECIES_SWELLOW, "Swellow"
     mondexweight SPECIES_SWELLOW, "43.7 lbs."
 
 
-mondata SPECIES_WINGULL, "Wingull"
+mondata SPECIES_WINGULL, "キャモメ"
     basestats 40, 30, 30, 85, 55, 30
     types TYPE_WATER, TYPE_FLYING
     catchrate 190
@@ -5873,7 +5873,7 @@ mondata SPECIES_WINGULL, "Wingull"
     mondexweight SPECIES_WINGULL, "20.9 lbs."
 
 
-mondata SPECIES_PELIPPER, "Pelipper"
+mondata SPECIES_PELIPPER, "ペリッパ－"
     basestats 60, 50, 100, 65, 95, 70
     types TYPE_WATER, TYPE_FLYING
     catchrate 45
@@ -5894,7 +5894,7 @@ mondata SPECIES_PELIPPER, "Pelipper"
     mondexweight SPECIES_PELIPPER, "61.7 lbs."
 
 
-mondata SPECIES_RALTS, "Ralts"
+mondata SPECIES_RALTS, "ラルトス"
     basestats 28, 25, 25, 40, 45, 35
     types TYPE_PSYCHIC, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_PSYCHIC
     catchrate 235
@@ -5915,7 +5915,7 @@ mondata SPECIES_RALTS, "Ralts"
     mondexweight SPECIES_RALTS, "14.6 lbs."
 
 
-mondata SPECIES_KIRLIA, "Kirlia"
+mondata SPECIES_KIRLIA, "キルリア"
     basestats 38, 35, 35, 50, 65, 55
     types TYPE_PSYCHIC, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_PSYCHIC
     catchrate 120
@@ -5936,7 +5936,7 @@ mondata SPECIES_KIRLIA, "Kirlia"
     mondexweight SPECIES_KIRLIA, "44.5 lbs."
 
 
-mondata SPECIES_GARDEVOIR, "Gardevoir"
+mondata SPECIES_GARDEVOIR, "サ－ナイト"
     basestats 68, 65, 65, 80, 125, 115
     types TYPE_PSYCHIC, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_PSYCHIC
     catchrate 45
@@ -5957,7 +5957,7 @@ mondata SPECIES_GARDEVOIR, "Gardevoir"
     mondexweight SPECIES_GARDEVOIR, "106.7 lbs."
 
 
-mondata SPECIES_SURSKIT, "Surskit"
+mondata SPECIES_SURSKIT, "アメタマ"
     basestats 40, 30, 32, 65, 50, 52
     types TYPE_BUG, TYPE_WATER
     catchrate 200
@@ -5978,7 +5978,7 @@ mondata SPECIES_SURSKIT, "Surskit"
     mondexweight SPECIES_SURSKIT, "3.7 lbs."
 
 
-mondata SPECIES_MASQUERAIN, "Masquerain"
+mondata SPECIES_MASQUERAIN, "アメモ－ス"
     basestats 70, 60, 62, 80, 100, 82
     types TYPE_BUG, TYPE_FLYING
     catchrate 75
@@ -5999,7 +5999,7 @@ mondata SPECIES_MASQUERAIN, "Masquerain"
     mondexweight SPECIES_MASQUERAIN, "7.9 lbs."
 
 
-mondata SPECIES_SHROOMISH, "Shroomish"
+mondata SPECIES_SHROOMISH, "キノココ"
     basestats 60, 40, 60, 35, 40, 60
     types TYPE_GRASS, TYPE_GRASS
     catchrate 255
@@ -6020,7 +6020,7 @@ mondata SPECIES_SHROOMISH, "Shroomish"
     mondexweight SPECIES_SHROOMISH, "9.9 lbs."
 
 
-mondata SPECIES_BRELOOM, "Breloom"
+mondata SPECIES_BRELOOM, "キノガッサ"
     basestats 60, 130, 80, 70, 60, 60
     types TYPE_GRASS, TYPE_FIGHTING
     catchrate 90
@@ -6041,7 +6041,7 @@ mondata SPECIES_BRELOOM, "Breloom"
     mondexweight SPECIES_BRELOOM, "86.4 lbs."
 
 
-mondata SPECIES_SLAKOTH, "Slakoth"
+mondata SPECIES_SLAKOTH, "ナマケロ"
     basestats 60, 60, 60, 30, 35, 35
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -6062,7 +6062,7 @@ mondata SPECIES_SLAKOTH, "Slakoth"
     mondexweight SPECIES_SLAKOTH, "52.9 lbs."
 
 
-mondata SPECIES_VIGOROTH, "Vigoroth"
+mondata SPECIES_VIGOROTH, "ヤルキモノ"
     basestats 80, 80, 80, 90, 55, 55
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 120
@@ -6083,7 +6083,7 @@ mondata SPECIES_VIGOROTH, "Vigoroth"
     mondexweight SPECIES_VIGOROTH, "102.5 lbs."
 
 
-mondata SPECIES_SLAKING, "Slaking"
+mondata SPECIES_SLAKING, "ケッキング"
     basestats 150, 160, 100, 100, 95, 65
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -6104,7 +6104,7 @@ mondata SPECIES_SLAKING, "Slaking"
     mondexweight SPECIES_SLAKING, "287.7 lbs."
 
 
-mondata SPECIES_NINCADA, "Nincada"
+mondata SPECIES_NINCADA, "ツチニン"
     basestats 31, 45, 90, 40, 30, 30
     types TYPE_BUG, TYPE_GROUND
     catchrate 255
@@ -6125,7 +6125,7 @@ mondata SPECIES_NINCADA, "Nincada"
     mondexweight SPECIES_NINCADA, "12.1 lbs."
 
 
-mondata SPECIES_NINJASK, "Ninjask"
+mondata SPECIES_NINJASK, "テッカニン"
     basestats 61, 90, 45, 160, 50, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 120
@@ -6146,7 +6146,7 @@ mondata SPECIES_NINJASK, "Ninjask"
     mondexweight SPECIES_NINJASK, "26.5 lbs."
 
 
-mondata SPECIES_SHEDINJA, "Shedinja"
+mondata SPECIES_SHEDINJA, "ヌケニン"
     basestats 1, 90, 45, 40, 30, 30
     types TYPE_BUG, TYPE_GHOST
     catchrate 45
@@ -6167,7 +6167,7 @@ mondata SPECIES_SHEDINJA, "Shedinja"
     mondexweight SPECIES_SHEDINJA, "2.6 lbs."
 
 
-mondata SPECIES_WHISMUR, "Whismur"
+mondata SPECIES_WHISMUR, "ゴニョニョ"
     basestats 64, 51, 23, 28, 51, 23
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 190
@@ -6188,7 +6188,7 @@ mondata SPECIES_WHISMUR, "Whismur"
     mondexweight SPECIES_WHISMUR, "35.9 lbs."
 
 
-mondata SPECIES_LOUDRED, "Loudred"
+mondata SPECIES_LOUDRED, "ドゴ－ム"
     basestats 84, 71, 43, 48, 71, 43
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 120
@@ -6209,7 +6209,7 @@ mondata SPECIES_LOUDRED, "Loudred"
     mondexweight SPECIES_LOUDRED, "89.3 lbs."
 
 
-mondata SPECIES_EXPLOUD, "Exploud"
+mondata SPECIES_EXPLOUD, "バクオング"
     basestats 104, 91, 63, 68, 91, 73
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -6230,7 +6230,7 @@ mondata SPECIES_EXPLOUD, "Exploud"
     mondexweight SPECIES_EXPLOUD, "185.2 lbs."
 
 
-mondata SPECIES_MAKUHITA, "Makuhita"
+mondata SPECIES_MAKUHITA, "マクノシタ"
     basestats 72, 60, 30, 25, 20, 30
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 180
@@ -6251,7 +6251,7 @@ mondata SPECIES_MAKUHITA, "Makuhita"
     mondexweight SPECIES_MAKUHITA, "190.5 lbs."
 
 
-mondata SPECIES_HARIYAMA, "Hariyama"
+mondata SPECIES_HARIYAMA, "ハリテヤマ"
     basestats 144, 120, 60, 50, 40, 60
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 200
@@ -6272,7 +6272,7 @@ mondata SPECIES_HARIYAMA, "Hariyama"
     mondexweight SPECIES_HARIYAMA, "559.5 lbs."
 
 
-mondata SPECIES_AZURILL, "Azurill"
+mondata SPECIES_AZURILL, "ルリリ"
     basestats 50, 20, 40, 20, 20, 40
     types TYPE_NORMAL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL
     catchrate 150
@@ -6293,7 +6293,7 @@ mondata SPECIES_AZURILL, "Azurill"
     mondexweight SPECIES_AZURILL, "4.4 lbs."
 
 
-mondata SPECIES_NOSEPASS, "Nosepass"
+mondata SPECIES_NOSEPASS, "ノズパス"
     basestats 30, 45, 135, 30, 45, 90
     types TYPE_ROCK, TYPE_ROCK
     catchrate 255
@@ -6314,7 +6314,7 @@ mondata SPECIES_NOSEPASS, "Nosepass"
     mondexweight SPECIES_NOSEPASS, "213.8 lbs."
 
 
-mondata SPECIES_SKITTY, "Skitty"
+mondata SPECIES_SKITTY, "エネコ"
     basestats 50, 45, 45, 50, 35, 35
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -6335,7 +6335,7 @@ mondata SPECIES_SKITTY, "Skitty"
     mondexweight SPECIES_SKITTY, "24.3 lbs."
 
 
-mondata SPECIES_DELCATTY, "Delcatty"
+mondata SPECIES_DELCATTY, "エネコロロ"
     basestats 70, 65, 65, 90, 55, 55
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 60
@@ -6356,7 +6356,7 @@ mondata SPECIES_DELCATTY, "Delcatty"
     mondexweight SPECIES_DELCATTY, "71.9 lbs."
 
 
-mondata SPECIES_SABLEYE, "Sableye"
+mondata SPECIES_SABLEYE, "ヤミラミ"
     basestats 50, 75, 75, 50, 65, 65
     types TYPE_DARK, TYPE_GHOST
     catchrate 45
@@ -6377,7 +6377,7 @@ mondata SPECIES_SABLEYE, "Sableye"
     mondexweight SPECIES_SABLEYE, "24.3 lbs."
 
 
-mondata SPECIES_MAWILE, "Mawile"
+mondata SPECIES_MAWILE, "クチ－ト"
     basestats 50, 85, 85, 50, 55, 55
     types TYPE_STEEL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_STEEL
     catchrate 45
@@ -6398,7 +6398,7 @@ mondata SPECIES_MAWILE, "Mawile"
     mondexweight SPECIES_MAWILE, "25.4 lbs."
 
 
-mondata SPECIES_ARON, "Aron"
+mondata SPECIES_ARON, "ココドラ"
     basestats 50, 70, 100, 30, 40, 40
     types TYPE_STEEL, TYPE_ROCK
     catchrate 180
@@ -6419,7 +6419,7 @@ mondata SPECIES_ARON, "Aron"
     mondexweight SPECIES_ARON, "132.3 lbs."
 
 
-mondata SPECIES_LAIRON, "Lairon"
+mondata SPECIES_LAIRON, "コドラ"
     basestats 60, 90, 140, 40, 50, 50
     types TYPE_STEEL, TYPE_ROCK
     catchrate 90
@@ -6440,7 +6440,7 @@ mondata SPECIES_LAIRON, "Lairon"
     mondexweight SPECIES_LAIRON, "264.6 lbs."
 
 
-mondata SPECIES_AGGRON, "Aggron"
+mondata SPECIES_AGGRON, "ボスゴドラ"
     basestats 70, 110, 180, 50, 60, 60
     types TYPE_STEEL, TYPE_ROCK
     catchrate 45
@@ -6461,7 +6461,7 @@ mondata SPECIES_AGGRON, "Aggron"
     mondexweight SPECIES_AGGRON, "793.7 lbs."
 
 
-mondata SPECIES_MEDITITE, "Meditite"
+mondata SPECIES_MEDITITE, "アサナン"
     basestats 30, 40, 55, 60, 40, 55
     types TYPE_FIGHTING, TYPE_PSYCHIC
     catchrate 180
@@ -6482,7 +6482,7 @@ mondata SPECIES_MEDITITE, "Meditite"
     mondexweight SPECIES_MEDITITE, "24.7 lbs."
 
 
-mondata SPECIES_MEDICHAM, "Medicham"
+mondata SPECIES_MEDICHAM, "チャ－レム"
     basestats 60, 60, 75, 80, 60, 75
     types TYPE_FIGHTING, TYPE_PSYCHIC
     catchrate 90
@@ -6503,7 +6503,7 @@ mondata SPECIES_MEDICHAM, "Medicham"
     mondexweight SPECIES_MEDICHAM, "69.4 lbs."
 
 
-mondata SPECIES_ELECTRIKE, "Electrike"
+mondata SPECIES_ELECTRIKE, "ラクライ"
     basestats 40, 45, 40, 65, 65, 40
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 120
@@ -6524,7 +6524,7 @@ mondata SPECIES_ELECTRIKE, "Electrike"
     mondexweight SPECIES_ELECTRIKE, "33.5 lbs."
 
 
-mondata SPECIES_MANECTRIC, "Manectric"
+mondata SPECIES_MANECTRIC, "ライボルト"
     basestats 70, 75, 60, 105, 105, 60
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
@@ -6545,7 +6545,7 @@ mondata SPECIES_MANECTRIC, "Manectric"
     mondexweight SPECIES_MANECTRIC, "88.6 lbs."
 
 
-mondata SPECIES_PLUSLE, "Plusle"
+mondata SPECIES_PLUSLE, "プラスル"
     basestats 60, 50, 40, 95, 85, 75
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 200
@@ -6566,7 +6566,7 @@ mondata SPECIES_PLUSLE, "Plusle"
     mondexweight SPECIES_PLUSLE, "9.3 lbs."
 
 
-mondata SPECIES_MINUN, "Minun"
+mondata SPECIES_MINUN, "マイナン"
     basestats 60, 40, 50, 95, 75, 85
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 200
@@ -6587,7 +6587,7 @@ mondata SPECIES_MINUN, "Minun"
     mondexweight SPECIES_MINUN, "9.3 lbs."
 
 
-mondata SPECIES_VOLBEAT, "Volbeat"
+mondata SPECIES_VOLBEAT, "バルビ－ト"
     basestats 65, 73, 75, 85, 47, 85
     types TYPE_BUG, TYPE_BUG
     catchrate 150
@@ -6608,7 +6608,7 @@ mondata SPECIES_VOLBEAT, "Volbeat"
     mondexweight SPECIES_VOLBEAT, "39.0 lbs."
 
 
-mondata SPECIES_ILLUMISE, "Illumise"
+mondata SPECIES_ILLUMISE, "イルミ－ゼ"
     basestats 65, 47, 75, 85, 73, 85
     types TYPE_BUG, TYPE_BUG
     catchrate 150
@@ -6629,7 +6629,7 @@ mondata SPECIES_ILLUMISE, "Illumise"
     mondexweight SPECIES_ILLUMISE, "39.0 lbs."
 
 
-mondata SPECIES_ROSELIA, "Roselia"
+mondata SPECIES_ROSELIA, "ロゼリア"
     basestats 50, 60, 45, 65, 100, 80
     types TYPE_GRASS, TYPE_POISON
     catchrate 150
@@ -6650,7 +6650,7 @@ mondata SPECIES_ROSELIA, "Roselia"
     mondexweight SPECIES_ROSELIA, "4.4 lbs."
 
 
-mondata SPECIES_GULPIN, "Gulpin"
+mondata SPECIES_GULPIN, "ゴクリン"
     basestats 70, 43, 53, 40, 43, 53
     types TYPE_POISON, TYPE_POISON
     catchrate 225
@@ -6671,7 +6671,7 @@ mondata SPECIES_GULPIN, "Gulpin"
     mondexweight SPECIES_GULPIN, "22.7 lbs."
 
 
-mondata SPECIES_SWALOT, "Swalot"
+mondata SPECIES_SWALOT, "マルノ－ム"
     basestats 100, 73, 83, 55, 73, 83
     types TYPE_POISON, TYPE_POISON
     catchrate 75
@@ -6692,7 +6692,7 @@ mondata SPECIES_SWALOT, "Swalot"
     mondexweight SPECIES_SWALOT, "176.4 lbs."
 
 
-mondata SPECIES_CARVANHA, "Carvanha"
+mondata SPECIES_CARVANHA, "キバニア"
     basestats 45, 90, 20, 65, 65, 20
     types TYPE_WATER, TYPE_DARK
     catchrate 225
@@ -6713,7 +6713,7 @@ mondata SPECIES_CARVANHA, "Carvanha"
     mondexweight SPECIES_CARVANHA, "45.9 lbs."
 
 
-mondata SPECIES_SHARPEDO, "Sharpedo"
+mondata SPECIES_SHARPEDO, "サメハダ－"
     basestats 70, 120, 40, 95, 95, 40
     types TYPE_WATER, TYPE_DARK
     catchrate 60
@@ -6734,7 +6734,7 @@ mondata SPECIES_SHARPEDO, "Sharpedo"
     mondexweight SPECIES_SHARPEDO, "195.8 lbs."
 
 
-mondata SPECIES_WAILMER, "Wailmer"
+mondata SPECIES_WAILMER, "ホエルコ"
     basestats 130, 70, 35, 60, 70, 35
     types TYPE_WATER, TYPE_WATER
     catchrate 125
@@ -6755,7 +6755,7 @@ mondata SPECIES_WAILMER, "Wailmer"
     mondexweight SPECIES_WAILMER, "286.6 lbs."
 
 
-mondata SPECIES_WAILORD, "Wailord"
+mondata SPECIES_WAILORD, "ホエルオ－"
     basestats 170, 90, 45, 60, 90, 45
     types TYPE_WATER, TYPE_WATER
     catchrate 60
@@ -6776,7 +6776,7 @@ mondata SPECIES_WAILORD, "Wailord"
     mondexweight SPECIES_WAILORD, "877.4 lbs."
 
 
-mondata SPECIES_NUMEL, "Numel"
+mondata SPECIES_NUMEL, "ドンメル"
     basestats 60, 60, 40, 35, 65, 45
     types TYPE_FIRE, TYPE_GROUND
     catchrate 255
@@ -6797,7 +6797,7 @@ mondata SPECIES_NUMEL, "Numel"
     mondexweight SPECIES_NUMEL, "52.9 lbs."
 
 
-mondata SPECIES_CAMERUPT, "Camerupt"
+mondata SPECIES_CAMERUPT, "バク－ダ"
     basestats 70, 100, 70, 40, 105, 75
     types TYPE_FIRE, TYPE_GROUND
     catchrate 150
@@ -6818,7 +6818,7 @@ mondata SPECIES_CAMERUPT, "Camerupt"
     mondexweight SPECIES_CAMERUPT, "485.0 lbs."
 
 
-mondata SPECIES_TORKOAL, "Torkoal"
+mondata SPECIES_TORKOAL, "コ－タス"
     basestats 70, 85, 140, 20, 85, 70
     types TYPE_FIRE, TYPE_FIRE
     catchrate 90
@@ -6839,7 +6839,7 @@ mondata SPECIES_TORKOAL, "Torkoal"
     mondexweight SPECIES_TORKOAL, "177.3 lbs."
 
 
-mondata SPECIES_SPOINK, "Spoink"
+mondata SPECIES_SPOINK, "バネブ－"
     basestats 60, 25, 35, 60, 70, 80
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 255
@@ -6860,7 +6860,7 @@ mondata SPECIES_SPOINK, "Spoink"
     mondexweight SPECIES_SPOINK, "67.5 lbs."
 
 
-mondata SPECIES_GRUMPIG, "Grumpig"
+mondata SPECIES_GRUMPIG, "ブ－ピッグ"
     basestats 80, 45, 65, 80, 90, 110
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 60
@@ -6881,7 +6881,7 @@ mondata SPECIES_GRUMPIG, "Grumpig"
     mondexweight SPECIES_GRUMPIG, "157.6 lbs."
 
 
-mondata SPECIES_SPINDA, "Spinda"
+mondata SPECIES_SPINDA, "パッチ－ル"
     basestats 60, 60, 60, 60, 60, 60
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -6902,7 +6902,7 @@ mondata SPECIES_SPINDA, "Spinda"
     mondexweight SPECIES_SPINDA, "11.0 lbs."
 
 
-mondata SPECIES_TRAPINCH, "Trapinch"
+mondata SPECIES_TRAPINCH, "ナックラ－"
     basestats 45, 100, 45, 10, 45, 45
     types TYPE_GROUND, TYPE_GROUND
     catchrate 255
@@ -6923,7 +6923,7 @@ mondata SPECIES_TRAPINCH, "Trapinch"
     mondexweight SPECIES_TRAPINCH, "33.1 lbs."
 
 
-mondata SPECIES_VIBRAVA, "Vibrava"
+mondata SPECIES_VIBRAVA, "ビブラ－バ"
     basestats 50, 70, 50, 70, 50, 50
     types TYPE_GROUND, TYPE_DRAGON
     catchrate 120
@@ -6944,7 +6944,7 @@ mondata SPECIES_VIBRAVA, "Vibrava"
     mondexweight SPECIES_VIBRAVA, "33.7 lbs."
 
 
-mondata SPECIES_FLYGON, "Flygon"
+mondata SPECIES_FLYGON, "フライゴン"
     basestats 80, 100, 80, 100, 80, 80
     types TYPE_GROUND, TYPE_DRAGON
     catchrate 45
@@ -6965,7 +6965,7 @@ mondata SPECIES_FLYGON, "Flygon"
     mondexweight SPECIES_FLYGON, "180.8 lbs."
 
 
-mondata SPECIES_CACNEA, "Cacnea"
+mondata SPECIES_CACNEA, "サボネア"
     basestats 50, 85, 40, 35, 85, 40
     types TYPE_GRASS, TYPE_GRASS
     catchrate 190
@@ -6986,7 +6986,7 @@ mondata SPECIES_CACNEA, "Cacnea"
     mondexweight SPECIES_CACNEA, "113.1 lbs."
 
 
-mondata SPECIES_CACTURNE, "Cacturne"
+mondata SPECIES_CACTURNE, "ノクタス"
     basestats 70, 115, 60, 55, 115, 60
     types TYPE_GRASS, TYPE_DARK
     catchrate 60
@@ -7007,7 +7007,7 @@ mondata SPECIES_CACTURNE, "Cacturne"
     mondexweight SPECIES_CACTURNE, "170.6 lbs."
 
 
-mondata SPECIES_SWABLU, "Swablu"
+mondata SPECIES_SWABLU, "チルット"
     basestats 45, 40, 60, 50, 40, 75
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 255
@@ -7028,7 +7028,7 @@ mondata SPECIES_SWABLU, "Swablu"
     mondexweight SPECIES_SWABLU, "2.6 lbs."
 
 
-mondata SPECIES_ALTARIA, "Altaria"
+mondata SPECIES_ALTARIA, "チルタリス"
     basestats 75, 70, 90, 80, 70, 105
     types TYPE_DRAGON, TYPE_FLYING
     catchrate 45
@@ -7049,7 +7049,7 @@ mondata SPECIES_ALTARIA, "Altaria"
     mondexweight SPECIES_ALTARIA, "45.4 lbs."
 
 
-mondata SPECIES_ZANGOOSE, "Zangoose"
+mondata SPECIES_ZANGOOSE, "ザング－ス"
     basestats 73, 115, 60, 90, 60, 60
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 90
@@ -7070,7 +7070,7 @@ mondata SPECIES_ZANGOOSE, "Zangoose"
     mondexweight SPECIES_ZANGOOSE, "88.8 lbs."
 
 
-mondata SPECIES_SEVIPER, "Seviper"
+mondata SPECIES_SEVIPER, "ハブネ－ク"
     basestats 73, 100, 60, 65, 100, 60
     types TYPE_POISON, TYPE_POISON
     catchrate 90
@@ -7091,7 +7091,7 @@ mondata SPECIES_SEVIPER, "Seviper"
     mondexweight SPECIES_SEVIPER, "115.7 lbs."
 
 
-mondata SPECIES_LUNATONE, "Lunatone"
+mondata SPECIES_LUNATONE, "ルナト－ン"
     basestats 90, 55, 65, 70, 95, 85
     types TYPE_ROCK, TYPE_PSYCHIC
     catchrate 45
@@ -7112,7 +7112,7 @@ mondata SPECIES_LUNATONE, "Lunatone"
     mondexweight SPECIES_LUNATONE, "370.4 lbs."
 
 
-mondata SPECIES_SOLROCK, "Solrock"
+mondata SPECIES_SOLROCK, "ソルロック"
     basestats 90, 95, 85, 70, 55, 65
     types TYPE_ROCK, TYPE_PSYCHIC
     catchrate 45
@@ -7133,7 +7133,7 @@ mondata SPECIES_SOLROCK, "Solrock"
     mondexweight SPECIES_SOLROCK, "339.5 lbs."
 
 
-mondata SPECIES_BARBOACH, "Barboach"
+mondata SPECIES_BARBOACH, "ドジョッチ"
     basestats 50, 48, 43, 60, 46, 41
     types TYPE_WATER, TYPE_GROUND
     catchrate 190
@@ -7154,7 +7154,7 @@ mondata SPECIES_BARBOACH, "Barboach"
     mondexweight SPECIES_BARBOACH, "4.2 lbs."
 
 
-mondata SPECIES_WHISCASH, "Whiscash"
+mondata SPECIES_WHISCASH, "ナマズン"
     basestats 110, 78, 73, 60, 76, 71
     types TYPE_WATER, TYPE_GROUND
     catchrate 75
@@ -7175,7 +7175,7 @@ mondata SPECIES_WHISCASH, "Whiscash"
     mondexweight SPECIES_WHISCASH, "52.0 lbs."
 
 
-mondata SPECIES_CORPHISH, "Corphish"
+mondata SPECIES_CORPHISH, "ヘイガニ"
     basestats 43, 80, 65, 35, 50, 35
     types TYPE_WATER, TYPE_WATER
     catchrate 205
@@ -7196,7 +7196,7 @@ mondata SPECIES_CORPHISH, "Corphish"
     mondexweight SPECIES_CORPHISH, "25.4 lbs."
 
 
-mondata SPECIES_CRAWDAUNT, "Crawdaunt"
+mondata SPECIES_CRAWDAUNT, "シザリガ－"
     basestats 63, 120, 85, 55, 90, 55
     types TYPE_WATER, TYPE_DARK
     catchrate 155
@@ -7217,7 +7217,7 @@ mondata SPECIES_CRAWDAUNT, "Crawdaunt"
     mondexweight SPECIES_CRAWDAUNT, "72.3 lbs."
 
 
-mondata SPECIES_BALTOY, "Baltoy"
+mondata SPECIES_BALTOY, "ヤジロン"
     basestats 40, 40, 55, 55, 40, 70
     types TYPE_GROUND, TYPE_PSYCHIC
     catchrate 255
@@ -7238,7 +7238,7 @@ mondata SPECIES_BALTOY, "Baltoy"
     mondexweight SPECIES_BALTOY, "47.4 lbs."
 
 
-mondata SPECIES_CLAYDOL, "Claydol"
+mondata SPECIES_CLAYDOL, "ネンド－ル"
     basestats 60, 70, 105, 75, 70, 120
     types TYPE_GROUND, TYPE_PSYCHIC
     catchrate 90
@@ -7259,7 +7259,7 @@ mondata SPECIES_CLAYDOL, "Claydol"
     mondexweight SPECIES_CLAYDOL, "238.1 lbs."
 
 
-mondata SPECIES_LILEEP, "Lileep"
+mondata SPECIES_LILEEP, "リリ－ラ"
     basestats 66, 41, 77, 23, 61, 87
     types TYPE_ROCK, TYPE_GRASS
     catchrate 45
@@ -7280,7 +7280,7 @@ mondata SPECIES_LILEEP, "Lileep"
     mondexweight SPECIES_LILEEP, "52.5 lbs."
 
 
-mondata SPECIES_CRADILY, "Cradily"
+mondata SPECIES_CRADILY, "ユレイドル"
     basestats 86, 81, 97, 43, 81, 107
     types TYPE_ROCK, TYPE_GRASS
     catchrate 45
@@ -7301,7 +7301,7 @@ mondata SPECIES_CRADILY, "Cradily"
     mondexweight SPECIES_CRADILY, "133.2 lbs."
 
 
-mondata SPECIES_ANORITH, "Anorith"
+mondata SPECIES_ANORITH, "アノプス"
     basestats 45, 95, 50, 75, 40, 50
     types TYPE_ROCK, TYPE_BUG
     catchrate 45
@@ -7322,7 +7322,7 @@ mondata SPECIES_ANORITH, "Anorith"
     mondexweight SPECIES_ANORITH, "27.6 lbs."
 
 
-mondata SPECIES_ARMALDO, "Armaldo"
+mondata SPECIES_ARMALDO, "ア－マルド"
     basestats 75, 125, 100, 45, 70, 80
     types TYPE_ROCK, TYPE_BUG
     catchrate 45
@@ -7343,7 +7343,7 @@ mondata SPECIES_ARMALDO, "Armaldo"
     mondexweight SPECIES_ARMALDO, "150.4 lbs."
 
 
-mondata SPECIES_FEEBAS, "Feebas"
+mondata SPECIES_FEEBAS, "ヒンバス"
     basestats 20, 15, 20, 80, 10, 55
     types TYPE_WATER, TYPE_WATER
     catchrate 255
@@ -7364,7 +7364,7 @@ mondata SPECIES_FEEBAS, "Feebas"
     mondexweight SPECIES_FEEBAS, "16.3 lbs."
 
 
-mondata SPECIES_MILOTIC, "Milotic"
+mondata SPECIES_MILOTIC, "ミロカロス"
     basestats 95, 60, 79, 81, 100, 125
     types TYPE_WATER, TYPE_WATER
     catchrate 60
@@ -7385,7 +7385,7 @@ mondata SPECIES_MILOTIC, "Milotic"
     mondexweight SPECIES_MILOTIC, "357.1 lbs."
 
 
-mondata SPECIES_CASTFORM, "Castform"
+mondata SPECIES_CASTFORM, "ポワルン"
     basestats 70, 70, 70, 70, 70, 70
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -7406,7 +7406,7 @@ mondata SPECIES_CASTFORM, "Castform"
     mondexweight SPECIES_CASTFORM, "1.8 lbs."
 
 
-mondata SPECIES_KECLEON, "Kecleon"
+mondata SPECIES_KECLEON, "カクレオン"
     basestats 60, 90, 70, 40, 60, 120
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 200
@@ -7427,7 +7427,7 @@ mondata SPECIES_KECLEON, "Kecleon"
     mondexweight SPECIES_KECLEON, "48.5 lbs."
 
 
-mondata SPECIES_SHUPPET, "Shuppet"
+mondata SPECIES_SHUPPET, "カゲボウズ"
     basestats 44, 75, 35, 45, 63, 33
     types TYPE_GHOST, TYPE_GHOST
     catchrate 225
@@ -7448,7 +7448,7 @@ mondata SPECIES_SHUPPET, "Shuppet"
     mondexweight SPECIES_SHUPPET, "5.1 lbs."
 
 
-mondata SPECIES_BANETTE, "Banette"
+mondata SPECIES_BANETTE, "ジュペッタ"
     basestats 64, 115, 65, 65, 83, 63
     types TYPE_GHOST, TYPE_GHOST
     catchrate 45
@@ -7469,7 +7469,7 @@ mondata SPECIES_BANETTE, "Banette"
     mondexweight SPECIES_BANETTE, "27.6 lbs."
 
 
-mondata SPECIES_DUSKULL, "Duskull"
+mondata SPECIES_DUSKULL, "ヨマワル"
     basestats 20, 40, 90, 25, 30, 90
     types TYPE_GHOST, TYPE_GHOST
     catchrate 190
@@ -7490,7 +7490,7 @@ mondata SPECIES_DUSKULL, "Duskull"
     mondexweight SPECIES_DUSKULL, "33.1 lbs."
 
 
-mondata SPECIES_DUSCLOPS, "Dusclops"
+mondata SPECIES_DUSCLOPS, "サマヨ－ル"
     basestats 40, 70, 130, 25, 60, 130
     types TYPE_GHOST, TYPE_GHOST
     catchrate 90
@@ -7511,7 +7511,7 @@ mondata SPECIES_DUSCLOPS, "Dusclops"
     mondexweight SPECIES_DUSCLOPS, "67.5 lbs."
 
 
-mondata SPECIES_TROPIUS, "Tropius"
+mondata SPECIES_TROPIUS, "トロピウス"
     basestats 99, 68, 83, 51, 72, 87
     types TYPE_GRASS, TYPE_FLYING
     catchrate 200
@@ -7532,7 +7532,7 @@ mondata SPECIES_TROPIUS, "Tropius"
     mondexweight SPECIES_TROPIUS, "220.5 lbs."
 
 
-mondata SPECIES_CHIMECHO, "Chimecho"
+mondata SPECIES_CHIMECHO, "チリ－ン"
     basestats 75, 50, 80, 65, 95, 90
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 45
@@ -7553,7 +7553,7 @@ mondata SPECIES_CHIMECHO, "Chimecho"
     mondexweight SPECIES_CHIMECHO, "2.2 lbs."
 
 
-mondata SPECIES_ABSOL, "Absol"
+mondata SPECIES_ABSOL, "アブソル"
     basestats 65, 130, 60, 75, 75, 60
     types TYPE_DARK, TYPE_DARK
     catchrate 30
@@ -7574,7 +7574,7 @@ mondata SPECIES_ABSOL, "Absol"
     mondexweight SPECIES_ABSOL, "103.6 lbs."
 
 
-mondata SPECIES_WYNAUT, "Wynaut"
+mondata SPECIES_WYNAUT, "ソ－ナノ"
     basestats 95, 23, 48, 23, 23, 48
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 125
@@ -7595,7 +7595,7 @@ mondata SPECIES_WYNAUT, "Wynaut"
     mondexweight SPECIES_WYNAUT, "30.9 lbs."
 
 
-mondata SPECIES_SNORUNT, "Snorunt"
+mondata SPECIES_SNORUNT, "ユキワラシ"
     basestats 50, 50, 50, 50, 50, 50
     types TYPE_ICE, TYPE_ICE
     catchrate 190
@@ -7616,7 +7616,7 @@ mondata SPECIES_SNORUNT, "Snorunt"
     mondexweight SPECIES_SNORUNT, "37.0 lbs."
 
 
-mondata SPECIES_GLALIE, "Glalie"
+mondata SPECIES_GLALIE, "オニゴ－リ"
     basestats 80, 80, 80, 80, 80, 80
     types TYPE_ICE, TYPE_ICE
     catchrate 75
@@ -7637,7 +7637,7 @@ mondata SPECIES_GLALIE, "Glalie"
     mondexweight SPECIES_GLALIE, "565.5 lbs."
 
 
-mondata SPECIES_SPHEAL, "Spheal"
+mondata SPECIES_SPHEAL, "タマザラシ"
     basestats 70, 40, 50, 25, 55, 50
     types TYPE_ICE, TYPE_WATER
     catchrate 255
@@ -7658,7 +7658,7 @@ mondata SPECIES_SPHEAL, "Spheal"
     mondexweight SPECIES_SPHEAL, "87.1 lbs."
 
 
-mondata SPECIES_SEALEO, "Sealeo"
+mondata SPECIES_SEALEO, "トドグラ－"
     basestats 90, 60, 70, 45, 75, 70
     types TYPE_ICE, TYPE_WATER
     catchrate 120
@@ -7679,7 +7679,7 @@ mondata SPECIES_SEALEO, "Sealeo"
     mondexweight SPECIES_SEALEO, "193.1 lbs."
 
 
-mondata SPECIES_WALREIN, "Walrein"
+mondata SPECIES_WALREIN, "トドゼルガ"
     basestats 110, 80, 90, 65, 95, 90
     types TYPE_ICE, TYPE_WATER
     catchrate 45
@@ -7700,7 +7700,7 @@ mondata SPECIES_WALREIN, "Walrein"
     mondexweight SPECIES_WALREIN, "332.0 lbs."
 
 
-mondata SPECIES_CLAMPERL, "Clamperl"
+mondata SPECIES_CLAMPERL, "パ－ルル"
     basestats 35, 64, 85, 32, 74, 55
     types TYPE_WATER, TYPE_WATER
     catchrate 255
@@ -7721,7 +7721,7 @@ mondata SPECIES_CLAMPERL, "Clamperl"
     mondexweight SPECIES_CLAMPERL, "115.7 lbs."
 
 
-mondata SPECIES_HUNTAIL, "Huntail"
+mondata SPECIES_HUNTAIL, "ハンテ－ル"
     basestats 55, 104, 105, 52, 94, 75
     types TYPE_WATER, TYPE_WATER
     catchrate 60
@@ -7742,7 +7742,7 @@ mondata SPECIES_HUNTAIL, "Huntail"
     mondexweight SPECIES_HUNTAIL, "59.5 lbs."
 
 
-mondata SPECIES_GOREBYSS, "Gorebyss"
+mondata SPECIES_GOREBYSS, "サクラビス"
     basestats 55, 84, 105, 52, 114, 75
     types TYPE_WATER, TYPE_WATER
     catchrate 60
@@ -7763,7 +7763,7 @@ mondata SPECIES_GOREBYSS, "Gorebyss"
     mondexweight SPECIES_GOREBYSS, "49.8 lbs."
 
 
-mondata SPECIES_RELICANTH, "Relicanth"
+mondata SPECIES_RELICANTH, "ジ－ランス"
     basestats 100, 90, 130, 55, 45, 65
     types TYPE_WATER, TYPE_ROCK
     catchrate 25
@@ -7784,7 +7784,7 @@ mondata SPECIES_RELICANTH, "Relicanth"
     mondexweight SPECIES_RELICANTH, "51.6 lbs."
 
 
-mondata SPECIES_LUVDISC, "Luvdisc"
+mondata SPECIES_LUVDISC, "ラブカス"
     basestats 43, 30, 55, 97, 40, 65
     types TYPE_WATER, TYPE_WATER
     catchrate 225
@@ -7805,7 +7805,7 @@ mondata SPECIES_LUVDISC, "Luvdisc"
     mondexweight SPECIES_LUVDISC, "19.2 lbs."
 
 
-mondata SPECIES_BAGON, "Bagon"
+mondata SPECIES_BAGON, "タツベイ"
     basestats 45, 75, 60, 50, 40, 30
     types TYPE_DRAGON, TYPE_DRAGON
     catchrate 45
@@ -7826,7 +7826,7 @@ mondata SPECIES_BAGON, "Bagon"
     mondexweight SPECIES_BAGON, "92.8 lbs."
 
 
-mondata SPECIES_SHELGON, "Shelgon"
+mondata SPECIES_SHELGON, "コモル－"
     basestats 65, 95, 100, 50, 60, 50
     types TYPE_DRAGON, TYPE_DRAGON
     catchrate 45
@@ -7847,7 +7847,7 @@ mondata SPECIES_SHELGON, "Shelgon"
     mondexweight SPECIES_SHELGON, "243.6 lbs."
 
 
-mondata SPECIES_SALAMENCE, "Salamence"
+mondata SPECIES_SALAMENCE, "ボ－マンダ"
     basestats 95, 135, 80, 100, 110, 80
     types TYPE_DRAGON, TYPE_FLYING
     catchrate 45
@@ -7868,7 +7868,7 @@ mondata SPECIES_SALAMENCE, "Salamence"
     mondexweight SPECIES_SALAMENCE, "226.2 lbs."
 
 
-mondata SPECIES_BELDUM, "Beldum"
+mondata SPECIES_BELDUM, "ダンバル"
     basestats 40, 55, 80, 30, 35, 60
     types TYPE_STEEL, TYPE_PSYCHIC
     catchrate 3
@@ -7889,7 +7889,7 @@ mondata SPECIES_BELDUM, "Beldum"
     mondexweight SPECIES_BELDUM, "209.9 lbs."
 
 
-mondata SPECIES_METANG, "Metang"
+mondata SPECIES_METANG, "メタング"
     basestats 60, 75, 100, 50, 55, 80
     types TYPE_STEEL, TYPE_PSYCHIC
     catchrate 3
@@ -7910,7 +7910,7 @@ mondata SPECIES_METANG, "Metang"
     mondexweight SPECIES_METANG, "446.4 lbs."
 
 
-mondata SPECIES_METAGROSS, "Metagross"
+mondata SPECIES_METAGROSS, "メタグロス"
     basestats 80, 135, 130, 70, 95, 90
     types TYPE_STEEL, TYPE_PSYCHIC
     catchrate 3
@@ -7931,7 +7931,7 @@ mondata SPECIES_METAGROSS, "Metagross"
     mondexweight SPECIES_METAGROSS, "1212.5 lbs."
 
 
-mondata SPECIES_REGIROCK, "Regirock"
+mondata SPECIES_REGIROCK, "レジロック"
     basestats 80, 100, 200, 50, 50, 100
     types TYPE_ROCK, TYPE_ROCK
     catchrate 3
@@ -7952,7 +7952,7 @@ mondata SPECIES_REGIROCK, "Regirock"
     mondexweight SPECIES_REGIROCK, "507.1 lbs."
 
 
-mondata SPECIES_REGICE, "Regice"
+mondata SPECIES_REGICE, "レジアイス"
     basestats 80, 50, 100, 50, 100, 200
     types TYPE_ICE, TYPE_ICE
     catchrate 3
@@ -7973,7 +7973,7 @@ mondata SPECIES_REGICE, "Regice"
     mondexweight SPECIES_REGICE, "385.8 lbs."
 
 
-mondata SPECIES_REGISTEEL, "Registeel"
+mondata SPECIES_REGISTEEL, "レジスチル"
     basestats 80, 75, 150, 50, 75, 150
     types TYPE_STEEL, TYPE_STEEL
     catchrate 3
@@ -7994,7 +7994,7 @@ mondata SPECIES_REGISTEEL, "Registeel"
     mondexweight SPECIES_REGISTEEL, "451.9 lbs."
 
 
-mondata SPECIES_LATIAS, "Latias"
+mondata SPECIES_LATIAS, "ラティアス"
     basestats 80, 80, 90, 110, 110, 130
     types TYPE_DRAGON, TYPE_PSYCHIC
     catchrate 3
@@ -8015,7 +8015,7 @@ mondata SPECIES_LATIAS, "Latias"
     mondexweight SPECIES_LATIAS, "88.2 lbs."
 
 
-mondata SPECIES_LATIOS, "Latios"
+mondata SPECIES_LATIOS, "ラティオス"
     basestats 80, 90, 80, 110, 130, 110
     types TYPE_DRAGON, TYPE_PSYCHIC
     catchrate 3
@@ -8036,7 +8036,7 @@ mondata SPECIES_LATIOS, "Latios"
     mondexweight SPECIES_LATIOS, "132.3 lbs."
 
 
-mondata SPECIES_KYOGRE, "Kyogre"
+mondata SPECIES_KYOGRE, "カイオ－ガ"
     basestats 100, 100, 90, 90, 150, 140
     types TYPE_WATER, TYPE_WATER
     catchrate 3
@@ -8057,7 +8057,7 @@ mondata SPECIES_KYOGRE, "Kyogre"
     mondexweight SPECIES_KYOGRE, "776.0 lbs."
 
 
-mondata SPECIES_GROUDON, "Groudon"
+mondata SPECIES_GROUDON, "グラ－ドン"
     basestats 100, 150, 140, 90, 100, 90
     types TYPE_GROUND, TYPE_GROUND
     catchrate 3
@@ -8078,7 +8078,7 @@ mondata SPECIES_GROUDON, "Groudon"
     mondexweight SPECIES_GROUDON, "2094.4 lbs."
 
 
-mondata SPECIES_RAYQUAZA, "Rayquaza"
+mondata SPECIES_RAYQUAZA, "レックウザ"
     basestats 105, 150, 90, 95, 150, 90
     types TYPE_DRAGON, TYPE_FLYING
     catchrate 45
@@ -8099,7 +8099,7 @@ mondata SPECIES_RAYQUAZA, "Rayquaza"
     mondexweight SPECIES_RAYQUAZA, "455.3 lbs."
 
 
-mondata SPECIES_JIRACHI, "Jirachi"
+mondata SPECIES_JIRACHI, "ジラ－チ"
     basestats 100, 100, 100, 100, 100, 100
     types TYPE_STEEL, TYPE_PSYCHIC
     catchrate 3
@@ -8120,7 +8120,7 @@ mondata SPECIES_JIRACHI, "Jirachi"
     mondexweight SPECIES_JIRACHI, "2.4 lbs."
 
 
-mondata SPECIES_DEOXYS, "Deoxys"
+mondata SPECIES_DEOXYS, "デオキシス"
     basestats 50, 150, 50, 150, 150, 50
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -8141,7 +8141,7 @@ mondata SPECIES_DEOXYS, "Deoxys"
     mondexweight SPECIES_DEOXYS, "134.0 lbs."
 
 
-mondata SPECIES_TURTWIG, "Turtwig"
+mondata SPECIES_TURTWIG, "ナエトル"
     basestats 55, 68, 64, 31, 45, 55
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -8162,7 +8162,7 @@ mondata SPECIES_TURTWIG, "Turtwig"
     mondexweight SPECIES_TURTWIG, "22.5 lbs."
 
 
-mondata SPECIES_GROTLE, "Grotle"
+mondata SPECIES_GROTLE, "ハヤシガメ"
     basestats 75, 89, 85, 36, 55, 65
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -8183,7 +8183,7 @@ mondata SPECIES_GROTLE, "Grotle"
     mondexweight SPECIES_GROTLE, "213.8 lbs."
 
 
-mondata SPECIES_TORTERRA, "Torterra"
+mondata SPECIES_TORTERRA, "ドダイトス"
     basestats 95, 109, 105, 56, 75, 85
     types TYPE_GRASS, TYPE_GROUND
     catchrate 45
@@ -8204,7 +8204,7 @@ mondata SPECIES_TORTERRA, "Torterra"
     mondexweight SPECIES_TORTERRA, "683.4 lbs."
 
 
-mondata SPECIES_CHIMCHAR, "Chimchar"
+mondata SPECIES_CHIMCHAR, "ヒコザル"
     basestats 44, 58, 44, 61, 58, 44
     types TYPE_FIRE, TYPE_FIRE
     catchrate 45
@@ -8225,7 +8225,7 @@ mondata SPECIES_CHIMCHAR, "Chimchar"
     mondexweight SPECIES_CHIMCHAR, "13.7 lbs."
 
 
-mondata SPECIES_MONFERNO, "Monferno"
+mondata SPECIES_MONFERNO, "モウカザル"
     basestats 64, 78, 52, 81, 78, 52
     types TYPE_FIRE, TYPE_FIGHTING
     catchrate 45
@@ -8246,7 +8246,7 @@ mondata SPECIES_MONFERNO, "Monferno"
     mondexweight SPECIES_MONFERNO, "48.5 lbs."
 
 
-mondata SPECIES_INFERNAPE, "Infernape"
+mondata SPECIES_INFERNAPE, "ゴウカザル"
     basestats 76, 104, 71, 108, 104, 71
     types TYPE_FIRE, TYPE_FIGHTING
     catchrate 45
@@ -8267,7 +8267,7 @@ mondata SPECIES_INFERNAPE, "Infernape"
     mondexweight SPECIES_INFERNAPE, "121.3 lbs."
 
 
-mondata SPECIES_PIPLUP, "Piplup"
+mondata SPECIES_PIPLUP, "ポッチャマ"
     basestats 53, 51, 53, 40, 61, 56
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -8288,7 +8288,7 @@ mondata SPECIES_PIPLUP, "Piplup"
     mondexweight SPECIES_PIPLUP, "11.5 lbs."
 
 
-mondata SPECIES_PRINPLUP, "Prinplup"
+mondata SPECIES_PRINPLUP, "ポッタイシ"
     basestats 64, 66, 68, 50, 81, 76
     types TYPE_WATER, TYPE_WATER
     catchrate 45
@@ -8309,7 +8309,7 @@ mondata SPECIES_PRINPLUP, "Prinplup"
     mondexweight SPECIES_PRINPLUP, "50.7 lbs."
 
 
-mondata SPECIES_EMPOLEON, "Empoleon"
+mondata SPECIES_EMPOLEON, "エンペルト"
     basestats 84, 86, 88, 60, 111, 101
     types TYPE_WATER, TYPE_STEEL
     catchrate 45
@@ -8330,7 +8330,7 @@ mondata SPECIES_EMPOLEON, "Empoleon"
     mondexweight SPECIES_EMPOLEON, "186.3 lbs."
 
 
-mondata SPECIES_STARLY, "Starly"
+mondata SPECIES_STARLY, "ムックル"
     basestats 40, 55, 30, 60, 30, 30
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 255
@@ -8351,7 +8351,7 @@ mondata SPECIES_STARLY, "Starly"
     mondexweight SPECIES_STARLY, "4.4 lbs."
 
 
-mondata SPECIES_STARAVIA, "Staravia"
+mondata SPECIES_STARAVIA, "ムクバ－ド"
     basestats 55, 75, 50, 80, 40, 40
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 120
@@ -8372,7 +8372,7 @@ mondata SPECIES_STARAVIA, "Staravia"
     mondexweight SPECIES_STARAVIA, "34.2 lbs."
 
 
-mondata SPECIES_STARAPTOR, "Staraptor"
+mondata SPECIES_STARAPTOR, "ムクホ－ク"
     basestats 85, 120, 70, 100, 50, 60
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 45
@@ -8393,7 +8393,7 @@ mondata SPECIES_STARAPTOR, "Staraptor"
     mondexweight SPECIES_STARAPTOR, "54.9 lbs."
 
 
-mondata SPECIES_BIDOOF, "Bidoof"
+mondata SPECIES_BIDOOF, "ビッパ"
     basestats 59, 45, 40, 31, 35, 40
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 255
@@ -8414,7 +8414,7 @@ mondata SPECIES_BIDOOF, "Bidoof"
     mondexweight SPECIES_BIDOOF, "44.1 lbs."
 
 
-mondata SPECIES_BIBAREL, "Bibarel"
+mondata SPECIES_BIBAREL, "ビ－ダル"
     basestats 79, 85, 60, 71, 55, 60
     types TYPE_NORMAL, TYPE_WATER
     catchrate 127
@@ -8435,7 +8435,7 @@ mondata SPECIES_BIBAREL, "Bibarel"
     mondexweight SPECIES_BIBAREL, "69.4 lbs."
 
 
-mondata SPECIES_KRICKETOT, "Kricketot"
+mondata SPECIES_KRICKETOT, "コロボ－シ"
     basestats 37, 25, 41, 25, 25, 41
     types TYPE_BUG, TYPE_BUG
     catchrate 255
@@ -8456,7 +8456,7 @@ mondata SPECIES_KRICKETOT, "Kricketot"
     mondexweight SPECIES_KRICKETOT, "4.9 lbs."
 
 
-mondata SPECIES_KRICKETUNE, "Kricketune"
+mondata SPECIES_KRICKETUNE, "コロトック"
     basestats 77, 85, 51, 65, 55, 51
     types TYPE_BUG, TYPE_BUG
     catchrate 45
@@ -8477,7 +8477,7 @@ mondata SPECIES_KRICKETUNE, "Kricketune"
     mondexweight SPECIES_KRICKETUNE, "56.2 lbs."
 
 
-mondata SPECIES_SHINX, "Shinx"
+mondata SPECIES_SHINX, "コリンク"
     basestats 45, 65, 34, 45, 40, 34
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 235
@@ -8498,7 +8498,7 @@ mondata SPECIES_SHINX, "Shinx"
     mondexweight SPECIES_SHINX, "20.9 lbs."
 
 
-mondata SPECIES_LUXIO, "Luxio"
+mondata SPECIES_LUXIO, "ルクシオ"
     basestats 60, 85, 49, 60, 60, 49
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 120
@@ -8519,7 +8519,7 @@ mondata SPECIES_LUXIO, "Luxio"
     mondexweight SPECIES_LUXIO, "67.2 lbs."
 
 
-mondata SPECIES_LUXRAY, "Luxray"
+mondata SPECIES_LUXRAY, "レントラ－"
     basestats 80, 120, 79, 70, 95, 79
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 45
@@ -8540,7 +8540,7 @@ mondata SPECIES_LUXRAY, "Luxray"
     mondexweight SPECIES_LUXRAY, "92.6 lbs."
 
 
-mondata SPECIES_BUDEW, "Budew"
+mondata SPECIES_BUDEW, "スボミ－"
     basestats 40, 30, 35, 55, 50, 70
     types TYPE_GRASS, TYPE_POISON
     catchrate 255
@@ -8561,7 +8561,7 @@ mondata SPECIES_BUDEW, "Budew"
     mondexweight SPECIES_BUDEW, "2.6 lbs."
 
 
-mondata SPECIES_ROSERADE, "Roserade"
+mondata SPECIES_ROSERADE, "ロズレイド"
     basestats 60, 70, 65, 90, 125, 105
     types TYPE_GRASS, TYPE_POISON
     catchrate 75
@@ -8582,7 +8582,7 @@ mondata SPECIES_ROSERADE, "Roserade"
     mondexweight SPECIES_ROSERADE, "32.0 lbs."
 
 
-mondata SPECIES_CRANIDOS, "Cranidos"
+mondata SPECIES_CRANIDOS, "ズガイドス"
     basestats 67, 125, 40, 58, 30, 30
     types TYPE_ROCK, TYPE_ROCK
     catchrate 45
@@ -8603,7 +8603,7 @@ mondata SPECIES_CRANIDOS, "Cranidos"
     mondexweight SPECIES_CRANIDOS, "69.4 lbs."
 
 
-mondata SPECIES_RAMPARDOS, "Rampardos"
+mondata SPECIES_RAMPARDOS, "ラムパルド"
     basestats 97, 165, 60, 58, 65, 50
     types TYPE_ROCK, TYPE_ROCK
     catchrate 45
@@ -8624,7 +8624,7 @@ mondata SPECIES_RAMPARDOS, "Rampardos"
     mondexweight SPECIES_RAMPARDOS, "226.0 lbs."
 
 
-mondata SPECIES_SHIELDON, "Shieldon"
+mondata SPECIES_SHIELDON, "タテトプス"
     basestats 30, 42, 118, 30, 42, 88
     types TYPE_ROCK, TYPE_STEEL
     catchrate 45
@@ -8645,7 +8645,7 @@ mondata SPECIES_SHIELDON, "Shieldon"
     mondexweight SPECIES_SHIELDON, "125.7 lbs."
 
 
-mondata SPECIES_BASTIODON, "Bastiodon"
+mondata SPECIES_BASTIODON, "トリデプス"
     basestats 60, 52, 168, 30, 47, 138
     types TYPE_ROCK, TYPE_STEEL
     catchrate 45
@@ -8666,7 +8666,7 @@ mondata SPECIES_BASTIODON, "Bastiodon"
     mondexweight SPECIES_BASTIODON, "329.6 lbs."
 
 
-mondata SPECIES_BURMY, "Burmy"
+mondata SPECIES_BURMY, "ミノムッチ"
     basestats 40, 29, 45, 36, 29, 45
     types TYPE_BUG, TYPE_BUG
     catchrate 120
@@ -8687,7 +8687,7 @@ mondata SPECIES_BURMY, "Burmy"
     mondexweight SPECIES_BURMY, "7.5 lbs."
 
 
-mondata SPECIES_WORMADAM, "Wormadam"
+mondata SPECIES_WORMADAM, "ミノマダム"
     basestats 60, 59, 85, 36, 79, 105
     types TYPE_BUG, TYPE_GRASS
     catchrate 45
@@ -8708,7 +8708,7 @@ mondata SPECIES_WORMADAM, "Wormadam"
     mondexweight SPECIES_WORMADAM, "14.3 lbs."
 
 
-mondata SPECIES_MOTHIM, "Mothim"
+mondata SPECIES_MOTHIM, "ガ－メイル"
     basestats 70, 94, 50, 66, 94, 50
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
@@ -8729,7 +8729,7 @@ mondata SPECIES_MOTHIM, "Mothim"
     mondexweight SPECIES_MOTHIM, "51.4 lbs."
 
 
-mondata SPECIES_COMBEE, "Combee"
+mondata SPECIES_COMBEE, "ミツハニ－"
     basestats 30, 30, 42, 70, 30, 42
     types TYPE_BUG, TYPE_FLYING
     catchrate 120
@@ -8750,7 +8750,7 @@ mondata SPECIES_COMBEE, "Combee"
     mondexweight SPECIES_COMBEE, "12.1 lbs."
 
 
-mondata SPECIES_VESPIQUEN, "Vespiquen"
+mondata SPECIES_VESPIQUEN, "ビ－クイン"
     basestats 70, 80, 102, 40, 80, 102
     types TYPE_BUG, TYPE_FLYING
     catchrate 45
@@ -8771,7 +8771,7 @@ mondata SPECIES_VESPIQUEN, "Vespiquen"
     mondexweight SPECIES_VESPIQUEN, "84.9 lbs."
 
 
-mondata SPECIES_PACHIRISU, "Pachirisu"
+mondata SPECIES_PACHIRISU, "パチリス"
     basestats 60, 45, 70, 95, 45, 90
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 200
@@ -8792,7 +8792,7 @@ mondata SPECIES_PACHIRISU, "Pachirisu"
     mondexweight SPECIES_PACHIRISU, "8.6 lbs."
 
 
-mondata SPECIES_BUIZEL, "Buizel"
+mondata SPECIES_BUIZEL, "ブイゼル"
     basestats 55, 65, 35, 85, 60, 30
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -8813,7 +8813,7 @@ mondata SPECIES_BUIZEL, "Buizel"
     mondexweight SPECIES_BUIZEL, "65.0 lbs."
 
 
-mondata SPECIES_FLOATZEL, "Floatzel"
+mondata SPECIES_FLOATZEL, "フロ－ゼル"
     basestats 85, 105, 55, 115, 85, 50
     types TYPE_WATER, TYPE_WATER
     catchrate 75
@@ -8834,7 +8834,7 @@ mondata SPECIES_FLOATZEL, "Floatzel"
     mondexweight SPECIES_FLOATZEL, "73.9 lbs."
 
 
-mondata SPECIES_CHERUBI, "Cherubi"
+mondata SPECIES_CHERUBI, "チェリンボ"
     basestats 45, 35, 45, 35, 62, 53
     types TYPE_GRASS, TYPE_GRASS
     catchrate 190
@@ -8855,7 +8855,7 @@ mondata SPECIES_CHERUBI, "Cherubi"
     mondexweight SPECIES_CHERUBI, "7.3 lbs."
 
 
-mondata SPECIES_CHERRIM, "Cherrim"
+mondata SPECIES_CHERRIM, "チェリム"
     basestats 70, 60, 70, 85, 87, 78
     types TYPE_GRASS, TYPE_GRASS
     catchrate 75
@@ -8876,7 +8876,7 @@ mondata SPECIES_CHERRIM, "Cherrim"
     mondexweight SPECIES_CHERRIM, "20.5 lbs."
 
 
-mondata SPECIES_SHELLOS, "Shellos"
+mondata SPECIES_SHELLOS, "カラナクシ"
     basestats 76, 48, 48, 34, 57, 62
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -8897,7 +8897,7 @@ mondata SPECIES_SHELLOS, "Shellos"
     mondexweight SPECIES_SHELLOS, "13.9 lbs."
 
 
-mondata SPECIES_GASTRODON, "Gastrodon"
+mondata SPECIES_GASTRODON, "トリトドン"
     basestats 111, 83, 68, 39, 92, 82
     types TYPE_WATER, TYPE_GROUND
     catchrate 75
@@ -8918,7 +8918,7 @@ mondata SPECIES_GASTRODON, "Gastrodon"
     mondexweight SPECIES_GASTRODON, "65.9 lbs."
 
 
-mondata SPECIES_AMBIPOM, "Ambipom"
+mondata SPECIES_AMBIPOM, "エテボ－ス"
     basestats 75, 100, 66, 115, 60, 66
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 45
@@ -8939,7 +8939,7 @@ mondata SPECIES_AMBIPOM, "Ambipom"
     mondexweight SPECIES_AMBIPOM, "44.8 lbs."
 
 
-mondata SPECIES_DRIFLOON, "Drifloon"
+mondata SPECIES_DRIFLOON, "フワンテ"
     basestats 90, 50, 34, 70, 60, 44
     types TYPE_GHOST, TYPE_FLYING
     catchrate 125
@@ -8960,7 +8960,7 @@ mondata SPECIES_DRIFLOON, "Drifloon"
     mondexweight SPECIES_DRIFLOON, "2.6 lbs."
 
 
-mondata SPECIES_DRIFBLIM, "Drifblim"
+mondata SPECIES_DRIFBLIM, "フワライド"
     basestats 150, 80, 44, 80, 90, 54
     types TYPE_GHOST, TYPE_FLYING
     catchrate 60
@@ -8981,7 +8981,7 @@ mondata SPECIES_DRIFBLIM, "Drifblim"
     mondexweight SPECIES_DRIFBLIM, "33.1 lbs."
 
 
-mondata SPECIES_BUNEARY, "Buneary"
+mondata SPECIES_BUNEARY, "ミミロル"
     basestats 55, 66, 44, 85, 44, 56
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 190
@@ -9002,7 +9002,7 @@ mondata SPECIES_BUNEARY, "Buneary"
     mondexweight SPECIES_BUNEARY, "12.1 lbs."
 
 
-mondata SPECIES_LOPUNNY, "Lopunny"
+mondata SPECIES_LOPUNNY, "ミミロップ"
     basestats 65, 76, 84, 105, 54, 96
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 60
@@ -9023,7 +9023,7 @@ mondata SPECIES_LOPUNNY, "Lopunny"
     mondexweight SPECIES_LOPUNNY, "73.4 lbs."
 
 
-mondata SPECIES_MISMAGIUS, "Mismagius"
+mondata SPECIES_MISMAGIUS, "ムウマ－ジ"
     basestats 60, 60, 60, 105, 105, 105
     types TYPE_GHOST, TYPE_GHOST
     catchrate 45
@@ -9044,7 +9044,7 @@ mondata SPECIES_MISMAGIUS, "Mismagius"
     mondexweight SPECIES_MISMAGIUS, "9.7 lbs."
 
 
-mondata SPECIES_HONCHKROW, "Honchkrow"
+mondata SPECIES_HONCHKROW, "ドンカラス"
     basestats 100, 125, 52, 71, 105, 52
     types TYPE_DARK, TYPE_FLYING
     catchrate 30
@@ -9065,7 +9065,7 @@ mondata SPECIES_HONCHKROW, "Honchkrow"
     mondexweight SPECIES_HONCHKROW, "60.2 lbs."
 
 
-mondata SPECIES_GLAMEOW, "Glameow"
+mondata SPECIES_GLAMEOW, "ニャルマ－"
     basestats 49, 55, 42, 85, 42, 37
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 190
@@ -9086,7 +9086,7 @@ mondata SPECIES_GLAMEOW, "Glameow"
     mondexweight SPECIES_GLAMEOW, "8.6 lbs."
 
 
-mondata SPECIES_PURUGLY, "Purugly"
+mondata SPECIES_PURUGLY, "ブニャット"
     basestats 71, 82, 64, 112, 64, 59
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 75
@@ -9107,7 +9107,7 @@ mondata SPECIES_PURUGLY, "Purugly"
     mondexweight SPECIES_PURUGLY, "96.6 lbs."
 
 
-mondata SPECIES_CHINGLING, "Chingling"
+mondata SPECIES_CHINGLING, "リ－シャン"
     basestats 45, 30, 50, 45, 65, 50
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 120
@@ -9128,7 +9128,7 @@ mondata SPECIES_CHINGLING, "Chingling"
     mondexweight SPECIES_CHINGLING, "1.3 lbs."
 
 
-mondata SPECIES_STUNKY, "Stunky"
+mondata SPECIES_STUNKY, "スカンプ－"
     basestats 63, 63, 47, 74, 41, 41
     types TYPE_POISON, TYPE_DARK
     catchrate 225
@@ -9149,7 +9149,7 @@ mondata SPECIES_STUNKY, "Stunky"
     mondexweight SPECIES_STUNKY, "42.3 lbs."
 
 
-mondata SPECIES_SKUNTANK, "Skuntank"
+mondata SPECIES_SKUNTANK, "スカタンク"
     basestats 103, 93, 67, 84, 71, 61
     types TYPE_POISON, TYPE_DARK
     catchrate 60
@@ -9170,7 +9170,7 @@ mondata SPECIES_SKUNTANK, "Skuntank"
     mondexweight SPECIES_SKUNTANK, "83.8 lbs."
 
 
-mondata SPECIES_BRONZOR, "Bronzor"
+mondata SPECIES_BRONZOR, "ド－ミラ－"
     basestats 57, 24, 86, 23, 24, 86
     types TYPE_STEEL, TYPE_PSYCHIC
     catchrate 255
@@ -9191,7 +9191,7 @@ mondata SPECIES_BRONZOR, "Bronzor"
     mondexweight SPECIES_BRONZOR, "133.4 lbs."
 
 
-mondata SPECIES_BRONZONG, "Bronzong"
+mondata SPECIES_BRONZONG, "ド－タクン"
     basestats 67, 89, 116, 33, 79, 116
     types TYPE_STEEL, TYPE_PSYCHIC
     catchrate 90
@@ -9212,7 +9212,7 @@ mondata SPECIES_BRONZONG, "Bronzong"
     mondexweight SPECIES_BRONZONG, "412.3 lbs."
 
 
-mondata SPECIES_BONSLY, "Bonsly"
+mondata SPECIES_BONSLY, "ウソハチ"
     basestats 50, 80, 95, 10, 10, 45
     types TYPE_ROCK, TYPE_ROCK
     catchrate 255
@@ -9233,7 +9233,7 @@ mondata SPECIES_BONSLY, "Bonsly"
     mondexweight SPECIES_BONSLY, "33.1 lbs."
 
 
-mondata SPECIES_MIMEJR, "Mime Jr."
+mondata SPECIES_MIMEJR, "マネネ"
     basestats 20, 25, 45, 60, 70, 90
     types TYPE_PSYCHIC, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_PSYCHIC
     catchrate 145
@@ -9254,7 +9254,7 @@ mondata SPECIES_MIMEJR, "Mime Jr."
     mondexweight SPECIES_MIMEJR, "28.7 lbs."
 
 
-mondata SPECIES_HAPPINY, "Happiny"
+mondata SPECIES_HAPPINY, "ピンプク"
     basestats 100, 5, 5, 30, 15, 65
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 130
@@ -9275,7 +9275,7 @@ mondata SPECIES_HAPPINY, "Happiny"
     mondexweight SPECIES_HAPPINY, "53.8 lbs."
 
 
-mondata SPECIES_CHATOT, "Chatot"
+mondata SPECIES_CHATOT, "ペラップ"
     basestats 76, 65, 45, 91, 92, 42
     types TYPE_NORMAL, TYPE_FLYING
     catchrate 30
@@ -9296,7 +9296,7 @@ mondata SPECIES_CHATOT, "Chatot"
     mondexweight SPECIES_CHATOT, "4.2 lbs."
 
 
-mondata SPECIES_SPIRITOMB, "Spiritomb"
+mondata SPECIES_SPIRITOMB, "ミカルゲ"
     basestats 50, 92, 108, 35, 92, 108
     types TYPE_GHOST, TYPE_DARK
     catchrate 100
@@ -9317,7 +9317,7 @@ mondata SPECIES_SPIRITOMB, "Spiritomb"
     mondexweight SPECIES_SPIRITOMB, "238.1 lbs."
 
 
-mondata SPECIES_GIBLE, "Gible"
+mondata SPECIES_GIBLE, "フカマル"
     basestats 58, 70, 45, 42, 40, 45
     types TYPE_DRAGON, TYPE_GROUND
     catchrate 45
@@ -9338,7 +9338,7 @@ mondata SPECIES_GIBLE, "Gible"
     mondexweight SPECIES_GIBLE, "45.2 lbs."
 
 
-mondata SPECIES_GABITE, "Gabite"
+mondata SPECIES_GABITE, "ガバイト"
     basestats 68, 90, 65, 82, 50, 55
     types TYPE_DRAGON, TYPE_GROUND
     catchrate 45
@@ -9359,7 +9359,7 @@ mondata SPECIES_GABITE, "Gabite"
     mondexweight SPECIES_GABITE, "123.5 lbs."
 
 
-mondata SPECIES_GARCHOMP, "Garchomp"
+mondata SPECIES_GARCHOMP, "ガブリアス"
     basestats 108, 130, 95, 102, 80, 85
     types TYPE_DRAGON, TYPE_GROUND
     catchrate 45
@@ -9380,7 +9380,7 @@ mondata SPECIES_GARCHOMP, "Garchomp"
     mondexweight SPECIES_GARCHOMP, "209.4 lbs."
 
 
-mondata SPECIES_MUNCHLAX, "Munchlax"
+mondata SPECIES_MUNCHLAX, "ゴンベ"
     basestats 135, 85, 40, 5, 40, 85
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 50
@@ -9401,7 +9401,7 @@ mondata SPECIES_MUNCHLAX, "Munchlax"
     mondexweight SPECIES_MUNCHLAX, "231.5 lbs."
 
 
-mondata SPECIES_RIOLU, "Riolu"
+mondata SPECIES_RIOLU, "リオル"
     basestats 40, 70, 40, 60, 35, 40
     types TYPE_FIGHTING, TYPE_FIGHTING
     catchrate 75
@@ -9422,7 +9422,7 @@ mondata SPECIES_RIOLU, "Riolu"
     mondexweight SPECIES_RIOLU, "44.5 lbs."
 
 
-mondata SPECIES_LUCARIO, "Lucario"
+mondata SPECIES_LUCARIO, "ルカリオ"
     basestats 70, 110, 70, 90, 115, 70
     types TYPE_FIGHTING, TYPE_STEEL
     catchrate 45
@@ -9443,7 +9443,7 @@ mondata SPECIES_LUCARIO, "Lucario"
     mondexweight SPECIES_LUCARIO, "119.0 lbs."
 
 
-mondata SPECIES_HIPPOPOTAS, "Hippopotas"
+mondata SPECIES_HIPPOPOTAS, "ヒポポタス"
     basestats 68, 72, 78, 32, 38, 42
     types TYPE_GROUND, TYPE_GROUND
     catchrate 140
@@ -9464,7 +9464,7 @@ mondata SPECIES_HIPPOPOTAS, "Hippopotas"
     mondexweight SPECIES_HIPPOPOTAS, "109.1 lbs."
 
 
-mondata SPECIES_HIPPOWDON, "Hippowdon"
+mondata SPECIES_HIPPOWDON, "カバルドン"
     basestats 108, 112, 118, 47, 68, 72
     types TYPE_GROUND, TYPE_GROUND
     catchrate 60
@@ -9485,7 +9485,7 @@ mondata SPECIES_HIPPOWDON, "Hippowdon"
     mondexweight SPECIES_HIPPOWDON, "661.4 lbs."
 
 
-mondata SPECIES_SKORUPI, "Skorupi"
+mondata SPECIES_SKORUPI, "スコルピ"
     basestats 40, 50, 90, 65, 30, 55
     types TYPE_POISON, TYPE_BUG
     catchrate 120
@@ -9506,7 +9506,7 @@ mondata SPECIES_SKORUPI, "Skorupi"
     mondexweight SPECIES_SKORUPI, "26.5 lbs."
 
 
-mondata SPECIES_DRAPION, "Drapion"
+mondata SPECIES_DRAPION, "ドラピオン"
     basestats 70, 90, 110, 95, 60, 75
     types TYPE_POISON, TYPE_DARK
     catchrate 45
@@ -9527,7 +9527,7 @@ mondata SPECIES_DRAPION, "Drapion"
     mondexweight SPECIES_DRAPION, "135.6 lbs."
 
 
-mondata SPECIES_CROAGUNK, "Croagunk"
+mondata SPECIES_CROAGUNK, "グレッグル"
     basestats 48, 61, 40, 50, 61, 40
     types TYPE_POISON, TYPE_FIGHTING
     catchrate 140
@@ -9548,7 +9548,7 @@ mondata SPECIES_CROAGUNK, "Croagunk"
     mondexweight SPECIES_CROAGUNK, "50.7 lbs."
 
 
-mondata SPECIES_TOXICROAK, "Toxicroak"
+mondata SPECIES_TOXICROAK, "ドクロッグ"
     basestats 83, 106, 65, 85, 86, 65
     types TYPE_POISON, TYPE_FIGHTING
     catchrate 75
@@ -9569,7 +9569,7 @@ mondata SPECIES_TOXICROAK, "Toxicroak"
     mondexweight SPECIES_TOXICROAK, "97.9 lbs."
 
 
-mondata SPECIES_CARNIVINE, "Carnivine"
+mondata SPECIES_CARNIVINE, "マスキッパ"
     basestats 74, 100, 72, 46, 90, 72
     types TYPE_GRASS, TYPE_GRASS
     catchrate 200
@@ -9590,7 +9590,7 @@ mondata SPECIES_CARNIVINE, "Carnivine"
     mondexweight SPECIES_CARNIVINE, "59.5 lbs."
 
 
-mondata SPECIES_FINNEON, "Finneon"
+mondata SPECIES_FINNEON, "ケイコウオ"
     basestats 49, 49, 56, 66, 49, 61
     types TYPE_WATER, TYPE_WATER
     catchrate 190
@@ -9611,7 +9611,7 @@ mondata SPECIES_FINNEON, "Finneon"
     mondexweight SPECIES_FINNEON, "15.4 lbs."
 
 
-mondata SPECIES_LUMINEON, "Lumineon"
+mondata SPECIES_LUMINEON, "ネオラント"
     basestats 69, 69, 76, 91, 69, 86
     types TYPE_WATER, TYPE_WATER
     catchrate 75
@@ -9632,7 +9632,7 @@ mondata SPECIES_LUMINEON, "Lumineon"
     mondexweight SPECIES_LUMINEON, "52.9 lbs."
 
 
-mondata SPECIES_MANTYKE, "Mantyke"
+mondata SPECIES_MANTYKE, "タマンタ"
     basestats 45, 20, 50, 50, 60, 120
     types TYPE_WATER, TYPE_FLYING
     catchrate 25
@@ -9653,7 +9653,7 @@ mondata SPECIES_MANTYKE, "Mantyke"
     mondexweight SPECIES_MANTYKE, "143.3 lbs."
 
 
-mondata SPECIES_SNOVER, "Snover"
+mondata SPECIES_SNOVER, "ユキカブリ"
     basestats 60, 62, 50, 40, 62, 60
     types TYPE_GRASS, TYPE_ICE
     catchrate 120
@@ -9674,7 +9674,7 @@ mondata SPECIES_SNOVER, "Snover"
     mondexweight SPECIES_SNOVER, "111.3 lbs."
 
 
-mondata SPECIES_ABOMASNOW, "Abomasnow"
+mondata SPECIES_ABOMASNOW, "ユキノオ－"
     basestats 90, 92, 75, 60, 92, 85
     types TYPE_GRASS, TYPE_ICE
     catchrate 60
@@ -9695,7 +9695,7 @@ mondata SPECIES_ABOMASNOW, "Abomasnow"
     mondexweight SPECIES_ABOMASNOW, "298.7 lbs."
 
 
-mondata SPECIES_WEAVILE, "Weavile"
+mondata SPECIES_WEAVILE, "マニュ－ラ"
     basestats 70, 120, 65, 125, 45, 85
     types TYPE_DARK, TYPE_ICE
     catchrate 45
@@ -9716,7 +9716,7 @@ mondata SPECIES_WEAVILE, "Weavile"
     mondexweight SPECIES_WEAVILE, "75.0 lbs."
 
 
-mondata SPECIES_MAGNEZONE, "Magnezone"
+mondata SPECIES_MAGNEZONE, "ジバコイル"
     basestats 70, 70, 115, 60, 130, 90
     types TYPE_ELECTRIC, TYPE_STEEL
     catchrate 30
@@ -9737,7 +9737,7 @@ mondata SPECIES_MAGNEZONE, "Magnezone"
     mondexweight SPECIES_MAGNEZONE, "396.8 lbs."
 
 
-mondata SPECIES_LICKILICKY, "Lickilicky"
+mondata SPECIES_LICKILICKY, "ベロベルト"
     basestats 110, 85, 95, 50, 80, 95
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 30
@@ -9758,7 +9758,7 @@ mondata SPECIES_LICKILICKY, "Lickilicky"
     mondexweight SPECIES_LICKILICKY, "308.6 lbs."
 
 
-mondata SPECIES_RHYPERIOR, "Rhyperior"
+mondata SPECIES_RHYPERIOR, "ドサイドン"
     basestats 115, 140, 130, 40, 55, 55
     types TYPE_GROUND, TYPE_ROCK
     catchrate 30
@@ -9779,7 +9779,7 @@ mondata SPECIES_RHYPERIOR, "Rhyperior"
     mondexweight SPECIES_RHYPERIOR, "623.5 lbs."
 
 
-mondata SPECIES_TANGROWTH, "Tangrowth"
+mondata SPECIES_TANGROWTH, "モジャンボ"
     basestats 100, 100, 125, 50, 110, 50
     types TYPE_GRASS, TYPE_GRASS
     catchrate 30
@@ -9800,7 +9800,7 @@ mondata SPECIES_TANGROWTH, "Tangrowth"
     mondexweight SPECIES_TANGROWTH, "283.5 lbs."
 
 
-mondata SPECIES_ELECTIVIRE, "Electivire"
+mondata SPECIES_ELECTIVIRE, "エレキブル"
     basestats 75, 123, 67, 95, 95, 85
     types TYPE_ELECTRIC, TYPE_ELECTRIC
     catchrate 30
@@ -9821,7 +9821,7 @@ mondata SPECIES_ELECTIVIRE, "Electivire"
     mondexweight SPECIES_ELECTIVIRE, "305.6 lbs."
 
 
-mondata SPECIES_MAGMORTAR, "Magmortar"
+mondata SPECIES_MAGMORTAR, "ブ－バ－ン"
     basestats 75, 95, 67, 83, 125, 95
     types TYPE_FIRE, TYPE_FIRE
     catchrate 30
@@ -9842,7 +9842,7 @@ mondata SPECIES_MAGMORTAR, "Magmortar"
     mondexweight SPECIES_MAGMORTAR, "149.9 lbs."
 
 
-mondata SPECIES_TOGEKISS, "Togekiss"
+mondata SPECIES_TOGEKISS, "トゲキッス"
     basestats 85, 50, 95, 80, 120, 115
     types (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_NORMAL, TYPE_FLYING
     catchrate 30
@@ -9863,7 +9863,7 @@ mondata SPECIES_TOGEKISS, "Togekiss"
     mondexweight SPECIES_TOGEKISS, "83.8 lbs."
 
 
-mondata SPECIES_YANMEGA, "Yanmega"
+mondata SPECIES_YANMEGA, "メガヤンマ"
     basestats 86, 76, 86, 95, 116, 56
     types TYPE_BUG, TYPE_FLYING
     catchrate 30
@@ -9884,7 +9884,7 @@ mondata SPECIES_YANMEGA, "Yanmega"
     mondexweight SPECIES_YANMEGA, "113.5 lbs."
 
 
-mondata SPECIES_LEAFEON, "Leafeon"
+mondata SPECIES_LEAFEON, "リ－フィア"
     basestats 65, 110, 130, 95, 60, 65
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -9905,7 +9905,7 @@ mondata SPECIES_LEAFEON, "Leafeon"
     mondexweight SPECIES_LEAFEON, "56.2 lbs."
 
 
-mondata SPECIES_GLACEON, "Glaceon"
+mondata SPECIES_GLACEON, "グレイシア"
     basestats 65, 60, 110, 65, 130, 95
     types TYPE_ICE, TYPE_ICE
     catchrate 45
@@ -9926,7 +9926,7 @@ mondata SPECIES_GLACEON, "Glaceon"
     mondexweight SPECIES_GLACEON, "57.1 lbs."
 
 
-mondata SPECIES_GLISCOR, "Gliscor"
+mondata SPECIES_GLISCOR, "グライオン"
     basestats 75, 95, 125, 95, 45, 75
     types TYPE_GROUND, TYPE_FLYING
     catchrate 30
@@ -9947,7 +9947,7 @@ mondata SPECIES_GLISCOR, "Gliscor"
     mondexweight SPECIES_GLISCOR, "93.7 lbs."
 
 
-mondata SPECIES_MAMOSWINE, "Mamoswine"
+mondata SPECIES_MAMOSWINE, "マンム－"
     basestats 110, 130, 80, 80, 70, 60
     types TYPE_ICE, TYPE_GROUND
     catchrate 50
@@ -9968,7 +9968,7 @@ mondata SPECIES_MAMOSWINE, "Mamoswine"
     mondexweight SPECIES_MAMOSWINE, "641.5 lbs."
 
 
-mondata SPECIES_PORYGON_Z, "Porygon-Z"
+mondata SPECIES_PORYGON_Z, "ポリゴンＺ"
     basestats 85, 80, 70, 90, 135, 75
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 30
@@ -9989,7 +9989,7 @@ mondata SPECIES_PORYGON_Z, "Porygon-Z"
     mondexweight SPECIES_PORYGON_Z, "75.0 lbs."
 
 
-mondata SPECIES_GALLADE, "Gallade"
+mondata SPECIES_GALLADE, "エルレイド"
     basestats 68, 125, 65, 80, 65, 115
     types TYPE_PSYCHIC, TYPE_FIGHTING
     catchrate 45
@@ -10010,7 +10010,7 @@ mondata SPECIES_GALLADE, "Gallade"
     mondexweight SPECIES_GALLADE, "114.6 lbs."
 
 
-mondata SPECIES_PROBOPASS, "Probopass"
+mondata SPECIES_PROBOPASS, "ダイノ－ズ"
     basestats 60, 55, 145, 40, 75, 150
     types TYPE_ROCK, TYPE_STEEL
     catchrate 60
@@ -10031,7 +10031,7 @@ mondata SPECIES_PROBOPASS, "Probopass"
     mondexweight SPECIES_PROBOPASS, "749.6 lbs."
 
 
-mondata SPECIES_DUSKNOIR, "Dusknoir"
+mondata SPECIES_DUSKNOIR, "ヨノワ－ル"
     basestats 45, 100, 135, 45, 65, 135
     types TYPE_GHOST, TYPE_GHOST
     catchrate 45
@@ -10052,7 +10052,7 @@ mondata SPECIES_DUSKNOIR, "Dusknoir"
     mondexweight SPECIES_DUSKNOIR, "235.0 lbs."
 
 
-mondata SPECIES_FROSLASS, "Froslass"
+mondata SPECIES_FROSLASS, "ユキメノコ"
     basestats 70, 80, 70, 110, 80, 70
     types TYPE_ICE, TYPE_GHOST
     catchrate 75
@@ -10073,7 +10073,7 @@ mondata SPECIES_FROSLASS, "Froslass"
     mondexweight SPECIES_FROSLASS, "58.6 lbs."
 
 
-mondata SPECIES_ROTOM, "Rotom"
+mondata SPECIES_ROTOM, "ロトム"
     basestats 50, 50, 77, 91, 95, 77
     types TYPE_ELECTRIC, TYPE_GHOST
     catchrate 45
@@ -10094,7 +10094,7 @@ mondata SPECIES_ROTOM, "Rotom"
     mondexweight SPECIES_ROTOM, "0.7 lbs."
 
 
-mondata SPECIES_UXIE, "Uxie"
+mondata SPECIES_UXIE, "ユクシ－"
     basestats 75, 75, 130, 95, 75, 130
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10115,7 +10115,7 @@ mondata SPECIES_UXIE, "Uxie"
     mondexweight SPECIES_UXIE, "0.7 lbs."
 
 
-mondata SPECIES_MESPRIT, "Mesprit"
+mondata SPECIES_MESPRIT, "エムリット"
     basestats 80, 105, 105, 80, 105, 105
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10136,7 +10136,7 @@ mondata SPECIES_MESPRIT, "Mesprit"
     mondexweight SPECIES_MESPRIT, "0.7 lbs."
 
 
-mondata SPECIES_AZELF, "Azelf"
+mondata SPECIES_AZELF, "アグノム"
     basestats 75, 125, 70, 115, 125, 70
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10157,7 +10157,7 @@ mondata SPECIES_AZELF, "Azelf"
     mondexweight SPECIES_AZELF, "0.7 lbs."
 
 
-mondata SPECIES_DIALGA, "Dialga"
+mondata SPECIES_DIALGA, "ディアルガ"
     basestats 100, 120, 120, 90, 150, 100
     types TYPE_STEEL, TYPE_DRAGON
     catchrate 3
@@ -10178,7 +10178,7 @@ mondata SPECIES_DIALGA, "Dialga"
     mondexweight SPECIES_DIALGA, "1505.8 lbs."
 
 
-mondata SPECIES_PALKIA, "Palkia"
+mondata SPECIES_PALKIA, "パルキア"
     basestats 90, 120, 100, 100, 150, 120
     types TYPE_WATER, TYPE_DRAGON
     catchrate 3
@@ -10199,7 +10199,7 @@ mondata SPECIES_PALKIA, "Palkia"
     mondexweight SPECIES_PALKIA, "740.8 lbs."
 
 
-mondata SPECIES_HEATRAN, "Heatran"
+mondata SPECIES_HEATRAN, "ヒ－ドラン"
     basestats 91, 90, 106, 77, 130, 106
     types TYPE_FIRE, TYPE_STEEL
     catchrate 3
@@ -10220,7 +10220,7 @@ mondata SPECIES_HEATRAN, "Heatran"
     mondexweight SPECIES_HEATRAN, "948.0 lbs."
 
 
-mondata SPECIES_REGIGIGAS, "Regigigas"
+mondata SPECIES_REGIGIGAS, "レジギガス"
     basestats 110, 160, 110, 100, 80, 110
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 3
@@ -10241,7 +10241,7 @@ mondata SPECIES_REGIGIGAS, "Regigigas"
     mondexweight SPECIES_REGIGIGAS, "925.9 lbs."
 
 
-mondata SPECIES_GIRATINA, "Giratina"
+mondata SPECIES_GIRATINA, "ギラティナ"
     basestats 150, 100, 120, 90, 100, 120
     types TYPE_GHOST, TYPE_DRAGON
     catchrate 3
@@ -10262,7 +10262,7 @@ mondata SPECIES_GIRATINA, "Giratina"
     mondexweight SPECIES_GIRATINA, "1653.5 lbs."
 
 
-mondata SPECIES_CRESSELIA, "Cresselia"
+mondata SPECIES_CRESSELIA, "クレセリア"
     basestats 120, 70, 110, 85, 75, 120
     types TYPE_PSYCHIC, TYPE_PSYCHIC
     catchrate 3
@@ -10283,7 +10283,7 @@ mondata SPECIES_CRESSELIA, "Cresselia"
     mondexweight SPECIES_CRESSELIA, "188.7 lbs."
 
 
-mondata SPECIES_PHIONE, "Phione"
+mondata SPECIES_PHIONE, "フィオネ"
     basestats 80, 80, 80, 80, 80, 80
     types TYPE_WATER, TYPE_WATER
     catchrate 30
@@ -10304,7 +10304,7 @@ mondata SPECIES_PHIONE, "Phione"
     mondexweight SPECIES_PHIONE, "6.8 lbs."
 
 
-mondata SPECIES_MANAPHY, "Manaphy"
+mondata SPECIES_MANAPHY, "マナフィ"
     basestats 100, 100, 100, 100, 100, 100
     types TYPE_WATER, TYPE_WATER
     catchrate 3
@@ -10325,7 +10325,7 @@ mondata SPECIES_MANAPHY, "Manaphy"
     mondexweight SPECIES_MANAPHY, "3.1 lbs."
 
 
-mondata SPECIES_DARKRAI, "Darkrai"
+mondata SPECIES_DARKRAI, "ダ－クライ"
     basestats 70, 90, 90, 125, 135, 90
     types TYPE_DARK, TYPE_DARK
     catchrate 3
@@ -10346,7 +10346,7 @@ mondata SPECIES_DARKRAI, "Darkrai"
     mondexweight SPECIES_DARKRAI, "111.3 lbs."
 
 
-mondata SPECIES_SHAYMIN, "Shaymin"
+mondata SPECIES_SHAYMIN, "シェイミ"
     basestats 100, 100, 100, 100, 100, 100
     types TYPE_GRASS, TYPE_GRASS
     catchrate 45
@@ -10367,7 +10367,7 @@ mondata SPECIES_SHAYMIN, "Shaymin"
     mondexweight SPECIES_SHAYMIN, "4.6 lbs."
 
 
-mondata SPECIES_ARCEUS, "Arceus"
+mondata SPECIES_ARCEUS, "アルセウス"
     basestats 120, 120, 120, 120, 120, 120
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 3
@@ -10388,7 +10388,7 @@ mondata SPECIES_ARCEUS, "Arceus"
     mondexweight SPECIES_ARCEUS, "705.5 lbs."
 
 
-mondata SPECIES_EGG, "Egg"
+mondata SPECIES_EGG, "タマゴ"
     basestats 10, 10, 10, 10, 10, 10
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 3
@@ -10409,7 +10409,7 @@ mondata SPECIES_EGG, "Egg"
     mondexweight SPECIES_EGG, "????.? lbs."
 
 
-mondata SPECIES_BAD_EGG, "Bad Egg"
+mondata SPECIES_BAD_EGG, "ダメタマゴ"
     basestats 10, 10, 10, 10, 10, 10
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 3
