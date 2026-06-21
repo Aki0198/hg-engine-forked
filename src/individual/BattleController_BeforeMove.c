@@ -4375,7 +4375,6 @@ BOOL BattleController_CheckMoveFailures4_MultipleTargets(struct BattleSystem *bs
 BOOL BattleController_CheckMoveFailures5(struct BattleSystem *bsys UNUSED, struct BattleStruct *ctx)
 {
     int defender = ctx->defence_client;
-
     int moveEffect = ctx->moveTbl[ctx->current_move_index].effect;
 
     int attackerCondition = 0;
@@ -4386,11 +4385,7 @@ BOOL BattleController_CheckMoveFailures5(struct BattleSystem *bsys UNUSED, struc
     switch (moveEffect) {
         // Psycho Shift
         case MOVE_EFFECT_TRANSFER_STATUS: {
-            // Electric-type paralysis immunity
-            // if ((attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
-                // Fire-type burn immunity
-                if ((attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
-                // Poison / Steel-type poison / badly poison immunity
+            if ((attackerCondition & STATUS_PARALYSIS && HasType(ctx, defender, TYPE_ELECTRIC))
                 || (attackerCondition & STATUS_POISON_ALL && (HasType(ctx, defender, TYPE_POISON) || HasType(ctx, defender, TYPE_STEEL)))) {
                 ctx->moveStatusFlagForSpreadMoves[defender] = MOVE_STATUS_FLAG_NOT_EFFECTIVE;
                 BattleController_ResetGeneralMoveFailureFlags(ctx, ctx->attack_client, FALSE);
@@ -4404,24 +4399,22 @@ BOOL BattleController_CheckMoveFailures5(struct BattleSystem *bsys UNUSED, struc
             }
             break;
         }
-        break;
-    }
-    // Substitute
-    case MOVE_EFFECT_SET_SUBSTITUTE: {
-        if (ctx->battlemon[ctx->attack_client].hp <= BattleDamageDivide(ctx->battlemon[ctx->attack_client].maxhp, 4)) {
-            BattleController_ResetGeneralMoveFailureFlags(ctx, ctx->attack_client, FALSE);
-            ctx->battlerIdTemp = defender;
-            LoadBattleSubSeqScript(ctx, ARC_BATTLE_SUB_SEQ, SUB_SEQ_SUBSTITUTE_FAIL);
-            ctx->next_server_seq_no = CONTROLLER_COMMAND_25;
-            ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
-            ctx->waza_status_flag |= MOVE_STATUS_NO_MORE_WORK;
-            ctx->wb_seq_no = BEFORE_MOVE_START;
-            return TRUE;
+        // Substitute
+        case MOVE_EFFECT_SET_SUBSTITUTE: {
+            if (ctx->battlemon[ctx->attack_client].hp <= BattleDamageDivide(ctx->battlemon[ctx->attack_client].maxhp, 4)) {
+                BattleController_ResetGeneralMoveFailureFlags(ctx, ctx->attack_client, FALSE);
+                ctx->battlerIdTemp = defender;
+                LoadBattleSubSeqScript(ctx, ARC_BATTLE_SUB_SEQ, SUB_SEQ_SUBSTITUTE_FAIL);
+                ctx->next_server_seq_no = CONTROLLER_COMMAND_25;
+                ctx->server_seq_no = CONTROLLER_COMMAND_RUN_SCRIPT;
+                ctx->waza_status_flag |= MOVE_STATUS_NO_MORE_WORK;
+                ctx->wb_seq_no = BEFORE_MOVE_START;
+                return TRUE;
+            }
+            break;
         }
-        break;
-    }
-    default:
-        break;
+        default:
+            break;
     }
     return FALSE;
 }
