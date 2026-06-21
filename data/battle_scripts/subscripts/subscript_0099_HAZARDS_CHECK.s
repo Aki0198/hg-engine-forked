@@ -111,6 +111,11 @@ _checkIfShouldDoStealthRock:
     // Heavy-Duty Boots to ignore Stealth Rock when airborne
     CheckItemHoldEffect CHECK_OPCODE_HAVE, BATTLER_CATEGORY_SWITCHED_MON, HOLD_EFFECT_IGNORE_ENTRY_HAZARDS, _landingPad
     CheckAbility CHECK_OPCODE_HAVE, BATTLER_CATEGORY_SWITCHED_MON, ABILITY_MAGIC_GUARD, _landingPad
+    // Only Flying-type Pokemon or those with Levitate are affected
+    CheckAbility CHECK_OPCODE_HAVE, BATTLER_CATEGORY_SWITCHED_MON, ABILITY_LEVITATE, _checkStealthRock
+    CompareMonDataToValue OPCODE_EQU, BATTLER_CATEGORY_SWITCHED_MON, BMON_DATA_TYPE_1, TYPE_FLYING, _checkStealthRock
+    CompareMonDataToValue OPCODE_EQU, BATTLER_CATEGORY_SWITCHED_MON, BMON_DATA_TYPE_2, TYPE_FLYING, _checkStealthRock
+    GoTo _landingPad
 
 _checkStealthRock:
     CheckStealthRock BATTLER_CATEGORY_SWITCHED_MON, _landingPad

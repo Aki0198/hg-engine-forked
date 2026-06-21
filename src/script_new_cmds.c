@@ -15,6 +15,18 @@ static inline void SetMonU16(struct PartyPokemon *pp, int field, u16 value)
     SetMonData(pp, field, &value);
 }
 
+// Small helpers to avoid taking the address of literals everywhere (saves ROM in big switches)
+static inline void SetMonU8(struct PartyPokemon *pp, int field, u8 value)
+{
+    SetMonData(pp, field, &value);
+}
+
+static inline void SetMonU16(struct PartyPokemon *pp, int field, u16 value)
+{
+    SetMonData(pp, field, &value);
+}
+
+
 #define SCRIPT_NEW_CMD_REPEL_USE    0
 #define SCRIPT_NEW_CMD_IV_TUTOR     1
 #define SCRIPT_NEW_CMD_MAX          256

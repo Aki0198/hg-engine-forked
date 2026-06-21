@@ -1,331 +1,331 @@
-None
-Master Ball
-Ultra Ball
-Great Ball
-Poké Ball
-Safari Ball
-Net Ball
-Dive Ball
-Nest Ball
-Repeat Ball
-Timer Ball
-Luxury Ball
-Premier Ball
-Dusk Ball
-Heal Ball
-Quick Ball
-Cherish Ball
-Potion
-Antidote
-Burn Heal
-Ice Heal
-Awakening
-Paralyze Heal
-Full Restore
-Max Potion
-Hyper Potion
-Super Potion
-Full Heal
-Revive
-Max Revive
-Fresh Water
-Soda Pop
-Lemonade
-Moomoo Milk
-Energy Powder
-Energy Root
-Heal Powder
-Revival Herb
-Ether
-Max Ether
-Elixir
-Max Elixir
-Lava Cookie
-Berry Juice
-Sacred Ash
-HP Up
-Protein
-Iron
-Carbos
-Calcium
-Rare Candy
-PP Up
-Zinc
-PP Max
-Old Gateau
-Guard Spec.
-Dire Hit
-X Attack
-X Defense
-X Speed
-X Accuracy
-X Sp. Atk
-X Sp. Def
-Poké Doll
-Fluffy Tail
-Blue Flute
-Yellow Flute
-Red Flute
-Black Flute
-White Flute
-Shoal Salt
-Shoal Shell
-Red Shard
-Blue Shard
-Yellow Shard
-Green Shard
-Super Repel
-Max Repel
-Escape Rope
-Repel
-Sun Stone
-Moon Stone
-Fire Stone
-Thunder Stone
-Water Stone
-Leaf Stone
-Tiny Mushroom
-Big Mushroom
-Pearl
-Big Pearl
-Stardust
-Star Piece
-Nugget
-Heart Scale
-Honey
-Growth Mulch
-Damp Mulch
-Stable Mulch
-Gooey Mulch
-Root Fossil
-Claw Fossil
-Helix Fossil
-Dome Fossil
-Old Amber
-Armor Fossil
-Skull Fossil
-Rare Bone
-Shiny Stone
-Dusk Stone
-Dawn Stone
-Oval Stone
-Odd Keystone
-Griseous Orb
-Tea
-???
-Autograph
-Douse Drive
-Shock Drive
-Burn Drive
-Chill Drive
-???
-Pokémon Box Link
-Medicine Pocket
-TM Case
-Candy Jar
-Power-Up Pocket
-Clothing Trunk
-Catching Pocket
-Battle Pocket
-???
-???
-???
-???
-???
-Sweet Heart
-Adamant Orb
-Lustrous Orb
-Grass Mail
-Flame Mail
-Bubble Mail
-Bloom Mail
-Tunnel Mail
-Steel Mail
-Heart Mail
-Snow Mail
-Space Mail
-Air Mail
-Mosaic Mail
-Brick Mail
-Cheri Berry
-Chesto Berry
-Pecha Berry
-Rawst Berry
-Aspear Berry
-Leppa Berry
-Oran Berry
-Persim Berry
-Lum Berry
-Sitrus Berry
-Figy Berry
-Wiki Berry
-Mago Berry
-Aguav Berry
-Iapapa Berry
-Razz Berry
-Bluk Berry
-Nanab Berry
-Wepear Berry
-Pinap Berry
-Pomeg Berry
-Kelpsy Berry
-Qualot Berry
-Hondew Berry
-Grepa Berry
-Tamato Berry
-Cornn Berry
-Magost Berry
-Rabuta Berry
-Nomel Berry
-Spelon Berry
-Pamtre Berry
-Watmel Berry
-Durin Berry
-Belue Berry
-Occa Berry
-Passho Berry
-Wacan Berry
-Rindo Berry
-Yache Berry
-Chople Berry
-Kebia Berry
-Shuca Berry
-Coba Berry
-Payapa Berry
-Tanga Berry
-Charti Berry
-Kasib Berry
-Haban Berry
-Colbur Berry
-Babiri Berry
-Chilan Berry
-Liechi Berry
-Ganlon Berry
-Salac Berry
-Petaya Berry
-Apicot Berry
-Lansat Berry
-Starf Berry
-Enigma Berry
-Micle Berry
-Custap Berry
-Jaboca Berry
-Rowap Berry
-Bright Powder
-White Herb
-Macho Brace
-Exp. Share
-Quick Claw
-Soothe Bell
-Mental Herb
-Choice Band
-King’s Rock
-Silver Powder
-Amulet Coin
-Cleanse Tag
-Soul Dew
-Deep Sea Tooth
-Deep Sea Scale
-Smoke Ball
-Everstone
-Focus Band
-Lucky Egg
-Scope Lens
-Metal Coat
-Leftovers
-Dragon Scale
-Light Ball
-Soft Sand
-Hard Stone
-Miracle Seed
-Black Glasses
-Black Belt
-Magnet
-Mystic Water
-Sharp Beak
-Poison Barb
-Never-Melt Ice
-Spell Tag
-Twisted Spoon
-Charcoal
-Dragon Fang
-Silk Scarf
-Upgrade
-Shell Bell
-Sea Incense
-Lax Incense
-Lucky Punch
-Metal Powder
-Thick Club
-Leek
-Red Scarf
-Blue Scarf
-Pink Scarf
-Green Scarf
-Yellow Scarf
-Wide Lens
-Muscle Band
-Wise Glasses
-Expert Belt
-Light Clay
-Life Orb
-Power Herb
-Toxic Orb
-Flame Orb
-Quick Powder
-Focus Sash
-Zoom Lens
-Metronome
-Iron Ball
-Lagging Tail
-Destiny Knot
-Black Sludge
-Icy Rock
-Smooth Rock
-Heat Rock
-Damp Rock
-Grip Claw
-Choice Scarf
-Sticky Barb
-Power Bracer
-Power Belt
-Power Lens
-Power Band
-Power Anklet
-Power Weight
-Shed Shell
-Big Root
-Choice Specs
-Flame Plate
-Splash Plate
-Zap Plate
-Meadow Plate
-Icicle Plate
-Fist Plate
-Toxic Plate
-Earth Plate
-Sky Plate
-Mind Plate
-Insect Plate
-Stone Plate
-Spooky Plate
-Draco Plate
-Dread Plate
-Iron Plate
-Odd Incense
-Rock Incense
-Full Incense
-Wave Incense
-Rose Incense
-Luck Incense
-Pure Incense
-Protector
-Electirizer
-Magmarizer
-Dubious Disc
-Reaper Cloth
-Razor Claw
-Razor Fang
+なし
+マスタ－ボ－ル
+ハイパ－ボ－ル
+ス－パ－ボ－ル
+モンスタ－ボ－ル
+サファリボ－ル
+ネットボ－ル
+ダイブボ－ル
+ネストボ－ル
+リピ－トボ－ル
+タイマ－ボ－ル
+ゴ－ジャスボ－ル
+プレミアボ－ル
+ダ－クボ－ル
+ヒ－ルボ－ル
+クイックボ－ル
+プレシャスボ－ル
+キズぐすり
+どくけし
+やけどなおし
+こおりなおし
+ねむけざまし
+まひなおし
+かいふくのくすり
+まんたんのくすり
+すごいキズぐすり
+いいキズぐすり
+なんでもなおし
+げんきのかけら
+げんきのかたまり
+おいしいみず
+サイコソ－ダ
+ミックスオレ
+モ－モ－ミルク
+ちからのこな
+ちからのねっこ
+ばんのうごな
+ふっかつそう
+ピ－ピ－エイド
+ピ－ピ－リカバ－
+ピ－ピ－エイダ－
+ピ－ピ－マックス
+フエンせんべい
+きのみジュ－ス
+せいなるはい
+マックスアップ
+タウリン
+ブロムヘキシン
+インドメタシン
+リゾチウム
+ふしぎなアメ
+ポイントアップ
+キトサン
+ポイントマックス
+もりのヨウカン
+エフェクトガ－ド
+クリティカッタ－
+プラスパワ－
+ディフェンダ－
+スピ－ダ－
+ヨクアタ－ル
+スペシャルアップ
+スペシャルガ－ド
+ピッピにんぎょう
+エネコのシッポ
+あおいビ－ドロ
+きいろビ－ドロ
+あかいビ－ドロ
+くろいビ－ドロ
+しろいビ－ドロ
+あさせのしお
+あさせのかいがら
+あかいかけら
+あおいかけら
+きいろいかけら
+みどりのかけら
+シルバ－スプレ－
+ゴ－ルドスプレ－
+あなぬけのヒモ
+むしよけスプレ－
+たいようのいし
+つきのいし
+ほのおのいし
+かみなりのいし
+みずのいし
+リ－フのいし
+ちいさなキノコ
+おおきなキノコ
+しんじゅ
+おおきなしんじゅ
+ほしのすな
+ほしのかけら
+きんのたま
+ハ－トのウロコ
+あまいミツ
+すくすくこやし
+じめじめこやし
+ながながこやし
+ねばねばこやし
+ねっこのカセキ
+ツメのカセキ
+かいのカセキ
+こうらのカセキ
+ひみつのコハク
+たてのカセキ
+ずがいのカセキ
+きちょうなホネ
+ひかりのいし
+やみのいし
+めざめいし
+まんまるいし
+かなめいし
+はっきんだま
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+？？？
+こんごうだま
+しらたま
+グラスメ－ル
+フレイムメ－ル
+ブル－メ－ル
+ブル－ムメ－ル
+トンネルメ－ル
+スチ－ルメ－ル
+ラブラブメ－ル
+ブリザ－ドメ－ル
+スペ－スメ－ル
+エアメ－ル
+モザイクメ－ル
+ブリックメ－ル
+クラボのみ
+カゴのみ
+モモンのみ
+チ－ゴのみ
+ナナシのみ
+ヒメリのみ
+オレンのみ
+キ－のみ
+ラムのみ
+オボンのみ
+フィラのみ
+ウイのみ
+マゴのみ
+バンジのみ
+イアのみ
+ズリのみ
+ブリ－のみ
+ナナのみ
+セシナのみ
+パイルのみ
+ザロクのみ
+ネコブのみ
+タポルのみ
+ロメのみ
+ウブのみ
+マトマのみ
+モコシのみ
+ゴスのみ
+ラブタのみ
+ノメルのみ
+ノワキのみ
+シ－ヤのみ
+カイスのみ
+ドリのみ
+ベリブのみ
+オッカのみ
+イトケのみ
+ソクノのみ
+リンドのみ
+ヤチェのみ
+ヨプのみ
+ビア－のみ
+シュカのみ
+バコウのみ
+ウタンのみ
+タンガのみ
+ヨロギのみ
+カシブのみ
+ハバンのみ
+ナモのみ
+リリバのみ
+ホズのみ
+チイラのみ
+リュガのみ
+カムラのみ
+ヤタピのみ
+ズアのみ
+サンのみ
+スタ－のみ
+ナゾのみ
+ミクルのみ
+イバンのみ
+ジャポのみ
+レンブのみ
+ひかりのこな
+しろいハ－ブ
+きょうせいギプス
+がくしゅうそうち
+せんせいのツメ
+やすらぎのすず
+メンタルハ－ブ
+こだわりハチマキ
+おうじゃのしるし
+ぎんのこな
+おまもりこばん
+きよめのおふだ
+こころのしずく
+しんかいのキバ
+しんかいのウロコ
+けむりだま
+かわらずのいし
+きあいのハチマキ
+しあわせタマゴ
+ピントレンズ
+メタルコ－ト
+たべのこし
+りゅうのウロコ
+でんきだま
+やわらかいすな
+かたいいし
+きせきのタネ
+くろいメガネ
+くろおび
+じしゃく
+しんぴのしずく
+するどいくちばし
+どくバリ
+とけないこおり
+のろいのおふだ
+まがったスプ－ン
+もくたん
+りゅうのキバ
+シルクのスカ－フ
+アップグレ－ド
+かいがらのすず
+うしおのおこう
+のんきのおこう
+ラッキ－パンチ
+メタルパウダ－
+ふといホネ
+ながねぎ
+あかいバンダナ
+あおいバンダナ
+ピンクのバンダナ
+みどりのバンダナ
+きいろのバンダナ
+こうかくレンズ
+ちからのハチマキ
+ものしりメガネ
+たつじんのおび
+ひかりのねんど
+いのちのたま
+パワフルハ－ブ
+どくどくだま
+かえんだま
+スピ－ドパウダ－
+きあいのタスキ
+フォ－カスレンズ
+メトロノ－ム
+くろいてっきゅう
+こうこうのしっぽ
+あかいいと
+くろいヘドロ
+つめたいいわ
+さらさらいわ
+あついいわ
+しめったいわ
+ねばりのかぎづめ
+こだわりスカ－フ
+くっつきバリ
+パワ－リスト
+パワ－ベルト
+パワ－レンズ
+パワ－バンド
+パワ－アンクル
+パワ－ウエイト
+きれいなぬけがら
+おおきなねっこ
+こだわりメガネ
+ひのたまプレ－ト
+しずくプレ－ト
+いかずちプレ－ト
+みどりのプレ－ト
+つららのプレ－ト
+こぶしのプレ－ト
+もうどくプレ－ト
+だいちのプレ－ト
+あおぞらプレ－ト
+ふしぎのプレ－ト
+たまむしプレ－ト
+がんせきプレ－ト
+もののけプレ－ト
+りゅうのプレ－ト
+こわもてプレ－ト
+こうてつプレ－ト
+あやしいおこう
+がんせきおこう
+まんぷくおこう
+さざなみのおこう
+おはなのおこう
+こううんのおこう
+きよめのおこう
+プロテクタ－
+エレキブ－スタ－
+マグマブ－スタ－
+あやしいパッチ
+れいかいのぬの
+するどいツメ
+するどいキバ
 TM001
 TM002
 TM003
@@ -490,15 +490,15 @@ Green Apricorn
 Pink Apricorn
 White Apricorn
 Black Apricorn
-Fast Ball
-Level Ball
-Lure Ball
-Heavy Ball
-Love Ball
-Friend Ball
-Moon Ball
-Sport Ball
-Park Ball
+スピ－ドボ－ル
+レベルボ－ル
+ルア－ボ－ル
+ヘビ－ボ－ル
+ラブラブボ－ル
+フレンドボ－ル
+ム－ンボ－ル
+コンペボ－ル
+パ－クボ－ル
 Photo Album
 GB Sounds
 Tidal Bell
@@ -538,7 +538,7 @@ Enigma Stone
 Prism Scale
 Eviolite
 Float Stone
-Rocky Helmet
+ゴツゴツメット
 Air Balloon
 Red Card
 Ring Target
@@ -546,23 +546,23 @@ Binding Band
 Absorb Bulb
 Cell Battery
 Eject Button
-Fire Gem
-Water Gem
-Electric Gem
-Grass Gem
-Ice Gem
-Fighting Gem
-Poison Gem
-Ground Gem
-Flying Gem
-Psychic Gem
-Bug Gem
-Rock Gem
-Ghost Gem
-Dragon Gem
-Dark Gem
-Steel Gem
-Normal Gem
+ほのおのジュエル
+みずのジュエル 
+でんきのジュエル
+くさのジュエル
+こおりのジュエル
+かくとうジュエル
+どくのジュエル
+じめんのジュエル
+ひこうのジュエル
+エスパ－ジュエル
+むしのジュエル
+いわのジュエル
+ゴ－ストジュエル
+ドラゴンジュエル 
+あくのジュエル
+はがねの－ジュエル
+ノ－マルジュエル
 Health Feather
 Muscle Feather
 Resist Feather
@@ -638,7 +638,7 @@ Dropped Item
 Dropped Item
 Reveal Glass
 Weakness Policy
-Assault Vest
+とつげきチョッキ
 Holo Caster
 Prof’s Letter
 Roller Skates

@@ -3095,6 +3095,7 @@ void LONG_CALL BattleFormChange(int client, int form_no, void *bw, struct Battle
  *  @param client battler whose flags to clear
  */
 void LONG_CALL ClearBattleMonFlags(struct BattleStruct *sp, int client);
+void LONG_CALL ResetSwitchInAbilityFlags(struct BattleStruct *sp, int client);
 
 /**
  *  @brief dumbs client parameter down into its team in proper scenarios

@@ -61,6 +61,7 @@ u8 TypeEffectivenessTable[][3] =
     { TYPE_FIGHTING, TYPE_PSYCHIC, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_FIGHTING, TYPE_ICE, TYPE_MUL_SUPER_EFFECTIVE },
     { TYPE_FIGHTING, TYPE_DARK, TYPE_MUL_SUPER_EFFECTIVE },
+    { TYPE_FLYING, TYPE_ICE, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_FLYING, TYPE_FIGHTING, TYPE_MUL_SUPER_EFFECTIVE },
     { TYPE_FLYING, TYPE_ROCK, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_FLYING, TYPE_BUG, TYPE_MUL_SUPER_EFFECTIVE },
@@ -128,7 +129,7 @@ u8 TypeEffectivenessTable[][3] =
     { TYPE_FAIRY, TYPE_POISON, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_FAIRY, TYPE_STEEL, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_FAIRY, TYPE_FIRE, TYPE_MUL_NOT_EFFECTIVE },
-    { TYPE_FAIRY, TYPE_DRAGON, TYPE_MUL_SUPER_EFFECTIVE },
+    // { TYPE_FAIRY, TYPE_DRAGON, TYPE_MUL_SUPER_EFFECTIVE },
     { TYPE_FAIRY, TYPE_DARK, TYPE_MUL_SUPER_EFFECTIVE },
 #endif
 
@@ -176,6 +177,7 @@ u8 TypeEffectivenessTable[][3] =
     { TYPE_DRAGON, TYPE_STEEL, TYPE_MUL_NOT_EFFECTIVE },
 
     { TYPE_DRAGON, TYPE_DRAGON, TYPE_MUL_SUPER_EFFECTIVE },
+    { TYPE_DRAGON, TYPE_ICE, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_DARK, TYPE_FIGHTING, TYPE_MUL_NOT_EFFECTIVE },
     { TYPE_DARK, TYPE_GHOST, TYPE_MUL_SUPER_EFFECTIVE },
 
@@ -197,9 +199,9 @@ u8 TypeEffectivenessTable[][3] =
     { TYPE_GHOST, TYPE_NORMAL, TYPE_MUL_NO_EFFECT },
     { TYPE_ELECTRIC, TYPE_GROUND, TYPE_MUL_NO_EFFECT },
     { TYPE_PSYCHIC, TYPE_DARK, TYPE_MUL_NO_EFFECT },
-#if FAIRY_TYPE_IMPLEMENTED == 1
-    { TYPE_DRAGON, TYPE_FAIRY, TYPE_MUL_NO_EFFECT },
-#endif
+// #if FAIRY_TYPE_IMPLEMENTED == 1
+//     { TYPE_DRAGON, TYPE_FAIRY, TYPE_MUL_NO_EFFECT },
+// #endif
 
     { TYPE_FORESIGHT, TYPE_FORESIGHT, TYPE_MUL_NO_EFFECT },
     { TYPE_NORMAL, TYPE_GHOST, TYPE_MUL_NO_EFFECT },
@@ -1117,6 +1119,24 @@ void LONG_CALL ClearBattleMonFlags(struct BattleStruct *sp, int client)
     if (sp->battlemon[client].species == SPECIES_XERNEAS) {
         sp->battlemon[client].form_no = 1;
     }
+}
+
+// Forewarn, Anticipation, and Frisk retrigger when a new opposing Pokemon switches in.
+// Called only on switch-in, not on faint, so these abilities don't fire when an opponent KOs.
+void LONG_CALL ResetSwitchInAbilityFlags(struct BattleStruct *sp, int client)
+{
+    int i;
+    // Battlers 0,2 are player-side; 1,3 are opponent-side (different parity from client = opposite team).
+    for (i = 0; i < 4; i++) {
+        if ((i & 1) != (client & 1) && sp->battlemon[i].hp) {
+            u32 ab = GetBattlerAbility(sp, i);
+            if (ab == ABILITY_FOREWARN || ab == ABILITY_ANTICIPATION || ab == ABILITY_FRISK) {
+                sp->battlemon[i].ability_activated_flag = 0;
+            }
+        }
+    }
+    // Clear frisk_tracker bit for the newly-switched-in client so Frisk can check them again
+    sp->frisk_tracker &= ~No2Bit(client);
 }
 
 /**

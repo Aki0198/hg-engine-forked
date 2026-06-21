@@ -1372,14 +1372,13 @@ int UNUSED CalcBaseDamageInternal(struct BattleSystem *bw, struct BattleStruct *
 #endif
 
     // Step 4.7. Sandstorm + Rock-type
-    // Step 4.7. Sandstorm + Rock-type
     if ((weather & WEATHER_SANDSTORM_ANY)
         && HasType(sp, defender, TYPE_ROCK)) {
         sp_defense = QMul_RoundDown(sp_defense, UQ412__1_5);
     }
     if ((weather & WEATHER_SNOW_ANY)
         && HasType(sp, defender, TYPE_ICE)) {
-        defense = QMul_RoundDown(defense, UQ412__1_5);
+            defense = QMul_RoundDown(defense, UQ412__1_5);
     }
     if ((weather & WEATHER_HAIL_ANY)
         && HasType(sp, defender, TYPE_ICE)) {

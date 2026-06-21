@@ -1130,14 +1130,14 @@ u8 LONG_CALL CalcSpeed(void *bw, struct BattleStruct *sp, int client1, int clien
 
     // Step 11: Paralysis
 
-    if ((ability1 != ABILITY_QUICK_FEET)
-    && sp->battlemon[client1].condition & STATUS_PARALYSIS) {
-        speed1 = QMul_RoundUp(speed1, UQ412__0_25);  // gen 7 on only halves speed for paralysis
+if ((ability1 != ABILITY_QUICK_FEET)
+        && sp->battlemon[client1].condition & STATUS_PARALYSIS) {
+        speed1 = QMul_RoundUp(speed1, UQ412__0_25); // gen 7 on only halves speed for paralysis
     }
 
     if ((ability2 != ABILITY_QUICK_FEET)
-    && sp->battlemon[client2].condition & STATUS_PARALYSIS) {
-        speed2 = QMul_RoundUp(speed2, UQ412__0_25);  // gen 7 on only halves speed for paralysis
+        && sp->battlemon[client2].condition & STATUS_PARALYSIS) {
+        speed2 = QMul_RoundUp(speed2, UQ412__0_25); // gen 7 on only halves speed for paralysis
     }
 
 #ifdef DEBUG_SPEED_CALC
@@ -2080,8 +2080,8 @@ BOOL BattlerCantSwitch(void *bw, struct BattleStruct *sp, int battlerId)
 {
     BOOL ret = FALSE;
 
-    // ghost types can switch from anything like they had shed skin
-    if (HeldItemHoldEffectGet(sp, battlerId) == HOLD_EFFECT_SWITCH || HasType(sp, battlerId, TYPE_GHOST)) {
+    // ghost types, shed shell holders, and run away users can switch from anything
+    if (HeldItemHoldEffectGet(sp, battlerId) == HOLD_EFFECT_SWITCH || HasType(sp, battlerId, TYPE_GHOST) || GetBattlerAbility(sp, battlerId) == ABILITY_RUN_AWAY) {
         return FALSE;
     }
 
