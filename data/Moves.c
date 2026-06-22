@@ -30,9 +30,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POUND] = {
         .names = {
-            .name = "Pound",
-            .capsName = "POUND",
-            .fullName = "Pound",
+            .name = "はたく",
+            .capsName = "はたく",
+            .fullName = "はたく",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -57,9 +57,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_KARATE_CHOP] = {
         .names = {
-            .name = "Karate Chop",
-            .capsName = "KARATE CHOP",
-            .fullName = "Karate Chop",
+            .name = "からてチョップ",
+            .capsName = "からてチョップ",
+            .fullName = "からてチョップ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -84,9 +84,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DOUBLE_SLAP] = {
         .names = {
-            .name = "Double Slap",
-            .capsName = "DOUBLE SLAP",
-            .fullName = "Double Slap",
+            .name = "おうふくビンタ",
+            .capsName = "おうふくビンタ",
+            .fullName = "おうふくビンタ",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -111,9 +111,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_COMET_PUNCH] = {
         .names = {
-            .name = "Comet Punch",
-            .capsName = "COMET PUNCH",
-            .fullName = "Comet Punch",
+            .name = "れんぞくパンチ",
+            .capsName = "れんぞくパンチ",
+            .fullName = "れんぞくパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -138,9 +138,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEGA_PUNCH] = {
         .names = {
-            .name = "Mega Punch",
-            .capsName = "MEGA PUNCH",
-            .fullName = "Mega Punch",
+            .name = "メガトンパンチ",
+            .capsName = "メガトンパンチ",
+            .fullName = "メガトンパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -165,9 +165,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PAY_DAY] = {
         .names = {
-            .name = "Pay Day",
-            .capsName = "PAY DAY",
-            .fullName = "Pay Day",
+            .name = "ネコにこばん",
+            .capsName = "ネコにこばん",
+            .fullName = "ネコにこばん",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_PRIZE_MONEY,
@@ -192,9 +192,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FIRE_PUNCH] = {
         .names = {
-            .name = "Fire Punch",
-            .capsName = "FIRE PUNCH",
-            .fullName = "Fire Punch",
+            .name = "ほのおのパンチ",
+            .capsName = "ほのおのパンチ",
+            .fullName = "ほのおのパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -219,9 +219,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICE_PUNCH] = {
         .names = {
-            .name = "Ice Punch",
-            .capsName = "ICE PUNCH",
-            .fullName = "Ice Punch",
+            .name = "れいとうパンチ",
+            .capsName = "れいとうパンチ",
+            .fullName = "れいとうパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -246,9 +246,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THUNDER_PUNCH] = {
         .names = {
-            .name = "Thunder Punch",
-            .capsName = "THUNDER PUNCH",
-            .fullName = "Thunder Punch",
+            .name = "かみなりパンチ",
+            .capsName = "かみなりパンチ",
+            .fullName = "かみなりパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -273,9 +273,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SCRATCH] = {
         .names = {
-            .name = "Scratch",
-            .capsName = "SCRATCH",
-            .fullName = "Scratch",
+            .name = "ひっかく",
+            .capsName = "ひっかく",
+            .fullName = "ひっかく",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -300,9 +300,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_VICE_GRIP] = {
         .names = {
-            .name = "Vise Grip",
-            .capsName = "VISE GRIP",
-            .fullName = "Vise Grip",
+            .name = "はさむ",
+            .capsName = "はさむ",
+            .fullName = "はさむ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -327,9 +327,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GUILLOTINE] = {
         .names = {
-            .name = "Guillotine",
-            .capsName = "GUILLOTINE",
-            .fullName = "Guillotine",
+            .name = "ハサミギロチン",
+            .capsName = "ハサミギロチン",
+            .fullName = "ハサミギロチン",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -354,9 +354,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RAZOR_WIND] = {
         .names = {
-            .name = "Razor Wind",
-            .capsName = "RAZOR WIND",
-            .fullName = "Razor Wind",
+            .name = "かまいたち",
+            .capsName = "かまいたち",
+            .fullName = "かまいたち",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT,
@@ -381,9 +381,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWORDS_DANCE] = {
         .names = {
-            .name = "Swords Dance",
-            .capsName = "SWORDS DANCE",
-            .fullName = "Swords Dance",
+            .name = "つるぎのまい",
+            .capsName = "つるぎのまい",
+            .fullName = "つるぎのまい",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP_2,
@@ -408,9 +408,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CUT] = {
         .names = {
-            .name = "Cut",
-            .capsName = "CUT",
-            .fullName = "Cut",
+            .name = "いあいぎり",
+            .capsName = "いあいぎり",
+            .fullName = "いあいぎり",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -435,9 +435,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GUST] = {
         .names = {
-            .name = "Gust",
-            .capsName = "GUST",
-            .fullName = "Gust",
+            .name = "かぜおこし",
+            .capsName = "かぜおこし",
+            .fullName = "かぜおこし",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_FLY_OR_BOUNCE,
@@ -462,9 +462,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WING_ATTACK] = {
         .names = {
-            .name = "Wing Attack",
-            .capsName = "WING ATTACK",
-            .fullName = "Wing Attack",
+            .name = "つばさでうつ",
+            .capsName = "つばさでうつ",
+            .fullName = "つばさでうつ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -489,9 +489,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WHIRLWIND] = {
         .names = {
-            .name = "Whirlwind",
-            .capsName = "WHIRLWIND",
-            .fullName = "Whirlwind",
+            .name = "ふきとばし",
+            .capsName = "ふきとばし",
+            .fullName = "ふきとばし",
         },
         .data = {
             .effect = MOVE_EFFECT_FORCE_SWITCH,
@@ -516,9 +516,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLY] = {
         .names = {
-            .name = "Fly",
-            .capsName = "FLY",
-            .fullName = "Fly",
+            .name = "そらをとぶ",
+            .capsName = "そらをとぶ",
+            .fullName = "そらをとぶ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLY,
@@ -543,9 +543,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BIND] = {
         .names = {
-            .name = "Bind",
-            .capsName = "BIND",
-            .fullName = "Bind",
+            .name = "しめつける",
+            .capsName = "しめつける",
+            .fullName = "しめつける",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -570,9 +570,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLAM] = {
         .names = {
-            .name = "Slam",
-            .capsName = "SLAM",
-            .fullName = "Slam",
+            .name = "たたきつける",
+            .capsName = "たたきつける",
+            .fullName = "たたきつける",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -597,9 +597,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_VINE_WHIP] = {
         .names = {
-            .name = "Vine Whip",
-            .capsName = "VINE WHIP",
-            .fullName = "Vine Whip",
+            .name = "つるのムチ",
+            .capsName = "つるのムチ",
+            .fullName = "つるのムチ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -624,9 +624,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STOMP] = {
         .names = {
-            .name = "Stomp",
-            .capsName = "STOMP",
-            .fullName = "Stomp",
+            .name = "ふみつけ",
+            .capsName = "ふみつけ",
+            .fullName = "ふみつけ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_MINIMIZE_DOUBLE_HIT,
@@ -651,9 +651,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DOUBLE_KICK] = {
         .names = {
-            .name = "Double Kick",
-            .capsName = "DOUBLE KICK",
-            .fullName = "Double Kick",
+            .name = "にどげり",
+            .capsName = "にどげり",
+            .fullName = "にどげり",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -678,9 +678,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEGA_KICK] = {
         .names = {
-            .name = "Mega Kick",
-            .capsName = "MEGA KICK",
-            .fullName = "Mega Kick",
+            .name = "メガトンキック",
+            .capsName = "メガトンキック",
+            .fullName = "メガトンキック",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -705,9 +705,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_JUMP_KICK] = {
         .names = {
-            .name = "Jump Kick",
-            .capsName = "JUMP KICK",
-            .fullName = "Jump Kick",
+            .name = "とびげり",
+            .capsName = "とびげり",
+            .fullName = "とびげり",
         },
         .data = {
             .effect = MOVE_EFFECT_CRASH_ON_MISS,
@@ -732,9 +732,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROLLING_KICK] = {
         .names = {
-            .name = "Rolling Kick",
-            .capsName = "ROLLING KICK",
-            .fullName = "Rolling Kick",
+            .name = "まわしげり",
+            .capsName = "まわしげり",
+            .fullName = "まわしげり",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -759,9 +759,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SAND_ATTACK] = {
         .names = {
-            .name = "Sand Attack",
-            .capsName = "SAND ATTACK",
-            .fullName = "Sand Attack",
+            .name = "すなかけ",
+            .capsName = "すなかけ",
+            .fullName = "すなかけ",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -786,9 +786,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEADBUTT] = {
         .names = {
-            .name = "Headbutt",
-            .capsName = "HEADBUTT",
-            .fullName = "Headbutt",
+            .name = "ずつき",
+            .capsName = "ずつき",
+            .fullName = "ずつき",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -813,9 +813,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HORN_ATTACK] = {
         .names = {
-            .name = "Horn Attack",
-            .capsName = "HORN ATTACK",
-            .fullName = "Horn Attack",
+            .name = "つのでつく",
+            .capsName = "つのでつく",
+            .fullName = "つのでつく",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -840,9 +840,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FURY_ATTACK] = {
         .names = {
-            .name = "Fury Attack",
-            .capsName = "FURY ATTACK",
-            .fullName = "Fury Attack",
+            .name = "みだれづき",
+            .capsName = "みだれづき",
+            .fullName = "みだれづき",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -867,9 +867,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HORN_DRILL] = {
         .names = {
-            .name = "Horn Drill",
-            .capsName = "HORN DRILL",
-            .fullName = "Horn Drill",
+            .name = "つのドリル",
+            .capsName = "つのドリル",
+            .fullName = "つのドリル",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -894,9 +894,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TACKLE] = {
         .names = {
-            .name = "Tackle",
-            .capsName = "TACKLE",
-            .fullName = "Tackle",
+            .name = "たいあたり",
+            .capsName = "たいあたり",
+            .fullName = "たいあたり",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -921,9 +921,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BODY_SLAM] = {
         .names = {
-            .name = "Body Slam",
-            .capsName = "BODY SLAM",
-            .fullName = "Body Slam",
+            .name = "のしかかり",
+            .capsName = "のしかかり",
+            .fullName = "のしかかり",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -948,9 +948,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WRAP] = {
         .names = {
-            .name = "Wrap",
-            .capsName = "WRAP",
-            .fullName = "Wrap",
+            .name = "まきつく",
+            .capsName = "まきつく",
+            .fullName = "まきつく",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -975,9 +975,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TAKE_DOWN] = {
         .names = {
-            .name = "Take Down",
-            .capsName = "TAKE DOWN",
-            .fullName = "Take Down",
+            .name = "とっしん",
+            .capsName = "とっしん",
+            .fullName = "とっしん",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_QUARTER,
@@ -1002,9 +1002,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THRASH] = {
         .names = {
-            .name = "Thrash",
-            .capsName = "THRASH",
-            .fullName = "Thrash",
+            .name = "あばれる",
+            .capsName = "あばれる",
+            .fullName = "あばれる",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -1029,9 +1029,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DOUBLE_EDGE] = {
         .names = {
-            .name = "Double-Edge",
-            .capsName = "DOUBLE-EDGE",
-            .fullName = "Double-Edge",
+            .name = "すてみタックル",
+            .capsName = "すてみタックル",
+            .fullName = "すてみタックル",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -1056,9 +1056,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TAIL_WHIP] = {
         .names = {
-            .name = "Tail Whip",
-            .capsName = "TAIL WHIP",
-            .fullName = "Tail Whip",
+            .name = "しっぽをふる",
+            .capsName = "しっぽをふる",
+            .fullName = "しっぽをふる",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN,
@@ -1083,9 +1083,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POISON_STING] = {
         .names = {
-            .name = "Poison Sting",
-            .capsName = "POISON STING",
-            .fullName = "Poison Sting",
+            .name = "どくばり",
+            .capsName = "どくばり",
+            .fullName = "どくばり",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -1110,9 +1110,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TWINEEDLE] = {
         .names = {
-            .name = "Twineedle",
-            .capsName = "TWINEEDLE",
-            .fullName = "Twineedle",
+            .name = "ダブルニ－ドル",
+            .capsName = "ダブルニ－ドル",
+            .fullName = "ダブルニ－ドル",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_MULTI_HIT,
@@ -1137,9 +1137,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PIN_MISSILE] = {
         .names = {
-            .name = "Pin Missile",
-            .capsName = "PIN MISSILE",
-            .fullName = "Pin Missile",
+            .name = "ミサイルばり",
+            .capsName = "ミサイルばり",
+            .fullName = "ミサイルばり",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -1164,9 +1164,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LEER] = {
         .names = {
-            .name = "Leer",
-            .capsName = "LEER",
-            .fullName = "Leer",
+            .name = "にらみつける",
+            .capsName = "にらみつける",
+            .fullName = "にらみつける",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN,
@@ -1191,9 +1191,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BITE] = {
         .names = {
-            .name = "Bite",
-            .capsName = "BITE",
-            .fullName = "Bite",
+            .name = "かみつく",
+            .capsName = "かみつく",
+            .fullName = "かみつく",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -1218,9 +1218,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GROWL] = {
         .names = {
-            .name = "Growl",
-            .capsName = "GROWL",
-            .fullName = "Growl",
+            .name = "なきごえ",
+            .capsName = "なきごえ",
+            .fullName = "なきごえ",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN,
@@ -1245,9 +1245,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROAR] = {
         .names = {
-            .name = "Roar",
-            .capsName = "ROAR",
-            .fullName = "Roar",
+            .name = "ほえる",
+            .capsName = "ほえる",
+            .fullName = "ほえる",
         },
         .data = {
             .effect = MOVE_EFFECT_FORCE_SWITCH,
@@ -1272,9 +1272,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SING] = {
         .names = {
-            .name = "Sing",
-            .capsName = "SING",
-            .fullName = "Sing",
+            .name = "うたう",
+            .capsName = "うたう",
+            .fullName = "うたう",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -1299,9 +1299,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUPERSONIC] = {
         .names = {
-            .name = "Supersonic",
-            .capsName = "SUPERSONIC",
-            .fullName = "Supersonic",
+            .name = "ちょうおんぱ",
+            .capsName = "ちょうおんぱ",
+            .fullName = "ちょうおんぱ",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_CONFUSE,
@@ -1326,9 +1326,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SONIC_BOOM] = {
         .names = {
-            .name = "Sonic Boom",
-            .capsName = "SONIC BOOM",
-            .fullName = "Sonic Boom",
+            .name = "ソニックブ－ム",
+            .capsName = "ソニックブ－ム",
+            .fullName = "ソニックブ－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_10_DAMAGE_FLAT,
@@ -1353,9 +1353,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DISABLE] = {
         .names = {
-            .name = "Disable",
-            .capsName = "DISABLE",
-            .fullName = "Disable",
+            .name = "かなしばり",
+            .capsName = "かなしばり",
+            .fullName = "かなしばり",
         },
         .data = {
             .effect = MOVE_EFFECT_DISABLE,
@@ -1380,9 +1380,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ACID] = {
         .names = {
-            .name = "Acid",
-            .capsName = "ACID",
-            .fullName = "Acid",
+            .name = "ようかいえき",
+            .capsName = "ようかいえき",
+            .fullName = "ようかいえき",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -1407,9 +1407,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EMBER] = {
         .names = {
-            .name = "Ember",
-            .capsName = "EMBER",
-            .fullName = "Ember",
+            .name = "ひのこ",
+            .capsName = "ひのこ",
+            .fullName = "ひのこ",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -1434,9 +1434,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLAMETHROWER] = {
         .names = {
-            .name = "Flamethrower",
-            .capsName = "FLAMETHROWER",
-            .fullName = "Flamethrower",
+            .name = "かえんほうしゃ",
+            .capsName = "かえんほうしゃ",
+            .fullName = "かえんほうしゃ",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -1461,9 +1461,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIST] = {
         .names = {
-            .name = "Mist",
-            .capsName = "MIST",
-            .fullName = "Mist",
+            .name = "しろいきり",
+            .capsName = "しろいきり",
+            .fullName = "しろいきり",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_STAT_REDUCTION,
@@ -1488,9 +1488,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WATER_GUN] = {
         .names = {
-            .name = "Water Gun",
-            .capsName = "WATER GUN",
-            .fullName = "Water Gun",
+            .name = "みずでっぽう",
+            .capsName = "みずでっぽう",
+            .fullName = "みずでっぽう",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1515,9 +1515,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HYDRO_PUMP] = {
         .names = {
-            .name = "Hydro Pump",
-            .capsName = "HYDRO PUMP",
-            .fullName = "Hydro Pump",
+            .name = "ハイドロポンプ",
+            .capsName = "ハイドロポンプ",
+            .fullName = "ハイドロポンプ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1542,9 +1542,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SURF] = {
         .names = {
-            .name = "Surf",
-            .capsName = "SURF",
-            .fullName = "Surf",
+            .name = "なみのり",
+            .capsName = "なみのり",
+            .fullName = "なみのり",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_DIVE,
@@ -1569,9 +1569,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICE_BEAM] = {
         .names = {
-            .name = "Ice Beam",
-            .capsName = "ICE BEAM",
-            .fullName = "Ice Beam",
+            .name = "れいとうビ－ム",
+            .capsName = "れいとうビ－ム",
+            .fullName = "れいとうビ－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -1596,9 +1596,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BLIZZARD] = {
         .names = {
-            .name = "Blizzard",
-            .capsName = "BLIZZARD",
-            .fullName = "Blizzard",
+            .name = "ふぶき",
+            .capsName = "ふぶき",
+            .fullName = "ふぶき",
         },
         .data = {
             .effect = MOVE_EFFECT_BLIZZARD,
@@ -1623,9 +1623,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYBEAM] = {
         .names = {
-            .name = "Psybeam",
-            .capsName = "PSYBEAM",
-            .fullName = "Psybeam",
+            .name = "サイケこうせん",
+            .capsName = "サイケこうせん",
+            .fullName = "サイケこうせん",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -1650,9 +1650,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BUBBLE_BEAM] = {
         .names = {
-            .name = "Bubble Beam",
-            .capsName = "BUBBLE BEAM",
-            .fullName = "Bubble Beam",
+            .name = "バブルこうせん",
+            .capsName = "バブルこうせん",
+            .fullName = "バブルこうせん",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -1677,9 +1677,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AURORA_BEAM] = {
         .names = {
-            .name = "Aurora Beam",
-            .capsName = "AURORA BEAM",
-            .fullName = "Aurora Beam",
+            .name = "オ－ロラビ－ム",
+            .capsName = "オ－ロラビ－ム",
+            .fullName = "オ－ロラビ－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ATTACK_HIT,
@@ -1704,9 +1704,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HYPER_BEAM] = {
         .names = {
-            .name = "Hyper Beam",
-            .capsName = "HYPER BEAM",
-            .fullName = "Hyper Beam",
+            .name = "はかいこうせん",
+            .capsName = "はかいこうせん",
+            .fullName = "はかいこうせん",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -1731,9 +1731,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PECK] = {
         .names = {
-            .name = "Peck",
-            .capsName = "PECK",
-            .fullName = "Peck",
+            .name = "つつく",
+            .capsName = "つつく",
+            .fullName = "つつく",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1758,9 +1758,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRILL_PECK] = {
         .names = {
-            .name = "Drill Peck",
-            .capsName = "DRILL PECK",
-            .fullName = "Drill Peck",
+            .name = "ドリルくちばし",
+            .capsName = "ドリルくちばし",
+            .fullName = "ドリルくちばし",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1785,9 +1785,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUBMISSION] = {
         .names = {
-            .name = "Submission",
-            .capsName = "SUBMISSION",
-            .fullName = "Submission",
+            .name = "じごくぐるま",
+            .capsName = "じごくぐるま",
+            .fullName = "じごくぐるま",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_QUARTER,
@@ -1812,9 +1812,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LOW_KICK] = {
         .names = {
-            .name = "Low Kick",
-            .capsName = "LOW KICK",
-            .fullName = "Low Kick",
+            .name = "けたぐり",
+            .capsName = "けたぐり",
+            .fullName = "けたぐり",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_WEIGHT,
@@ -1839,9 +1839,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_COUNTER] = {
         .names = {
-            .name = "Counter",
-            .capsName = "COUNTER",
-            .fullName = "Counter",
+            .name = "カウンタ－",
+            .capsName = "カウンタ－",
+            .fullName = "カウンタ－",
         },
         .data = {
             .effect = MOVE_EFFECT_COUNTER,
@@ -1866,9 +1866,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SEISMIC_TOSS] = {
         .names = {
-            .name = "Seismic Toss",
-            .capsName = "SEISMIC TOSS",
-            .fullName = "Seismic Toss",
+            .name = "ちきゅうなげ",
+            .capsName = "ちきゅうなげ",
+            .fullName = "ちきゅうなげ",
         },
         .data = {
             .effect = MOVE_EFFECT_LEVEL_DAMAGE_FLAT,
@@ -1893,9 +1893,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STRENGTH] = {
         .names = {
-            .name = "Strength",
-            .capsName = "STRENGTH",
-            .fullName = "Strength",
+            .name = "かいりき",
+            .capsName = "かいりき",
+            .fullName = "かいりき",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -1920,9 +1920,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ABSORB] = {
         .names = {
-            .name = "Absorb",
-            .capsName = "ABSORB",
-            .fullName = "Absorb",
+            .name = "すいとる",
+            .capsName = "すいとる",
+            .fullName = "すいとる",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -1947,9 +1947,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEGA_DRAIN] = {
         .names = {
-            .name = "Mega Drain",
-            .capsName = "MEGA DRAIN",
-            .fullName = "Mega Drain",
+            .name = "メガドレイン",
+            .capsName = "メガドレイン",
+            .fullName = "メガドレイン",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -1974,9 +1974,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LEECH_SEED] = {
         .names = {
-            .name = "Leech Seed",
-            .capsName = "LEECH SEED",
-            .fullName = "Leech Seed",
+            .name = "やどりぎのタネ",
+            .capsName = "やどりぎのタネ",
+            .fullName = "やどりぎのタネ",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_LEECH_SEED,
@@ -2001,9 +2001,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GROWTH] = {
         .names = {
-            .name = "Growth",
-            .capsName = "GROWTH",
-            .fullName = "Growth",
+            .name = "せいちょう",
+            .capsName = "せいちょう",
+            .fullName = "せいちょう",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP,
@@ -2028,9 +2028,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RAZOR_LEAF] = {
         .names = {
-            .name = "Razor Leaf",
-            .capsName = "RAZOR LEAF",
-            .fullName = "Razor Leaf",
+            .name = "はっぱカッタ－",
+            .capsName = "はっぱカッタ－",
+            .fullName = "はっぱカッタ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -2055,9 +2055,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SOLAR_BEAM] = {
         .names = {
-            .name = "Solar Beam",
-            .capsName = "SOLAR BEAM",
-            .fullName = "Solar Beam",
+            .name = "ソ－ラ－ビ－ム",
+            .capsName = "ソ－ラ－ビ－ム",
+            .fullName = "ソ－ラ－ビ－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_SUN_SKIPS,
@@ -2082,9 +2082,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POISON_POWDER] = {
         .names = {
-            .name = "Poison Powder",
-            .capsName = "POISON POWDER",
-            .fullName = "Poison Powder",
+            .name = "どくのこな",
+            .capsName = "どくのこな",
+            .fullName = "どくのこな",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_POISON,
@@ -2109,9 +2109,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STUN_SPORE] = {
         .names = {
-            .name = "Stun Spore",
-            .capsName = "STUN SPORE",
-            .fullName = "Stun Spore",
+            .name = "しびれごな",
+            .capsName = "しびれごな",
+            .fullName = "しびれごな",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_PARALYZE,
@@ -2136,9 +2136,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLEEP_POWDER] = {
         .names = {
-            .name = "Sleep Powder",
-            .capsName = "SLEEP POWDER",
-            .fullName = "Sleep Powder",
+            .name = "ねむりごな",
+            .capsName = "ねむりごな",
+            .fullName = "ねむりごな",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -2163,9 +2163,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PETAL_DANCE] = {
         .names = {
-            .name = "Petal Dance",
-            .capsName = "PETAL DANCE",
-            .fullName = "Petal Dance",
+            .name = "はなびらのまい",
+            .capsName = "はなびらのまい",
+            .fullName = "はなびらのまい",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -2190,9 +2190,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STRING_SHOT] = {
         .names = {
-            .name = "String Shot",
-            .capsName = "STRING SHOT",
-            .fullName = "String Shot",
+            .name = "いとをはく",
+            .capsName = "いとをはく",
+            .fullName = "いとをはく",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -2217,9 +2217,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAGON_RAGE] = {
         .names = {
-            .name = "Dragon Rage",
-            .capsName = "DRAGON RAGE",
-            .fullName = "Dragon Rage",
+            .name = "りゅうのいかり",
+            .capsName = "りゅうのいかり",
+            .fullName = "りゅうのいかり",
         },
         .data = {
             .effect = MOVE_EFFECT_40_DAMAGE_FLAT,
@@ -2244,9 +2244,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FIRE_SPIN] = {
         .names = {
-            .name = "Fire Spin",
-            .capsName = "FIRE SPIN",
-            .fullName = "Fire Spin",
+            .name = "ほのおのうず",
+            .capsName = "ほのおのうず",
+            .fullName = "ほのおのうず",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -2271,9 +2271,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THUNDER_SHOCK] = {
         .names = {
-            .name = "Thunder Shock",
-            .capsName = "THUNDER SHOCK",
-            .fullName = "Thunder Shock",
+            .name = "でんきショック",
+            .capsName = "でんきショック",
+            .fullName = "でんきショック",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -2298,9 +2298,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THUNDERBOLT] = {
         .names = {
-            .name = "Thunderbolt",
-            .capsName = "THUNDERBOLT",
-            .fullName = "Thunderbolt",
+            .name = "１０まんボルト",
+            .capsName = "１０まんボルト",
+            .fullName = "１０まんボルト",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -2325,9 +2325,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THUNDER_WAVE] = {
         .names = {
-            .name = "Thunder Wave",
-            .capsName = "THUNDER WAVE",
-            .fullName = "Thunder Wave",
+            .name = "でんじは",
+            .capsName = "でんじは",
+            .fullName = "でんじは",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_PARALYZE,
@@ -2352,9 +2352,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THUNDER] = {
         .names = {
-            .name = "Thunder",
-            .capsName = "THUNDER",
-            .fullName = "Thunder",
+            .name = "かみなり",
+            .capsName = "かみなり",
+            .fullName = "かみなり",
         },
         .data = {
             .effect = MOVE_EFFECT_THUNDER,
@@ -2379,9 +2379,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_THROW] = {
         .names = {
-            .name = "Rock Throw",
-            .capsName = "ROCK THROW",
-            .fullName = "Rock Throw",
+            .name = "いわおとし",
+            .capsName = "いわおとし",
+            .fullName = "いわおとし",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -2406,9 +2406,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EARTHQUAKE] = {
         .names = {
-            .name = "Earthquake",
-            .capsName = "EARTHQUAKE",
-            .fullName = "Earthquake",
+            .name = "じしん",
+            .capsName = "じしん",
+            .fullName = "じしん",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_DIG,
@@ -2433,9 +2433,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FISSURE] = {
         .names = {
-            .name = "Fissure",
-            .capsName = "FISSURE",
-            .fullName = "Fissure",
+            .name = "じわれ",
+            .capsName = "じわれ",
+            .fullName = "じわれ",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -2460,9 +2460,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DIG] = {
         .names = {
-            .name = "Dig",
-            .capsName = "DIG",
-            .fullName = "Dig",
+            .name = "あなをほる",
+            .capsName = "あなをほる",
+            .fullName = "あなをほる",
         },
         .data = {
             .effect = MOVE_EFFECT_DIG,
@@ -2487,9 +2487,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TOXIC] = {
         .names = {
-            .name = "Toxic",
-            .capsName = "TOXIC",
-            .fullName = "Toxic",
+            .name = "どくどく",
+            .capsName = "どくどく",
+            .fullName = "どくどく",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_BADLY_POISON,
@@ -2514,9 +2514,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CONFUSION] = {
         .names = {
-            .name = "Confusion",
-            .capsName = "CONFUSION",
-            .fullName = "Confusion",
+            .name = "ねんりき",
+            .capsName = "ねんりき",
+            .fullName = "ねんりき",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -2541,9 +2541,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYCHIC] = {
         .names = {
-            .name = "Psychic",
-            .capsName = "PSYCHIC",
-            .fullName = "Psychic",
+            .name = "サイコキネシス",
+            .capsName = "サイコキネシス",
+            .fullName = "サイコキネシス",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -2568,9 +2568,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HYPNOSIS] = {
         .names = {
-            .name = "Hypnosis",
-            .capsName = "HYPNOSIS",
-            .fullName = "Hypnosis",
+            .name = "さいみんじゅつ",
+            .capsName = "さいみんじゅつ",
+            .fullName = "さいみんじゅつ",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -2595,9 +2595,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEDITATE] = {
         .names = {
-            .name = "Meditate",
-            .capsName = "MEDITATE",
-            .fullName = "Meditate",
+            .name = "ヨガのポ－ズ",
+            .capsName = "ヨガのポ－ズ",
+            .fullName = "ヨガのポ－ズ",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP,
@@ -2622,9 +2622,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AGILITY] = {
         .names = {
-            .name = "Agility",
-            .capsName = "AGILITY",
-            .fullName = "Agility",
+            .name = "こうそくいどう",
+            .capsName = "こうそくいどう",
+            .fullName = "こうそくいどう",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_UP_2,
@@ -2649,9 +2649,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_QUICK_ATTACK] = {
         .names = {
-            .name = "Quick Attack",
-            .capsName = "QUICK ATTACK",
-            .fullName = "Quick Attack",
+            .name = "でんこうせっか",
+            .capsName = "でんこうせっか",
+            .fullName = "でんこうせっか",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -2676,9 +2676,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RAGE] = {
         .names = {
-            .name = "Rage",
-            .capsName = "RAGE",
-            .fullName = "Rage",
+            .name = "いかり",
+            .capsName = "いかり",
+            .fullName = "いかり",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATK_WHEN_HIT,
@@ -2703,9 +2703,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TELEPORT] = {
         .names = {
-            .name = "Teleport",
-            .capsName = "TELEPORT",
-            .fullName = "Teleport",
+            .name = "テレポ－ト",
+            .capsName = "テレポ－ト",
+            .fullName = "テレポ－ト",
         },
         .data = {
             .effect = MOVE_EFFECT_FLEE_FROM_WILD_BATTLE,
@@ -2730,9 +2730,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NIGHT_SHADE] = {
         .names = {
-            .name = "Night Shade",
-            .capsName = "NIGHT SHADE",
-            .fullName = "Night Shade",
+            .name = "ナイトヘッド",
+            .capsName = "ナイトヘッド",
+            .fullName = "ナイトヘッド",
         },
         .data = {
             .effect = MOVE_EFFECT_LEVEL_DAMAGE_FLAT,
@@ -2757,9 +2757,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIMIC] = {
         .names = {
-            .name = "Mimic",
-            .capsName = "MIMIC",
-            .fullName = "Mimic",
+            .name = "ものまね",
+            .capsName = "ものまね",
+            .fullName = "ものまね",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_MOVE_FOR_BATTLE,
@@ -2784,9 +2784,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SCREECH] = {
         .names = {
-            .name = "Screech",
-            .capsName = "SCREECH",
-            .fullName = "Screech",
+            .name = "いやなおと",
+            .capsName = "いやなおと",
+            .fullName = "いやなおと",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_DOWN_2,
@@ -2811,9 +2811,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DOUBLE_TEAM] = {
         .names = {
-            .name = "Double Team",
-            .capsName = "DOUBLE TEAM",
-            .fullName = "Double Team",
+            .name = "かげぶんしん",
+            .capsName = "かげぶんしん",
+            .fullName = "かげぶんしん",
         },
         .data = {
             .effect = MOVE_EFFECT_EVA_UP,
@@ -2838,9 +2838,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RECOVER] = {
         .names = {
-            .name = "Recover",
-            .capsName = "RECOVER",
-            .fullName = "Recover",
+            .name = "じこさいせい",
+            .capsName = "じこさいせい",
+            .fullName = "じこさいせい",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -2865,9 +2865,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HARDEN] = {
         .names = {
-            .name = "Harden",
-            .capsName = "HARDEN",
-            .fullName = "Harden",
+            .name = "かたくなる",
+            .capsName = "かたくなる",
+            .fullName = "かたくなる",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP,
@@ -2892,9 +2892,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MINIMIZE] = {
         .names = {
-            .name = "Minimize",
-            .capsName = "MINIMIZE",
-            .fullName = "Minimize",
+            .name = "ちいさくなる",
+            .capsName = "ちいさくなる",
+            .fullName = "ちいさくなる",
         },
         .data = {
             .effect = MOVE_EFFECT_EVA_UP_2_MINIMIZE,
@@ -2919,9 +2919,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SMOKESCREEN] = {
         .names = {
-            .name = "Smokescreen",
-            .capsName = "SMOKESCREEN",
-            .fullName = "Smokescreen",
+            .name = "えんまく",
+            .capsName = "えんまく",
+            .fullName = "えんまく",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -2946,9 +2946,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CONFUSE_RAY] = {
         .names = {
-            .name = "Confuse Ray",
-            .capsName = "CONFUSE RAY",
-            .fullName = "Confuse Ray",
+            .name = "あやしいひかり",
+            .capsName = "あやしいひかり",
+            .fullName = "あやしいひかり",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_CONFUSE,
@@ -2973,9 +2973,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WITHDRAW] = {
         .names = {
-            .name = "Withdraw",
-            .capsName = "WITHDRAW",
-            .fullName = "Withdraw",
+            .name = "からにこもる",
+            .capsName = "からにこもる",
+            .fullName = "からにこもる",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP,
@@ -3000,9 +3000,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DEFENSE_CURL] = {
         .names = {
-            .name = "Defense Curl",
-            .capsName = "DEFENSE CURL",
-            .fullName = "Defense Curl",
+            .name = "まるくなる",
+            .capsName = "まるくなる",
+            .fullName = "まるくなる",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_DOUBLE_ROLLOUT_POWER,
@@ -3027,9 +3027,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BARRIER] = {
         .names = {
-            .name = "Barrier",
-            .capsName = "BARRIER",
-            .fullName = "Barrier",
+            .name = "バリア－",
+            .capsName = "バリア－",
+            .fullName = "バリア－",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -3054,9 +3054,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LIGHT_SCREEN] = {
         .names = {
-            .name = "Light Screen",
-            .capsName = "LIGHT SCREEN",
-            .fullName = "Light Screen",
+            .name = "ひかりのかべ",
+            .capsName = "ひかりのかべ",
+            .fullName = "ひかりのかべ",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_LIGHT_SCREEN,
@@ -3081,9 +3081,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HAZE] = {
         .names = {
-            .name = "Haze",
-            .capsName = "HAZE",
-            .fullName = "Haze",
+            .name = "くろいきり",
+            .capsName = "くろいきり",
+            .fullName = "くろいきり",
         },
         .data = {
             .effect = MOVE_EFFECT_RESET_STAT_CHANGES,
@@ -3108,9 +3108,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_REFLECT] = {
         .names = {
-            .name = "Reflect",
-            .capsName = "REFLECT",
-            .fullName = "Reflect",
+            .name = "リフレクタ－",
+            .capsName = "リフレクタ－",
+            .fullName = "リフレクタ－",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_REFLECT,
@@ -3135,9 +3135,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FOCUS_ENERGY] = {
         .names = {
-            .name = "Focus Energy",
-            .capsName = "FOCUS ENERGY",
-            .fullName = "Focus Energy",
+            .name = "きあいだめ",
+            .capsName = "きあいだめ",
+            .fullName = "きあいだめ",
         },
         .data = {
             .effect = MOVE_EFFECT_CRIT_UP_2,
@@ -3162,9 +3162,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BIDE] = {
         .names = {
-            .name = "Bide",
-            .capsName = "BIDE",
-            .fullName = "Bide",
+            .name = "がまん",
+            .capsName = "がまん",
+            .fullName = "がまん",
         },
         .data = {
             .effect = MOVE_EFFECT_BIDE,
@@ -3189,9 +3189,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_METRONOME] = {
         .names = {
-            .name = "Metronome",
-            .capsName = "METRONOME",
-            .fullName = "Metronome",
+            .name = "ゆびをふる",
+            .capsName = "ゆびをふる",
+            .fullName = "ゆびをふる",
         },
         .data = {
             .effect = MOVE_EFFECT_CALL_RANDOM_MOVE,
@@ -3216,9 +3216,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIRROR_MOVE] = {
         .names = {
-            .name = "Mirror Move",
-            .capsName = "MIRROR MOVE",
-            .fullName = "Mirror Move",
+            .name = "オウムがえし",
+            .capsName = "オウムがえし",
+            .fullName = "オウムがえし",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_MOVE,
@@ -3243,9 +3243,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SELF_DESTRUCT] = {
         .names = {
-            .name = "Self-Destruct",
-            .capsName = "SELF-DESTRUCT",
-            .fullName = "Self-Destruct",
+            .name = "じばく",
+            .capsName = "じばく",
+            .fullName = "じばく",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_DEFENSE,
@@ -3270,9 +3270,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EGG_BOMB] = {
         .names = {
-            .name = "Egg Bomb",
-            .capsName = "EGG BOMB",
-            .fullName = "Egg Bomb",
+            .name = "タマゴばくだん",
+            .capsName = "タマゴばくだん",
+            .fullName = "タマゴばくだん",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -3297,9 +3297,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LICK] = {
         .names = {
-            .name = "Lick",
-            .capsName = "LICK",
-            .fullName = "Lick",
+            .name = "したでなめる",
+            .capsName = "したでなめる",
+            .fullName = "したでなめる",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -3324,9 +3324,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SMOG] = {
         .names = {
-            .name = "Smog",
-            .capsName = "SMOG",
-            .fullName = "Smog",
+            .name = "スモッグ",
+            .capsName = "スモッグ",
+            .fullName = "スモッグ",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -3351,9 +3351,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLUDGE] = {
         .names = {
-            .name = "Sludge",
-            .capsName = "SLUDGE",
-            .fullName = "Sludge",
+            .name = "ヘドロこうげき",
+            .capsName = "ヘドロこうげき",
+            .fullName = "ヘドロこうげき",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -3378,9 +3378,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BONE_CLUB] = {
         .names = {
-            .name = "Bone Club",
-            .capsName = "BONE CLUB",
-            .fullName = "Bone Club",
+            .name = "ホネこんぼう",
+            .capsName = "ホネこんぼう",
+            .fullName = "ホネこんぼう",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -3405,9 +3405,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FIRE_BLAST] = {
         .names = {
-            .name = "Fire Blast",
-            .capsName = "FIRE BLAST",
-            .fullName = "Fire Blast",
+            .name = "だいもんじ",
+            .capsName = "だいもんじ",
+            .fullName = "だいもんじ",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -3432,9 +3432,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WATERFALL] = {
         .names = {
-            .name = "Waterfall",
-            .capsName = "WATERFALL",
-            .fullName = "Waterfall",
+            .name = "たきのぼり",
+            .capsName = "たきのぼり",
+            .fullName = "たきのぼり",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -3459,9 +3459,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CLAMP] = {
         .names = {
-            .name = "Clamp",
-            .capsName = "CLAMP",
-            .fullName = "Clamp",
+            .name = "からではさむ",
+            .capsName = "からではさむ",
+            .fullName = "からではさむ",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -3486,9 +3486,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWIFT] = {
         .names = {
-            .name = "Swift",
-            .capsName = "SWIFT",
-            .fullName = "Swift",
+            .name = "スピ－ドスタ－",
+            .capsName = "スピ－ドスタ－",
+            .fullName = "スピ－ドスタ－",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -3513,9 +3513,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SKULL_BASH] = {
         .names = {
-            .name = "Skull Bash",
-            .capsName = "SKULL BASH",
-            .fullName = "Skull Bash",
+            .name = "ロケットずつき",
+            .capsName = "ロケットずつき",
+            .fullName = "ロケットずつき",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_DEF_UP,
@@ -3540,9 +3540,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPIKE_CANNON] = {
         .names = {
-            .name = "Spike Cannon",
-            .capsName = "SPIKE CANNON",
-            .fullName = "Spike Cannon",
+            .name = "とげキャノン",
+            .capsName = "とげキャノン",
+            .fullName = "とげキャノン",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -3567,9 +3567,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CONSTRICT] = {
         .names = {
-            .name = "Constrict",
-            .capsName = "CONSTRICT",
-            .fullName = "Constrict",
+            .name = "からみつく",
+            .capsName = "からみつく",
+            .fullName = "からみつく",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -3594,9 +3594,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AMNESIA] = {
         .names = {
-            .name = "Amnesia",
-            .capsName = "AMNESIA",
-            .fullName = "Amnesia",
+            .name = "ドわすれ",
+            .capsName = "ドわすれ",
+            .fullName = "ドわすれ",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_UP_2,
@@ -3621,9 +3621,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_KINESIS] = {
         .names = {
-            .name = "Kinesis",
-            .capsName = "KINESIS",
-            .fullName = "Kinesis",
+            .name = "スプ－ンまげ",
+            .capsName = "スプ－ンまげ",
+            .fullName = "スプ－ンまげ",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -3648,9 +3648,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SOFT_BOILED] = {
         .names = {
-            .name = "Soft-Boiled",
-            .capsName = "SOFT-BOILED",
-            .fullName = "Soft-Boiled",
+            .name = "タマゴうみ",
+            .capsName = "タマゴうみ",
+            .fullName = "タマゴうみ",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -3675,9 +3675,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HIGH_JUMP_KICK] = {
         .names = {
-            .name = "High Jump Kick",
-            .capsName = "HIGH JUMP KICK",
-            .fullName = "High Jump Kick",
+            .name = "とびひざげり",
+            .capsName = "とびひざげり",
+            .fullName = "とびひざげり",
         },
         .data = {
             .effect = MOVE_EFFECT_CRASH_ON_MISS,
@@ -3702,9 +3702,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GLARE] = {
         .names = {
-            .name = "Glare",
-            .capsName = "GLARE",
-            .fullName = "Glare",
+            .name = "へびにらみ",
+            .capsName = "へびにらみ",
+            .fullName = "へびにらみ",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_PARALYZE,
@@ -3729,9 +3729,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DREAM_EATER] = {
         .names = {
-            .name = "Dream Eater",
-            .capsName = "DREAM EATER",
-            .fullName = "Dream Eater",
+            .name = "ゆめくい",
+            .capsName = "ゆめくい",
+            .fullName = "ゆめくい",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_DAMAGE_SLEEP,
@@ -3756,9 +3756,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POISON_GAS] = {
         .names = {
-            .name = "Poison Gas",
-            .capsName = "POISON GAS",
-            .fullName = "Poison Gas",
+            .name = "どくガス",
+            .capsName = "どくガス",
+            .fullName = "どくガス",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_POISON,
@@ -3783,9 +3783,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BARRAGE] = {
         .names = {
-            .name = "Barrage",
-            .capsName = "BARRAGE",
-            .fullName = "Barrage",
+            .name = "たまなげ",
+            .capsName = "たまなげ",
+            .fullName = "たまなげ",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -3810,9 +3810,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LEECH_LIFE] = {
         .names = {
-            .name = "Leech Life",
-            .capsName = "LEECH LIFE",
-            .fullName = "Leech Life",
+            .name = "きゅうけつ",
+            .capsName = "きゅうけつ",
+            .fullName = "きゅうけつ",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -3837,9 +3837,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LOVELY_KISS] = {
         .names = {
-            .name = "Lovely Kiss",
-            .capsName = "LOVELY KISS",
-            .fullName = "Lovely Kiss",
+            .name = "あくまのキッス",
+            .capsName = "あくまのキッス",
+            .fullName = "あくまのキッス",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -3864,9 +3864,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SKY_ATTACK] = {
         .names = {
-            .name = "Sky Attack",
-            .capsName = "SKY ATTACK",
-            .fullName = "Sky Attack",
+            .name = "ゴッドバ－ド",
+            .capsName = "ゴッドバ－ド",
+            .fullName = "ゴッドバ－ド",
         },
         .data = {
             .effect = MOVE_EFFECT_CHARGE_TURN_HIGH_CRIT_FLINCH,
@@ -3891,9 +3891,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TRANSFORM] = {
         .names = {
-            .name = "Transform",
-            .capsName = "TRANSFORM",
-            .fullName = "Transform",
+            .name = "へんしん",
+            .capsName = "へんしん",
+            .fullName = "へんしん",
         },
         .data = {
             .effect = MOVE_EFFECT_TRANSFORM,
@@ -3918,9 +3918,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BUBBLE] = {
         .names = {
-            .name = "Bubble",
-            .capsName = "BUBBLE",
-            .fullName = "Bubble",
+            .name = "あわ",
+            .capsName = "あわ",
+            .fullName = "あわ",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -3945,9 +3945,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DIZZY_PUNCH] = {
         .names = {
-            .name = "Dizzy Punch",
-            .capsName = "DIZZY PUNCH",
-            .fullName = "Dizzy Punch",
+            .name = "ピヨピヨパンチ",
+            .capsName = "ピヨピヨパンチ",
+            .fullName = "ピヨピヨパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -3972,9 +3972,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPORE] = {
         .names = {
-            .name = "Spore",
-            .capsName = "SPORE",
-            .fullName = "Spore",
+            .name = "キノコのほうし",
+            .capsName = "キノコのほうし",
+            .fullName = "キノコのほうし",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -3999,9 +3999,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLASH] = {
         .names = {
-            .name = "Flash",
-            .capsName = "FLASH",
-            .fullName = "Flash",
+            .name = "フラッシュ",
+            .capsName = "フラッシュ",
+            .fullName = "フラッシュ",
         },
         .data = {
             .effect = MOVE_EFFECT_ACC_DOWN,
@@ -4026,9 +4026,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYWAVE] = {
         .names = {
-            .name = "Psywave",
-            .capsName = "PSYWAVE",
-            .fullName = "Psywave",
+            .name = "サイコウェ－ブ",
+            .capsName = "サイコウェ－ブ",
+            .fullName = "サイコウェ－ブ",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_DAMAGE_1_TO_150_LEVEL,
@@ -4053,9 +4053,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPLASH] = {
         .names = {
-            .name = "Splash",
-            .capsName = "SPLASH",
-            .fullName = "Splash",
+            .name = "はねる",
+            .capsName = "はねる",
+            .fullName = "はねる",
         },
         .data = {
             .effect = MOVE_EFFECT_DO_NOTHING,
@@ -4080,9 +4080,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ACID_ARMOR] = {
         .names = {
-            .name = "Acid Armor",
-            .capsName = "ACID ARMOR",
-            .fullName = "Acid Armor",
+            .name = "とける",
+            .capsName = "とける",
+            .fullName = "とける",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -4107,9 +4107,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CRABHAMMER] = {
         .names = {
-            .name = "Crabhammer",
-            .capsName = "CRABHAMMER",
-            .fullName = "Crabhammer",
+            .name = "クラブハンマ－",
+            .capsName = "クラブハンマ－",
+            .fullName = "クラブハンマ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -4134,9 +4134,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EXPLOSION] = {
         .names = {
-            .name = "Explosion",
-            .capsName = "EXPLOSION",
-            .fullName = "Explosion",
+            .name = "だいばくはつ",
+            .capsName = "だいばくはつ",
+            .fullName = "だいばくはつ",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_DEFENSE,
@@ -4161,9 +4161,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FURY_SWIPES] = {
         .names = {
-            .name = "Fury Swipes",
-            .capsName = "FURY SWIPES",
-            .fullName = "Fury Swipes",
+            .name = "みだれひっかき",
+            .capsName = "みだれひっかき",
+            .fullName = "みだれひっかき",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -4188,9 +4188,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BONEMERANG] = {
         .names = {
-            .name = "Bonemerang",
-            .capsName = "BONEMERANG",
-            .fullName = "Bonemerang",
+            .name = "ホネブ－メラン",
+            .capsName = "ホネブ－メラン",
+            .fullName = "ホネブ－メラン",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -4215,9 +4215,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_REST] = {
         .names = {
-            .name = "Rest",
-            .capsName = "REST",
-            .fullName = "Rest",
+            .name = "ねむる",
+            .capsName = "ねむる",
+            .fullName = "ねむる",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HEALTH_AND_SLEEP,
@@ -4242,9 +4242,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_SLIDE] = {
         .names = {
-            .name = "Rock Slide",
-            .capsName = "ROCK SLIDE",
-            .fullName = "Rock Slide",
+            .name = "いわなだれ",
+            .capsName = "いわなだれ",
+            .fullName = "いわなだれ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -4269,9 +4269,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HYPER_FANG] = {
         .names = {
-            .name = "Hyper Fang",
-            .capsName = "HYPER FANG",
-            .fullName = "Hyper Fang",
+            .name = "ひっさつまえば",
+            .capsName = "ひっさつまえば",
+            .fullName = "ひっさつまえば",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -4296,9 +4296,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHARPEN] = {
         .names = {
-            .name = "Sharpen",
-            .capsName = "SHARPEN",
-            .fullName = "Sharpen",
+            .name = "かくばる",
+            .capsName = "かくばる",
+            .fullName = "かくばる",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP,
@@ -4323,9 +4323,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CONVERSION] = {
         .names = {
-            .name = "Conversion",
-            .capsName = "CONVERSION",
-            .fullName = "Conversion",
+            .name = "テクスチャ－",
+            .capsName = "テクスチャ－",
+            .fullName = "テクスチャ－",
         },
         .data = {
             .effect = MOVE_EFFECT_CONVERSION,
@@ -4350,9 +4350,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TRI_ATTACK] = {
         .names = {
-            .name = "Tri Attack",
-            .capsName = "TRI ATTACK",
-            .fullName = "Tri Attack",
+            .name = "トライアタック",
+            .capsName = "トライアタック",
+            .fullName = "トライアタック",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_PRIMARY_STATUS_HIT,
@@ -4377,9 +4377,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUPER_FANG] = {
         .names = {
-            .name = "Super Fang",
-            .capsName = "SUPER FANG",
-            .fullName = "Super Fang",
+            .name = "いかりのまえば",
+            .capsName = "いかりのまえば",
+            .fullName = "いかりのまえば",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_HP,
@@ -4404,9 +4404,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLASH] = {
         .names = {
-            .name = "Slash",
-            .capsName = "SLASH",
-            .fullName = "Slash",
+            .name = "きりさく",
+            .capsName = "きりさく",
+            .fullName = "きりさく",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -4431,9 +4431,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUBSTITUTE] = {
         .names = {
-            .name = "Substitute",
-            .capsName = "SUBSTITUTE",
-            .fullName = "Substitute",
+            .name = "みがわり",
+            .capsName = "みがわり",
+            .fullName = "みがわり",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_SUBSTITUTE,
@@ -4458,9 +4458,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STRUGGLE] = {
         .names = {
-            .name = "Struggle",
-            .capsName = "STRUGGLE",
-            .fullName = "Struggle",
+            .name = "わるあがき",
+            .capsName = "わるあがき",
+            .fullName = "わるあがき",
         },
         .data = {
             .effect = MOVE_EFFECT_STRUGGLE,
@@ -4485,9 +4485,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SKETCH] = {
         .names = {
-            .name = "Sketch",
-            .capsName = "SKETCH",
-            .fullName = "Sketch",
+            .name = "スケッチ",
+            .capsName = "スケッチ",
+            .fullName = "スケッチ",
         },
         .data = {
             .effect = MOVE_EFFECT_LEARN_MOVE_PERMANENT,
@@ -4512,9 +4512,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TRIPLE_KICK] = {
         .names = {
-            .name = "Triple Kick",
-            .capsName = "TRIPLE KICK",
-            .fullName = "Triple Kick",
+            .name = "トリプルキック",
+            .capsName = "トリプルキック",
+            .fullName = "トリプルキック",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_THREE_TIMES_INCREMENT_BASE_POWER_10,
@@ -4539,9 +4539,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THIEF] = {
         .names = {
-            .name = "Thief",
-            .capsName = "THIEF",
-            .fullName = "Thief",
+            .name = "どろぼう",
+            .capsName = "どろぼう",
+            .fullName = "どろぼう",
         },
         .data = {
             .effect = MOVE_EFFECT_STEAL_HELD_ITEM,
@@ -4566,9 +4566,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPIDER_WEB] = {
         .names = {
-            .name = "Spider Web",
-            .capsName = "SPIDER WEB",
-            .fullName = "Spider Web",
+            .name = "クモのす",
+            .capsName = "クモのす",
+            .fullName = "クモのす",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE,
@@ -4593,9 +4593,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIND_READER] = {
         .names = {
-            .name = "Mind Reader",
-            .capsName = "MIND READER",
-            .fullName = "Mind Reader",
+            .name = "こころのめ",
+            .capsName = "こころのめ",
+            .fullName = "こころのめ",
         },
         .data = {
             .effect = MOVE_EFFECT_NEXT_ATTACK_ALWAYS_HITS,
@@ -4620,9 +4620,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NIGHTMARE] = {
         .names = {
-            .name = "Nightmare",
-            .capsName = "NIGHTMARE",
-            .fullName = "Nightmare",
+            .name = "あくむ",
+            .capsName = "あくむ",
+            .fullName = "あくむ",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_NIGHTMARE,
@@ -4647,9 +4647,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLAME_WHEEL] = {
         .names = {
-            .name = "Flame Wheel",
-            .capsName = "FLAME WHEEL",
-            .fullName = "Flame Wheel",
+            .name = "かえんぐるま",
+            .capsName = "かえんぐるま",
+            .fullName = "かえんぐるま",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -4674,9 +4674,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SNORE] = {
         .names = {
-            .name = "Snore",
-            .capsName = "SNORE",
-            .fullName = "Snore",
+            .name = "いびき",
+            .capsName = "いびき",
+            .fullName = "いびき",
         },
         .data = {
             .effect = MOVE_EFFECT_DAMAGE_WHILE_ASLEEP,
@@ -4701,9 +4701,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CURSE] = {
         .names = {
-            .name = "Curse",
-            .capsName = "CURSE",
-            .fullName = "Curse",
+            .name = "のろい",
+            .capsName = "のろい",
+            .fullName = "のろい",
         },
         .data = {
             .effect = MOVE_EFFECT_CURSE,
@@ -4728,9 +4728,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLAIL] = {
         .names = {
-            .name = "Flail",
-            .capsName = "FLAIL",
-            .fullName = "Flail",
+            .name = "じたばた",
+            .capsName = "じたばた",
+            .fullName = "じたばた",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_LESS_HP,
@@ -4755,9 +4755,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CONVERSION_2] = {
         .names = {
-            .name = "Conversion 2",
-            .capsName = "CONVERSION 2",
-            .fullName = "Conversion 2",
+            .name = "テクスチャ－２",
+            .capsName = "テクスチャ－２",
+            .fullName = "テクスチャ－２",
         },
         .data = {
             .effect = MOVE_EFFECT_CONVERSION2,
@@ -4782,9 +4782,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AEROBLAST] = {
         .names = {
-            .name = "Aeroblast",
-            .capsName = "AEROBLAST",
-            .fullName = "Aeroblast",
+            .name = "エアロブラスト",
+            .capsName = "エアロブラスト",
+            .fullName = "エアロブラスト",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -4809,9 +4809,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_COTTON_SPORE] = {
         .names = {
-            .name = "Cotton Spore",
-            .capsName = "COTTON SPORE",
-            .fullName = "Cotton Spore",
+            .name = "わたほうし",
+            .capsName = "わたほうし",
+            .fullName = "わたほうし",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -4836,9 +4836,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_REVERSAL] = {
         .names = {
-            .name = "Reversal",
-            .capsName = "REVERSAL",
-            .fullName = "Reversal",
+            .name = "きしかいせい",
+            .capsName = "きしかいせい",
+            .fullName = "きしかいせい",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_LESS_HP,
@@ -4863,9 +4863,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPITE] = {
         .names = {
-            .name = "Spite",
-            .capsName = "SPITE",
-            .fullName = "Spite",
+            .name = "うらみ",
+            .capsName = "うらみ",
+            .fullName = "うらみ",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_LAST_MOVE_PP,
@@ -4890,9 +4890,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POWDER_SNOW] = {
         .names = {
-            .name = "Powder Snow",
-            .capsName = "POWDER SNOW",
-            .fullName = "Powder Snow",
+            .name = "こなゆき",
+            .capsName = "こなゆき",
+            .fullName = "こなゆき",
         },
         .data = {
             .effect = MOVE_EFFECT_FREEZE_HIT,
@@ -4917,9 +4917,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PROTECT] = {
         .names = {
-            .name = "Protect",
-            .capsName = "PROTECT",
-            .fullName = "Protect",
+            .name = "まもる",
+            .capsName = "まもる",
+            .fullName = "まもる",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -4944,9 +4944,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MACH_PUNCH] = {
         .names = {
-            .name = "Mach Punch",
-            .capsName = "MACH PUNCH",
-            .fullName = "Mach Punch",
+            .name = "マッハパンチ",
+            .capsName = "マッハパンチ",
+            .fullName = "マッハパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -4971,9 +4971,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SCARY_FACE] = {
         .names = {
-            .name = "Scary Face",
-            .capsName = "SCARY FACE",
-            .fullName = "Scary Face",
+            .name = "こわいかお",
+            .capsName = "こわいかお",
+            .fullName = "こわいかお",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_DOWN_2,
@@ -4998,9 +4998,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FEINT_ATTACK] = {
         .names = {
-            .name = "Feint Attack",
-            .capsName = "FEINT ATTACK",
-            .fullName = "Feint Attack",
+            .name = "だましうち",
+            .capsName = "だましうち",
+            .fullName = "だましうち",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -5025,9 +5025,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWEET_KISS] = {
         .names = {
-            .name = "Sweet Kiss",
-            .capsName = "SWEET KISS",
-            .fullName = "Sweet Kiss",
+            .name = "てんしのキッス",
+            .capsName = "てんしのキッス",
+            .fullName = "てんしのキッス",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_CONFUSE,
@@ -5052,9 +5052,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BELLY_DRUM] = {
         .names = {
-            .name = "Belly Drum",
-            .capsName = "BELLY DRUM",
-            .fullName = "Belly Drum",
+            .name = "はらだいこ",
+            .capsName = "はらだいこ",
+            .fullName = "はらだいこ",
         },
         .data = {
             .effect = MOVE_EFFECT_MAX_ATK_LOSE_HALF_MAX_HP,
@@ -5079,9 +5079,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLUDGE_BOMB] = {
         .names = {
-            .name = "Sludge Bomb",
-            .capsName = "SLUDGE BOMB",
-            .fullName = "Sludge Bomb",
+            .name = "ヘドロばくだん",
+            .capsName = "ヘドロばくだん",
+            .fullName = "ヘドロばくだん",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -5106,9 +5106,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MUD_SLAP] = {
         .names = {
-            .name = "Mud-Slap",
-            .capsName = "MUD-SLAP",
-            .fullName = "Mud-Slap",
+            .name = "どろかけ",
+            .capsName = "どろかけ",
+            .fullName = "どろかけ",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -5133,9 +5133,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_OCTAZOOKA] = {
         .names = {
-            .name = "Octazooka",
-            .capsName = "OCTAZOOKA",
-            .fullName = "Octazooka",
+            .name = "オクタンほう",
+            .capsName = "オクタンほう",
+            .fullName = "オクタンほう",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -5160,9 +5160,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPIKES] = {
         .names = {
-            .name = "Spikes",
-            .capsName = "SPIKES",
-            .fullName = "Spikes",
+            .name = "まきびし",
+            .capsName = "まきびし",
+            .fullName = "まきびし",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_SPIKES,
@@ -5187,9 +5187,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ZAP_CANNON] = {
         .names = {
-            .name = "Zap Cannon",
-            .capsName = "ZAP CANNON",
-            .fullName = "Zap Cannon",
+            .name = "でんじほう",
+            .capsName = "でんじほう",
+            .fullName = "でんじほう",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -5214,9 +5214,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FORESIGHT] = {
         .names = {
-            .name = "Foresight",
-            .capsName = "FORESIGHT",
-            .fullName = "Foresight",
+            .name = "みやぶる",
+            .capsName = "みやぶる",
+            .fullName = "みやぶる",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_EVASION_REMOVE_GHOST_IMMUNE,
@@ -5241,9 +5241,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DESTINY_BOND] = {
         .names = {
-            .name = "Destiny Bond",
-            .capsName = "DESTINY BOND",
-            .fullName = "Destiny Bond",
+            .name = "みちづれ",
+            .capsName = "みちづれ",
+            .fullName = "みちづれ",
         },
         .data = {
             .effect = MOVE_EFFECT_KO_MON_THAT_DEFEATED_USER,
@@ -5268,9 +5268,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PERISH_SONG] = {
         .names = {
-            .name = "Perish Song",
-            .capsName = "PERISH SONG",
-            .fullName = "Perish Song",
+            .name = "ほろびのうた",
+            .capsName = "ほろびのうた",
+            .fullName = "ほろびのうた",
         },
         .data = {
             .effect = MOVE_EFFECT_ALL_FAINT_3_TURNS,
@@ -5295,9 +5295,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICY_WIND] = {
         .names = {
-            .name = "Icy Wind",
-            .capsName = "ICY WIND",
-            .fullName = "Icy Wind",
+            .name = "こごえるかぜ",
+            .capsName = "こごえるかぜ",
+            .fullName = "こごえるかぜ",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -5322,9 +5322,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DETECT] = {
         .names = {
-            .name = "Detect",
-            .capsName = "DETECT",
-            .fullName = "Detect",
+            .name = "みきり",
+            .capsName = "みきり",
+            .fullName = "みきり",
         },
         .data = {
             .effect = MOVE_EFFECT_PROTECT,
@@ -5349,9 +5349,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BONE_RUSH] = {
         .names = {
-            .name = "Bone Rush",
-            .capsName = "BONE RUSH",
-            .fullName = "Bone Rush",
+            .name = "ボ－ンラッシュ",
+            .capsName = "ボ－ンラッシュ",
+            .fullName = "ボ－ンラッシュ",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -5376,9 +5376,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LOCK_ON] = {
         .names = {
-            .name = "Lock-On",
-            .capsName = "LOCK-ON",
-            .fullName = "Lock-On",
+            .name = "ロックオン",
+            .capsName = "ロックオン",
+            .fullName = "ロックオン",
         },
         .data = {
             .effect = MOVE_EFFECT_NEXT_ATTACK_ALWAYS_HITS,
@@ -5403,9 +5403,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_OUTRAGE] = {
         .names = {
-            .name = "Outrage",
-            .capsName = "OUTRAGE",
-            .fullName = "Outrage",
+            .name = "げきりん",
+            .capsName = "げきりん",
+            .fullName = "げきりん",
         },
         .data = {
             .effect = MOVE_EFFECT_CONTINUE_AND_CONFUSE_SELF,
@@ -5430,9 +5430,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SANDSTORM] = {
         .names = {
-            .name = "Sandstorm",
-            .capsName = "SANDSTORM",
-            .fullName = "Sandstorm",
+            .name = "すなあらし",
+            .capsName = "すなあらし",
+            .fullName = "すなあらし",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_SANDSTORM,
@@ -5457,9 +5457,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GIGA_DRAIN] = {
         .names = {
-            .name = "Giga Drain",
-            .capsName = "GIGA DRAIN",
-            .fullName = "Giga Drain",
+            .name = "ギガドレイン",
+            .capsName = "ギガドレイン",
+            .fullName = "ギガドレイン",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -5484,9 +5484,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ENDURE] = {
         .names = {
-            .name = "Endure",
-            .capsName = "ENDURE",
-            .fullName = "Endure",
+            .name = "こらえる",
+            .capsName = "こらえる",
+            .fullName = "こらえる",
         },
         .data = {
             .effect = MOVE_EFFECT_SURVIVE_WITH_1_HP,
@@ -5511,9 +5511,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CHARM] = {
         .names = {
-            .name = "Charm",
-            .capsName = "CHARM",
-            .fullName = "Charm",
+            .name = "あまえる",
+            .capsName = "あまえる",
+            .fullName = "あまえる",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN_2,
@@ -5538,9 +5538,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROLLOUT] = {
         .names = {
-            .name = "Rollout",
-            .capsName = "ROLLOUT",
-            .fullName = "Rollout",
+            .name = "ころがる",
+            .capsName = "ころがる",
+            .fullName = "ころがる",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO,
@@ -5565,9 +5565,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FALSE_SWIPE] = {
         .names = {
-            .name = "False Swipe",
-            .capsName = "FALSE SWIPE",
-            .fullName = "False Swipe",
+            .name = "みねうち",
+            .capsName = "みねうち",
+            .fullName = "みねうち",
         },
         .data = {
             .effect = MOVE_EFFECT_LEAVE_WITH_1_HP,
@@ -5592,9 +5592,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWAGGER] = {
         .names = {
-            .name = "Swagger",
-            .capsName = "SWAGGER",
-            .fullName = "Swagger",
+            .name = "いばる",
+            .capsName = "いばる",
+            .fullName = "いばる",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP_2_STATUS_CONFUSION,
@@ -5619,9 +5619,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MILK_DRINK] = {
         .names = {
-            .name = "Milk Drink",
-            .capsName = "MILK DRINK",
-            .fullName = "Milk Drink",
+            .name = "ミルクのみ",
+            .capsName = "ミルクのみ",
+            .fullName = "ミルクのみ",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -5646,9 +5646,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPARK] = {
         .names = {
-            .name = "Spark",
-            .capsName = "SPARK",
-            .fullName = "Spark",
+            .name = "スパ－ク",
+            .capsName = "スパ－ク",
+            .fullName = "スパ－ク",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -5673,9 +5673,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FURY_CUTTER] = {
         .names = {
-            .name = "Fury Cutter",
-            .capsName = "FURY CUTTER",
-            .fullName = "Fury Cutter",
+            .name = "れんぞくぎり",
+            .capsName = "れんぞくぎり",
+            .fullName = "れんぞくぎり",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN,
@@ -5700,9 +5700,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STEEL_WING] = {
         .names = {
-            .name = "Steel Wing",
-            .capsName = "STEEL WING",
-            .fullName = "Steel Wing",
+            .name = "はがねのつばさ",
+            .capsName = "はがねのつばさ",
+            .fullName = "はがねのつばさ",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_DEF_HIT,
@@ -5727,9 +5727,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEAN_LOOK] = {
         .names = {
-            .name = "Mean Look",
-            .capsName = "MEAN LOOK",
-            .fullName = "Mean Look",
+            .name = "くろいまなざし",
+            .capsName = "くろいまなざし",
+            .fullName = "くろいまなざし",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE,
@@ -5754,9 +5754,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ATTRACT] = {
         .names = {
-            .name = "Attract",
-            .capsName = "ATTRACT",
-            .fullName = "Attract",
+            .name = "メロメロ",
+            .capsName = "メロメロ",
+            .fullName = "メロメロ",
         },
         .data = {
             .effect = MOVE_EFFECT_INFATUATE,
@@ -5781,9 +5781,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLEEP_TALK] = {
         .names = {
-            .name = "Sleep Talk",
-            .capsName = "SLEEP TALK",
-            .fullName = "Sleep Talk",
+            .name = "ねごと",
+            .capsName = "ねごと",
+            .fullName = "ねごと",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_RANDOM_LEARNED_MOVE_SLEEP,
@@ -5808,9 +5808,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEAL_BELL] = {
         .names = {
-            .name = "Heal Bell",
-            .capsName = "HEAL BELL",
-            .fullName = "Heal Bell",
+            .name = "いやしのすず",
+            .capsName = "いやしのすず",
+            .fullName = "いやしのすず",
         },
         .data = {
             .effect = MOVE_EFFECT_CURE_PARTY_STATUS,
@@ -5835,9 +5835,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RETURN] = {
         .names = {
-            .name = "Return",
-            .capsName = "RETURN",
-            .fullName = "Return",
+            .name = "おんがえし",
+            .capsName = "おんがえし",
+            .fullName = "おんがえし",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_FRIENDSHIP,
@@ -5862,9 +5862,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PRESENT] = {
         .names = {
-            .name = "Present",
-            .capsName = "PRESENT",
-            .fullName = "Present",
+            .name = "プレゼント",
+            .capsName = "プレゼント",
+            .fullName = "プレゼント",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_POWER_MAYBE_HEAL,
@@ -5889,9 +5889,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FRUSTRATION] = {
         .names = {
-            .name = "Frustration",
-            .capsName = "FRUSTRATION",
-            .fullName = "Frustration",
+            .name = "やつあたり",
+            .capsName = "やつあたり",
+            .fullName = "やつあたり",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_LOW_FRIENDSHIP,
@@ -5916,9 +5916,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SAFEGUARD] = {
         .names = {
-            .name = "Safeguard",
-            .capsName = "SAFEGUARD",
-            .fullName = "Safeguard",
+            .name = "しんぴのまもり",
+            .capsName = "しんぴのまもり",
+            .fullName = "しんぴのまもり",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_STATUS,
@@ -5943,9 +5943,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PAIN_SPLIT] = {
         .names = {
-            .name = "Pain Split",
-            .capsName = "PAIN SPLIT",
-            .fullName = "Pain Split",
+            .name = "いたみわけ",
+            .capsName = "いたみわけ",
+            .fullName = "いたみわけ",
         },
         .data = {
             .effect = MOVE_EFFECT_AVERAGE_HP,
@@ -5970,9 +5970,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SACRED_FIRE] = {
         .names = {
-            .name = "Sacred Fire",
-            .capsName = "SACRED FIRE",
-            .fullName = "Sacred Fire",
+            .name = "せいなるほのお",
+            .capsName = "せいなるほのお",
+            .fullName = "せいなるほのお",
         },
         .data = {
             .effect = MOVE_EFFECT_THAW_AND_BURN_HIT,
@@ -5997,9 +5997,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MAGNITUDE] = {
         .names = {
-            .name = "Magnitude",
-            .capsName = "MAGNITUDE",
-            .fullName = "Magnitude",
+            .name = "マグニチュ－ド",
+            .capsName = "マグニチュ－ド",
+            .fullName = "マグニチュ－ド",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_POWER_10_CASES,
@@ -6024,9 +6024,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DYNAMIC_PUNCH] = {
         .names = {
-            .name = "Dynamic Punch",
-            .capsName = "DYNAMIC PUNCH",
-            .fullName = "Dynamic Punch",
+            .name = "ばくれつパンチ",
+            .capsName = "ばくれつパンチ",
+            .fullName = "ばくれつパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -6051,9 +6051,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEGAHORN] = {
         .names = {
-            .name = "Megahorn",
-            .capsName = "MEGAHORN",
-            .fullName = "Megahorn",
+            .name = "メガホ－ン",
+            .capsName = "メガホ－ン",
+            .fullName = "メガホ－ン",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -6078,9 +6078,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAGON_BREATH] = {
         .names = {
-            .name = "Dragon Breath",
-            .capsName = "DRAGON BREATH",
-            .fullName = "Dragon Breath",
+            .name = "りゅうのいぶき",
+            .capsName = "りゅうのいぶき",
+            .fullName = "りゅうのいぶき",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -6105,9 +6105,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BATON_PASS] = {
         .names = {
-            .name = "Baton Pass",
-            .capsName = "BATON PASS",
-            .fullName = "Baton Pass",
+            .name = "バトンタッチ",
+            .capsName = "バトンタッチ",
+            .fullName = "バトンタッチ",
         },
         .data = {
             .effect = MOVE_EFFECT_PASS_STATS_AND_STATUS,
@@ -6132,9 +6132,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ENCORE] = {
         .names = {
-            .name = "Encore",
-            .capsName = "ENCORE",
-            .fullName = "Encore",
+            .name = "アンコ－ル",
+            .capsName = "アンコ－ル",
+            .fullName = "アンコ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_ENCORE,
@@ -6159,9 +6159,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PURSUIT] = {
         .names = {
-            .name = "Pursuit",
-            .capsName = "PURSUIT",
-            .fullName = "Pursuit",
+            .name = "おいうち",
+            .capsName = "おいうち",
+            .fullName = "おいうち",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_BEFORE_SWITCH,
@@ -6186,9 +6186,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RAPID_SPIN] = {
         .names = {
-            .name = "Rapid Spin",
-            .capsName = "RAPID SPIN",
-            .fullName = "Rapid Spin",
+            .name = "こうそくスピン",
+            .capsName = "こうそくスピン",
+            .fullName = "こうそくスピン",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_HAZARDS_AND_BINDING,
@@ -6213,9 +6213,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWEET_SCENT] = {
         .names = {
-            .name = "Sweet Scent",
-            .capsName = "SWEET SCENT",
-            .fullName = "Sweet Scent",
+            .name = "あまいかおり",
+            .capsName = "あまいかおり",
+            .fullName = "あまいかおり",
         },
         .data = {
             .effect = MOVE_EFFECT_EVA_DOWN_2,
@@ -6240,9 +6240,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_IRON_TAIL] = {
         .names = {
-            .name = "Iron Tail",
-            .capsName = "IRON TAIL",
-            .fullName = "Iron Tail",
+            .name = "アイアンテ－ル",
+            .capsName = "アイアンテ－ル",
+            .fullName = "アイアンテ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -6267,9 +6267,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_METAL_CLAW] = {
         .names = {
-            .name = "Metal Claw",
-            .capsName = "METAL CLAW",
-            .fullName = "Metal Claw",
+            .name = "メタルクロ－",
+            .capsName = "メタルクロ－",
+            .fullName = "メタルクロ－",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATTACK_HIT,
@@ -6294,9 +6294,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_VITAL_THROW] = {
         .names = {
-            .name = "Vital Throw",
-            .capsName = "VITAL THROW",
-            .fullName = "Vital Throw",
+            .name = "あてみなげ",
+            .capsName = "あてみなげ",
+            .fullName = "あてみなげ",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_NEG_1_BYPASS_ACCURACY,
@@ -6321,9 +6321,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MORNING_SUN] = {
         .names = {
-            .name = "Morning Sun",
-            .capsName = "MORNING SUN",
-            .fullName = "Morning Sun",
+            .name = "あさのひざし",
+            .capsName = "あさのひざし",
+            .fullName = "あさのひざし",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6348,9 +6348,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SYNTHESIS] = {
         .names = {
-            .name = "Synthesis",
-            .capsName = "SYNTHESIS",
-            .fullName = "Synthesis",
+            .name = "こうごうせい",
+            .capsName = "こうごうせい",
+            .fullName = "こうごうせい",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6375,9 +6375,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MOONLIGHT] = {
         .names = {
-            .name = "Moonlight",
-            .capsName = "MOONLIGHT",
-            .fullName = "Moonlight",
+            .name = "つきのひかり",
+            .capsName = "つきのひかり",
+            .fullName = "つきのひかり",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_DIFFERENT_IN_WEATHER,
@@ -6402,9 +6402,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HIDDEN_POWER] = {
         .names = {
-            .name = "Hidden Power",
-            .capsName = "HIDDEN POWER",
-            .fullName = "Hidden Power",
+            .name = "めざめるパワ－",
+            .capsName = "めざめるパワ－",
+            .fullName = "めざめるパワ－",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_TYPE_BASED_ON_IVS,
@@ -6429,9 +6429,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CROSS_CHOP] = {
         .names = {
-            .name = "Cross Chop",
-            .capsName = "CROSS CHOP",
-            .fullName = "Cross Chop",
+            .name = "クロスチョップ",
+            .capsName = "クロスチョップ",
+            .fullName = "クロスチョップ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -6456,9 +6456,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TWISTER] = {
         .names = {
-            .name = "Twister",
-            .capsName = "TWISTER",
-            .fullName = "Twister",
+            .name = "たつまき",
+            .capsName = "たつまき",
+            .fullName = "たつまき",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_DOUBLE_DAMAGE_FLY_OR_BOUNCE,
@@ -6483,9 +6483,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RAIN_DANCE] = {
         .names = {
-            .name = "Rain Dance",
-            .capsName = "RAIN DANCE",
-            .fullName = "Rain Dance",
+            .name = "あまごい",
+            .capsName = "あまごい",
+            .fullName = "あまごい",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_RAIN,
@@ -6510,9 +6510,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUNNY_DAY] = {
         .names = {
-            .name = "Sunny Day",
-            .capsName = "SUNNY DAY",
-            .fullName = "Sunny Day",
+            .name = "にほんばれ",
+            .capsName = "にほんばれ",
+            .fullName = "にほんばれ",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_SUN,
@@ -6537,9 +6537,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CRUNCH] = {
         .names = {
-            .name = "Crunch",
-            .capsName = "CRUNCH",
-            .fullName = "Crunch",
+            .name = "かみくだく",
+            .capsName = "かみくだく",
+            .fullName = "かみくだく",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -6564,9 +6564,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIRROR_COAT] = {
         .names = {
-            .name = "Mirror Coat",
-            .capsName = "MIRROR COAT",
-            .fullName = "Mirror Coat",
+            .name = "ミラ－コ－ト",
+            .capsName = "ミラ－コ－ト",
+            .fullName = "ミラ－コ－ト",
         },
         .data = {
             .effect = MOVE_EFFECT_MIRROR_COAT,
@@ -6591,9 +6591,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYCH_UP] = {
         .names = {
-            .name = "Psych Up",
-            .capsName = "PSYCH UP",
-            .fullName = "Psych Up",
+            .name = "じこあんじ",
+            .capsName = "じこあんじ",
+            .fullName = "じこあんじ",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_STAT_CHANGES,
@@ -6618,9 +6618,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EXTREME_SPEED] = {
         .names = {
-            .name = "Extreme Speed",
-            .capsName = "EXTREME SPEED",
-            .fullName = "Extreme Speed",
+            .name = "しんそく",
+            .capsName = "しんそく",
+            .fullName = "しんそく",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -6645,9 +6645,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ANCIENT_POWER] = {
         .names = {
-            .name = "Ancient Power",
-            .capsName = "ANCIENT POWER",
-            .fullName = "Ancient Power",
+            .name = "げんしのちから",
+            .capsName = "げんしのちから",
+            .fullName = "げんしのちから",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -6672,9 +6672,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHADOW_BALL] = {
         .names = {
-            .name = "Shadow Ball",
-            .capsName = "SHADOW BALL",
-            .fullName = "Shadow Ball",
+            .name = "シャド－ボ－ル",
+            .capsName = "シャド－ボ－ル",
+            .fullName = "シャド－ボ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -6699,9 +6699,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FUTURE_SIGHT] = {
         .names = {
-            .name = "Future Sight",
-            .capsName = "FUTURE SIGHT",
-            .fullName = "Future Sight",
+            .name = "みらいよち",
+            .capsName = "みらいよち",
+            .fullName = "みらいよち",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_IN_3_TURNS,
@@ -6726,9 +6726,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_SMASH] = {
         .names = {
-            .name = "Rock Smash",
-            .capsName = "ROCK SMASH",
-            .fullName = "Rock Smash",
+            .name = "いわくだき",
+            .capsName = "いわくだき",
+            .fullName = "いわくだき",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -6753,9 +6753,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WHIRLPOOL] = {
         .names = {
-            .name = "Whirlpool",
-            .capsName = "WHIRLPOOL",
-            .fullName = "Whirlpool",
+            .name = "うずしお",
+            .capsName = "うずしお",
+            .fullName = "うずしお",
         },
         .data = {
             .effect = MOVE_EFFECT_WHIRLPOOL,
@@ -6780,9 +6780,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BEAT_UP] = {
         .names = {
-            .name = "Beat Up",
-            .capsName = "BEAT UP",
-            .fullName = "Beat Up",
+            .name = "ふくろだたき",
+            .capsName = "ふくろだたき",
+            .fullName = "ふくろだたき",
         },
         .data = {
             .effect = MOVE_EFFECT_BEAT_UP,
@@ -6807,9 +6807,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FAKE_OUT] = {
         .names = {
-            .name = "Fake Out",
-            .capsName = "FAKE OUT",
-            .fullName = "Fake Out",
+            .name = "ねこだまし",
+            .capsName = "ねこだまし",
+            .fullName = "ねこだまし",
         },
         .data = {
             .effect = MOVE_EFFECT_ALWAYS_FLINCH_FIRST_TURN_ONLY,
@@ -6834,9 +6834,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_UPROAR] = {
         .names = {
-            .name = "Uproar",
-            .capsName = "UPROAR",
-            .fullName = "Uproar",
+            .name = "さわぐ",
+            .capsName = "さわぐ",
+            .fullName = "さわぐ",
         },
         .data = {
             .effect = MOVE_EFFECT_UPROAR,
@@ -6861,9 +6861,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STOCKPILE] = {
         .names = {
-            .name = "Stockpile",
-            .capsName = "STOCKPILE",
-            .fullName = "Stockpile",
+            .name = "たくわえる",
+            .capsName = "たくわえる",
+            .fullName = "たくわえる",
         },
         .data = {
             .effect = MOVE_EFFECT_STOCKPILE,
@@ -6888,9 +6888,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPIT_UP] = {
         .names = {
-            .name = "Spit Up",
-            .capsName = "SPIT UP",
-            .fullName = "Spit Up",
+            .name = "はきだす",
+            .capsName = "はきだす",
+            .fullName = "はきだす",
         },
         .data = {
             .effect = MOVE_EFFECT_SPIT_UP,
@@ -6915,9 +6915,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWALLOW] = {
         .names = {
-            .name = "Swallow",
-            .capsName = "SWALLOW",
-            .fullName = "Swallow",
+            .name = "のみこむ",
+            .capsName = "のみこむ",
+            .fullName = "のみこむ",
         },
         .data = {
             .effect = MOVE_EFFECT_SWALLOW,
@@ -6942,9 +6942,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEAT_WAVE] = {
         .names = {
-            .name = "Heat Wave",
-            .capsName = "HEAT WAVE",
-            .fullName = "Heat Wave",
+            .name = "ねっぷう",
+            .capsName = "ねっぷう",
+            .fullName = "ねっぷう",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -6969,9 +6969,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HAIL] = {
         .names = {
-            .name = "Hail",
-            .capsName = "HAIL",
-            .fullName = "Hail",
+            .name = "あられ",
+            .capsName = "あられ",
+            .fullName = "あられ",
         },
         .data = {
             .effect = MOVE_EFFECT_WEATHER_HAIL,
@@ -6996,9 +6996,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TORMENT] = {
         .names = {
-            .name = "Torment",
-            .capsName = "TORMENT",
-            .fullName = "Torment",
+            .name = "いちゃもん",
+            .capsName = "いちゃもん",
+            .fullName = "いちゃもん",
         },
         .data = {
             .effect = MOVE_EFFECT_TORMENT,
@@ -7023,9 +7023,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLATTER] = {
         .names = {
-            .name = "Flatter",
-            .capsName = "FLATTER",
-            .fullName = "Flatter",
+            .name = "おだてる",
+            .capsName = "おだてる",
+            .fullName = "おだてる",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_CAUSE_CONFUSION,
@@ -7050,9 +7050,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WILL_O_WISP] = {
         .names = {
-            .name = "Will-O-Wisp",
-            .capsName = "WILL-O-WISP",
-            .fullName = "Will-O-Wisp",
+            .name = "おにび",
+            .capsName = "おにび",
+            .fullName = "おにび",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_BURN,
@@ -7077,9 +7077,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MEMENTO] = {
         .names = {
-            .name = "Memento",
-            .capsName = "MEMENTO",
-            .fullName = "Memento",
+            .name = "おきみやげ",
+            .capsName = "おきみやげ",
+            .fullName = "おきみやげ",
         },
         .data = {
             .effect = MOVE_EFFECT_FAINT_AND_ATK_SP_ATK_DOWN_2,
@@ -7104,9 +7104,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FACADE] = {
         .names = {
-            .name = "Facade",
-            .capsName = "FACADE",
-            .fullName = "Facade",
+            .name = "からげんき",
+            .capsName = "からげんき",
+            .fullName = "からげんき",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_WHEN_STATUSED,
@@ -7131,9 +7131,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FOCUS_PUNCH] = {
         .names = {
-            .name = "Focus Punch",
-            .capsName = "FOCUS PUNCH",
-            .fullName = "Focus Punch",
+            .name = "きあいパンチ",
+            .capsName = "きあいパンチ",
+            .fullName = "きあいパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_LAST_WHIFF_IF_HIT,
@@ -7158,9 +7158,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SMELLING_SALTS] = {
         .names = {
-            .name = "Smelling Salts",
-            .capsName = "SMELLING SALTS",
-            .fullName = "Smelling Salts",
+            .name = "きつけ",
+            .capsName = "きつけ",
+            .fullName = "きつけ",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_AND_CURE_PARALYSIS,
@@ -7185,9 +7185,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FOLLOW_ME] = {
         .names = {
-            .name = "Follow Me",
-            .capsName = "FOLLOW ME",
-            .fullName = "Follow Me",
+            .name = "このゆびとまれ",
+            .capsName = "このゆびとまれ",
+            .fullName = "このゆびとまれ",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_GLOBAL_TARGET,
@@ -7212,9 +7212,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NATURE_POWER] = {
         .names = {
-            .name = "Nature Power",
-            .capsName = "NATURE POWER",
-            .fullName = "Nature Power",
+            .name = "しぜんのちから",
+            .capsName = "しぜんのちから",
+            .fullName = "しぜんのちから",
         },
         .data = {
             .effect = MOVE_EFFECT_NATURE_POWER,
@@ -7239,9 +7239,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CHARGE] = {
         .names = {
-            .name = "Charge",
-            .capsName = "CHARGE",
-            .fullName = "Charge",
+            .name = "じゅうでん",
+            .capsName = "じゅうでん",
+            .fullName = "じゅうでん",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_UP_DOUBLE_ELECTRIC_POWER,
@@ -7266,9 +7266,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TAUNT] = {
         .names = {
-            .name = "Taunt",
-            .capsName = "TAUNT",
-            .fullName = "Taunt",
+            .name = "ちょうはつ",
+            .capsName = "ちょうはつ",
+            .fullName = "ちょうはつ",
         },
         .data = {
             .effect = MOVE_EFFECT_TAUNT,
@@ -7293,9 +7293,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HELPING_HAND] = {
         .names = {
-            .name = "Helping Hand",
-            .capsName = "HELPING HAND",
-            .fullName = "Helping Hand",
+            .name = "てだすけ",
+            .capsName = "てだすけ",
+            .fullName = "てだすけ",
         },
         .data = {
             .effect = MOVE_EFFECT_BOOST_ALLY_POWER_BY_50_PERCENT,
@@ -7320,9 +7320,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TRICK] = {
         .names = {
-            .name = "Trick",
-            .capsName = "TRICK",
-            .fullName = "Trick",
+            .name = "トリック",
+            .capsName = "トリック",
+            .fullName = "トリック",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HELD_ITEMS,
@@ -7347,9 +7347,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROLE_PLAY] = {
         .names = {
-            .name = "Role Play",
-            .capsName = "ROLE PLAY",
-            .fullName = "Role Play",
+            .name = "なりきり",
+            .capsName = "なりきり",
+            .fullName = "なりきり",
         },
         .data = {
             .effect = MOVE_EFFECT_COPY_ABILITY,
@@ -7374,9 +7374,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WISH] = {
         .names = {
-            .name = "Wish",
-            .capsName = "WISH",
-            .fullName = "Wish",
+            .name = "ねがいごと",
+            .capsName = "ねがいごと",
+            .fullName = "ねがいごと",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_IN_3_TURNS,
@@ -7401,9 +7401,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ASSIST] = {
         .names = {
-            .name = "Assist",
-            .capsName = "ASSIST",
-            .fullName = "Assist",
+            .name = "ねこのて",
+            .capsName = "ねこのて",
+            .fullName = "ねこのて",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_RANDOM_ALLY_MOVE,
@@ -7428,9 +7428,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_INGRAIN] = {
         .names = {
-            .name = "Ingrain",
-            .capsName = "INGRAIN",
-            .fullName = "Ingrain",
+            .name = "ねをはる",
+            .capsName = "ねをはる",
+            .fullName = "ねをはる",
         },
         .data = {
             .effect = MOVE_EFFECT_GROUND_TRAP_USER_CONTINUOUS_HEAL,
@@ -7455,9 +7455,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUPERPOWER] = {
         .names = {
-            .name = "Superpower",
-            .capsName = "SUPERPOWER",
-            .fullName = "Superpower",
+            .name = "ばかぢから",
+            .capsName = "ばかぢから",
+            .fullName = "ばかぢから",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_ATK_DEF_DOWN_HIT,
@@ -7482,9 +7482,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MAGIC_COAT] = {
         .names = {
-            .name = "Magic Coat",
-            .capsName = "MAGIC COAT",
-            .fullName = "Magic Coat",
+            .name = "マジックコ－ト",
+            .capsName = "マジックコ－ト",
+            .fullName = "マジックコ－ト",
         },
         .data = {
             .effect = MOVE_EFFECT_MAGIC_COAT,
@@ -7509,9 +7509,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_RECYCLE] = {
         .names = {
-            .name = "Recycle",
-            .capsName = "RECYCLE",
-            .fullName = "Recycle",
+            .name = "リサイクル",
+            .capsName = "リサイクル",
+            .fullName = "リサイクル",
         },
         .data = {
             .effect = MOVE_EFFECT_RECYCLE,
@@ -7536,9 +7536,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_REVENGE] = {
         .names = {
-            .name = "Revenge",
-            .capsName = "REVENGE",
-            .fullName = "Revenge",
+            .name = "リベンジ",
+            .capsName = "リベンジ",
+            .fullName = "リベンジ",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_IF_HIT,
@@ -7563,9 +7563,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BRICK_BREAK] = {
         .names = {
-            .name = "Brick Break",
-            .capsName = "BRICK BREAK",
-            .fullName = "Brick Break",
+            .name = "かわらわり",
+            .capsName = "かわらわり",
+            .fullName = "かわらわり",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_SCREENS,
@@ -7590,9 +7590,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_YAWN] = {
         .names = {
-            .name = "Yawn",
-            .capsName = "YAWN",
-            .fullName = "Yawn",
+            .name = "あくび",
+            .capsName = "あくび",
+            .fullName = "あくび",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP_NEXT_TURN,
@@ -7617,9 +7617,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_KNOCK_OFF] = {
         .names = {
-            .name = "Knock Off",
-            .capsName = "KNOCK OFF",
-            .fullName = "Knock Off",
+            .name = "はたきおとす",
+            .capsName = "はたきおとす",
+            .fullName = "はたきおとす",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_HELD_ITEM,
@@ -7644,9 +7644,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ENDEAVOR] = {
         .names = {
-            .name = "Endeavor",
-            .capsName = "ENDEAVOR",
-            .fullName = "Endeavor",
+            .name = "がむしゃら",
+            .capsName = "がむしゃら",
+            .fullName = "がむしゃら",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_HP_EQUAL_TO_USER,
@@ -7671,9 +7671,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ERUPTION] = {
         .names = {
-            .name = "Eruption",
-            .capsName = "ERUPTION",
-            .fullName = "Eruption",
+            .name = "ふんか",
+            .capsName = "ふんか",
+            .fullName = "ふんか",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP,
@@ -7698,9 +7698,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SKILL_SWAP] = {
         .names = {
-            .name = "Skill Swap",
-            .capsName = "SKILL SWAP",
-            .fullName = "Skill Swap",
+            .name = "スキルスワップ",
+            .capsName = "スキルスワップ",
+            .fullName = "スキルスワップ",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_ABILITIES,
@@ -7725,9 +7725,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_IMPRISON] = {
         .names = {
-            .name = "Imprison",
-            .capsName = "IMPRISON",
-            .fullName = "Imprison",
+            .name = "ふういん",
+            .capsName = "ふういん",
+            .fullName = "ふういん",
         },
         .data = {
             .effect = MOVE_EFFECT_MAKE_SHARED_MOVES_UNUSEABLE,
@@ -7752,9 +7752,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_REFRESH] = {
         .names = {
-            .name = "Refresh",
-            .capsName = "REFRESH",
-            .fullName = "Refresh",
+            .name = "リフレッシュ",
+            .capsName = "リフレッシュ",
+            .fullName = "リフレッシュ",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_STATUS,
@@ -7779,9 +7779,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GRUDGE] = {
         .names = {
-            .name = "Grudge",
-            .capsName = "GRUDGE",
-            .fullName = "Grudge",
+            .name = "おんねん",
+            .capsName = "おんねん",
+            .fullName = "おんねん",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_ALL_PP_ON_DEFEAT,
@@ -7806,9 +7806,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SNATCH] = {
         .names = {
-            .name = "Snatch",
-            .capsName = "SNATCH",
-            .fullName = "Snatch",
+            .name = "よこどり",
+            .capsName = "よこどり",
+            .fullName = "よこどり",
         },
         .data = {
             .effect = MOVE_EFFECT_STEAL_STATUS_MOVE,
@@ -7833,9 +7833,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SECRET_POWER] = {
         .names = {
-            .name = "Secret Power",
-            .capsName = "SECRET POWER",
-            .fullName = "Secret Power",
+            .name = "ひみつのちから",
+            .capsName = "ひみつのちから",
+            .fullName = "ひみつのちから",
         },
         .data = {
             .effect = MOVE_EFFECT_SECRET_POWER,
@@ -7860,9 +7860,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DIVE] = {
         .names = {
-            .name = "Dive",
-            .capsName = "DIVE",
-            .fullName = "Dive",
+            .name = "ダイビング",
+            .capsName = "ダイビング",
+            .fullName = "ダイビング",
         },
         .data = {
             .effect = MOVE_EFFECT_DIVE,
@@ -7887,9 +7887,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ARM_THRUST] = {
         .names = {
-            .name = "Arm Thrust",
-            .capsName = "ARM THRUST",
-            .fullName = "Arm Thrust",
+            .name = "つっぱり",
+            .capsName = "つっぱり",
+            .fullName = "つっぱり",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -7914,9 +7914,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CAMOUFLAGE] = {
         .names = {
-            .name = "Camouflage",
-            .capsName = "CAMOUFLAGE",
-            .fullName = "Camouflage",
+            .name = "ほごしょく",
+            .capsName = "ほごしょく",
+            .fullName = "ほごしょく",
         },
         .data = {
             .effect = MOVE_EFFECT_CAMOUFLAGE,
@@ -7941,9 +7941,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TAIL_GLOW] = {
         .names = {
-            .name = "Tail Glow",
-            .capsName = "TAIL GLOW",
-            .fullName = "Tail Glow",
+            .name = "ほたるび",
+            .capsName = "ほたるび",
+            .fullName = "ほたるび",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_3,
@@ -7968,9 +7968,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LUSTER_PURGE] = {
         .names = {
-            .name = "Luster Purge",
-            .capsName = "LUSTER PURGE",
-            .fullName = "Luster Purge",
+            .name = "ラスタ－パ－ジ",
+            .capsName = "ラスタ－パ－ジ",
+            .fullName = "ラスタ－パ－ジ",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -7995,9 +7995,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIST_BALL] = {
         .names = {
-            .name = "Mist Ball",
-            .capsName = "MIST BALL",
-            .fullName = "Mist Ball",
+            .name = "ミストボ－ル",
+            .capsName = "ミストボ－ル",
+            .fullName = "ミストボ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_ATK_HIT,
@@ -8022,9 +8022,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FEATHER_DANCE] = {
         .names = {
-            .name = "Feather Dance",
-            .capsName = "FEATHER DANCE",
-            .fullName = "Feather Dance",
+            .name = "フェザ－ダンス",
+            .capsName = "フェザ－ダンス",
+            .fullName = "フェザ－ダンス",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DOWN_2,
@@ -8049,9 +8049,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TEETER_DANCE] = {
         .names = {
-            .name = "Teeter Dance",
-            .capsName = "TEETER DANCE",
-            .fullName = "Teeter Dance",
+            .name = "フラフラダンス",
+            .capsName = "フラフラダンス",
+            .fullName = "フラフラダンス",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_ALL_ADJACENT,
@@ -8076,9 +8076,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BLAZE_KICK] = {
         .names = {
-            .name = "Blaze Kick",
-            .capsName = "BLAZE KICK",
-            .fullName = "Blaze Kick",
+            .name = "ブレイズキック",
+            .capsName = "ブレイズキック",
+            .fullName = "ブレイズキック",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_BURN_HIT,
@@ -8103,9 +8103,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MUD_SPORT] = {
         .names = {
-            .name = "Mud Sport",
-            .capsName = "MUD SPORT",
-            .fullName = "Mud Sport",
+            .name = "どろあそび",
+            .capsName = "どろあそび",
+            .fullName = "どろあそび",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_ELECTRIC_DAMAGE,
@@ -8130,9 +8130,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICE_BALL] = {
         .names = {
-            .name = "Ice Ball",
-            .capsName = "ICE BALL",
-            .fullName = "Ice Ball",
+            .name = "アイスボ－ル",
+            .capsName = "アイスボ－ル",
+            .fullName = "アイスボ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_EACH_TURN_LOCK_INTO,
@@ -8157,9 +8157,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NEEDLE_ARM] = {
         .names = {
-            .name = "Needle Arm",
-            .capsName = "NEEDLE ARM",
-            .fullName = "Needle Arm",
+            .name = "ニ－ドルア－ム",
+            .capsName = "ニ－ドルア－ム",
+            .fullName = "ニ－ドルア－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -8184,9 +8184,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SLACK_OFF] = {
         .names = {
-            .name = "Slack Off",
-            .capsName = "SLACK OFF",
-            .fullName = "Slack Off",
+            .name = "なまける",
+            .capsName = "なまける",
+            .fullName = "なまける",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -8211,9 +8211,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HYPER_VOICE] = {
         .names = {
-            .name = "Hyper Voice",
-            .capsName = "HYPER VOICE",
-            .fullName = "Hyper Voice",
+            .name = "ハイパ－ボイス",
+            .capsName = "ハイパ－ボイス",
+            .fullName = "ハイパ－ボイス",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -8238,9 +8238,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POISON_FANG] = {
         .names = {
-            .name = "Poison Fang",
-            .capsName = "POISON FANG",
-            .fullName = "Poison Fang",
+            .name = "どくどくのキバ",
+            .capsName = "どくどくのキバ",
+            .fullName = "どくどくのキバ",
         },
         .data = {
             .effect = MOVE_EFFECT_BADLY_POISON_HIT,
@@ -8265,9 +8265,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CRUSH_CLAW] = {
         .names = {
-            .name = "Crush Claw",
-            .capsName = "CRUSH CLAW",
-            .fullName = "Crush Claw",
+            .name = "ブレイククロ－",
+            .capsName = "ブレイククロ－",
+            .fullName = "ブレイククロ－",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_DEFENSE_HIT,
@@ -8292,9 +8292,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BLAST_BURN] = {
         .names = {
-            .name = "Blast Burn",
-            .capsName = "BLAST BURN",
-            .fullName = "Blast Burn",
+            .name = "ブラストバ－ン",
+            .capsName = "ブラストバ－ン",
+            .fullName = "ブラストバ－ン",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -8319,9 +8319,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HYDRO_CANNON] = {
         .names = {
-            .name = "Hydro Cannon",
-            .capsName = "HYDRO CANNON",
-            .fullName = "Hydro Cannon",
+            .name = "ハイドロカノン",
+            .capsName = "ハイドロカノン",
+            .fullName = "ハイドロカノン",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -8346,9 +8346,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_METEOR_MASH] = {
         .names = {
-            .name = "Meteor Mash",
-            .capsName = "METEOR MASH",
-            .fullName = "Meteor Mash",
+            .name = "コメットパンチ",
+            .capsName = "コメットパンチ",
+            .fullName = "コメットパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ATTACK_HIT,
@@ -8373,9 +8373,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ASTONISH] = {
         .names = {
-            .name = "Astonish",
-            .capsName = "ASTONISH",
-            .fullName = "Astonish",
+            .name = "おどろかす",
+            .capsName = "おどろかす",
+            .fullName = "おどろかす",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -8400,9 +8400,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WEATHER_BALL] = {
         .names = {
-            .name = "Weather Ball",
-            .capsName = "WEATHER BALL",
-            .fullName = "Weather Ball",
+            .name = "ウェザ－ボ－ル",
+            .capsName = "ウェザ－ボ－ル",
+            .fullName = "ウェザ－ボ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_CHANGE_TYPE_WITH_WEATHER,
@@ -8427,9 +8427,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AROMATHERAPY] = {
         .names = {
-            .name = "Aromatherapy",
-            .capsName = "AROMATHERAPY",
-            .fullName = "Aromatherapy",
+            .name = "アロマセラピ－",
+            .capsName = "アロマセラピ－",
+            .fullName = "アロマセラピ－",
         },
         .data = {
             .effect = MOVE_EFFECT_CURE_PARTY_STATUS,
@@ -8454,9 +8454,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FAKE_TEARS] = {
         .names = {
-            .name = "Fake Tears",
-            .capsName = "FAKE TEARS",
-            .fullName = "Fake Tears",
+            .name = "うそなき",
+            .capsName = "うそなき",
+            .fullName = "うそなき",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_DOWN_2,
@@ -8481,9 +8481,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AIR_CUTTER] = {
         .names = {
-            .name = "Air Cutter",
-            .capsName = "AIR CUTTER",
-            .fullName = "Air Cutter",
+            .name = "エアカッタ－",
+            .capsName = "エアカッタ－",
+            .fullName = "エアカッタ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -8508,9 +8508,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_OVERHEAT] = {
         .names = {
-            .name = "Overheat",
-            .capsName = "OVERHEAT",
-            .fullName = "Overheat",
+            .name = "オ－バ－ヒ－ト",
+            .capsName = "オ－バ－ヒ－ト",
+            .fullName = "オ－バ－ヒ－ト",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -8535,9 +8535,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ODOR_SLEUTH] = {
         .names = {
-            .name = "Odor Sleuth",
-            .capsName = "ODOR SLEUTH",
-            .fullName = "Odor Sleuth",
+            .name = "かぎわける",
+            .capsName = "かぎわける",
+            .fullName = "かぎわける",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_EVASION_REMOVE_GHOST_IMMUNE,
@@ -8562,9 +8562,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_TOMB] = {
         .names = {
-            .name = "Rock Tomb",
-            .capsName = "ROCK TOMB",
-            .fullName = "Rock Tomb",
+            .name = "がんせきふうじ",
+            .capsName = "がんせきふうじ",
+            .fullName = "がんせきふうじ",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -8589,9 +8589,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SILVER_WIND] = {
         .names = {
-            .name = "Silver Wind",
-            .capsName = "SILVER WIND",
-            .fullName = "Silver Wind",
+            .name = "ぎんいろのかぜ",
+            .capsName = "ぎんいろのかぜ",
+            .fullName = "ぎんいろのかぜ",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -8616,9 +8616,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_METAL_SOUND] = {
         .names = {
-            .name = "Metal Sound",
-            .capsName = "METAL SOUND",
-            .fullName = "Metal Sound",
+            .name = "きんぞくおん",
+            .capsName = "きんぞくおん",
+            .fullName = "きんぞくおん",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_DEF_DOWN_2,
@@ -8643,9 +8643,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GRASS_WHISTLE] = {
         .names = {
-            .name = "Grass Whistle",
-            .capsName = "GRASS WHISTLE",
-            .fullName = "Grass Whistle",
+            .name = "くさぶえ",
+            .capsName = "くさぶえ",
+            .fullName = "くさぶえ",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -8670,9 +8670,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TICKLE] = {
         .names = {
-            .name = "Tickle",
-            .capsName = "TICKLE",
-            .fullName = "Tickle",
+            .name = "くすぐる",
+            .capsName = "くすぐる",
+            .fullName = "くすぐる",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DEF_DOWN,
@@ -8697,9 +8697,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_COSMIC_POWER] = {
         .names = {
-            .name = "Cosmic Power",
-            .capsName = "COSMIC POWER",
-            .fullName = "Cosmic Power",
+            .name = "コスモパワ－",
+            .capsName = "コスモパワ－",
+            .fullName = "コスモパワ－",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_SP_DEF_UP,
@@ -8724,9 +8724,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WATER_SPOUT] = {
         .names = {
-            .name = "Water Spout",
-            .capsName = "WATER SPOUT",
-            .fullName = "Water Spout",
+            .name = "しおふき",
+            .capsName = "しおふき",
+            .fullName = "しおふき",
         },
         .data = {
             .effect = MOVE_EFFECT_DECREASE_POWER_WITH_LESS_USER_HP,
@@ -8751,9 +8751,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SIGNAL_BEAM] = {
         .names = {
-            .name = "Signal Beam",
-            .capsName = "SIGNAL BEAM",
-            .fullName = "Signal Beam",
+            .name = "シグナルビ－ム",
+            .capsName = "シグナルビ－ム",
+            .fullName = "シグナルビ－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -8778,9 +8778,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHADOW_PUNCH] = {
         .names = {
-            .name = "Shadow Punch",
-            .capsName = "SHADOW PUNCH",
-            .fullName = "Shadow Punch",
+            .name = "シャド－パンチ",
+            .capsName = "シャド－パンチ",
+            .fullName = "シャド－パンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -8805,9 +8805,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EXTRASENSORY] = {
         .names = {
-            .name = "Extrasensory",
-            .capsName = "EXTRASENSORY",
-            .fullName = "Extrasensory",
+            .name = "じんつうりき",
+            .capsName = "じんつうりき",
+            .fullName = "じんつうりき",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -8832,9 +8832,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SKY_UPPERCUT] = {
         .names = {
-            .name = "Sky Uppercut",
-            .capsName = "SKY UPPERCUT",
-            .fullName = "Sky Uppercut",
+            .name = "スカイアッパ－",
+            .capsName = "スカイアッパ－",
+            .fullName = "スカイアッパ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_FLY,
@@ -8859,9 +8859,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SAND_TOMB] = {
         .names = {
-            .name = "Sand Tomb",
-            .capsName = "SAND TOMB",
-            .fullName = "Sand Tomb",
+            .name = "すなじごく",
+            .capsName = "すなじごく",
+            .fullName = "すなじごく",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -8886,9 +8886,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHEER_COLD] = {
         .names = {
-            .name = "Sheer Cold",
-            .capsName = "SHEER COLD",
-            .fullName = "Sheer Cold",
+            .name = "ぜったいれいど",
+            .capsName = "ぜったいれいど",
+            .fullName = "ぜったいれいど",
         },
         .data = {
             .effect = MOVE_EFFECT_ONE_HIT_KO,
@@ -8913,9 +8913,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MUDDY_WATER] = {
         .names = {
-            .name = "Muddy Water",
-            .capsName = "MUDDY WATER",
-            .fullName = "Muddy Water",
+            .name = "だくりゅう",
+            .capsName = "だくりゅう",
+            .fullName = "だくりゅう",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -8940,9 +8940,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BULLET_SEED] = {
         .names = {
-            .name = "Bullet Seed",
-            .capsName = "BULLET SEED",
-            .fullName = "Bullet Seed",
+            .name = "タネマシンガン",
+            .capsName = "タネマシンガン",
+            .fullName = "タネマシンガン",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -8967,9 +8967,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AERIAL_ACE] = {
         .names = {
-            .name = "Aerial Ace",
-            .capsName = "AERIAL ACE",
-            .fullName = "Aerial Ace",
+            .name = "つばめがえし",
+            .capsName = "つばめがえし",
+            .fullName = "つばめがえし",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -8994,9 +8994,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICICLE_SPEAR] = {
         .names = {
-            .name = "Icicle Spear",
-            .capsName = "ICICLE SPEAR",
-            .fullName = "Icicle Spear",
+            .name = "つららばり",
+            .capsName = "つららばり",
+            .fullName = "つららばり",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -9021,9 +9021,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_IRON_DEFENSE] = {
         .names = {
-            .name = "Iron Defense",
-            .capsName = "IRON DEFENSE",
-            .fullName = "Iron Defense",
+            .name = "てっぺき",
+            .capsName = "てっぺき",
+            .fullName = "てっぺき",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_UP_2,
@@ -9048,9 +9048,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BLOCK] = {
         .names = {
-            .name = "Block",
-            .capsName = "BLOCK",
-            .fullName = "Block",
+            .name = "とおせんぼう",
+            .capsName = "とおせんぼう",
+            .fullName = "とおせんぼう",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ESCAPE,
@@ -9075,9 +9075,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HOWL] = {
         .names = {
-            .name = "Howl",
-            .capsName = "HOWL",
-            .fullName = "Howl",
+            .name = "とおぼえ",
+            .capsName = "とおぼえ",
+            .fullName = "とおぼえ",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_UP,
@@ -9102,9 +9102,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAGON_CLAW] = {
         .names = {
-            .name = "Dragon Claw",
-            .capsName = "DRAGON CLAW",
-            .fullName = "Dragon Claw",
+            .name = "ドラゴンクロ－",
+            .capsName = "ドラゴンクロ－",
+            .fullName = "ドラゴンクロ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -9129,9 +9129,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FRENZY_PLANT] = {
         .names = {
-            .name = "Frenzy Plant",
-            .capsName = "FRENZY PLANT",
-            .fullName = "Frenzy Plant",
+            .name = "ハ－ドプラント",
+            .capsName = "ハ－ドプラント",
+            .fullName = "ハ－ドプラント",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -9156,9 +9156,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BULK_UP] = {
         .names = {
-            .name = "Bulk Up",
-            .capsName = "BULK UP",
-            .fullName = "Bulk Up",
+            .name = "ビルドアップ",
+            .capsName = "ビルドアップ",
+            .fullName = "ビルドアップ",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_DEF_UP,
@@ -9183,9 +9183,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BOUNCE] = {
         .names = {
-            .name = "Bounce",
-            .capsName = "BOUNCE",
-            .fullName = "Bounce",
+            .name = "とびはねる",
+            .capsName = "とびはねる",
+            .fullName = "とびはねる",
         },
         .data = {
             .effect = MOVE_EFFECT_BOUNCE,
@@ -9210,9 +9210,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MUD_SHOT] = {
         .names = {
-            .name = "Mud Shot",
-            .capsName = "MUD SHOT",
-            .fullName = "Mud Shot",
+            .name = "マッドショット",
+            .capsName = "マッドショット",
+            .fullName = "マッドショット",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SPEED_HIT,
@@ -9237,9 +9237,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POISON_TAIL] = {
         .names = {
-            .name = "Poison Tail",
-            .capsName = "POISON TAIL",
-            .fullName = "Poison Tail",
+            .name = "ポイズンテ－ル",
+            .capsName = "ポイズンテ－ル",
+            .fullName = "ポイズンテ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT,
@@ -9264,9 +9264,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_COVET] = {
         .names = {
-            .name = "Covet",
-            .capsName = "COVET",
-            .fullName = "Covet",
+            .name = "ほしがる",
+            .capsName = "ほしがる",
+            .fullName = "ほしがる",
         },
         .data = {
             .effect = MOVE_EFFECT_STEAL_HELD_ITEM,
@@ -9291,9 +9291,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_VOLT_TACKLE] = {
         .names = {
-            .name = "Volt Tackle",
-            .capsName = "VOLT TACKLE",
-            .fullName = "Volt Tackle",
+            .name = "ボルテッカ－",
+            .capsName = "ボルテッカ－",
+            .fullName = "ボルテッカ－",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_PARALYZE_HIT,
@@ -9318,9 +9318,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MAGICAL_LEAF] = {
         .names = {
-            .name = "Magical Leaf",
-            .capsName = "MAGICAL LEAF",
-            .fullName = "Magical Leaf",
+            .name = "マジカルリ－フ",
+            .capsName = "マジカルリ－フ",
+            .fullName = "マジカルリ－フ",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -9345,9 +9345,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WATER_SPORT] = {
         .names = {
-            .name = "Water Sport",
-            .capsName = "WATER SPORT",
-            .fullName = "Water Sport",
+            .name = "みずあそび",
+            .capsName = "みずあそび",
+            .fullName = "みずあそび",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_FIRE_DAMAGE,
@@ -9372,9 +9372,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CALM_MIND] = {
         .names = {
-            .name = "Calm Mind",
-            .capsName = "CALM MIND",
-            .fullName = "Calm Mind",
+            .name = "めいそう",
+            .capsName = "めいそう",
+            .fullName = "めいそう",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_SP_DEF_UP,
@@ -9399,9 +9399,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LEAF_BLADE] = {
         .names = {
-            .name = "Leaf Blade",
-            .capsName = "LEAF BLADE",
-            .fullName = "Leaf Blade",
+            .name = "リ－フブレ－ド",
+            .capsName = "リ－フブレ－ド",
+            .fullName = "リ－フブレ－ド",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -9426,9 +9426,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAGON_DANCE] = {
         .names = {
-            .name = "Dragon Dance",
-            .capsName = "DRAGON DANCE",
-            .fullName = "Dragon Dance",
+            .name = "りゅうのまい",
+            .capsName = "りゅうのまい",
+            .fullName = "りゅうのまい",
         },
         .data = {
             .effect = MOVE_EFFECT_ATK_SPEED_UP,
@@ -9453,9 +9453,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_BLAST] = {
         .names = {
-            .name = "Rock Blast",
-            .capsName = "ROCK BLAST",
-            .fullName = "Rock Blast",
+            .name = "ロックブラスト",
+            .capsName = "ロックブラスト",
+            .fullName = "ロックブラスト",
         },
         .data = {
             .effect = MOVE_EFFECT_MULTI_HIT,
@@ -9480,9 +9480,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHOCK_WAVE] = {
         .names = {
-            .name = "Shock Wave",
-            .capsName = "SHOCK WAVE",
-            .fullName = "Shock Wave",
+            .name = "でんげきは",
+            .capsName = "でんげきは",
+            .fullName = "でんげきは",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -9507,9 +9507,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WATER_PULSE] = {
         .names = {
-            .name = "Water Pulse",
-            .capsName = "WATER PULSE",
-            .fullName = "Water Pulse",
+            .name = "みずのはどう",
+            .capsName = "みずのはどう",
+            .fullName = "みずのはどう",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -9534,9 +9534,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DOOM_DESIRE] = {
         .names = {
-            .name = "Doom Desire",
-            .capsName = "DOOM DESIRE",
-            .fullName = "Doom Desire",
+            .name = "はめつのねがい",
+            .capsName = "はめつのねがい",
+            .fullName = "はめつのねがい",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_IN_3_TURNS,
@@ -9561,9 +9561,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYCHO_BOOST] = {
         .names = {
-            .name = "Psycho Boost",
-            .capsName = "PSYCHO BOOST",
-            .fullName = "Psycho Boost",
+            .name = "サイコブ－スト",
+            .capsName = "サイコブ－スト",
+            .fullName = "サイコブ－スト",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -9588,9 +9588,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROOST] = {
         .names = {
-            .name = "Roost",
-            .capsName = "ROOST",
-            .fullName = "Roost",
+            .name = "はねやすめ",
+            .capsName = "はねやすめ",
+            .fullName = "はねやすめ",
         },
         .data = {
             .effect = MOVE_EFFECT_HEAL_HALF_REMOVE_FLYING_TYPE,
@@ -9615,9 +9615,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GRAVITY] = {
         .names = {
-            .name = "Gravity",
-            .capsName = "GRAVITY",
-            .fullName = "Gravity",
+            .name = "じゅうりょく",
+            .capsName = "じゅうりょく",
+            .fullName = "じゅうりょく",
         },
         .data = {
             .effect = MOVE_EFFECT_GRAVITY,
@@ -9642,9 +9642,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIRACLE_EYE] = {
         .names = {
-            .name = "Miracle Eye",
-            .capsName = "MIRACLE EYE",
-            .fullName = "Miracle Eye",
+            .name = "ミラクルアイ",
+            .capsName = "ミラクルアイ",
+            .fullName = "ミラクルアイ",
         },
         .data = {
             .effect = MOVE_EFFECT_IGNORE_EVATION_REMOVE_DARK_IMMUNE,
@@ -9669,9 +9669,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WAKE_UP_SLAP] = {
         .names = {
-            .name = "Wake-Up Slap",
-            .capsName = "WAKE-UP SLAP",
-            .fullName = "Wake-Up Slap",
+            .name = "めざましビンタ",
+            .capsName = "めざましビンタ",
+            .fullName = "めざましビンタ",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_HEAL_SLEEP,
@@ -9696,9 +9696,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HAMMER_ARM] = {
         .names = {
-            .name = "Hammer Arm",
-            .capsName = "HAMMER ARM",
-            .fullName = "Hammer Arm",
+            .name = "ア－ムハンマ－",
+            .capsName = "ア－ムハンマ－",
+            .fullName = "ア－ムハンマ－",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SPEED_DOWN_HIT,
@@ -9723,9 +9723,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GYRO_BALL] = {
         .names = {
-            .name = "Gyro Ball",
-            .capsName = "GYRO BALL",
-            .fullName = "Gyro Ball",
+            .name = "ジャイロボ－ル",
+            .capsName = "ジャイロボ－ル",
+            .fullName = "ジャイロボ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_POWER_BASED_ON_LOW_SPEED,
@@ -9750,9 +9750,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEALING_WISH] = {
         .names = {
-            .name = "Healing Wish",
-            .capsName = "HEALING WISH",
-            .fullName = "Healing Wish",
+            .name = "いやしのねがい",
+            .capsName = "いやしのねがい",
+            .fullName = "いやしのねがい",
         },
         .data = {
             .effect = MOVE_EFFECT_FAINT_AND_FULL_HEAL_NEXT_MON,
@@ -9777,9 +9777,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BRINE] = {
         .names = {
-            .name = "Brine",
-            .capsName = "BRINE",
-            .fullName = "Brine",
+            .name = "しおみず",
+            .capsName = "しおみず",
+            .fullName = "しおみず",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_WHEN_BELOW_HALF,
@@ -9804,9 +9804,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NATURAL_GIFT] = {
         .names = {
-            .name = "Natural Gift",
-            .capsName = "NATURAL GIFT",
-            .fullName = "Natural Gift",
+            .name = "しぜんのめぐみ",
+            .capsName = "しぜんのめぐみ",
+            .fullName = "しぜんのめぐみ",
         },
         .data = {
             .effect = MOVE_EFFECT_NATURAL_GIFT,
@@ -9831,9 +9831,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FEINT] = {
         .names = {
-            .name = "Feint",
-            .capsName = "FEINT",
-            .fullName = "Feint",
+            .name = "フェイント",
+            .capsName = "フェイント",
+            .fullName = "フェイント",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_PROTECT,
@@ -9858,9 +9858,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PLUCK] = {
         .names = {
-            .name = "Pluck",
-            .capsName = "PLUCK",
-            .fullName = "Pluck",
+            .name = "ついばむ",
+            .capsName = "ついばむ",
+            .fullName = "ついばむ",
         },
         .data = {
             .effect = MOVE_EFFECT_EAT_BERRY,
@@ -9885,9 +9885,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TAILWIND] = {
         .names = {
-            .name = "Tailwind",
-            .capsName = "TAILWIND",
-            .fullName = "Tailwind",
+            .name = "おいかぜ",
+            .capsName = "おいかぜ",
+            .fullName = "おいかぜ",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_SPEED_3_TURNS,
@@ -9912,9 +9912,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ACUPRESSURE] = {
         .names = {
-            .name = "Acupressure",
-            .capsName = "ACUPRESSURE",
-            .fullName = "Acupressure",
+            .name = "つぼをつく",
+            .capsName = "つぼをつく",
+            .fullName = "つぼをつく",
         },
         .data = {
             .effect = MOVE_EFFECT_RANDOM_STAT_UP_2,
@@ -9939,9 +9939,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_METAL_BURST] = {
         .names = {
-            .name = "Metal Burst",
-            .capsName = "METAL BURST",
-            .fullName = "Metal Burst",
+            .name = "メタルバ－スト",
+            .capsName = "メタルバ－スト",
+            .fullName = "メタルバ－スト",
         },
         .data = {
             .effect = MOVE_EFFECT_METAL_BURST,
@@ -9966,9 +9966,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_U_TURN] = {
         .names = {
-            .name = "U-turn",
-            .capsName = "U-TURN",
-            .fullName = "U-turn",
+            .name = "とんぼがえり",
+            .capsName = "とんぼがえり",
+            .fullName = "とんぼがえり",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HIT,
@@ -9993,9 +9993,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CLOSE_COMBAT] = {
         .names = {
-            .name = "Close Combat",
-            .capsName = "CLOSE COMBAT",
-            .fullName = "Close Combat",
+            .name = "インファイト",
+            .capsName = "インファイト",
+            .fullName = "インファイト",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_DEF_SP_DEF_DOWN_HIT,
@@ -10020,9 +10020,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PAYBACK] = {
         .names = {
-            .name = "Payback",
-            .capsName = "PAYBACK",
-            .fullName = "Payback",
+            .name = "しっぺがえし",
+            .capsName = "しっぺがえし",
+            .fullName = "しっぺがえし",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_IF_HIT,
@@ -10047,9 +10047,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ASSURANCE] = {
         .names = {
-            .name = "Assurance",
-            .capsName = "ASSURANCE",
-            .fullName = "Assurance",
+            .name = "ダメおし",
+            .capsName = "ダメおし",
+            .fullName = "ダメおし",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_POWER_IF_TARGET_HIT,
@@ -10074,9 +10074,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EMBARGO] = {
         .names = {
-            .name = "Embargo",
-            .capsName = "EMBARGO",
-            .fullName = "Embargo",
+            .name = "さしおさえ",
+            .capsName = "さしおさえ",
+            .fullName = "さしおさえ",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_ITEM_USE,
@@ -10101,9 +10101,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLING] = {
         .names = {
-            .name = "Fling",
-            .capsName = "FLING",
-            .fullName = "Fling",
+            .name = "なげつける",
+            .capsName = "なげつける",
+            .fullName = "なげつける",
         },
         .data = {
             .effect = MOVE_EFFECT_FLING,
@@ -10128,9 +10128,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYCHO_SHIFT] = {
         .names = {
-            .name = "Psycho Shift",
-            .capsName = "PSYCHO SHIFT",
-            .fullName = "Psycho Shift",
+            .name = "サイコシフト",
+            .capsName = "サイコシフト",
+            .fullName = "サイコシフト",
         },
         .data = {
             .effect = MOVE_EFFECT_TRANSFER_STATUS,
@@ -10155,9 +10155,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TRUMP_CARD] = {
         .names = {
-            .name = "Trump Card",
-            .capsName = "TRUMP CARD",
-            .fullName = "Trump Card",
+            .name = "きりふだ",
+            .capsName = "きりふだ",
+            .fullName = "きりふだ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGHER_POWER_WHEN_LOW_PP,
@@ -10182,9 +10182,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEAL_BLOCK] = {
         .names = {
-            .name = "Heal Block",
-            .capsName = "HEAL BLOCK",
-            .fullName = "Heal Block",
+            .name = "かいふくふうじ",
+            .capsName = "かいふくふうじ",
+            .fullName = "かいふくふうじ",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_HEALING,
@@ -10209,9 +10209,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WRING_OUT] = {
         .names = {
-            .name = "Wring Out",
-            .capsName = "WRING OUT",
-            .fullName = "Wring Out",
+            .name = "しぼりとる",
+            .capsName = "しぼりとる",
+            .fullName = "しぼりとる",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP,
@@ -10236,9 +10236,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POWER_TRICK] = {
         .names = {
-            .name = "Power Trick",
-            .capsName = "POWER TRICK",
-            .fullName = "Power Trick",
+            .name = "パワ－トリック",
+            .capsName = "パワ－トリック",
+            .fullName = "パワ－トリック",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_ATK_DEF,
@@ -10263,9 +10263,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GASTRO_ACID] = {
         .names = {
-            .name = "Gastro Acid",
-            .capsName = "GASTRO ACID",
-            .fullName = "Gastro Acid",
+            .name = "いえき",
+            .capsName = "いえき",
+            .fullName = "いえき",
         },
         .data = {
             .effect = MOVE_EFFECT_SUPRESS_ABILITY,
@@ -10290,9 +10290,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LUCKY_CHANT] = {
         .names = {
-            .name = "Lucky Chant",
-            .capsName = "LUCKY CHANT",
-            .fullName = "Lucky Chant",
+            .name = "おまじない",
+            .capsName = "おまじない",
+            .fullName = "おまじない",
         },
         .data = {
             .effect = MOVE_EFFECT_PREVENT_CRITS,
@@ -10317,9 +10317,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ME_FIRST] = {
         .names = {
-            .name = "Me First",
-            .capsName = "ME FIRST",
-            .fullName = "Me First",
+            .name = "さきどり",
+            .capsName = "さきどり",
+            .fullName = "さきどり",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_MOVE_FIRST,
@@ -10344,9 +10344,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_COPYCAT] = {
         .names = {
-            .name = "Copycat",
-            .capsName = "COPYCAT",
-            .fullName = "Copycat",
+            .name = "まねっこ",
+            .capsName = "まねっこ",
+            .fullName = "まねっこ",
         },
         .data = {
             .effect = MOVE_EFFECT_USE_LAST_USED_MOVE,
@@ -10371,9 +10371,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POWER_SWAP] = {
         .names = {
-            .name = "Power Swap",
-            .capsName = "POWER SWAP",
-            .fullName = "Power Swap",
+            .name = "パワ－スワップ",
+            .capsName = "パワ－スワップ",
+            .fullName = "パワ－スワップ",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_ATK_SP_ATK_STAT_CHANGES,
@@ -10398,9 +10398,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GUARD_SWAP] = {
         .names = {
-            .name = "Guard Swap",
-            .capsName = "GUARD SWAP",
-            .fullName = "Guard Swap",
+            .name = "ガ－ドスワップ",
+            .capsName = "ガ－ドスワップ",
+            .fullName = "ガ－ドスワップ",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_DEF_SP_DEF_STAT_CHANGES,
@@ -10425,9 +10425,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PUNISHMENT] = {
         .names = {
-            .name = "Punishment",
-            .capsName = "PUNISHMENT",
-            .fullName = "Punishment",
+            .name = "おしおき",
+            .capsName = "おしおき",
+            .fullName = "おしおき",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_MORE_STAT_UP,
@@ -10452,9 +10452,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LAST_RESORT] = {
         .names = {
-            .name = "Last Resort",
-            .capsName = "LAST RESORT",
-            .fullName = "Last Resort",
+            .name = "とっておき",
+            .capsName = "とっておき",
+            .fullName = "とっておき",
         },
         .data = {
             .effect = MOVE_EFFECT_FAIL_IF_NOT_USED_ALL_OTHER_MOVES,
@@ -10479,9 +10479,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WORRY_SEED] = {
         .names = {
-            .name = "Worry Seed",
-            .capsName = "WORRY SEED",
-            .fullName = "Worry Seed",
+            .name = "なやみのタネ",
+            .capsName = "なやみのタネ",
+            .fullName = "なやみのタネ",
         },
         .data = {
             .effect = MOVE_EFFECT_SET_ABILITY_TO_INSOMNIA,
@@ -10506,9 +10506,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SUCKER_PUNCH] = {
         .names = {
-            .name = "Sucker Punch",
-            .capsName = "SUCKER PUNCH",
-            .fullName = "Sucker Punch",
+            .name = "ふいうち",
+            .capsName = "ふいうち",
+            .fullName = "ふいうち",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_FIRST_IF_TARGET_ATTACKING,
@@ -10533,9 +10533,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TOXIC_SPIKES] = {
         .names = {
-            .name = "Toxic Spikes",
-            .capsName = "TOXIC SPIKES",
-            .fullName = "Toxic Spikes",
+            .name = "どくびし",
+            .capsName = "どくびし",
+            .fullName = "どくびし",
         },
         .data = {
             .effect = MOVE_EFFECT_TOXIC_SPIKES,
@@ -10560,9 +10560,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEART_SWAP] = {
         .names = {
-            .name = "Heart Swap",
-            .capsName = "HEART SWAP",
-            .fullName = "Heart Swap",
+            .name = "ハ－トスワップ",
+            .capsName = "ハ－トスワップ",
+            .fullName = "ハ－トスワップ",
         },
         .data = {
             .effect = MOVE_EFFECT_SWAP_STAT_CHANGES,
@@ -10587,9 +10587,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AQUA_RING] = {
         .names = {
-            .name = "Aqua Ring",
-            .capsName = "AQUA RING",
-            .fullName = "Aqua Ring",
+            .name = "アクアリング",
+            .capsName = "アクアリング",
+            .fullName = "アクアリング",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HP_EVERY_TURN,
@@ -10614,9 +10614,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MAGNET_RISE] = {
         .names = {
-            .name = "Magnet Rise",
-            .capsName = "MAGNET RISE",
-            .fullName = "Magnet Rise",
+            .name = "でんじふゆう",
+            .capsName = "でんじふゆう",
+            .fullName = "でんじふゆう",
         },
         .data = {
             .effect = MOVE_EFFECT_GIVE_GROUND_IMMUNITY,
@@ -10641,9 +10641,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLARE_BLITZ] = {
         .names = {
-            .name = "Flare Blitz",
-            .capsName = "FLARE BLITZ",
-            .fullName = "Flare Blitz",
+            .name = "フレアドライブ",
+            .capsName = "フレアドライブ",
+            .fullName = "フレアドライブ",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_BURN_HIT,
@@ -10668,9 +10668,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FORCE_PALM] = {
         .names = {
-            .name = "Force Palm",
-            .capsName = "FORCE PALM",
-            .fullName = "Force Palm",
+            .name = "はっけい",
+            .capsName = "はっけい",
+            .fullName = "はっけい",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -10695,9 +10695,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AURA_SPHERE] = {
         .names = {
-            .name = "Aura Sphere",
-            .capsName = "AURA SPHERE",
-            .fullName = "Aura Sphere",
+            .name = "はどうだん",
+            .capsName = "はどうだん",
+            .fullName = "はどうだん",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -10722,9 +10722,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_POLISH] = {
         .names = {
-            .name = "Rock Polish",
-            .capsName = "ROCK POLISH",
-            .fullName = "Rock Polish",
+            .name = "ロックカット",
+            .capsName = "ロックカット",
+            .fullName = "ロックカット",
         },
         .data = {
             .effect = MOVE_EFFECT_SPEED_UP_2,
@@ -10749,9 +10749,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POISON_JAB] = {
         .names = {
-            .name = "Poison Jab",
-            .capsName = "POISON JAB",
-            .fullName = "Poison Jab",
+            .name = "どくづき",
+            .capsName = "どくづき",
+            .fullName = "どくづき",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -10776,9 +10776,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DARK_PULSE] = {
         .names = {
-            .name = "Dark Pulse",
-            .capsName = "DARK PULSE",
-            .fullName = "Dark Pulse",
+            .name = "あくのはどう",
+            .capsName = "あくのはどう",
+            .fullName = "あくのはどう",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -10803,9 +10803,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NIGHT_SLASH] = {
         .names = {
-            .name = "Night Slash",
-            .capsName = "NIGHT SLASH",
-            .fullName = "Night Slash",
+            .name = "つじぎり",
+            .capsName = "つじぎり",
+            .fullName = "つじぎり",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -10830,9 +10830,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AQUA_TAIL] = {
         .names = {
-            .name = "Aqua Tail",
-            .capsName = "AQUA TAIL",
-            .fullName = "Aqua Tail",
+            .name = "アクアテ－ル",
+            .capsName = "アクアテ－ル",
+            .fullName = "アクアテ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10857,9 +10857,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SEED_BOMB] = {
         .names = {
-            .name = "Seed Bomb",
-            .capsName = "SEED BOMB",
-            .fullName = "Seed Bomb",
+            .name = "タネばくだん",
+            .capsName = "タネばくだん",
+            .fullName = "タネばくだん",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10884,9 +10884,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AIR_SLASH] = {
         .names = {
-            .name = "Air Slash",
-            .capsName = "AIR SLASH",
-            .fullName = "Air Slash",
+            .name = "エアスラッシュ",
+            .capsName = "エアスラッシュ",
+            .fullName = "エアスラッシュ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -10911,9 +10911,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_X_SCISSOR] = {
         .names = {
-            .name = "X-Scissor",
-            .capsName = "X-SCISSOR",
-            .fullName = "X-Scissor",
+            .name = "シザ－クロス",
+            .capsName = "シザ－クロス",
+            .fullName = "シザ－クロス",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10938,9 +10938,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BUG_BUZZ] = {
         .names = {
-            .name = "Bug Buzz",
-            .capsName = "BUG BUZZ",
-            .fullName = "Bug Buzz",
+            .name = "むしのさざめき",
+            .capsName = "むしのさざめき",
+            .fullName = "むしのさざめき",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -10965,9 +10965,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAGON_PULSE] = {
         .names = {
-            .name = "Dragon Pulse",
-            .capsName = "DRAGON PULSE",
-            .fullName = "Dragon Pulse",
+            .name = "りゅうのはどう",
+            .capsName = "りゅうのはどう",
+            .fullName = "りゅうのはどう",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -10992,9 +10992,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAGON_RUSH] = {
         .names = {
-            .name = "Dragon Rush",
-            .capsName = "DRAGON RUSH",
-            .fullName = "Dragon Rush",
+            .name = "ドラゴンダイブ",
+            .capsName = "ドラゴンダイブ",
+            .fullName = "ドラゴンダイブ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11019,9 +11019,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POWER_GEM] = {
         .names = {
-            .name = "Power Gem",
-            .capsName = "POWER GEM",
-            .fullName = "Power Gem",
+            .name = "パワ－ジェム",
+            .capsName = "パワ－ジェム",
+            .fullName = "パワ－ジェム",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -11046,9 +11046,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRAIN_PUNCH] = {
         .names = {
-            .name = "Drain Punch",
-            .capsName = "DRAIN PUNCH",
-            .fullName = "Drain Punch",
+            .name = "ドレインパンチ",
+            .capsName = "ドレインパンチ",
+            .fullName = "ドレインパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOVER_HALF_DAMAGE_DEALT,
@@ -11073,9 +11073,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_VACUUM_WAVE] = {
         .names = {
-            .name = "Vacuum Wave",
-            .capsName = "VACUUM WAVE",
-            .fullName = "Vacuum Wave",
+            .name = "しんくうは",
+            .capsName = "しんくうは",
+            .fullName = "しんくうは",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11100,16 +11100,16 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FOCUS_BLAST] = {
         .names = {
-            .name = "Focus Blast",
-            .capsName = "FOCUS BLAST",
-            .fullName = "Focus Blast",
+            .name = "きあいだま",
+            .capsName = "きあいだま",
+            .fullName = "きあいだま",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
             .split = SPLIT_SPECIAL,
-            .power = 120,
+            .power = 80,
             .type = TYPE_FIGHTING,
-            .accuracy = 70,
+            .accuracy = 100,
             .pp = 5,
             .effectChance = 10,
         },
@@ -11127,9 +11127,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ENERGY_BALL] = {
         .names = {
-            .name = "Energy Ball",
-            .capsName = "ENERGY BALL",
-            .fullName = "Energy Ball",
+            .name = "エナジ－ボ－ル",
+            .capsName = "エナジ－ボ－ル",
+            .fullName = "エナジ－ボ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11154,9 +11154,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BRAVE_BIRD] = {
         .names = {
-            .name = "Brave Bird",
-            .capsName = "BRAVE BIRD",
-            .fullName = "Brave Bird",
+            .name = "ブレイブバ－ド",
+            .capsName = "ブレイブバ－ド",
+            .fullName = "ブレイブバ－ド",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -11181,9 +11181,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_EARTH_POWER] = {
         .names = {
-            .name = "Earth Power",
-            .capsName = "EARTH POWER",
-            .fullName = "Earth Power",
+            .name = "だいちのちから",
+            .capsName = "だいちのちから",
+            .fullName = "だいちのちから",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11208,9 +11208,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SWITCHEROO] = {
         .names = {
-            .name = "Switcheroo",
-            .capsName = "SWITCHEROO",
-            .fullName = "Switcheroo",
+            .name = "すりかえ",
+            .capsName = "すりかえ",
+            .fullName = "すりかえ",
         },
         .data = {
             .effect = MOVE_EFFECT_SWITCH_HELD_ITEMS,
@@ -11235,9 +11235,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GIGA_IMPACT] = {
         .names = {
-            .name = "Giga Impact",
-            .capsName = "GIGA IMPACT",
-            .fullName = "Giga Impact",
+            .name = "ギガインパクト",
+            .capsName = "ギガインパクト",
+            .fullName = "ギガインパクト",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -11262,9 +11262,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_NASTY_PLOT] = {
         .names = {
-            .name = "Nasty Plot",
-            .capsName = "NASTY PLOT",
-            .fullName = "Nasty Plot",
+            .name = "わるだくみ",
+            .capsName = "わるだくみ",
+            .fullName = "わるだくみ",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_UP_2,
@@ -11289,9 +11289,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BULLET_PUNCH] = {
         .names = {
-            .name = "Bullet Punch",
-            .capsName = "BULLET PUNCH",
-            .fullName = "Bullet Punch",
+            .name = "バレットパンチ",
+            .capsName = "バレットパンチ",
+            .fullName = "バレットパンチ",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11316,9 +11316,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AVALANCHE] = {
         .names = {
-            .name = "Avalanche",
-            .capsName = "AVALANCHE",
-            .fullName = "Avalanche",
+            .name = "ゆきなだれ",
+            .capsName = "ゆきなだれ",
+            .fullName = "ゆきなだれ",
         },
         .data = {
             .effect = MOVE_EFFECT_DOUBLE_DAMAGE_IF_HIT,
@@ -11343,9 +11343,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICE_SHARD] = {
         .names = {
-            .name = "Ice Shard",
-            .capsName = "ICE SHARD",
-            .fullName = "Ice Shard",
+            .name = "こおりのつぶて",
+            .capsName = "こおりのつぶて",
+            .fullName = "こおりのつぶて",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11370,9 +11370,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHADOW_CLAW] = {
         .names = {
-            .name = "Shadow Claw",
-            .capsName = "SHADOW CLAW",
-            .fullName = "Shadow Claw",
+            .name = "シャド－クロ－",
+            .capsName = "シャド－クロ－",
+            .fullName = "シャド－クロ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -11397,9 +11397,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_THUNDER_FANG] = {
         .names = {
-            .name = "Thunder Fang",
-            .capsName = "THUNDER FANG",
-            .fullName = "Thunder Fang",
+            .name = "かみなりのキバ",
+            .capsName = "かみなりのキバ",
+            .fullName = "かみなりのキバ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_PARALYZE_HIT,
@@ -11424,9 +11424,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ICE_FANG] = {
         .names = {
-            .name = "Ice Fang",
-            .capsName = "ICE FANG",
-            .fullName = "Ice Fang",
+            .name = "こおりのキバ",
+            .capsName = "こおりのキバ",
+            .fullName = "こおりのキバ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_FREEZE_HIT,
@@ -11451,9 +11451,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FIRE_FANG] = {
         .names = {
-            .name = "Fire Fang",
-            .capsName = "FIRE FANG",
-            .fullName = "Fire Fang",
+            .name = "ほのおのキバ",
+            .capsName = "ほのおのキバ",
+            .fullName = "ほのおのキバ",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_BURN_HIT,
@@ -11478,9 +11478,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHADOW_SNEAK] = {
         .names = {
-            .name = "Shadow Sneak",
-            .capsName = "SHADOW SNEAK",
-            .fullName = "Shadow Sneak",
+            .name = "かげうち",
+            .capsName = "かげうち",
+            .fullName = "かげうち",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -11505,9 +11505,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MUD_BOMB] = {
         .names = {
-            .name = "Mud Bomb",
-            .capsName = "MUD BOMB",
-            .fullName = "Mud Bomb",
+            .name = "どろばくだん",
+            .capsName = "どろばくだん",
+            .fullName = "どろばくだん",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -11532,9 +11532,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_PSYCHO_CUT] = {
         .names = {
-            .name = "Psycho Cut",
-            .capsName = "PSYCHO CUT",
-            .fullName = "Psycho Cut",
+            .name = "サイコカッタ－",
+            .capsName = "サイコカッタ－",
+            .fullName = "サイコカッタ－",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -11559,9 +11559,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ZEN_HEADBUTT] = {
         .names = {
-            .name = "Zen Headbutt",
-            .capsName = "ZEN HEADBUTT",
-            .fullName = "Zen Headbutt",
+            .name = "しねんのずつき",
+            .capsName = "しねんのずつき",
+            .fullName = "しねんのずつき",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11586,9 +11586,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MIRROR_SHOT] = {
         .names = {
-            .name = "Mirror Shot",
-            .capsName = "MIRROR SHOT",
-            .fullName = "Mirror Shot",
+            .name = "ミラ－ショット",
+            .capsName = "ミラ－ショット",
+            .fullName = "ミラ－ショット",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_ACCURACY_HIT,
@@ -11613,9 +11613,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_FLASH_CANNON] = {
         .names = {
-            .name = "Flash Cannon",
-            .capsName = "FLASH CANNON",
-            .fullName = "Flash Cannon",
+            .name = "ラスタ－カノン",
+            .capsName = "ラスタ－カノン",
+            .fullName = "ラスタ－カノン",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_HIT,
@@ -11640,9 +11640,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_CLIMB] = {
         .names = {
-            .name = "Rock Climb",
-            .capsName = "ROCK CLIMB",
-            .fullName = "Rock Climb",
+            .name = "ロッククライム",
+            .capsName = "ロッククライム",
+            .fullName = "ロッククライム",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -11667,9 +11667,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DEFOG] = {
         .names = {
-            .name = "Defog",
-            .capsName = "DEFOG",
-            .fullName = "Defog",
+            .name = "きりばらい",
+            .capsName = "きりばらい",
+            .fullName = "きりばらい",
         },
         .data = {
             .effect = MOVE_EFFECT_REMOVE_HAZARDS_SCREENS_EVA_DOWN,
@@ -11694,9 +11694,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_TRICK_ROOM] = {
         .names = {
-            .name = "Trick Room",
-            .capsName = "TRICK ROOM",
-            .fullName = "Trick Room",
+            .name = "トリックル－ム",
+            .capsName = "トリックル－ム",
+            .fullName = "トリックル－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_TRICK_ROOM,
@@ -11721,9 +11721,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DRACO_METEOR] = {
         .names = {
-            .name = "Draco Meteor",
-            .capsName = "DRACO METEOR",
-            .fullName = "Draco Meteor",
+            .name = "りゅうせいぐん",
+            .capsName = "りゅうせいぐん",
+            .fullName = "りゅうせいぐん",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -11748,9 +11748,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DISCHARGE] = {
         .names = {
-            .name = "Discharge",
-            .capsName = "DISCHARGE",
-            .fullName = "Discharge",
+            .name = "ほうでん",
+            .capsName = "ほうでん",
+            .fullName = "ほうでん",
         },
         .data = {
             .effect = MOVE_EFFECT_PARALYZE_HIT,
@@ -11775,9 +11775,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LAVA_PLUME] = {
         .names = {
-            .name = "Lava Plume",
-            .capsName = "LAVA PLUME",
-            .fullName = "Lava Plume",
+            .name = "ふんえん",
+            .capsName = "ふんえん",
+            .fullName = "ふんえん",
         },
         .data = {
             .effect = MOVE_EFFECT_BURN_HIT,
@@ -11802,9 +11802,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LEAF_STORM] = {
         .names = {
-            .name = "Leaf Storm",
-            .capsName = "LEAF STORM",
-            .fullName = "Leaf Storm",
+            .name = "リ－フスト－ム",
+            .capsName = "リ－フスト－ム",
+            .fullName = "リ－フスト－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_USER_SP_ATK_DOWN_2,
@@ -11829,9 +11829,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_POWER_WHIP] = {
         .names = {
-            .name = "Power Whip",
-            .capsName = "POWER WHIP",
-            .fullName = "Power Whip",
+            .name = "パワ－ウィップ",
+            .capsName = "パワ－ウィップ",
+            .fullName = "パワ－ウィップ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,
@@ -11856,9 +11856,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROCK_WRECKER] = {
         .names = {
-            .name = "Rock Wrecker",
-            .capsName = "ROCK WRECKER",
-            .fullName = "Rock Wrecker",
+            .name = "がんせきほう",
+            .capsName = "がんせきほう",
+            .fullName = "がんせきほう",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -11883,9 +11883,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CROSS_POISON] = {
         .names = {
-            .name = "Cross Poison",
-            .capsName = "CROSS POISON",
-            .fullName = "Cross Poison",
+            .name = "クロスポイズン",
+            .capsName = "クロスポイズン",
+            .fullName = "クロスポイズン",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL_POISON_HIT,
@@ -11910,9 +11910,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GUNK_SHOT] = {
         .names = {
-            .name = "Gunk Shot",
-            .capsName = "GUNK SHOT",
-            .fullName = "Gunk Shot",
+            .name = "ダストシュ－ト",
+            .capsName = "ダストシュ－ト",
+            .fullName = "ダストシュ－ト",
         },
         .data = {
             .effect = MOVE_EFFECT_POISON_HIT,
@@ -11937,9 +11937,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_IRON_HEAD] = {
         .names = {
-            .name = "Iron Head",
-            .capsName = "IRON HEAD",
-            .fullName = "Iron Head",
+            .name = "アイアンヘッド",
+            .capsName = "アイアンヘッド",
+            .fullName = "アイアンヘッド",
         },
         .data = {
             .effect = MOVE_EFFECT_FLINCH_HIT,
@@ -11964,9 +11964,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MAGNET_BOMB] = {
         .names = {
-            .name = "Magnet Bomb",
-            .capsName = "MAGNET BOMB",
-            .fullName = "Magnet Bomb",
+            .name = "マグネットボム",
+            .capsName = "マグネットボム",
+            .fullName = "マグネットボム",
         },
         .data = {
             .effect = MOVE_EFFECT_BYPASS_ACCURACY,
@@ -11991,9 +11991,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STONE_EDGE] = {
         .names = {
-            .name = "Stone Edge",
-            .capsName = "STONE EDGE",
-            .fullName = "Stone Edge",
+            .name = "スト－ンエッジ",
+            .capsName = "スト－ンエッジ",
+            .fullName = "スト－ンエッジ",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -12018,9 +12018,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CAPTIVATE] = {
         .names = {
-            .name = "Captivate",
-            .capsName = "CAPTIVATE",
-            .fullName = "Captivate",
+            .name = "ゆうわく",
+            .capsName = "ゆうわく",
+            .fullName = "ゆうわく",
         },
         .data = {
             .effect = MOVE_EFFECT_SP_ATK_DOWN_2_OPPOSITE_GENDER,
@@ -12045,9 +12045,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_STEALTH_ROCK] = {
         .names = {
-            .name = "Stealth Rock",
-            .capsName = "STEALTH ROCK",
-            .fullName = "Stealth Rock",
+            .name = "ステルスロック",
+            .capsName = "ステルスロック",
+            .fullName = "ステルスロック",
         },
         .data = {
             .effect = MOVE_EFFECT_STEALTH_ROCK,
@@ -12072,9 +12072,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_GRASS_KNOT] = {
         .names = {
-            .name = "Grass Knot",
-            .capsName = "GRASS KNOT",
-            .fullName = "Grass Knot",
+            .name = "くさむすび",
+            .capsName = "くさむすび",
+            .fullName = "くさむすび",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_WEIGHT,
@@ -12099,9 +12099,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CHATTER] = {
         .names = {
-            .name = "Chatter",
-            .capsName = "CHATTER",
-            .fullName = "Chatter",
+            .name = "おしゃべり",
+            .capsName = "おしゃべり",
+            .fullName = "おしゃべり",
         },
         .data = {
             .effect = MOVE_EFFECT_CONFUSE_HIT,
@@ -12126,9 +12126,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_JUDGMENT] = {
         .names = {
-            .name = "Judgment",
-            .capsName = "JUDGMENT",
-            .fullName = "Judgment",
+            .name = "さばきのつぶて",
+            .capsName = "さばきのつぶて",
+            .fullName = "さばきのつぶて",
         },
         .data = {
             .effect = MOVE_EFFECT_JUDGMENT,
@@ -12153,9 +12153,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_BUG_BITE] = {
         .names = {
-            .name = "Bug Bite",
-            .capsName = "BUG BITE",
-            .fullName = "Bug Bite",
+            .name = "むしくい",
+            .capsName = "むしくい",
+            .fullName = "むしくい",
         },
         .data = {
             .effect = MOVE_EFFECT_EAT_BERRY,
@@ -12180,9 +12180,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CHARGE_BEAM] = {
         .names = {
-            .name = "Charge Beam",
-            .capsName = "CHARGE BEAM",
-            .fullName = "Charge Beam",
+            .name = "チャ－ジビ－ム",
+            .capsName = "チャ－ジビ－ム",
+            .fullName = "チャ－ジビ－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_SP_ATK_HIT,
@@ -12207,9 +12207,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_WOOD_HAMMER] = {
         .names = {
-            .name = "Wood Hammer",
-            .capsName = "WOOD HAMMER",
-            .fullName = "Wood Hammer",
+            .name = "ウッドハンマ－",
+            .capsName = "ウッドハンマ－",
+            .fullName = "ウッドハンマ－",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_THIRD,
@@ -12234,9 +12234,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_AQUA_JET] = {
         .names = {
-            .name = "Aqua Jet",
-            .capsName = "AQUA JET",
-            .fullName = "Aqua Jet",
+            .name = "アクアジェット",
+            .capsName = "アクアジェット",
+            .fullName = "アクアジェット",
         },
         .data = {
             .effect = MOVE_EFFECT_PRIORITY_1,
@@ -12261,9 +12261,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ATTACK_ORDER] = {
         .names = {
-            .name = "Attack Order",
-            .capsName = "ATTACK ORDER",
-            .fullName = "Attack Order",
+            .name = "こうげきしれい",
+            .capsName = "こうげきしれい",
+            .fullName = "こうげきしれい",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -12288,9 +12288,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DEFEND_ORDER] = {
         .names = {
-            .name = "Defend Order",
-            .capsName = "DEFEND ORDER",
-            .fullName = "Defend Order",
+            .name = "ぼうぎょしれい",
+            .capsName = "ぼうぎょしれい",
+            .fullName = "ぼうぎょしれい",
         },
         .data = {
             .effect = MOVE_EFFECT_DEF_SP_DEF_UP,
@@ -12315,9 +12315,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEAL_ORDER] = {
         .names = {
-            .name = "Heal Order",
-            .capsName = "HEAL ORDER",
-            .fullName = "Heal Order",
+            .name = "かいふくしれい",
+            .capsName = "かいふくしれい",
+            .fullName = "かいふくしれい",
         },
         .data = {
             .effect = MOVE_EFFECT_RESTORE_HALF_HP,
@@ -12342,16 +12342,16 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_HEAD_SMASH] = {
         .names = {
-            .name = "Head Smash",
-            .capsName = "HEAD SMASH",
-            .fullName = "Head Smash",
+            .name = "もろはのずつき",
+            .capsName = "もろはのずつき",
+            .fullName = "もろはのずつき",
         },
         .data = {
             .effect = MOVE_EFFECT_RECOIL_HALF,
             .split = SPLIT_PHYSICAL,
-            .power = 150,
+            .power = 120,
             .type = TYPE_ROCK,
-            .accuracy = 80,
+            .accuracy = 100,
             .pp = 5,
             .effectChance = 0,
         },
@@ -12369,9 +12369,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DOUBLE_HIT] = {
         .names = {
-            .name = "Double Hit",
-            .capsName = "DOUBLE HIT",
-            .fullName = "Double Hit",
+            .name = "ダブルアタック",
+            .capsName = "ダブルアタック",
+            .fullName = "ダブルアタック",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT_TWICE,
@@ -12396,9 +12396,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_ROAR_OF_TIME] = {
         .names = {
-            .name = "Roar of Time",
-            .capsName = "ROAR OF TIME",
-            .fullName = "Roar of Time",
+            .name = "ときのほうこう",
+            .capsName = "ときのほうこう",
+            .fullName = "ときのほうこう",
         },
         .data = {
             .effect = MOVE_EFFECT_RECHARGE_AFTER,
@@ -12423,9 +12423,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SPACIAL_REND] = {
         .names = {
-            .name = "Spacial Rend",
-            .capsName = "SPACIAL REND",
-            .fullName = "Spacial Rend",
+            .name = "あくうせつだん",
+            .capsName = "あくうせつだん",
+            .fullName = "あくうせつだん",
         },
         .data = {
             .effect = MOVE_EFFECT_HIGH_CRITICAL,
@@ -12450,9 +12450,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_LUNAR_DANCE] = {
         .names = {
-            .name = "Lunar Dance",
-            .capsName = "LUNAR DANCE",
-            .fullName = "Lunar Dance",
+            .name = "みかづきのまい",
+            .capsName = "みかづきのまい",
+            .fullName = "みかづきのまい",
         },
         .data = {
             .effect = MOVE_EFFECT_FAINT_FULL_RESTORE_NEXT_MON,
@@ -12477,9 +12477,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_CRUSH_GRIP] = {
         .names = {
-            .name = "Crush Grip",
-            .capsName = "CRUSH GRIP",
-            .fullName = "Crush Grip",
+            .name = "にぎりつぶす",
+            .capsName = "にぎりつぶす",
+            .fullName = "にぎりつぶす",
         },
         .data = {
             .effect = MOVE_EFFECT_INCREASE_POWER_WITH_MORE_HP,
@@ -12504,9 +12504,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_MAGMA_STORM] = {
         .names = {
-            .name = "Magma Storm",
-            .capsName = "MAGMA STORM",
-            .fullName = "Magma Storm",
+            .name = "マグマスト－ム",
+            .capsName = "マグマスト－ム",
+            .fullName = "マグマスト－ム",
         },
         .data = {
             .effect = MOVE_EFFECT_BIND_HIT,
@@ -12531,9 +12531,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_DARK_VOID] = {
         .names = {
-            .name = "Dark Void",
-            .capsName = "DARK VOID",
-            .fullName = "Dark Void",
+            .name = "ダ－クホ－ル",
+            .capsName = "ダ－クホ－ル",
+            .fullName = "ダ－クホ－ル",
         },
         .data = {
             .effect = MOVE_EFFECT_STATUS_SLEEP,
@@ -12558,9 +12558,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SEED_FLARE] = {
         .names = {
-            .name = "Seed Flare",
-            .capsName = "SEED FLARE",
-            .fullName = "Seed Flare",
+            .name = "シ－ドフレア",
+            .capsName = "シ－ドフレア",
+            .fullName = "シ－ドフレア",
         },
         .data = {
             .effect = MOVE_EFFECT_LOWER_SP_DEF_2_HIT,
@@ -12585,9 +12585,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_OMINOUS_WIND] = {
         .names = {
-            .name = "Ominous Wind",
-            .capsName = "OMINOUS WIND",
-            .fullName = "Ominous Wind",
+            .name = "あやしいかぜ",
+            .capsName = "あやしいかぜ",
+            .fullName = "あやしいかぜ",
         },
         .data = {
             .effect = MOVE_EFFECT_RAISE_ALL_STATS_HIT,
@@ -12612,9 +12612,9 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
 
     [MOVE_SHADOW_FORCE] = {
         .names = {
-            .name = "Shadow Force",
-            .capsName = "SHADOW FORCE",
-            .fullName = "Shadow Force",
+            .name = "シャド－ダイブ",
+            .capsName = "シャド－ダイブ",
+            .fullName = "シャド－ダイブ",
         },
         .data = {
             .effect = MOVE_EFFECT_SHADOW_FORCE,
@@ -15502,7 +15502,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
     [MOVE_FORESTS_CURSE] = {
         .names = {
             .name = "Forest’s Curse",
-            .capsName = "FOREST’S CURSE",
+            .capsName = "Forest’s Curse",
             .fullName = "Forest’s Curse",
         },
         .data = {
@@ -15961,7 +15961,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
     [MOVE_KINGS_SHIELD] = {
         .names = {
             .name = "King’s Shield",
-            .capsName = "KING’S SHIELD",
+            .capsName = "King’s Shield",
             .fullName = "King’s Shield",
         },
         .data = {
@@ -16717,7 +16717,7 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
     [MOVE_LANDS_WRATH] = {
         .names = {
             .name = "Land’s Wrath",
-            .capsName = "LAND’S WRATH",
+            .capsName = "Land’s Wrath",
             .fullName = "Land’s Wrath",
         },
         .data = {
@@ -19444,8 +19444,8 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
     [MOVE_NATURES_MADNESS] = {
         .names = {
             .name = "Nature’sMadness",
-            .capsName = "NATURE’SMADNESS",
-            .fullName = "Nature’s Madness",
+            .capsName = "Nature’sMadness",
+            .fullName = "Nature’sMadness",
         },
         .data = {
             .effect = MOVE_EFFECT_HALVE_HP,
@@ -19687,8 +19687,8 @@ const MoveSourceEntry sMoveSource[NUM_OF_MOVES + 1] = {
     [MOVE_LETS_SNUGGLE_FOREVER] = {
         .names = {
             .name = "Let’s Snuggle",
-            .capsName = "LET’S SNUGGLE",
-            .fullName = "Let’s Snuggle Forever",
+            .capsName = "Let’s Snuggle",
+            .fullName = "Let’s Snuggle",
         },
         .data = {
             .effect = MOVE_EFFECT_HIT,

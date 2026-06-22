@@ -60,7 +60,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BULBASAUR] = {
         .textData = {
-            .name = "Bulbasaur",
+            .name = "フシギダネ",
             .pokedexEntry = "The seed on its back is filled\\nwith nutrients. The seed grows\\nsteadily larger as its body grows.",
             .classification = "Seed Pokémon",
             .height = "2’04”",
@@ -117,7 +117,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_IVYSAUR] = {
         .textData = {
-            .name = "Ivysaur",
+            .name = "フシギソウ",
             .pokedexEntry = "Exposure to sunlight adds to its\\nstrength. Sunlight also makes the\\nbud on its back grow larger.",
             .classification = "Seed Pokémon",
             .height = "3’03”",
@@ -174,7 +174,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VENUSAUR] = {
         .textData = {
-            .name = "Venusaur",
+            .name = "フシギバナ",
             .pokedexEntry = "By spreading the broad petals of\\nits flower and catching the sun’s\\nrays, it fills its body with power.",
             .classification = "Seed Pokémon",
             .height = "6’07”",
@@ -231,7 +231,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHARMANDER] = {
         .textData = {
-            .name = "Charmander",
+            .name = "ヒトカゲ",
             .pokedexEntry = "The flame on its tail shows the\\nstrength of its life force. If it is weak,\\nthe flame also burns weakly.",
             .classification = "Lizard Pokémon",
             .height = "2’00”",
@@ -288,7 +288,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHARMELEON] = {
         .textData = {
-            .name = "Charmeleon",
+            .name = "リザ－ド",
             .pokedexEntry = "It is very hotheaded by nature,\\nso it constantly seeks opponents.\\nIt calms down only when it wins.",
             .classification = "Flame Pokémon",
             .height = "3’07”",
@@ -345,7 +345,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHARIZARD] = {
         .textData = {
-            .name = "Charizard",
+            .name = "リザ－ドン",
             .pokedexEntry = "If CHARIZARD becomes furious,\\nthe flame at the tip of its tail flares\\nup in a light blue shade.",
             .classification = "Flame Pokémon",
             .height = "5’07”",
@@ -402,7 +402,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SQUIRTLE] = {
         .textData = {
-            .name = "Squirtle",
+            .name = "ゼニガメ",
             .pokedexEntry = "The shell is soft when it is born.\\nIt soon becomes so resilient,\\nprodding fingers will bounce off it.",
             .classification = "Tiny Turtle Pokémon",
             .height = "1’08”",
@@ -459,7 +459,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WARTORTLE] = {
         .textData = {
-            .name = "Wartortle",
+            .name = "カメ－ル",
             .pokedexEntry = "It is a well-established symbol of\\nlongevity. If its shell has algae on it,\\nthat WARTORTLE is very old.",
             .classification = "Turtle Pokémon",
             .height = "3’03”",
@@ -516,7 +516,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BLASTOISE] = {
         .textData = {
-            .name = "Blastoise",
+            .name = "カメックス",
             .pokedexEntry = "It deliberately makes itself heavy\\nso it can withstand the recoil\\nof the water jets it fires.",
             .classification = "Shellfish Pokémon",
             .height = "5’03”",
@@ -573,7 +573,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CATERPIE] = {
         .textData = {
-            .name = "Caterpie",
+            .name = "キャタピ－",
             .pokedexEntry = "For protection, it releases a horrible\\nstench from the antennae on its\\nhead to drive away enemies.",
             .classification = "Worm Pokémon",
             .height = "1’00”",
@@ -630,7 +630,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_METAPOD] = {
         .textData = {
-            .name = "Metapod",
+            .name = "トランセル",
             .pokedexEntry = "Inside the shell, it is soft and\\nweak as it prepares to evolve.\\nIt stays motionless in the shell.",
             .classification = "Cocoon Pokémon",
             .height = "2’04”",
@@ -687,7 +687,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BUTTERFREE] = {
         .textData = {
-            .name = "Butterfree",
+            .name = "バタフリ－",
             .pokedexEntry = "It collects honey every day. It rubs\\nhoney onto the hairs on its legs\\nto carry it back to its nest.",
             .classification = "Butterfly Pokémon",
             .height = "3’07”",
@@ -744,7 +744,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WEEDLE] = {
         .textData = {
-            .name = "Weedle",
+            .name = "ビ－ドル",
             .pokedexEntry = "Its poison stinger is very powerful.\\nIts bright-colored body is intended\\nto warn off its enemies.",
             .classification = "Hairy Bug Pokémon",
             .height = "1’00”",
@@ -801,7 +801,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KAKUNA] = {
         .textData = {
-            .name = "Kakuna",
+            .name = "コク－ン",
             .pokedexEntry = "Although it is a cocoon, it can\\nmove a little. It can extend its\\npoison barb if it is attacked.",
             .classification = "Cocoon Pokémon",
             .height = "2’00”",
@@ -858,7 +858,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BEEDRILL] = {
         .textData = {
-            .name = "Beedrill",
+            .name = "スピア－",
             .pokedexEntry = "It can take down any opponent with\\nits powerful poison stingers.\\nIt sometimes attacks in swarms.",
             .classification = "Poison Bee Pokémon",
             .height = "3’03”",
@@ -915,7 +915,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PIDGEY] = {
         .textData = {
-            .name = "Pidgey",
+            .name = "ポッポ",
             .pokedexEntry = "It usually hides in tall grass.\\nBecause it dislikes fighting,\\nit protects itself by kicking up sand.",
             .classification = "Tiny Bird Pokémon",
             .height = "1’00”",
@@ -972,7 +972,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PIDGEOTTO] = {
         .textData = {
-            .name = "Pidgeotto",
+            .name = "ピジョン",
             .pokedexEntry = "It has outstanding vision. However\\nhigh it flies, it is able to distinguish\\nthe movements of its prey.",
             .classification = "Bird Pokémon",
             .height = "3’07”",
@@ -1029,7 +1029,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PIDGEOT] = {
         .textData = {
-            .name = "Pidgeot",
+            .name = "ピジョット",
             .pokedexEntry = "Its well-developed chest muscles make\\nit strong enough to whip up a gusty\\nwindstorm with just a few flaps.",
             .classification = "Bird Pokémon",
             .height = "4’11”",
@@ -1086,7 +1086,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RATTATA] = {
         .textData = {
-            .name = "Rattata",
+            .name = "コラッタ",
             .pokedexEntry = "It eats anything. Wherever food is\\navailable, it will settle down and\\nproduce offspring continuously.",
             .classification = "Mouse Pokémon",
             .height = "1’00”",
@@ -1143,7 +1143,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RATICATE] = {
         .textData = {
-            .name = "Raticate",
+            .name = "ラッタ",
             .pokedexEntry = "Gnaws on anything with its tough\\nfangs. It can even topple concrete\\nbuildings by gnawing on them.",
             .classification = "Mouse Pokémon",
             .height = "2’04”",
@@ -1200,7 +1200,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SPEAROW] = {
         .textData = {
-            .name = "Spearow",
+            .name = "オニスズメ",
             .pokedexEntry = "It flaps its short wings to flush out\\ninsects from tall grass. It then\\nplucks them with its stubby beak.",
             .classification = "Tiny Bird Pokémon",
             .height = "1’00”",
@@ -1257,7 +1257,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FEAROW] = {
         .textData = {
-            .name = "Fearow",
+            .name = "オニドリル",
             .pokedexEntry = "It shoots itself suddenly high into\\nthe sky, then plummets down in\\none fell swoop to strike its prey.",
             .classification = "Beak Pokémon",
             .height = "3’11”",
@@ -1314,7 +1314,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_EKANS] = {
         .textData = {
-            .name = "Ekans",
+            .name = "ア－ボ",
             .pokedexEntry = "It can freely detach its jaw to\\nswallow large prey whole. It can\\nbecome too heavy to move, however.",
             .classification = "Snake Pokémon",
             .height = "6’07”",
@@ -1371,7 +1371,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARBOK] = {
         .textData = {
-            .name = "Arbok",
+            .name = "ア－ボック",
             .pokedexEntry = "Transfixing prey with the face-like\\npattern on its belly, it binds\\nand poisons the frightened victim.",
             .classification = "Cobra Pokémon",
             .height = "11’06”",
@@ -1428,7 +1428,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PIKACHU] = {
         .textData = {
-            .name = "Pikachu",
+            .name = "ピカチュウ",
             .pokedexEntry = "This intelligent Pokémon roasts\\nhard berries with electricity to\\nmake them tender enough to eat.",
             .classification = "Mouse Pokémon",
             .height = "1’04”",
@@ -1485,7 +1485,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RAICHU] = {
         .textData = {
-            .name = "Raichu",
+            .name = "ライチュウ",
             .pokedexEntry = "When its electricity builds, its\\nmuscles are stimulated, and it becomes\\nmore aggressive than usual.",
             .classification = "Mouse Pokémon",
             .height = "2’07”",
@@ -1542,7 +1542,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SANDSHREW] = {
         .textData = {
-            .name = "Sandshrew",
+            .name = "サンド",
             .pokedexEntry = "If it fell from a great height, this\\nPokémon could save itself by rolling\\ninto a ball and bouncing.",
             .classification = "Mouse Pokémon",
             .height = "2’00”",
@@ -1599,7 +1599,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SANDSLASH] = {
         .textData = {
-            .name = "Sandslash",
+            .name = "サンドパン",
             .pokedexEntry = "In an attempt to hide itself,\\nit will run around at top speed to\\nkick up a blinding dust storm.",
             .classification = "Mouse Pokémon",
             .height = "3’03”",
@@ -1656,7 +1656,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NIDORAN_F] = {
         .textData = {
-            .name = "Nidoran♀",
+            .name = "ニドラン㊛",
             .pokedexEntry = "The poison hidden in its small horn\\nis extremely potent. Even a tiny\\nscratch can have fatal results.",
             .classification = "Poison Pin Pokémon",
             .height = "1’04”",
@@ -1713,7 +1713,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NIDORINA] = {
         .textData = {
-            .name = "Nidorina",
+            .name = "ニドリ－ナ",
             .pokedexEntry = "When feeding its young, it first\\nchews the food into a paste, then\\nspits it out for the offspring.",
             .classification = "Poison Pin Pokémon",
             .height = "2’07”",
@@ -1770,7 +1770,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NIDOQUEEN] = {
         .textData = {
-            .name = "Nidoqueen",
+            .name = "ニドクイン",
             .pokedexEntry = "Its body is covered with needle-like\\nscales. It never shows signs\\nof shrinking from any attack.",
             .classification = "Drill Pokémon",
             .height = "4’03”",
@@ -1827,7 +1827,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NIDORAN_M] = {
         .textData = {
-            .name = "Nidoran♂",
+            .name = "ニドラン㊚",
             .pokedexEntry = "It is small, but its horn is filled\\nwith poison. It charges then stabs\\nwith the horn to inject poison.",
             .classification = "Poison Pin Pokémon",
             .height = "1’08”",
@@ -1884,7 +1884,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NIDORINO] = {
         .textData = {
-            .name = "Nidorino",
+            .name = "ニドリ－ノ",
             .pokedexEntry = "It raises its big ears to check its\\nsurroundings. If it senses anything,\\nit attacks immediately.",
             .classification = "Poison Pin Pokémon",
             .height = "2’11”",
@@ -1941,7 +1941,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NIDOKING] = {
         .textData = {
-            .name = "Nidoking",
+            .name = "ニドキング",
             .pokedexEntry = "It swings its big tail around during\\nbattle. If its foe flinches, it will\\ncharge with its sturdy body.",
             .classification = "Drill Pokémon",
             .height = "4’07”",
@@ -1998,7 +1998,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CLEFAIRY] = {
         .textData = {
-            .name = "Clefairy",
+            .name = "ピッピ",
             .pokedexEntry = "The moonlight that it stores in the\\nwings on its back apparently gives\\nit the ability to float in midair.",
             .classification = "Fairy Pokémon",
             .height = "2’00”",
@@ -2055,7 +2055,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CLEFABLE] = {
         .textData = {
-            .name = "Clefable",
+            .name = "ピクシ－",
             .pokedexEntry = "With its acute hearing, it can\\npick up sounds from far away.\\nIt usually hides in quiet places.",
             .classification = "Fairy Pokémon",
             .height = "4’03”",
@@ -2112,7 +2112,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VULPIX] = {
         .textData = {
-            .name = "Vulpix",
+            .name = "ロコン",
             .pokedexEntry = "As it develops, its single white\\ntail gains color and splits into six.\\nIt is quite warm and cuddly.",
             .classification = "Fox Pokémon",
             .height = "2’00”",
@@ -2169,7 +2169,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NINETALES] = {
         .textData = {
-            .name = "Ninetales",
+            .name = "キュウコン",
             .pokedexEntry = "Some legends claim that each of its\\nnine tails has its own unique type\\nof special mystical power.",
             .classification = "Fox Pokémon",
             .height = "3’07”",
@@ -2226,7 +2226,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_JIGGLYPUFF] = {
         .textData = {
-            .name = "Jigglypuff",
+            .name = "プリン",
             .pokedexEntry = "If it inflates to sing a lullaby,\\nit can perform longer and cause\\nsure drowsiness in its audience.",
             .classification = "Balloon Pokémon",
             .height = "1’08”",
@@ -2283,7 +2283,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WIGGLYTUFF] = {
         .textData = {
-            .name = "Wigglytuff",
+            .name = "プクリン",
             .pokedexEntry = "Their fur feels so good that if two\\nof them snuggle together,\\nthey won’t want to be separated.",
             .classification = "Balloon Pokémon",
             .height = "3’03”",
@@ -2340,7 +2340,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ZUBAT] = {
         .textData = {
-            .name = "Zubat",
+            .name = "ズバット",
             .pokedexEntry = "While flying, it constantly emits\\nultrasonic waves from its mouth to\\ncheck its surroundings.",
             .classification = "Bat Pokémon",
             .height = "2’07”",
@@ -2397,7 +2397,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GOLBAT] = {
         .textData = {
-            .name = "Golbat",
+            .name = "ゴルバット",
             .pokedexEntry = "However hard its victim’s hide may be,\\nit punctures with sharp fangs\\nand gorges itself with blood.",
             .classification = "Bat Pokémon",
             .height = "5’03”",
@@ -2454,7 +2454,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ODDISH] = {
         .textData = {
-            .name = "Oddish",
+            .name = "ナゾノクサ",
             .pokedexEntry = "Awakened by moonlight, it roams\\nactively at night. In the day, it stays\\nquietly underground.",
             .classification = "Weed Pokémon",
             .height = "1’08”",
@@ -2511,7 +2511,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GLOOM] = {
         .textData = {
-            .name = "Gloom",
+            .name = "クサイハナ",
             .pokedexEntry = "What appears to be drool is actually\\nsweet honey. It is very sticky and\\nclings stubbornly if touched.",
             .classification = "Weed Pokémon",
             .height = "2’07”",
@@ -2568,7 +2568,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VILEPLUME] = {
         .textData = {
-            .name = "Vileplume",
+            .name = "ラフレシア",
             .pokedexEntry = "It has the world’s largest petals.\\nWith every step, the petals shake\\nout heavy clouds of toxic pollen.",
             .classification = "Flower Pokémon",
             .height = "3’11”",
@@ -2625,7 +2625,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PARAS] = {
         .textData = {
-            .name = "Paras",
+            .name = "パラス",
             .pokedexEntry = "It is doused with mushroom spores\\nwhen it is born. As its body grows,\\nmushrooms sprout from its back.",
             .classification = "Mushroom Pokémon",
             .height = "1’00”",
@@ -2682,7 +2682,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PARASECT] = {
         .textData = {
-            .name = "Parasect",
+            .name = "パラセクト",
             .pokedexEntry = "It stays mostly in dark, damp places,\\nthe preference not of the bug, but\\nof the big mushroom on its back.",
             .classification = "Mushroom Pokémon",
             .height = "3’03”",
@@ -2739,7 +2739,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VENONAT] = {
         .textData = {
-            .name = "Venonat",
+            .name = "コンパン",
             .pokedexEntry = "Its eyes also function as radar\\nunits. It catches and eats small\\nbugs that hide in darkness.",
             .classification = "Insect Pokémon",
             .height = "3’03”",
@@ -2796,7 +2796,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VENOMOTH] = {
         .textData = {
-            .name = "Venomoth",
+            .name = "モルフォン",
             .pokedexEntry = "When it attacks, it flaps its large\\nwings violently to scatter its\\npoisonous powder all around.",
             .classification = "Poison Moth Pokémon",
             .height = "4’11”",
@@ -2853,7 +2853,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DIGLETT] = {
         .textData = {
-            .name = "Diglett",
+            .name = "ディグダ",
             .pokedexEntry = "Its skin is very thin. If it is exposed\\nto light, its blood heats up,\\ncausing it to grow weak.",
             .classification = "Mole Pokémon",
             .height = "0’08”",
@@ -2910,7 +2910,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DUGTRIO] = {
         .textData = {
-            .name = "Dugtrio",
+            .name = "ダグトリオ",
             .pokedexEntry = "Its three heads bob separately up\\nand down to loosen the soil nearby,\\nmaking it easier for it to burrow.",
             .classification = "Mole Pokémon",
             .height = "2’04”",
@@ -2967,7 +2967,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MEOWTH] = {
         .textData = {
-            .name = "Meowth",
+            .name = "ニャ－ス",
             .pokedexEntry = "It is fascinated by round objects.\\nIt can’t stop playing with them\\nuntil it tires and falls asleep.",
             .classification = "Scratch Cat Pokémon",
             .height = "1’04”",
@@ -3024,7 +3024,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PERSIAN] = {
         .textData = {
-            .name = "Persian",
+            .name = "ペルシアン",
             .pokedexEntry = "Many adore it for its sophisticated air.\\nHowever, it will lash out and\\nscratch for little reason.",
             .classification = "Classy Cat Pokémon",
             .height = "3’03”",
@@ -3081,7 +3081,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PSYDUCK] = {
         .textData = {
-            .name = "Psyduck",
+            .name = "コダック",
             .pokedexEntry = "It has mystical powers but doesn’t\\nrecall that it has used them.\\nThat is why it always looks puzzled.",
             .classification = "Duck Pokémon",
             .height = "2’07”",
@@ -3138,7 +3138,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GOLDUCK] = {
         .textData = {
-            .name = "Golduck",
+            .name = "ゴルダック",
             .pokedexEntry = "When it swims at full speed using\\nits long, webbed limbs, its forehead\\nsomehow begins to glow.",
             .classification = "Duck Pokémon",
             .height = "5’07”",
@@ -3195,7 +3195,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MANKEY] = {
         .textData = {
-            .name = "Mankey",
+            .name = "マンキ－",
             .pokedexEntry = "It is extremely ill-tempered.\\nGroups of them will attack any\\nhandy target for no reason.",
             .classification = "Pig Monkey Pokémon",
             .height = "1’08”",
@@ -3252,7 +3252,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PRIMEAPE] = {
         .textData = {
-            .name = "Primeape",
+            .name = "オコリザル",
             .pokedexEntry = "If approached while asleep,\\nit may awaken and angrily give chase\\nin a groggy state of semi-sleep.",
             .classification = "Pig Monkey Pokémon",
             .height = "3’03”",
@@ -3309,7 +3309,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GROWLITHE] = {
         .textData = {
-            .name = "Growlithe",
+            .name = "ガ－ディ",
             .pokedexEntry = "It has a brave and trustworthy\\nnature. It fearlessly stands up\\nto bigger and stronger foes.",
             .classification = "Puppy Pokémon",
             .height = "2’04”",
@@ -3366,7 +3366,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARCANINE] = {
         .textData = {
-            .name = "Arcanine",
+            .name = "ウインディ",
             .pokedexEntry = "This legendary Chinese Pokémon is\\nconsidered magnificent. Many people\\nare enchanted by its grand mane.",
             .classification = "Legendary Pokémon",
             .height = "6’03”",
@@ -3423,7 +3423,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_POLIWAG] = {
         .textData = {
-            .name = "Poliwag",
+            .name = "ニョロモ",
             .pokedexEntry = "Because it is inept at walking on\\nits newly grown legs, it always \\nswims around in water.",
             .classification = "Tadpole Pokémon",
             .height = "2’00”",
@@ -3480,7 +3480,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_POLIWHIRL] = {
         .textData = {
-            .name = "Poliwhirl",
+            .name = "ニョロゾ",
             .pokedexEntry = "The swirl on its belly subtly undulates.\\nStaring at it may gradually\\ncause drowsiness.",
             .classification = "Tadpole Pokémon",
             .height = "3’03”",
@@ -3537,7 +3537,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_POLIWRATH] = {
         .textData = {
-            .name = "Poliwrath",
+            .name = "ニョロボン",
             .pokedexEntry = "This strong and skilled swimmer is\\neven capable of crossing the\\nPacific Ocean just by kicking.",
             .classification = "Tadpole Pokémon",
             .height = "4’03”",
@@ -3594,7 +3594,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ABRA] = {
         .textData = {
-            .name = "Abra",
+            .name = "ケ－シィ",
             .pokedexEntry = "It senses impending attacks and\\nteleports away to safety before the\\nactual attacks can strike.",
             .classification = "Psi Pokémon",
             .height = "2’11”",
@@ -3651,7 +3651,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KADABRA] = {
         .textData = {
-            .name = "Kadabra",
+            .name = "ユンゲラ－",
             .pokedexEntry = "It possesses strong spiritual power.\\nThe more danger it faces,\\nthe stronger its psychic power.",
             .classification = "Psi Pokémon",
             .height = "4’03”",
@@ -3708,7 +3708,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ALAKAZAM] = {
         .textData = {
-            .name = "Alakazam",
+            .name = "フ－ディン",
             .pokedexEntry = "Closing both its eyes heightens all\\nits other senses. This enables it to\\nuse its abilities to their extremes.",
             .classification = "Psi Pokémon",
             .height = "4’11”",
@@ -3765,7 +3765,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MACHOP] = {
         .textData = {
-            .name = "Machop",
+            .name = "ワンリキ－",
             .pokedexEntry = "Always brimming with power,\\nit passes time by lifting boulders.\\nDoing so makes it even stronger.",
             .classification = "Superpower Pokémon",
             .height = "2’07”",
@@ -3822,7 +3822,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MACHOKE] = {
         .textData = {
-            .name = "Machoke",
+            .name = "ゴ－リキ－",
             .pokedexEntry = "It always goes at its full power,\\nbut this very tough and durable\\nPokémon never gets tired.",
             .classification = "Superpower Pokémon",
             .height = "4’11”",
@@ -3879,7 +3879,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MACHAMP] = {
         .textData = {
-            .name = "Machamp",
+            .name = "カイリキ－",
             .pokedexEntry = "It quickly swings its four arms to\\nrock its opponents with ceaseless\\npunches and chops from all angles.",
             .classification = "Superpower Pokémon",
             .height = "5’03”",
@@ -3936,7 +3936,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BELLSPROUT] = {
         .textData = {
-            .name = "Bellsprout",
+            .name = "マダツボミ",
             .pokedexEntry = "Even though its body is extremely\\nskinny, it is blindingly fast\\nwhen catching its prey.",
             .classification = "Flower Pokémon",
             .height = "2’04”",
@@ -3993,7 +3993,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WEEPINBELL] = {
         .textData = {
-            .name = "Weepinbell",
+            .name = "ウツドン",
             .pokedexEntry = "Even though it is filled with acid,\\nit does not melt because it also\\noozes a protective fluid.",
             .classification = "Flycatcher Pokémon",
             .height = "3’03”",
@@ -4050,7 +4050,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VICTREEBEL] = {
         .textData = {
-            .name = "Victreebel",
+            .name = "ウツボット",
             .pokedexEntry = "Acid that has dissolved many prey\\nbecomes sweeter, making it even\\nmore effective at attracting prey.",
             .classification = "Flycatcher Pokémon",
             .height = "5’07”",
@@ -4107,7 +4107,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TENTACOOL] = {
         .textData = {
-            .name = "Tentacool",
+            .name = "メノクラゲ",
             .pokedexEntry = "When the tide goes out, dehydrated\\nTENTACOOL remains can be found\\nwashed up on the shore.",
             .classification = "Jellyfish Pokémon",
             .height = "2’11”",
@@ -4164,7 +4164,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TENTACRUEL] = {
         .textData = {
-            .name = "Tentacruel",
+            .name = "ドククラゲ",
             .pokedexEntry = "Its 80 tentacles absorb water and\\nstretch almost endlessly to\\nconstrict its prey and enemies.",
             .classification = "Jellyfish Pokémon",
             .height = "5’03”",
@@ -4221,7 +4221,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GEODUDE] = {
         .textData = {
-            .name = "Geodude",
+            .name = "イシツブテ",
             .pokedexEntry = "Most people may not notice,\\nbut a closer look should reveal that\\nthere are many GEODUDE around.",
             .classification = "Rock Pokémon",
             .height = "1’04”",
@@ -4278,7 +4278,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GRAVELER] = {
         .textData = {
-            .name = "Graveler",
+            .name = "ゴロ－ン",
             .pokedexEntry = "With a free and uncaring nature,\\nit doesn’t mind if pieces break off\\nwhile it rolls down mountains.",
             .classification = "Rock Pokémon",
             .height = "3’03”",
@@ -4335,7 +4335,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GOLEM] = {
         .textData = {
-            .name = "Golem",
+            .name = "ゴロ－ニャ",
             .pokedexEntry = "It sheds its skin once a year.\\nThe discarded shell immediately\\nhardens and crumbles away.",
             .classification = "Megaton Pokémon",
             .height = "4’07”",
@@ -4392,7 +4392,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PONYTA] = {
         .textData = {
-            .name = "Ponyta",
+            .name = "ポニ－タ",
             .pokedexEntry = "It is a weak runner immediately\\nafter birth. It gradually becomes\\nfaster by chasing after its parents.",
             .classification = "Fire Horse Pokémon",
             .height = "3’03”",
@@ -4449,7 +4449,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RAPIDASH] = {
         .textData = {
-            .name = "Rapidash",
+            .name = "ギャロップ",
             .pokedexEntry = "At full gallop, its four hooves\\nbarely touch the ground because\\nit moves so incredibly fast.",
             .classification = "Fire Horse Pokémon",
             .height = "5’07”",
@@ -4506,7 +4506,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SLOWPOKE] = {
         .textData = {
-            .name = "Slowpoke",
+            .name = "ヤドン",
             .pokedexEntry = "It lazes vacantly near water.\\nIf something bites its tail, it won’t\\neven notice for a whole day.",
             .classification = "Dopey Pokémon",
             .height = "3’11”",
@@ -4563,7 +4563,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SLOWBRO] = {
         .textData = {
-            .name = "Slowbro",
+            .name = "ヤドラン",
             .pokedexEntry = "If the tail-biting SHELLDER is thrown\\noff in a harsh battle, it reverts to\\nbeing an ordinary SLOWPOKE.",
             .classification = "Hermit Crab Pokémon",
             .height = "5’03”",
@@ -4620,7 +4620,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGNEMITE] = {
         .textData = {
-            .name = "Magnemite",
+            .name = "コイル",
             .pokedexEntry = "It is attracted by electromagnetic\\nwaves. It may approach Trainers\\nif they are using their Pokégear.",
             .classification = "Magnet Pokémon",
             .height = "1’00”",
@@ -4677,7 +4677,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGNETON] = {
         .textData = {
-            .name = "Magneton",
+            .name = "レアコイル",
             .pokedexEntry = "Three MAGNEMITE are linked by a\\nstrong magnetic force. Earaches\\nwill occur if you get too close.",
             .classification = "Magnet Pokémon",
             .height = "3’03”",
@@ -4734,7 +4734,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FARFETCHD] = {
         .textData = {
-            .name = "Farfetch’d",
+            .name = "カモネギ",
             .pokedexEntry = "If anyone tries to disturb where the\\nessential plant stalks grow, it uses its\\nown stalk to thwart them.",
             .classification = "Wild Duck Pokémon",
             .height = "2’07”",
@@ -4791,7 +4791,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DODUO] = {
         .textData = {
-            .name = "Doduo",
+            .name = "ド－ド－",
             .pokedexEntry = "By alternately raising and lowering\\nits two heads, it balances itself\\nto be more stable while running.",
             .classification = "Twin Bird Pokémon",
             .height = "4’07”",
@@ -4848,7 +4848,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DODRIO] = {
         .textData = {
-            .name = "Dodrio",
+            .name = "ド－ドリオ",
             .pokedexEntry = "It collects data and plans three times\\nas wisely, but it may think too much\\nand fall into a state of immobility.",
             .classification = "Triple Bird Pokémon",
             .height = "5’11”",
@@ -4905,7 +4905,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SEEL] = {
         .textData = {
-            .name = "Seel",
+            .name = "パウワウ",
             .pokedexEntry = "Although it can’t walk well on land,\\nit is a graceful swimmer. It especially\\nloves being in frigid seas.",
             .classification = "Sea Lion Pokémon",
             .height = "3’07”",
@@ -4962,7 +4962,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DEWGONG] = {
         .textData = {
-            .name = "Dewgong",
+            .name = "ジュゴン",
             .pokedexEntry = "Its streamlined body has little\\ndrag in water. The colder the\\ntemperature, the friskier it gets.",
             .classification = "Sea Lion Pokémon",
             .height = "5’07”",
@@ -5019,7 +5019,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GRIMER] = {
         .textData = {
-            .name = "Grimer",
+            .name = "ベトベタ－",
             .pokedexEntry = "As it moves, it loses bits of its body,\\nfrom which new GRIMER emerge.\\nThis worsens the stench around it.",
             .classification = "Sludge Pokémon",
             .height = "2’11”",
@@ -5076,7 +5076,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MUK] = {
         .textData = {
-            .name = "Muk",
+            .name = "ベトベトン",
             .pokedexEntry = "They love to gather in smelly areas\\nwhere sludge accumulates, making\\nthe stench around them worse.",
             .classification = "Sludge Pokémon",
             .height = "3’11”",
@@ -5133,7 +5133,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHELLDER] = {
         .textData = {
-            .name = "Shellder",
+            .name = "シェルダ－",
             .pokedexEntry = "It swims facing backward by opening\\nand closing its two-piece shell.\\nIt is surprisingly fast.",
             .classification = "Bivalve Pokémon",
             .height = "1’00”",
@@ -5190,7 +5190,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CLOYSTER] = {
         .textData = {
-            .name = "Cloyster",
+            .name = "パルシェン",
             .pokedexEntry = "Once it slams its shell shut,\\nit is impossible to open, even by\\nthose with superior strength.",
             .classification = "Bivalve Pokémon",
             .height = "4’11”",
@@ -5247,7 +5247,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GASTLY] = {
         .textData = {
-            .name = "Gastly",
+            .name = "ゴ－ス",
             .pokedexEntry = "With its gas-like body, it can sneak\\ninto any place it desires. However,\\nit can be blown away by wind.",
             .classification = "Gas Pokémon",
             .height = "4’03”",
@@ -5304,7 +5304,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HAUNTER] = {
         .textData = {
-            .name = "Haunter",
+            .name = "ゴ－スト",
             .pokedexEntry = "In total darkness, where nothing is\\nvisible, HAUNTER lurks, silently\\nstalking its next victim.",
             .classification = "Gas Pokémon",
             .height = "5’03”",
@@ -5361,7 +5361,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GENGAR] = {
         .textData = {
-            .name = "Gengar",
+            .name = "ゲンガ－",
             .pokedexEntry = "It steals heat from its surroundings.\\nIf you feel a sudden chill,\\nit is certain that a GENGAR appeared.",
             .classification = "Shadow Pokémon",
             .height = "4’11”",
@@ -5418,7 +5418,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ONIX] = {
         .textData = {
-            .name = "Onix",
+            .name = "イワ－ク",
             .pokedexEntry = "It twists and squirms through\\nthe ground. The thunderous roar of\\nits tunneling echoes a long way.",
             .classification = "Rock Snake Pokémon",
             .height = "28’10”",
@@ -5475,7 +5475,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DROWZEE] = {
         .textData = {
-            .name = "Drowzee",
+            .name = "スリ－プ",
             .pokedexEntry = "If you think that you had a good dream\\nbut you can’t remember it,\\na DROWZEE has probably eaten it.",
             .classification = "Hypnosis Pokémon",
             .height = "3’03”",
@@ -5532,7 +5532,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HYPNO] = {
         .textData = {
-            .name = "Hypno",
+            .name = "スリ－パ－",
             .pokedexEntry = "When it is very hungry, it puts\\nhumans it meets to sleep,\\nthen it feasts on their dreams.",
             .classification = "Hypnosis Pokémon",
             .height = "5’03”",
@@ -5589,7 +5589,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KRABBY] = {
         .textData = {
-            .name = "Krabby",
+            .name = "クラブ",
             .pokedexEntry = "If it senses danger approaching,\\nit cloaks itself with bubbles from\\nits mouth so it will look bigger.",
             .classification = "River Crab Pokémon",
             .height = "1’04”",
@@ -5646,7 +5646,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KINGLER] = {
         .textData = {
-            .name = "Kingler",
+            .name = "キングラ－",
             .pokedexEntry = "It can hardly lift its massive,\\novergrown pincer. The pincer’s size\\nmakes it difficult to aim properly.",
             .classification = "Pincer Pokémon",
             .height = "4’03”",
@@ -5703,7 +5703,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VOLTORB] = {
         .textData = {
-            .name = "Voltorb",
+            .name = "ビリリダマ",
             .pokedexEntry = "It rolls to move. If the ground is\\nuneven, a sudden jolt from hitting\\na bump can cause it to explode.",
             .classification = "Ball Pokémon",
             .height = "1’08”",
@@ -5760,7 +5760,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ELECTRODE] = {
         .textData = {
-            .name = "Electrode",
+            .name = "マルマイン",
             .pokedexEntry = "It is dangerous. If it has too much\\nelectricity and has nothing to do,\\nit amuses itself by exploding.",
             .classification = "Ball Pokémon",
             .height = "3’11”",
@@ -5817,7 +5817,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_EXEGGCUTE] = {
         .textData = {
-            .name = "Exeggcute",
+            .name = "タマタマ",
             .pokedexEntry = "Their shells are very durable. Even if\\nthey crack, they can survive without\\nspilling their contents.",
             .classification = "Egg Pokémon",
             .height = "1’04”",
@@ -5874,7 +5874,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_EXEGGUTOR] = {
         .textData = {
-            .name = "Exeggutor",
+            .name = "ナッシ－",
             .pokedexEntry = "Its three heads think independently.\\nHowever, they are friendly and\\nnever appear to squabble.",
             .classification = "Coconut Pokémon",
             .height = "6’07”",
@@ -5931,7 +5931,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CUBONE] = {
         .textData = {
-            .name = "Cubone",
+            .name = "カラカラ",
             .pokedexEntry = "If it is sad or lonely, the skull\\nit wears shakes and emits a plaintive\\nand mournful sound.",
             .classification = "Lonely Pokémon",
             .height = "1’04”",
@@ -5988,7 +5988,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAROWAK] = {
         .textData = {
-            .name = "Marowak",
+            .name = "ガラガラ",
             .pokedexEntry = "It has been seen pounding boulders\\nwith the bone it carries in order\\nto tap out messages to others.",
             .classification = "Bone Keeper Pokémon",
             .height = "3’03”",
@@ -6045,7 +6045,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HITMONLEE] = {
         .textData = {
-            .name = "Hitmonlee",
+            .name = "サワムラ－",
             .pokedexEntry = "This amazing Pokémon has an awesome\\nsense of balance. It can kick in\\nsuccession from any position.",
             .classification = "Kicking Pokémon",
             .height = "4’11”",
@@ -6102,7 +6102,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HITMONCHAN] = {
         .textData = {
-            .name = "Hitmonchan",
+            .name = "エビワラ－",
             .pokedexEntry = "Its punches slice the air. However,\\nit seems to need a short break after\\nfighting for three minutes.",
             .classification = "Punching Pokémon",
             .height = "4’07”",
@@ -6159,7 +6159,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LICKITUNG] = {
         .textData = {
-            .name = "Lickitung",
+            .name = "ベロリンガ",
             .pokedexEntry = "Its tongue has well-developed\\nnerves that run to the very tip,\\nso it can be deftly manipulated.",
             .classification = "Licking Pokémon",
             .height = "3’11”",
@@ -6216,7 +6216,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KOFFING] = {
         .textData = {
-            .name = "Koffing",
+            .name = "ドガ－ス",
             .pokedexEntry = "Its thin, filmy body is filled\\nwith gases that cause constant\\nsniffles, coughs and teary eyes.",
             .classification = "Poison Gas Pokémon",
             .height = "2’00”",
@@ -6273,7 +6273,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WEEZING] = {
         .textData = {
-            .name = "Weezing",
+            .name = "マタドガス",
             .pokedexEntry = "If one of the twin KOFFING inflates,\\nthe other one deflates. It constantly\\nmixes its poisonous gases.",
             .classification = "Poison Gas Pokémon",
             .height = "3’11”",
@@ -6330,7 +6330,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RHYHORN] = {
         .textData = {
-            .name = "Rhyhorn",
+            .name = "サイホ－ン",
             .pokedexEntry = "It is inept at turning because of\\nits four short legs. It can only\\ncharge and run in one direction.",
             .classification = "Spikes Pokémon",
             .height = "3’03”",
@@ -6387,7 +6387,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RHYDON] = {
         .textData = {
-            .name = "Rhydon",
+            .name = "サイドン",
             .pokedexEntry = "Its rugged hide protects it from\\neven the heat of lava. However,\\nthe hide also makes it insensitive.",
             .classification = "Drill Pokémon",
             .height = "6’03”",
@@ -6444,7 +6444,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHANSEY] = {
         .textData = {
-            .name = "Chansey",
+            .name = "ラッキ－",
             .pokedexEntry = "It walks carefully to prevent its\\negg from breaking. However,\\nit is extremely fast at running away.",
             .classification = "Egg Pokémon",
             .height = "3’07”",
@@ -6501,7 +6501,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TANGELA] = {
         .textData = {
-            .name = "Tangela",
+            .name = "モンジャラ",
             .pokedexEntry = "The vines that cloak its entire\\nbody are always jiggling.\\nThey effectively unnerve its foes.",
             .classification = "Vine Pokémon",
             .height = "3’03”",
@@ -6558,7 +6558,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KANGASKHAN] = {
         .textData = {
-            .name = "Kangaskhan",
+            .name = "ガル－ラ",
             .pokedexEntry = "If it is safe, the young gets out of\\nthe belly pouch to play. The adult\\nkeeps a close eye on the youngster.",
             .classification = "Parent Pokémon",
             .height = "7’03”",
@@ -6615,7 +6615,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HORSEA] = {
         .textData = {
-            .name = "Horsea",
+            .name = "タッツ－",
             .pokedexEntry = "If attacked by a larger enemy,\\nit quickly swims to safety by adeptly\\ncontrolling its well-developed dorsal fin.",
             .classification = "Dragon Pokémon",
             .height = "1’04”",
@@ -6672,7 +6672,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SEADRA] = {
         .textData = {
-            .name = "Seadra",
+            .name = "シ－ドラ",
             .pokedexEntry = "An examination of its cells revealed\\nthe presence of a gene not found in\\nHORSEA. It became a hot topic.",
             .classification = "Dragon Pokémon",
             .height = "3’11”",
@@ -6729,7 +6729,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GOLDEEN] = {
         .textData = {
-            .name = "Goldeen",
+            .name = "トサキント",
             .pokedexEntry = "Its dorsal, pectoral and tail fins\\nwave elegantly in water. That is why\\nit is known as the water dancer.",
             .classification = "Goldfish Pokémon",
             .height = "2’00”",
@@ -6786,7 +6786,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SEAKING] = {
         .textData = {
-            .name = "Seaking",
+            .name = "アズマオウ",
             .pokedexEntry = "During spawning season, SEAKING\\ngather from all over, causing rivers to\\nappear a brilliant red.",
             .classification = "Goldfish Pokémon",
             .height = "4’03”",
@@ -6843,7 +6843,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STARYU] = {
         .textData = {
-            .name = "Staryu",
+            .name = "ヒトデマン",
             .pokedexEntry = "At night, the middle of its body\\nslowly flickers with the same\\nrhythm as a human heartbeat.",
             .classification = "Star Shape Pokémon",
             .height = "2’07”",
@@ -6900,7 +6900,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STARMIE] = {
         .textData = {
-            .name = "Starmie",
+            .name = "スタ－ミ－",
             .pokedexEntry = "The middle section of its body is\\ncalled the core. It glows in a\\ndifferent color each time it is seen.",
             .classification = "Mysterious Pokémon",
             .height = "3’07”",
@@ -6957,7 +6957,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MR_MIME] = {
         .textData = {
-            .name = "Mr. Mime",
+            .name = "バリヤ－ド",
             .pokedexEntry = "A skilled mime from birth,\\nit gains the ability to create\\ninvisible objects as it matures.",
             .classification = "Barrier Pokémon",
             .height = "4’03”",
@@ -7014,7 +7014,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SCYTHER] = {
         .textData = {
-            .name = "Scyther",
+            .name = "ストライク",
             .pokedexEntry = "It slashes through grass with its\\nsharp scythes, moving too fast\\nfor the human eye to track.",
             .classification = "Mantis Pokémon",
             .height = "4’11”",
@@ -7071,7 +7071,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_JYNX] = {
         .textData = {
-            .name = "Jynx",
+            .name = "ル－ジュラ",
             .pokedexEntry = "It rocks its body rhythmically.\\nIt appears to alter the rhythm\\ndepending on how it is feeling.",
             .classification = "Human Shape Pokémon",
             .height = "4’07”",
@@ -7128,7 +7128,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ELECTABUZZ] = {
         .textData = {
-            .name = "Electabuzz",
+            .name = "エレブ－",
             .pokedexEntry = "Electricity runs across the surface\\nof its body. In darkness, its entire\\nbody glows a whitish-blue.",
             .classification = "Electric Pokémon",
             .height = "3’07”",
@@ -7185,7 +7185,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGMAR] = {
         .textData = {
-            .name = "Magmar",
+            .name = "ブ－バ－",
             .pokedexEntry = "It dislikes cold places, so it blows\\nscorching flames to make the\\nenvironment suitable for itself.",
             .classification = "Spitfire Pokémon",
             .height = "4’03”",
@@ -7242,7 +7242,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PINSIR] = {
         .textData = {
-            .name = "Pinsir",
+            .name = "カイロス",
             .pokedexEntry = "With its pincer horns, it digs burrows\\nto sleep in at night. In the morning,\\ndamp soil clings to its body.",
             .classification = "Stag Beetle Pokémon",
             .height = "4’11”",
@@ -7299,7 +7299,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TAUROS] = {
         .textData = {
-            .name = "Tauros",
+            .name = "ケンタロス",
             .pokedexEntry = "They fight each other by locking\\nhorns. The herd’s protector takes\\npride in its battle-scarred horns.",
             .classification = "Wild Bull Pokémon",
             .height = "4’07”",
@@ -7356,7 +7356,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGIKARP] = {
         .textData = {
-            .name = "Magikarp",
+            .name = "コイキング",
             .pokedexEntry = "An underpowered, pathetic Pokémon.\\nIt may jump high on rare occasions,\\nbut usually not more than seven feet.",
             .classification = "Fish Pokémon",
             .height = "2’11”",
@@ -7413,7 +7413,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GYARADOS] = {
         .textData = {
-            .name = "Gyarados",
+            .name = "ギャラドス",
             .pokedexEntry = "They say that during past strife,\\nGYARADOS would appear and leave\\nblazing ruins in its wake.",
             .classification = "Atrocious Pokémon",
             .height = "21’04”",
@@ -7470,7 +7470,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LAPRAS] = {
         .textData = {
-            .name = "Lapras",
+            .name = "ラプラス",
             .pokedexEntry = "They have gentle hearts. Because\\nthey rarely fight, many have been\\ncaught. Their number has dwindled.",
             .classification = "Transport Pokémon",
             .height = "8’02”",
@@ -7527,7 +7527,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DITTO] = {
         .textData = {
-            .name = "Ditto",
+            .name = "メタモン",
             .pokedexEntry = "It can transform into anything.\\nWhen it sleeps, it changes into a\\nstone to avoid being attacked.",
             .classification = "Transform Pokémon",
             .height = "1’00”",
@@ -7584,7 +7584,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_EEVEE] = {
         .textData = {
-            .name = "Eevee",
+            .name = "イ－ブイ",
             .pokedexEntry = "It has the ability to alter the\\ncomposition of its body to suit its\\nsurrounding environment.",
             .classification = "Evolution Pokémon",
             .height = "1’00”",
@@ -7641,7 +7641,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VAPOREON] = {
         .textData = {
-            .name = "Vaporeon",
+            .name = "シャワ－ズ",
             .pokedexEntry = "When VAPOREON’s fins begin to\\nvibrate, it is a sign that rain\\nwill come within a few hours.",
             .classification = "Bubble Jet Pokémon",
             .height = "3’03”",
@@ -7698,7 +7698,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_JOLTEON] = {
         .textData = {
-            .name = "Jolteon",
+            .name = "サンダ－ス",
             .pokedexEntry = "It concentrates the weak electric\\ncharges emitted by its cells and\\nlaunches wicked lightning bolts.",
             .classification = "Lightning Pokémon",
             .height = "2’07”",
@@ -7755,7 +7755,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FLAREON] = {
         .textData = {
-            .name = "Flareon",
+            .name = "ブ－スタ－",
             .pokedexEntry = "It stores some of the air it inhales in\\nits internal flame pouch, which heats it\\nto over 3,000 degrees Fahrenheit.",
             .classification = "Flame Pokémon",
             .height = "2’11”",
@@ -7812,7 +7812,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PORYGON] = {
         .textData = {
-            .name = "Porygon",
+            .name = "ポリゴン",
             .pokedexEntry = "It is a manmade Pokémon. Since it\\ndoesn’t breathe, people are eager\\nto try it in any environment.",
             .classification = "Virtual Pokémon",
             .height = "2’07”",
@@ -7869,7 +7869,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_OMANYTE] = {
         .textData = {
-            .name = "Omanyte",
+            .name = "オムナイト",
             .pokedexEntry = "Revived from an ancient fossil,\\nthis Pokémon uses air stored in its\\nshell to sink and rise in water.",
             .classification = "Spiral Pokémon",
             .height = "1’04”",
@@ -7926,7 +7926,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_OMASTAR] = {
         .textData = {
-            .name = "Omastar",
+            .name = "オムスタ－",
             .pokedexEntry = "Apparently, it cracked SHELLDER’s\\nshell with its sharp fangs and\\nsucked out the insides.",
             .classification = "Spiral Pokémon",
             .height = "3’03”",
@@ -7983,7 +7983,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KABUTO] = {
         .textData = {
-            .name = "Kabuto",
+            .name = "カブト",
             .pokedexEntry = "On rare occasions, some have been\\nfound as fossils which they became\\nwhile hiding on the ocean floor.",
             .classification = "Shellfish Pokémon",
             .height = "1’08”",
@@ -8040,7 +8040,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KABUTOPS] = {
         .textData = {
-            .name = "Kabutops",
+            .name = "カブトプス",
             .pokedexEntry = "In the water, it tucks in its limbs\\nto become more compact, then it\\nwiggles its shell to swim fast.",
             .classification = "Shellfish Pokémon",
             .height = "4’03”",
@@ -8097,7 +8097,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AERODACTYL] = {
         .textData = {
-            .name = "Aerodactyl",
+            .name = "プテラ",
             .pokedexEntry = "A vicious Pokémon from the distant\\npast, it appears to have flown by\\nspreading its wings and gliding.",
             .classification = "Fossil Pokémon",
             .height = "5’11”",
@@ -8154,7 +8154,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SNORLAX] = {
         .textData = {
-            .name = "Snorlax",
+            .name = "カビゴン",
             .pokedexEntry = "What sounds like its cry may\\nactually be its snores or the\\nrumblings of its hungry belly.",
             .classification = "Sleeping Pokémon",
             .height = "6’11”",
@@ -8211,7 +8211,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARTICUNO] = {
         .textData = {
-            .name = "Articuno",
+            .name = "フリ－ザ－",
             .pokedexEntry = "The magnificent, seemingly translucent\\nwings of this legendary bird Pokémon\\nare said to be made of ice.",
             .classification = "Freeze Pokémon",
             .height = "5’07”",
@@ -8268,7 +8268,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ZAPDOS] = {
         .textData = {
-            .name = "Zapdos",
+            .name = "サンダ－",
             .pokedexEntry = "This legendary bird Pokémon\\ncauses savage thunderstorms by\\nflapping its glittering wings.",
             .classification = "Electric Pokémon",
             .height = "5’03”",
@@ -8325,7 +8325,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MOLTRES] = {
         .textData = {
-            .name = "Moltres",
+            .name = "ファイヤ－",
             .pokedexEntry = "This legendary Pokémon scatters\\nembers with every flap of its wings.\\nIt is a thrilling sight to behold.",
             .classification = "Flame Pokémon",
             .height = "6’07”",
@@ -8382,7 +8382,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DRATINI] = {
         .textData = {
-            .name = "Dratini",
+            .name = "ミニリュウ",
             .pokedexEntry = "It is born large to start with.\\nIt repeatedly sheds its skin as it\\nsteadily grows longer.",
             .classification = "Dragon Pokémon",
             .height = "5’11”",
@@ -8439,7 +8439,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DRAGONAIR] = {
         .textData = {
-            .name = "Dragonair",
+            .name = "ハクリュ－",
             .pokedexEntry = "They say that if it emits an aura\\nfrom its whole body, the weather\\nwill begin to change instantly.",
             .classification = "Dragon Pokémon",
             .height = "13’01”",
@@ -8496,7 +8496,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DRAGONITE] = {
         .textData = {
-            .name = "Dragonite",
+            .name = "カイリュ－",
             .pokedexEntry = "It is said that this Pokémon constantly\\nflies over the immense seas\\nand rescues drowning people.",
             .classification = "Dragon Pokémon",
             .height = "7’03”",
@@ -8553,7 +8553,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MEWTWO] = {
         .textData = {
-            .name = "Mewtwo",
+            .name = "ミュウツ－",
             .pokedexEntry = "Because its battle abilities were\\nraised to the ultimate level,\\nit thinks only of defeating its foes.",
             .classification = "Genetic Pokémon",
             .height = "6’07”",
@@ -8610,7 +8610,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MEW] = {
         .textData = {
-            .name = "Mew",
+            .name = "ミュウ",
             .pokedexEntry = "Apparently, it appears only to\\nthose people who are pure of heart\\nand have a strong desire to see it.",
             .classification = "New Species Pokémon",
             .height = "1’04”",
@@ -8667,7 +8667,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHIKORITA] = {
         .textData = {
-            .name = "Chikorita",
+            .name = "チコリ－タ",
             .pokedexEntry = "A sweet aroma gently wafts from\\nthe leaf on its head. It is docile\\nand loves to soak up sunrays.",
             .classification = "Leaf Pokémon",
             .height = "2’11”",
@@ -8724,7 +8724,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BAYLEEF] = {
         .textData = {
-            .name = "Bayleef",
+            .name = "ベイリ－フ",
             .pokedexEntry = "The scent of spices comes from\\naround its neck. Somehow,\\nsniffing it makes you want to fight.",
             .classification = "Leaf Pokémon",
             .height = "3’11”",
@@ -8781,7 +8781,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MEGANIUM] = {
         .textData = {
-            .name = "Meganium",
+            .name = "メガニウム",
             .pokedexEntry = "The aroma that rises from its\\npetals contains a substance that\\ncalms aggressive feelings.",
             .classification = "Herb Pokémon",
             .height = "5’11”",
@@ -8838,7 +8838,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CYNDAQUIL] = {
         .textData = {
-            .name = "Cyndaquil",
+            .name = "ヒノアラシ",
             .pokedexEntry = "It is timid, and always curls itself\\nup in a ball. If attacked, it\\nflares up its back for protection.",
             .classification = "Fire Mouse Pokémon",
             .height = "1’08”",
@@ -8895,7 +8895,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_QUILAVA] = {
         .textData = {
-            .name = "Quilava",
+            .name = "マグマラシ",
             .pokedexEntry = "Be careful if it turns its back\\nduring battle. It means that it will\\nattack with the fire on its back.",
             .classification = "Volcano Pokémon",
             .height = "2’11”",
@@ -8952,7 +8952,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TYPHLOSION] = {
         .textData = {
-            .name = "Typhlosion",
+            .name = "バクフ－ン",
             .pokedexEntry = "If its rage peaks, it becomes so\\nhot that anything that touches it\\nwill instantly go up in flames.",
             .classification = "Volcano Pokémon",
             .height = "5’07”",
@@ -9009,7 +9009,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TOTODILE] = {
         .textData = {
-            .name = "Totodile",
+            .name = "ワニノコ",
             .pokedexEntry = "Its powerful, well-developed jaws\\nare capable of crushing anything.\\nEven its Trainer must be careful.",
             .classification = "Big Jaw Pokémon",
             .height = "2’00”",
@@ -9066,7 +9066,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CROCONAW] = {
         .textData = {
-            .name = "Croconaw",
+            .name = "アリゲイツ",
             .pokedexEntry = "If it loses a fang, a new one\\ngrows back in its place. There are\\nalways 48 fangs lining its mouth.",
             .classification = "Big Jaw Pokémon",
             .height = "3’07”",
@@ -9123,7 +9123,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FERALIGATR] = {
         .textData = {
-            .name = "Feraligatr",
+            .name = "オ－ダイル",
             .pokedexEntry = "When it bites with its massive and\\npowerful jaws, it shakes its head\\nand savagely tears its victim up.",
             .classification = "Big Jaw Pokémon",
             .height = "7’07”",
@@ -9180,7 +9180,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SENTRET] = {
         .textData = {
-            .name = "Sentret",
+            .name = "オタチ",
             .pokedexEntry = "A very cautious Pokémon, it raises\\nitself up using its tail to get a\\nbetter view of its surroundings.",
             .classification = "Scout Pokémon",
             .height = "2’07”",
@@ -9237,7 +9237,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FURRET] = {
         .textData = {
-            .name = "Furret",
+            .name = "オオタチ",
             .pokedexEntry = "It makes a nest to suit its long and\\nskinny body. The nest is impossible\\nfor other Pokémon to enter.",
             .classification = "Long Body Pokémon",
             .height = "5’11”",
@@ -9294,7 +9294,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HOOTHOOT] = {
         .textData = {
-            .name = "Hoothoot",
+            .name = "ホ－ホ－",
             .pokedexEntry = "It always stands on one foot.\\nIt changes feet so fast,\\nthe movement can rarely be seen.",
             .classification = "Owl Pokémon",
             .height = "2’04”",
@@ -9351,7 +9351,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NOCTOWL] = {
         .textData = {
-            .name = "Noctowl",
+            .name = "ヨルノズク",
             .pokedexEntry = "Its eyes are specially adapted.\\nThey concentrate even faint light\\nand enable it to see in the dark.",
             .classification = "Owl Pokémon",
             .height = "5’03”",
@@ -9408,7 +9408,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LEDYBA] = {
         .textData = {
-            .name = "Ledyba",
+            .name = "レディバ",
             .pokedexEntry = "It is very timid. It will be afraid\\nto move if it is alone. But it will\\nbe active if it is in a group.",
             .classification = "Five Star Pokémon",
             .height = "3’03”",
@@ -9465,7 +9465,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LEDIAN] = {
         .textData = {
-            .name = "Ledian",
+            .name = "レディアン",
             .pokedexEntry = "When the stars flicker in the\\nnight sky, it flutters about,\\nscattering a glowing powder.",
             .classification = "Five Star Pokémon",
             .height = "4’07”",
@@ -9522,7 +9522,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SPINARAK] = {
         .textData = {
-            .name = "Spinarak",
+            .name = "イトマル",
             .pokedexEntry = "It lies still in the same pose for\\ndays in its web, waiting for its\\nunsuspecting prey to wander close.",
             .classification = "String Spit Pokémon",
             .height = "1’08”",
@@ -9579,7 +9579,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARIADOS] = {
         .textData = {
-            .name = "Ariados",
+            .name = "アリアドス",
             .pokedexEntry = "It spins string not only from its\\nrear but also from its mouth. It’s\\nhard to tell which end is which.",
             .classification = "Long Leg Pokémon",
             .height = "3’07”",
@@ -9636,7 +9636,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CROBAT] = {
         .textData = {
-            .name = "Crobat",
+            .name = "クロバット",
             .pokedexEntry = "It flies so silently through the\\ndark on its four wings that it may\\nnot be noticed even when nearby.",
             .classification = "Bat Pokémon",
             .height = "5’11”",
@@ -9693,7 +9693,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHINCHOU] = {
         .textData = {
-            .name = "Chinchou",
+            .name = "チョンチ－",
             .pokedexEntry = "It shoots positive and negative\\nelectricity between the tips of its\\ntwo antennae and zaps its enemies.",
             .classification = "Angler Pokémon",
             .height = "1’08”",
@@ -9750,7 +9750,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LANTURN] = {
         .textData = {
-            .name = "Lanturn",
+            .name = "ランタ－ン",
             .pokedexEntry = "The light it emits is so bright that\\nit can illuminate the sea’s surface\\nfrom a depth of over three miles.",
             .classification = "Light Pokémon",
             .height = "3’11”",
@@ -9807,7 +9807,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PICHU] = {
         .textData = {
-            .name = "Pichu",
+            .name = "ピチュ－",
             .pokedexEntry = "It is not yet skilled at storing\\nelectricity. It may send out a\\njolt if amused or startled.",
             .classification = "Tiny Mouse Pokémon",
             .height = "1’00”",
@@ -9864,7 +9864,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CLEFFA] = {
         .textData = {
-            .name = "Cleffa",
+            .name = "ピィ",
             .pokedexEntry = "Because of its unusual, starlike\\nsilhouette, people believe that\\nit came here on a meteor.",
             .classification = "Star Shape Pokémon",
             .height = "1’00”",
@@ -9921,7 +9921,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_IGGLYBUFF] = {
         .textData = {
-            .name = "Igglybuff",
+            .name = "ププリン",
             .pokedexEntry = "It has a very soft body. If it\\nstarts to roll, it will bounce all\\nover and be impossible to stop.",
             .classification = "Balloon Pokémon",
             .height = "1’00”",
@@ -9978,7 +9978,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TOGEPI] = {
         .textData = {
-            .name = "Togepi",
+            .name = "トゲピ－",
             .pokedexEntry = "The shell seems to be filled with\\njoy. It is said that it will share\\ngood luck when treated kindly.",
             .classification = "Spike Ball Pokémon",
             .height = "1’00”",
@@ -10035,7 +10035,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TOGETIC] = {
         .textData = {
-            .name = "Togetic",
+            .name = "トゲチック",
             .pokedexEntry = "They say that it will appear before\\nkindhearted, caring people and\\nshower them with happiness.",
             .classification = "Happiness Pokémon",
             .height = "2’00”",
@@ -10092,7 +10092,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NATU] = {
         .textData = {
-            .name = "Natu",
+            .name = "ネイティ",
             .pokedexEntry = "Because its wings aren’t yet fully\\ngrown, it has to hop to get around.\\nIt is always staring at something.",
             .classification = "Tiny Bird Pokémon",
             .height = "0’08”",
@@ -10149,7 +10149,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_XATU] = {
         .textData = {
-            .name = "Xatu",
+            .name = "ネイティオ",
             .pokedexEntry = "They say that it stays still and\\nquiet because it is seeing both the\\npast and future at the same time.",
             .classification = "Mystic Pokémon",
             .height = "4’11”",
@@ -10206,7 +10206,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAREEP] = {
         .textData = {
-            .name = "Mareep",
+            .name = "メリ－プ",
             .pokedexEntry = "If static electricity builds in its\\nbody, its fleece doubles in volume.\\nTouching it will shock you.",
             .classification = "Wool Pokémon",
             .height = "2’00”",
@@ -10263,7 +10263,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FLAAFFY] = {
         .textData = {
-            .name = "Flaaffy",
+            .name = "モココ",
             .pokedexEntry = "As a result of storing too much\\nelectricity, it developed patches\\nwhere even downy wool won’t grow.",
             .classification = "Wool Pokémon",
             .height = "2’07”",
@@ -10320,7 +10320,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AMPHAROS] = {
         .textData = {
-            .name = "Ampharos",
+            .name = "デンリュウ",
             .pokedexEntry = "The tail’s tip shines brightly and\\ncan be seen from far away. It acts\\nas a beacon for lost people.",
             .classification = "Light Pokémon",
             .height = "4’07”",
@@ -10377,7 +10377,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BELLOSSOM] = {
         .textData = {
-            .name = "Bellossom",
+            .name = "キレイハナ",
             .pokedexEntry = "BELLOSSOM gather at times and seem\\nto dance. They say that the dance\\nis a ritual to summon the sun.",
             .classification = "Flower Pokémon",
             .height = "1’04”",
@@ -10434,7 +10434,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MARILL] = {
         .textData = {
-            .name = "Marill",
+            .name = "マリル",
             .pokedexEntry = "The tip of its tail, which contains\\noil that is lighter than water,\\nlets it swim without drowning.",
             .classification = "Aqua Mouse Pokémon",
             .height = "1’04”",
@@ -10491,7 +10491,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AZUMARILL] = {
         .textData = {
-            .name = "Azumarill",
+            .name = "マリルリ",
             .pokedexEntry = "By keeping still and listening\\nintently, it can tell what is in even\\nwild, fast-moving rivers.",
             .classification = "Aqua Rabbit Pokémon",
             .height = "2’07”",
@@ -10548,7 +10548,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SUDOWOODO] = {
         .textData = {
-            .name = "Sudowoodo",
+            .name = "ウソッキ－",
             .pokedexEntry = "Although it always pretends to be a\\ntree, its composition appears more\\nsimilar to rock than to vegetation.",
             .classification = "Imitation Pokémon",
             .height = "3’11”",
@@ -10605,7 +10605,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_POLITOED] = {
         .textData = {
-            .name = "Politoed",
+            .name = "ニョロトノ",
             .pokedexEntry = "If POLIWAG and POLIWHIRL hear its\\nechoing cry, they respond by\\ngathering from far and wide.",
             .classification = "Frog Pokémon",
             .height = "3’07”",
@@ -10662,7 +10662,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HOPPIP] = {
         .textData = {
-            .name = "Hoppip",
+            .name = "ハネッコ",
             .pokedexEntry = "To keep from being blown away by\\nthe wind, they gather in clusters.\\nBut they do enjoy gentle breezes.",
             .classification = "Cottonweed Pokémon",
             .height = "1’04”",
@@ -10719,7 +10719,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SKIPLOOM] = {
         .textData = {
-            .name = "Skiploom",
+            .name = "ポポッコ",
             .pokedexEntry = "The bloom on top of its head opens\\nand closes as the temperature\\nfluctuates up and down.",
             .classification = "Cottonweed Pokémon",
             .height = "2’00”",
@@ -10776,7 +10776,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_JUMPLUFF] = {
         .textData = {
-            .name = "Jumpluff",
+            .name = "ワタッコ",
             .pokedexEntry = "Once it catches the wind, it deftly\\ncontrols its cotton-puff spores--\\nit can even float around the world.",
             .classification = "Cottonweed Pokémon",
             .height = "2’07”",
@@ -10833,7 +10833,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AIPOM] = {
         .textData = {
-            .name = "Aipom",
+            .name = "エイパム",
             .pokedexEntry = "Its tail is so powerful that it can\\nuse it to grab a tree branch and\\nhold itself up in the air.",
             .classification = "Long Tail Pokémon",
             .height = "2’07”",
@@ -10890,7 +10890,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SUNKERN] = {
         .textData = {
-            .name = "Sunkern",
+            .name = "ヒマナッツ",
             .pokedexEntry = "It may plummet from the sky.\\nIf attacked by a SPEAROW,\\nit will violently shake its leaves.",
             .classification = "Seed Pokémon",
             .height = "1’00”",
@@ -10947,7 +10947,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SUNFLORA] = {
         .textData = {
-            .name = "Sunflora",
+            .name = "キマワリ",
             .pokedexEntry = "It converts sunlight into energy.\\nIn the darkness after sunset, it\\ncloses its petals and becomes still.",
             .classification = "Sun Pokémon",
             .height = "2’07”",
@@ -11004,7 +11004,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_YANMA] = {
         .textData = {
-            .name = "Yanma",
+            .name = "ヤンヤンマ",
             .pokedexEntry = "If it flaps its wings really fast,\\nit can generate shock waves that\\nwill shatter windows in the area.",
             .classification = "Clear Wing Pokémon",
             .height = "3’11”",
@@ -11061,7 +11061,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WOOPER] = {
         .textData = {
-            .name = "Wooper",
+            .name = "ウパ－",
             .pokedexEntry = "This Pokémon lives in cold water.\\nIt will leave the water to search\\nfor food when it gets cold outside.",
             .classification = "Water Fish Pokémon",
             .height = "1’04”",
@@ -11118,7 +11118,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_QUAGSIRE] = {
         .textData = {
-            .name = "Quagsire",
+            .name = "ヌオ－",
             .pokedexEntry = "This carefree Pokémon has an\\neasy-going nature. While swimming,\\nit always bumps into boat hulls.",
             .classification = "Water Fish Pokémon",
             .height = "4’07”",
@@ -11175,7 +11175,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ESPEON] = {
         .textData = {
-            .name = "Espeon",
+            .name = "エ－フィ",
             .pokedexEntry = "It uses the fine hair that covers\\nits body to sense air currents and\\npredict its enemy’s actions.",
             .classification = "Sun Pokémon",
             .height = "2’11”",
@@ -11232,7 +11232,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_UMBREON] = {
         .textData = {
-            .name = "Umbreon",
+            .name = "ブラッキ－",
             .pokedexEntry = "When agitated, this Pokémon\\nprotects itself by spraying\\npoisonous sweat from its pores.",
             .classification = "Moonlight Pokémon",
             .height = "3’03”",
@@ -11289,7 +11289,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MURKROW] = {
         .textData = {
-            .name = "Murkrow",
+            .name = "ヤミカラス",
             .pokedexEntry = "Feared and loathed by many,\\nit is believed to bring misfortune to\\nall those who see it at night.",
             .classification = "Darkness Pokémon",
             .height = "1’08”",
@@ -11346,7 +11346,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SLOWKING] = {
         .textData = {
-            .name = "Slowking",
+            .name = "ヤドキング",
             .pokedexEntry = "It has incredible intellect and\\nintuition. Whatever the situation,\\nit remains calm and collected.",
             .classification = "Royal Pokémon",
             .height = "6’07”",
@@ -11403,7 +11403,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MISDREAVUS] = {
         .textData = {
-            .name = "Misdreavus",
+            .name = "ムウマ",
             .pokedexEntry = "It likes playing mischievous tricks,\\nsuch as screaming and wailing to\\nstartle people at night.",
             .classification = "Screech Pokémon",
             .height = "2’04”",
@@ -11460,7 +11460,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_UNOWN] = {
         .textData = {
-            .name = "Unown",
+            .name = "アンノ－ン",
             .pokedexEntry = "Their shapes look like hieroglyphs\\non ancient tablets. It is said\\nthat the two are somehow related.",
             .classification = "Symbol Pokémon",
             .height = "1’08”",
@@ -11517,7 +11517,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WOBBUFFET] = {
         .textData = {
-            .name = "Wobbuffet",
+            .name = "ソ－ナンス",
             .pokedexEntry = "It hates light and shock. If\\nattacked, it inflates its body to\\nbuild up its counterstrike.",
             .classification = "Patient Pokémon",
             .height = "4’03”",
@@ -11574,7 +11574,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GIRAFARIG] = {
         .textData = {
-            .name = "Girafarig",
+            .name = "キリンリキ",
             .pokedexEntry = "Its tail has a small brain of its\\nown. Beware! If you get close, it\\nmay react to your scent by biting.",
             .classification = "Long Neck Pokémon",
             .height = "4’11”",
@@ -11631,7 +11631,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PINECO] = {
         .textData = {
-            .name = "Pineco",
+            .name = "クヌギダマ",
             .pokedexEntry = "It likes to make its shell thicker\\nby adding layers of tree bark. The\\nadditional weight doesn’t bother it.",
             .classification = "Bagworm Pokémon",
             .height = "2’00”",
@@ -11688,7 +11688,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FORRETRESS] = {
         .textData = {
-            .name = "Forretress",
+            .name = "フォレトス",
             .pokedexEntry = "Its entire body is shielded by a\\nsteel-hard shell. What lurks inside\\nthis shell is a total mystery.",
             .classification = "Bagworm Pokémon",
             .height = "3’11”",
@@ -11745,7 +11745,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DUNSPARCE] = {
         .textData = {
-            .name = "Dunsparce",
+            .name = "ノコッチ",
             .pokedexEntry = "When spotted, this Pokémon escapes\\nbackward by furiously boring into\\nthe ground with its tail.",
             .classification = "Land Snake Pokémon",
             .height = "4’11”",
@@ -11802,7 +11802,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GLIGAR] = {
         .textData = {
-            .name = "Gligar",
+            .name = "グライガ－",
             .pokedexEntry = "It flies straight at its target’s\\nface, then clamps down on the\\nstartled victim to inject poison.",
             .classification = "FlyScorpion Pokémon",
             .height = "3’07”",
@@ -11859,7 +11859,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STEELIX] = {
         .textData = {
-            .name = "Steelix",
+            .name = "ハガネ－ル",
             .pokedexEntry = "Its body has been compressed deep\\nunder the ground. As a result,\\nit is even harder than a diamond.",
             .classification = "Iron Snake Pokémon",
             .height = "30’02”",
@@ -11916,7 +11916,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SNUBBULL] = {
         .textData = {
-            .name = "Snubbull",
+            .name = "ブル－",
             .pokedexEntry = "Although it looks frightening, it\\nis actually kind and affectionate.\\nIt is very popular among women.",
             .classification = "Fairy Pokémon",
             .height = "2’00”",
@@ -11973,7 +11973,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GRANBULL] = {
         .textData = {
-            .name = "Granbull",
+            .name = "グランブル",
             .pokedexEntry = "It is actually timid and easily\\nspooked. If attacked, it flails\\nabout to fend off its attacker.",
             .classification = "Fairy Pokémon",
             .height = "4’07”",
@@ -12030,7 +12030,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_QWILFISH] = {
         .textData = {
-            .name = "Qwilfish",
+            .name = "ハリ－セン",
             .pokedexEntry = "To fire its poison spikes, it must\\ninflate its body by drinking over\\n2.6 gallons of water all at once.",
             .classification = "Balloon Pokémon",
             .height = "1’08”",
@@ -12087,7 +12087,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SCIZOR] = {
         .textData = {
-            .name = "Scizor",
+            .name = "ハッサム",
             .pokedexEntry = "It swings its eye-patterned pincers\\nup to scare its foes. This makes\\nit look like it has three heads.",
             .classification = "Pincer Pokémon",
             .height = "5’11”",
@@ -12144,7 +12144,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHUCKLE] = {
         .textData = {
-            .name = "Shuckle",
+            .name = "ツボツボ",
             .pokedexEntry = "The berries it stores in its\\nvase-like shell decompose and\\nbecome a gooey liquid.",
             .classification = "Mold Pokémon",
             .height = "2’00”",
@@ -12201,7 +12201,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HERACROSS] = {
         .textData = {
-            .name = "Heracross",
+            .name = "ヘラクロス",
             .pokedexEntry = "This powerful Pokémon thrusts\\nits prized horn under its enemies’\\nbellies, then lifts and throws them.",
             .classification = "Single Horn Pokémon",
             .height = "4’11”",
@@ -12258,7 +12258,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SNEASEL] = {
         .textData = {
-            .name = "Sneasel",
+            .name = "ニュ－ラ",
             .pokedexEntry = "Its paws conceal sharp claws. If\\nattacked, it suddenly extends the\\nclaws and startles its enemy.",
             .classification = "Sharp Claw Pokémon",
             .height = "2’11”",
@@ -12315,7 +12315,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TEDDIURSA] = {
         .textData = {
-            .name = "Teddiursa",
+            .name = "ヒメグマ",
             .pokedexEntry = "If it finds honey, its crescent mark\\nglows. It always licks its paws\\nbecause they’re soaked with honey.",
             .classification = "Little Bear Pokémon",
             .height = "2’00”",
@@ -12372,7 +12372,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_URSARING] = {
         .textData = {
-            .name = "Ursaring",
+            .name = "リングマ",
             .pokedexEntry = "Although it is a good climber,\\nit prefers to snap trees with its\\nforelegs and eat fallen berries.",
             .classification = "Hibernator Pokémon",
             .height = "5’11”",
@@ -12429,7 +12429,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SLUGMA] = {
         .textData = {
-            .name = "Slugma",
+            .name = "マグマッグ",
             .pokedexEntry = "It never sleeps. It has to keep\\nmoving because if it stopped, its\\nmagma body would cool and harden.",
             .classification = "Lava Pokémon",
             .height = "2’04”",
@@ -12486,7 +12486,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGCARGO] = {
         .textData = {
-            .name = "Magcargo",
+            .name = "マグカルゴ",
             .pokedexEntry = "The shell on its back is just skin\\nthat has cooled and hardened. It\\nbreaks easily with a slight touch.",
             .classification = "Lava Pokémon",
             .height = "2’07”",
@@ -12543,7 +12543,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SWINUB] = {
         .textData = {
-            .name = "Swinub",
+            .name = "ウリム－",
             .pokedexEntry = "It rubs its snout on the ground to\\nfind and dig up food. It sometimes\\ndiscovers hot springs.",
             .classification = "Pig Pokémon",
             .height = "1’04”",
@@ -12600,7 +12600,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PILOSWINE] = {
         .textData = {
-            .name = "Piloswine",
+            .name = "イノム－",
             .pokedexEntry = "Because the long hair all over its\\nbody obscures its sight, it just\\nkeeps charging repeatedly.",
             .classification = "Swine Pokémon",
             .height = "3’07”",
@@ -12657,7 +12657,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CORSOLA] = {
         .textData = {
-            .name = "Corsola",
+            .name = "サニ－ゴ",
             .pokedexEntry = "It continuously sheds and grows.\\nThe tip of its head is prized as\\na treasure because of its beauty.",
             .classification = "Coral Pokémon",
             .height = "2’00”",
@@ -12714,7 +12714,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_REMORAID] = {
         .textData = {
-            .name = "Remoraid",
+            .name = "テッポウオ",
             .pokedexEntry = "It has superb accuracy. The water\\nit shoots out can strike moving\\nprey from more than 300 feet away.",
             .classification = "Jet Pokémon",
             .height = "2’00”",
@@ -12771,7 +12771,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_OCTILLERY] = {
         .textData = {
-            .name = "Octillery",
+            .name = "オクタン",
             .pokedexEntry = "It traps foes with the suction cups\\non its tentacles, then smashes\\nthem with its rock-hard head.",
             .classification = "Jet Pokémon",
             .height = "2’11”",
@@ -12828,7 +12828,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DELIBIRD] = {
         .textData = {
-            .name = "Delibird",
+            .name = "デリバ－ド",
             .pokedexEntry = "It carries food all day long.\\nThere are tales about lost people\\nwho were saved by its stored food.",
             .classification = "Delivery Pokémon",
             .height = "2’11”",
@@ -12885,7 +12885,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MANTINE] = {
         .textData = {
-            .name = "Mantine",
+            .name = "マンタイン",
             .pokedexEntry = "As it majestically swims, it doesn’t\\ncare if REMORAID attach to it for\\nscavenging its leftovers.",
             .classification = "Kite Pokémon",
             .height = "6’11”",
@@ -12942,7 +12942,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SKARMORY] = {
         .textData = {
-            .name = "Skarmory",
+            .name = "エア－ムド",
             .pokedexEntry = "Its sturdy wings look heavy, but\\nthey are actually hollow and light,\\nallowing it to fly freely in the sky.",
             .classification = "Armor Bird Pokémon",
             .height = "5’07”",
@@ -12999,7 +12999,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HOUNDOUR] = {
         .textData = {
-            .name = "Houndour",
+            .name = "デルビル",
             .pokedexEntry = "It uses different kinds of cries for\\ncommunicating with others of its\\nkind and for pursuing its prey.",
             .classification = "Dark Pokémon",
             .height = "2’00”",
@@ -13056,7 +13056,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HOUNDOOM] = {
         .textData = {
-            .name = "Houndoom",
+            .name = "ヘルガ－",
             .pokedexEntry = "If you are burned by the flames\\nit shoots from its mouth,\\nthe pain will never go away.",
             .classification = "Dark Pokémon",
             .height = "4’07”",
@@ -13113,7 +13113,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KINGDRA] = {
         .textData = {
-            .name = "Kingdra",
+            .name = "キングドラ",
             .pokedexEntry = "It is said that it usually hides in\\nunderwater caves. It can create\\nwhirlpools by yawning.",
             .classification = "Dragon Pokémon",
             .height = "5’11”",
@@ -13170,7 +13170,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PHANPY] = {
         .textData = {
-            .name = "Phanpy",
+            .name = "ゴマゾウ",
             .pokedexEntry = "It swings its long snout around\\nplayfully, but because it is so\\nstrong, that can be dangerous.",
             .classification = "Long Nose Pokémon",
             .height = "1’08”",
@@ -13227,7 +13227,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DONPHAN] = {
         .textData = {
-            .name = "Donphan",
+            .name = "ドンファン",
             .pokedexEntry = "It has sharp, hard tusks and a\\nrugged hide. Its tackle is strong\\nenough to knock down a house.",
             .classification = "Armor Pokémon",
             .height = "3’07”",
@@ -13284,7 +13284,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PORYGON2] = {
         .textData = {
-            .name = "Porygon2",
+            .name = "ポリゴン２",
             .pokedexEntry = "This upgraded version of PORYGON\\nis designed for space exploration.\\nIt can’t fly, however.",
             .classification = "Virtual Pokémon",
             .height = "2’00”",
@@ -13341,7 +13341,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STANTLER] = {
         .textData = {
-            .name = "Stantler",
+            .name = "オドシシ",
             .pokedexEntry = "The curved antlers subtly change\\nthe flow of air to create a strange\\nspace where reality is distorted.",
             .classification = "Big Horn Pokémon",
             .height = "4’07”",
@@ -13398,7 +13398,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SMEARGLE] = {
         .textData = {
-            .name = "Smeargle",
+            .name = "ド－ブル",
             .pokedexEntry = "A special fluid oozes from the tip\\nof its tail. It paints the fluid\\neverywhere to mark its territory.",
             .classification = "Painter Pokémon",
             .height = "3’11”",
@@ -13455,7 +13455,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TYROGUE] = {
         .textData = {
-            .name = "Tyrogue",
+            .name = "バルキ－",
             .pokedexEntry = "It is always bursting with energy.\\nTo make itself stronger, it\\nkeeps on fighting even if it loses.",
             .classification = "Scuffle Pokémon",
             .height = "2’04”",
@@ -13512,7 +13512,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HITMONTOP] = {
         .textData = {
-            .name = "Hitmontop",
+            .name = "カポエラ－",
             .pokedexEntry = "If you are enchanted by its smooth,\\ndance-like kicks, you may get a closer\\nexperience with one than you’d like.",
             .classification = "Handstand Pokémon",
             .height = "4’07”",
@@ -13569,7 +13569,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SMOOCHUM] = {
         .textData = {
-            .name = "Smoochum",
+            .name = "ムチュ－ル",
             .pokedexEntry = "Its lips are the most sensitive\\npart of its body. It always uses\\nits lips first to examine things.",
             .classification = "Kiss Pokémon",
             .height = "1’04”",
@@ -13626,7 +13626,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ELEKID] = {
         .textData = {
-            .name = "Elekid",
+            .name = "エレキッド",
             .pokedexEntry = "It rotates its arms to generate\\nelectricity, but it tires easily,\\nso it only charges up a little bit.",
             .classification = "Electric Pokémon",
             .height = "2’00”",
@@ -13683,7 +13683,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGBY] = {
         .textData = {
-            .name = "Magby",
+            .name = "ブビィ",
             .pokedexEntry = "Each and every time it inhales\\nand exhales, hot embers dribble\\nfrom its mouth and nostrils.",
             .classification = "Live Coal Pokémon",
             .height = "2’04”",
@@ -13740,7 +13740,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MILTANK] = {
         .textData = {
-            .name = "Miltank",
+            .name = "ミルタンク",
             .pokedexEntry = "Its milk is packed with nutrition,\\nmaking it the ultimate beverage\\nfor the sick or weary.",
             .classification = "Milk Cow Pokémon",
             .height = "3’11”",
@@ -13797,7 +13797,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BLISSEY] = {
         .textData = {
-            .name = "Blissey",
+            .name = "ハピナス",
             .pokedexEntry = "Anyone who takes even one taste of\\nBLISSEY’s egg becomes unfailingly\\ncaring and pleasant to everyone.",
             .classification = "Happiness Pokémon",
             .height = "4’11”",
@@ -13854,7 +13854,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RAIKOU] = {
         .textData = {
-            .name = "Raikou",
+            .name = "ライコウ",
             .pokedexEntry = "The rain clouds it carries let it\\nfire thunderbolts at will. They say\\nthat it descended with lightning.",
             .classification = "Thunder Pokémon",
             .height = "6’03”",
@@ -13911,7 +13911,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ENTEI] = {
         .textData = {
-            .name = "Entei",
+            .name = "エンテイ",
             .pokedexEntry = "Volcanoes erupt when it barks.\\nUnable to contain its sheer power,\\nit races headlong around the land.",
             .classification = "Volcano Pokémon",
             .height = "6’11”",
@@ -13968,7 +13968,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SUICUNE] = {
         .textData = {
-            .name = "Suicune",
+            .name = "スイクン",
             .pokedexEntry = "Said to be the embodiment of\\nnorth winds, it can instantly\\npurify filthy, murky water.",
             .classification = "Aurora Pokémon",
             .height = "6’07”",
@@ -14025,7 +14025,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LARVITAR] = {
         .textData = {
-            .name = "Larvitar",
+            .name = "ヨ－ギラス",
             .pokedexEntry = "It feeds on soil. After it has eaten\\na large mountain, it falls asleep\\nso it can grow.",
             .classification = "Rock Skin Pokémon",
             .height = "2’00”",
@@ -14082,7 +14082,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PUPITAR] = {
         .textData = {
-            .name = "Pupitar",
+            .name = "サナギラス",
             .pokedexEntry = "Its shell is as hard as sheet rock,\\nand it is also very strong. Its\\nthrashing can topple a mountain.",
             .classification = "Hard Shell Pokémon",
             .height = "3’11”",
@@ -14139,7 +14139,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TYRANITAR] = {
         .textData = {
-            .name = "Tyranitar",
+            .name = "バンギラス",
             .pokedexEntry = "Its body can’t be harmed by any\\nsort of attack, so it is very eager\\nto make challenges against enemies.",
             .classification = "Armor Pokémon",
             .height = "6’07”",
@@ -14196,7 +14196,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUGIA] = {
         .textData = {
-            .name = "Lugia",
+            .name = "ルギア",
             .pokedexEntry = "It is said that it quietly spends its\\ntime deep at the bottom of the sea\\nbecause its powers are too strong.",
             .classification = "Diving Pokémon",
             .height = "17’01”",
@@ -14253,7 +14253,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HO_OH] = {
         .textData = {
-            .name = "Ho-oh",
+            .name = "ホウオウ",
             .pokedexEntry = "Legends claim this Pokémon flies the\\nworld’s skies continuously on its\\nmagnificent, seven-colored wings.",
             .classification = "Rainbow Pokémon",
             .height = "12’06”",
@@ -14310,7 +14310,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CELEBI] = {
         .textData = {
-            .name = "Celebi",
+            .name = "セレビィ",
             .pokedexEntry = "This Pokémon wanders across time.\\nGrass and trees flourish in the\\nforests in which it has appeared.",
             .classification = "Time Travel Pokémon",
             .height = "2’00”",
@@ -14367,7 +14367,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TREECKO] = {
         .textData = {
-            .name = "Treecko",
+            .name = "キモリ",
             .pokedexEntry = "Small hooks on the bottom of its\\nfeet catch on walls and ceilings.\\nThat is how it can hang from above.",
             .classification = "Wood Gecko Pokémon",
             .height = "1’08”",
@@ -14424,7 +14424,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GROVYLE] = {
         .textData = {
-            .name = "Grovyle",
+            .name = "ジュプトル",
             .pokedexEntry = "It leaps from tree branch to tree\\nbranch quite swiftly. It shows\\nastounding agility.",
             .classification = "Wood Gecko Pokémon",
             .height = "2’11”",
@@ -14481,7 +14481,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SCEPTILE] = {
         .textData = {
-            .name = "Sceptile",
+            .name = "ジュカイン",
             .pokedexEntry = "It agilely leaps about the jungle\\nand uses the sharp leaves on its\\narms to strike its prey.",
             .classification = "Forest Pokémon",
             .height = "5’07”",
@@ -14538,7 +14538,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TORCHIC] = {
         .textData = {
-            .name = "Torchic",
+            .name = "アチャモ",
             .pokedexEntry = "Inside its body is a place where it\\nkeeps a small flame. Hug it! It will\\nbe as warm as a hot-water bottle.",
             .classification = "Chick Pokémon",
             .height = "1’04”",
@@ -14595,7 +14595,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_COMBUSKEN] = {
         .textData = {
-            .name = "Combusken",
+            .name = "ワカシャモ",
             .pokedexEntry = "During a battle, the hot flame in\\nits body increases. Its kicks have\\noutstanding destructive power.",
             .classification = "Young Fowl Pokémon",
             .height = "2’11”",
@@ -14652,7 +14652,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BLAZIKEN] = {
         .textData = {
-            .name = "Blaziken",
+            .name = "バシャ－モ",
             .pokedexEntry = "It can clear a 30-story building\\nin a leap. Its fiery punches scorch\\nits foes.",
             .classification = "Blaze Pokémon",
             .height = "6’03”",
@@ -14709,7 +14709,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MUDKIP] = {
         .textData = {
-            .name = "Mudkip",
+            .name = "ミズゴロウ",
             .pokedexEntry = "Its power can crush boulders.\\nIt rests by covering itself with mud\\nat the bottom of a river.",
             .classification = "Mud Fish Pokémon",
             .height = "1’04”",
@@ -14766,7 +14766,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MARSHTOMP] = {
         .textData = {
-            .name = "Marshtomp",
+            .name = "ヌマクロ－",
             .pokedexEntry = "Living on muddy ground that\\nprovides poor footing has made\\nits legs sturdy.",
             .classification = "Mud Fish Pokémon",
             .height = "2’04”",
@@ -14823,7 +14823,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SWAMPERT] = {
         .textData = {
-            .name = "Swampert",
+            .name = "ラグラ－ジ",
             .pokedexEntry = "Its arms are hard as rock.\\nWith one swing, it can\\nbreak a boulder into pieces.",
             .classification = "Mud Fish Pokémon",
             .height = "4’11”",
@@ -14880,7 +14880,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_POOCHYENA] = {
         .textData = {
-            .name = "Poochyena",
+            .name = "ポチエナ",
             .pokedexEntry = "It chases its prey until the victim\\nbecomes exhausted. However, it\\nturns tail if the prey strikes back.",
             .classification = "Bite Pokémon",
             .height = "1’08”",
@@ -14937,7 +14937,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MIGHTYENA] = {
         .textData = {
-            .name = "Mightyena",
+            .name = "グラエナ",
             .pokedexEntry = "It chases down prey in a pack of\\naround ten. They defeat foes with\\nperfectly coordinated teamwork.",
             .classification = "Bite Pokémon",
             .height = "3’03”",
@@ -14994,7 +14994,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ZIGZAGOON] = {
         .textData = {
-            .name = "Zigzagoon",
+            .name = "ジグザグマ",
             .pokedexEntry = "It gets interested in everything,\\nwhich is why it zigs and zags.\\nIt is good at finding items.",
             .classification = "TinyRaccoon Pokémon",
             .height = "1’04”",
@@ -15051,7 +15051,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LINOONE] = {
         .textData = {
-            .name = "Linoone",
+            .name = "マッスグマ",
             .pokedexEntry = "When running in a straight line, it\\ncan easily top 60 miles an hour. It\\nhas a tough time with curved roads.",
             .classification = "Rushing Pokémon",
             .height = "1’08”",
@@ -15108,7 +15108,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WURMPLE] = {
         .textData = {
-            .name = "Wurmple",
+            .name = "ケムッソ",
             .pokedexEntry = "It lives among the tall grass and in\\nforests. It repels attacks by \\nraising up the spikes on its rear.",
             .classification = "Worm Pokémon",
             .height = "1’00”",
@@ -15165,7 +15165,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SILCOON] = {
         .textData = {
-            .name = "Silcoon",
+            .name = "カラサリス",
             .pokedexEntry = "Having wrapped silk around the\\nbranches of a tree, it quiescently\\nawaits evolution.",
             .classification = "Cocoon Pokémon",
             .height = "2’00”",
@@ -15222,7 +15222,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BEAUTIFLY] = {
         .textData = {
-            .name = "Beautifly",
+            .name = "アゲハント",
             .pokedexEntry = "Vibrantly patterned wings are its\\nprominent feature. It sucks sweet\\nflower nectar with its long mouth.",
             .classification = "Butterfly Pokémon",
             .height = "3’03”",
@@ -15279,7 +15279,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CASCOON] = {
         .textData = {
-            .name = "Cascoon",
+            .name = "マユルド",
             .pokedexEntry = "It endures attacks with patience,\\nbecause the more pain before\\nevolution, the sturdier it becomes.",
             .classification = "Cocoon Pokémon",
             .height = "2’04”",
@@ -15336,7 +15336,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DUSTOX] = {
         .textData = {
-            .name = "Dustox",
+            .name = "ドクケイル",
             .pokedexEntry = "It scatters its fine dust all over\\nwhen it is attacked. It is a\\nnocturnal Pokémon.",
             .classification = "Poison Moth Pokémon",
             .height = "3’11”",
@@ -15393,7 +15393,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LOTAD] = {
         .textData = {
-            .name = "Lotad",
+            .name = "ハスボ－",
             .pokedexEntry = "Its leaf grew too large for it to\\nlive on land. That is how it began\\nto live floating in the water.",
             .classification = "Water Weed Pokémon",
             .height = "1’08”",
@@ -15450,7 +15450,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LOMBRE] = {
         .textData = {
-            .name = "Lombre",
+            .name = "ハスブレロ",
             .pokedexEntry = "It is nocturnal and becomes active\\nat nightfall. It feeds on aquatic\\nmosses that grow in the riverbed.",
             .classification = "Jolly Pokémon",
             .height = "3’11”",
@@ -15507,7 +15507,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUDICOLO] = {
         .textData = {
-            .name = "Ludicolo",
+            .name = "ルンパッパ",
             .pokedexEntry = "If it hears festive music, it begins\\nmoving in rhythm in order to\\namplify its power.",
             .classification = "Carefree Pokémon",
             .height = "4’11”",
@@ -15564,7 +15564,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SEEDOT] = {
         .textData = {
-            .name = "Seedot",
+            .name = "タネボ－",
             .pokedexEntry = "It attaches itself to a tree branch\\nusing the top of its head. Strong\\nwinds can sometimes make it fall.",
             .classification = "Acorn Pokémon",
             .height = "1’08”",
@@ -15621,7 +15621,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NUZLEAF] = {
         .textData = {
-            .name = "Nuzleaf",
+            .name = "コノハナ",
             .pokedexEntry = "It lives deep in forests. With the\\nleaf on its head, it makes a flute\\nwhose song makes listeners uneasy.",
             .classification = "Wily Pokémon",
             .height = "3’03”",
@@ -15678,7 +15678,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHIFTRY] = {
         .textData = {
-            .name = "Shiftry",
+            .name = "ダ－テング",
             .pokedexEntry = "It lives quietly in the deep forest.\\nIt is said to create chilly winter\\nwinds with the fans it holds.",
             .classification = "Wicked Pokémon",
             .height = "4’03”",
@@ -15735,7 +15735,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TAILLOW] = {
         .textData = {
-            .name = "Taillow",
+            .name = "スバメ",
             .pokedexEntry = "When it gets cold, they migrate,\\nflying over 180 miles a day.\\nIt hunts for tasty prey.",
             .classification = "TinySwallow Pokémon",
             .height = "1’00”",
@@ -15792,7 +15792,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SWELLOW] = {
         .textData = {
-            .name = "Swellow",
+            .name = "オオスバメ",
             .pokedexEntry = "It dives at a steep angle as soon\\nas it spots its prey. It catches\\nits prey with sharp claws.",
             .classification = "Swallow Pokémon",
             .height = "2’04”",
@@ -15849,7 +15849,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WINGULL] = {
         .textData = {
-            .name = "Wingull",
+            .name = "キャモメ",
             .pokedexEntry = "It soars on updrafts without\\nflapping its wings. It makes a nest\\non sheer cliffs at the sea’s edge.",
             .classification = "Seagull Pokémon",
             .height = "2’00”",
@@ -15906,7 +15906,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PELIPPER] = {
         .textData = {
-            .name = "Pelipper",
+            .name = "ペリッパ－",
             .pokedexEntry = "It protects its young in its beak.\\nIt bobs on waves, resting on them\\non days when the waters are calm.",
             .classification = "Water Bird Pokémon",
             .height = "3’11”",
@@ -15963,7 +15963,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RALTS] = {
         .textData = {
-            .name = "Ralts",
+            .name = "ラルトス",
             .pokedexEntry = "The horns on its head provide a\\nstrong power that enables\\nit to sense people’s emotions.",
             .classification = "Feeling Pokémon",
             .height = "1’04”",
@@ -16020,7 +16020,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KIRLIA] = {
         .textData = {
-            .name = "Kirlia",
+            .name = "キルリア",
             .pokedexEntry = "It has a psychic power that\\nenables it to distort the space\\naround it and see into the future.",
             .classification = "Emotion Pokémon",
             .height = "2’07”",
@@ -16077,7 +16077,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GARDEVOIR] = {
         .textData = {
-            .name = "Gardevoir",
+            .name = "サ－ナイト",
             .pokedexEntry = "It unleashes psychokinetic energy\\nat full power when protecting a\\nTrainer it has bonded closely with.",
             .classification = "Embrace Pokémon",
             .height = "5’03”",
@@ -16134,7 +16134,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SURSKIT] = {
         .textData = {
-            .name = "Surskit",
+            .name = "アメタマ",
             .pokedexEntry = "It secretes a thick, sweet-scented\\nsyrup from the tip of its head.\\nIt lives on weed-choked ponds.",
             .classification = "Pond Skater Pokémon",
             .height = "1’08”",
@@ -16191,7 +16191,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MASQUERAIN] = {
         .textData = {
-            .name = "Masquerain",
+            .name = "アメモ－ス",
             .pokedexEntry = "It flaps its four wings to hover and\\nfly freely in any direction--\\nto and fro and sideways.",
             .classification = "Eyeball Pokémon",
             .height = "2’07”",
@@ -16248,7 +16248,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHROOMISH] = {
         .textData = {
-            .name = "Shroomish",
+            .name = "キノココ",
             .pokedexEntry = "If it senses danger, it scatters\\nspores from the top of its head to\\nprotect itself.",
             .classification = "Mushroom Pokémon",
             .height = "1’04”",
@@ -16305,7 +16305,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BRELOOM] = {
         .textData = {
-            .name = "Breloom",
+            .name = "キノガッサ",
             .pokedexEntry = "It scatters poisonous spores and\\nthrows powerful punches while its\\nfoe is hampered by inhaled spores.",
             .classification = "Mushroom Pokémon",
             .height = "3’11”",
@@ -16362,7 +16362,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SLAKOTH] = {
         .textData = {
-            .name = "Slakoth",
+            .name = "ナマケロ",
             .pokedexEntry = "The way SLAKOTH lolls around makes\\nanyone who watches it feel like\\ndoing the same.",
             .classification = "Slacker Pokémon",
             .height = "2’07”",
@@ -16419,7 +16419,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VIGOROTH] = {
         .textData = {
-            .name = "Vigoroth",
+            .name = "ヤルキモノ",
             .pokedexEntry = "Its stress level rises if it\\ncannot keep moving constantly.\\nToo much stress makes it feel sick.",
             .classification = "Wild Monkey Pokémon",
             .height = "4’07”",
@@ -16476,7 +16476,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SLAKING] = {
         .textData = {
-            .name = "Slaking",
+            .name = "ケッキング",
             .pokedexEntry = "The world’s laziest Pokémon.\\nIt moves to another spot when there’s\\nno food left within its reach.",
             .classification = "Lazy Pokémon",
             .height = "6’07”",
@@ -16533,7 +16533,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NINCADA] = {
         .textData = {
-            .name = "Nincada",
+            .name = "ツチニン",
             .pokedexEntry = "It can sometimes live underground for\\nmore than 10 years. It absorbs\\nnutrients from the roots of trees.",
             .classification = "Trainee Pokémon",
             .height = "1’08”",
@@ -16590,7 +16590,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NINJASK] = {
         .textData = {
-            .name = "Ninjask",
+            .name = "テッカニン",
             .pokedexEntry = "Its cry leaves a lasting headache\\nif heard for too long. It moves so\\nquickly that it is almost invisible.",
             .classification = "Ninja Pokémon",
             .height = "2’07”",
@@ -16647,7 +16647,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHEDINJA] = {
         .textData = {
-            .name = "Shedinja",
+            .name = "ヌケニン",
             .pokedexEntry = "A strange Pokémon--it flies without\\nmoving its wings, has a hollow shell\\nfor a body, and does not breathe.",
             .classification = "Shed Pokémon",
             .height = "2’07”",
@@ -16704,7 +16704,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WHISMUR] = {
         .textData = {
-            .name = "Whismur",
+            .name = "ゴニョニョ",
             .pokedexEntry = "If it senses danger, it scares\\nthe foe by crying out with the\\nvolume of a jet-plane engine.",
             .classification = "Whisper Pokémon",
             .height = "2’00”",
@@ -16761,7 +16761,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LOUDRED] = {
         .textData = {
-            .name = "Loudred",
+            .name = "ドゴ－ム",
             .pokedexEntry = "It shouts loudly by inhaling air, and\\nthen uses its well-developed\\nstomach muscles to exhale.",
             .classification = "Big Voice Pokémon",
             .height = "3’03”",
@@ -16818,7 +16818,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_EXPLOUD] = {
         .textData = {
-            .name = "Exploud",
+            .name = "バクオング",
             .pokedexEntry = "Its roar in battle shakes the\\nground like a tremor--or like\\nan earthquake has struck.",
             .classification = "Loud Noise Pokémon",
             .height = "4’11”",
@@ -16875,7 +16875,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAKUHITA] = {
         .textData = {
-            .name = "Makuhita",
+            .name = "マクノシタ",
             .pokedexEntry = "It toughens up by slamming into\\nthick trees over and over. It gains\\na sturdy body and dauntless spirit.",
             .classification = "Guts Pokémon",
             .height = "3’03”",
@@ -16932,7 +16932,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HARIYAMA] = {
         .textData = {
-            .name = "Hariyama",
+            .name = "ハリテヤマ",
             .pokedexEntry = "It loves challenging others to\\ntests of strength. It has the\\npower to stop a train with a slap.",
             .classification = "Arm Thrust Pokémon",
             .height = "7’07”",
@@ -16989,7 +16989,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AZURILL] = {
         .textData = {
-            .name = "Azurill",
+            .name = "ルリリ",
             .pokedexEntry = "Its tail is packed full of the\\nnutrients it needs to grow.",
             .classification = "Polka Dot Pokémon",
             .height = "0’08”",
@@ -17046,7 +17046,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NOSEPASS] = {
         .textData = {
-            .name = "Nosepass",
+            .name = "ノズパス",
             .pokedexEntry = "If two of these meet, they cannot\\nget too close because their noses\\nrepel each other.",
             .classification = "Compass Pokémon",
             .height = "3’03”",
@@ -17103,7 +17103,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SKITTY] = {
         .textData = {
-            .name = "Skitty",
+            .name = "エネコ",
             .pokedexEntry = "It’s adorable when it chases its own\\ntail. It’s difficult to earn its trust.",
             .classification = "Kitten Pokémon",
             .height = "2’00”",
@@ -17160,7 +17160,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DELCATTY] = {
         .textData = {
-            .name = "Delcatty",
+            .name = "エネコロロ",
             .pokedexEntry = "It dislikes dirty places. It often\\nsearches for a comfortable place\\nin which to groom itself.",
             .classification = "Prim Pokémon",
             .height = "3’07”",
@@ -17217,7 +17217,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SABLEYE] = {
         .textData = {
-            .name = "Sableye",
+            .name = "ヤミラミ",
             .pokedexEntry = "It dwells in the darkness of caves.\\nIt uses its sharp claws to dig up\\ngems to nourish itself.",
             .classification = "Darkness Pokémon",
             .height = "1’08”",
@@ -17274,7 +17274,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAWILE] = {
         .textData = {
-            .name = "Mawile",
+            .name = "クチ－ト",
             .pokedexEntry = "It chomps with its gaping mouth.\\nIts huge jaws are actually steel\\nhorns that have been transformed.",
             .classification = "Deceiver Pokémon",
             .height = "2’00”",
@@ -17331,7 +17331,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARON] = {
         .textData = {
-            .name = "Aron",
+            .name = "ココドラ",
             .pokedexEntry = "When it evolves, it sheds the steel\\ncarapace that covered its whole body\\nand develops a new one.",
             .classification = "Iron Armor Pokémon",
             .height = "1’04”",
@@ -17388,7 +17388,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LAIRON] = {
         .textData = {
-            .name = "Lairon",
+            .name = "コドラ",
             .pokedexEntry = "It loves iron ore. Groups of them\\nfight for territory by bashing one\\nanother with their steel bodies.",
             .classification = "Iron Armor Pokémon",
             .height = "2’11”",
@@ -17445,7 +17445,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AGGRON] = {
         .textData = {
-            .name = "Aggron",
+            .name = "ボスゴドラ",
             .pokedexEntry = "You can tell its age by the length\\nof its iron horns. It claims an\\nentire mountain as its territory.",
             .classification = "Iron Armor Pokémon",
             .height = "6’11”",
@@ -17502,7 +17502,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MEDITITE] = {
         .textData = {
-            .name = "Meditite",
+            .name = "アサナン",
             .pokedexEntry = "It meditates to heighten its inner\\nenergy and to float in the air.\\nIt eats one berry a day.",
             .classification = "Meditate Pokémon",
             .height = "2’00”",
@@ -17559,7 +17559,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MEDICHAM] = {
         .textData = {
-            .name = "Medicham",
+            .name = "チャ－レム",
             .pokedexEntry = "Through yoga training, it gained\\nthe psychic power to predict\\nits foe’s next move.",
             .classification = "Meditate Pokémon",
             .height = "4’03”",
@@ -17616,7 +17616,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ELECTRIKE] = {
         .textData = {
-            .name = "Electrike",
+            .name = "ラクライ",
             .pokedexEntry = "It stores electricity in its fur. It\\ngives off sparks from all over its\\nbody in seasons when the air is dry.",
             .classification = "Lightning Pokémon",
             .height = "2’00”",
@@ -17673,7 +17673,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MANECTRIC] = {
         .textData = {
-            .name = "Manectric",
+            .name = "ライボルト",
             .pokedexEntry = "Its nest can be found where a\\nthunderbolt hits. It is discharging\\nelectricity from its mane.",
             .classification = "Discharge Pokémon",
             .height = "4’11”",
@@ -17730,7 +17730,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PLUSLE] = {
         .textData = {
-            .name = "Plusle",
+            .name = "プラスル",
             .pokedexEntry = "It absorbs electricity from\\ntelephone poles. It shorts out its\\nbody to create crackling noises.",
             .classification = "Cheering Pokémon",
             .height = "1’04”",
@@ -17787,7 +17787,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MINUN] = {
         .textData = {
-            .name = "Minun",
+            .name = "マイナン",
             .pokedexEntry = "Exposure to electricity from MINUN\\nand PLUSLE promotes blood\\ncirculation and relaxes muscles.",
             .classification = "Cheering Pokémon",
             .height = "1’04”",
@@ -17844,7 +17844,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VOLBEAT] = {
         .textData = {
-            .name = "Volbeat",
+            .name = "バルビ－ト",
             .pokedexEntry = "It emits light from its tail to\\ncommunicate. It loves the\\nsweet aroma given off by ILLUMISE.",
             .classification = "Firefly Pokémon",
             .height = "2’04”",
@@ -17901,7 +17901,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ILLUMISE] = {
         .textData = {
-            .name = "Illumise",
+            .name = "イルミ－ゼ",
             .pokedexEntry = "Its fragrance attracts a swarm of\\nVOLBEAT, so they draw over 200\\npatterns in the night sky.",
             .classification = "Firefly Pokémon",
             .height = "2’00”",
@@ -17958,7 +17958,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ROSELIA] = {
         .textData = {
-            .name = "Roselia",
+            .name = "ロゼリア",
             .pokedexEntry = "ROSELIA that drink nutritionally\\nrich springwater are said to reveal\\nrare coloration when they bloom.",
             .classification = "Thorn Pokémon",
             .height = "1’00”",
@@ -18015,7 +18015,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GULPIN] = {
         .textData = {
-            .name = "Gulpin",
+            .name = "ゴクリン",
             .pokedexEntry = "It has a small heart and brain. Its\\nstomach comprises most of its body,\\nwith enzymes to dissolve anything.",
             .classification = "Stomach Pokémon",
             .height = "1’04”",
@@ -18072,7 +18072,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SWALOT] = {
         .textData = {
-            .name = "Swalot",
+            .name = "マルノ－ム",
             .pokedexEntry = "It gulps anything that fits in its\\nmouth. Its special enzymes can\\ndissolve anything.",
             .classification = "Poison Bag Pokémon",
             .height = "5’07”",
@@ -18129,7 +18129,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CARVANHA] = {
         .textData = {
-            .name = "Carvanha",
+            .name = "キバニア",
             .pokedexEntry = "They form packs to attack boats\\nand rip out their hulls to sink them.\\nThey live in rivers in the jungle.",
             .classification = "Savage Pokémon",
             .height = "2’07”",
@@ -18186,7 +18186,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHARPEDO] = {
         .textData = {
-            .name = "Sharpedo",
+            .name = "サメハダ－",
             .pokedexEntry = "It can swim at speeds of 75 mph by\\njetting seawater through its body.\\nIt is the bandit of the sea.",
             .classification = "Brutal Pokémon",
             .height = "5’11”",
@@ -18243,7 +18243,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WAILMER] = {
         .textData = {
-            .name = "Wailmer",
+            .name = "ホエルコ",
             .pokedexEntry = "It bounces playfully like a ball.\\nThe more seawater it swallows,\\nthe higher it bounces.",
             .classification = "Ball Whale Pokémon",
             .height = "6’07”",
@@ -18300,7 +18300,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WAILORD] = {
         .textData = {
-            .name = "Wailord",
+            .name = "ホエルオ－",
             .pokedexEntry = "It is the largest of all identified\\nPokémon. They jump as a pack\\nto herd their prey.",
             .classification = "Float Whale Pokémon",
             .height = "47’07”",
@@ -18357,7 +18357,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_NUMEL] = {
         .textData = {
-            .name = "Numel",
+            .name = "ドンメル",
             .pokedexEntry = "The flaming magma it stores in the\\nhump on its back is the source of\\nits tremendous power.",
             .classification = "Numb Pokémon",
             .height = "2’04”",
@@ -18414,7 +18414,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CAMERUPT] = {
         .textData = {
-            .name = "Camerupt",
+            .name = "バク－ダ",
             .pokedexEntry = "It lives in the crater of a volcano.\\nIt is well known that the humps on\\nits back erupt every 10 years.",
             .classification = "Eruption Pokémon",
             .height = "6’03”",
@@ -18471,7 +18471,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TORKOAL] = {
         .textData = {
-            .name = "Torkoal",
+            .name = "コ－タス",
             .pokedexEntry = "You find abandoned coal mines full\\nof them. They dig tirelessly in\\nsearch of coal.",
             .classification = "Coal Pokémon",
             .height = "1’08”",
@@ -18528,7 +18528,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SPOINK] = {
         .textData = {
-            .name = "Spoink",
+            .name = "バネブ－",
             .pokedexEntry = "It bounces around on its tail to\\nkeep its heart pumping. It carries\\na pearl from CLAMPERL on its head.",
             .classification = "Bounce Pokémon",
             .height = "2’04”",
@@ -18585,7 +18585,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GRUMPIG] = {
         .textData = {
-            .name = "Grumpig",
+            .name = "ブ－ピッグ",
             .pokedexEntry = "It can perform odd dance steps to\\ninfluence foes. Its style of dancing\\nbecame hugely popular overseas.",
             .classification = "Manipulate Pokémon",
             .height = "2’11”",
@@ -18642,7 +18642,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SPINDA] = {
         .textData = {
-            .name = "Spinda",
+            .name = "パッチ－ル",
             .pokedexEntry = "The chances of two SPINDA having\\nidentical spot patterns is less\\nthan one in four billion.",
             .classification = "Spot Panda Pokémon",
             .height = "3’07”",
@@ -18699,7 +18699,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TRAPINCH] = {
         .textData = {
-            .name = "Trapinch",
+            .name = "ナックラ－",
             .pokedexEntry = "Its nest is a sloped, bowl-like pit\\nin the desert. Once something has\\nfallen in, there is no escape.",
             .classification = "Ant Pit Pokémon",
             .height = "2’04”",
@@ -18756,7 +18756,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VIBRAVA] = {
         .textData = {
-            .name = "Vibrava",
+            .name = "ビブラ－バ",
             .pokedexEntry = "It vibrates its wings vigorously,\\ncreating ultrasonic waves that\\ncause serious headaches.",
             .classification = "Vibration Pokémon",
             .height = "3’07”",
@@ -18813,7 +18813,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FLYGON] = {
         .textData = {
-            .name = "Flygon",
+            .name = "フライゴン",
             .pokedexEntry = "It is nicknamed “The Desert\\nSpirit” because the flapping of its\\nwings sounds like a woman singing.",
             .classification = "Mystic Pokémon",
             .height = "6’07”",
@@ -18870,7 +18870,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CACNEA] = {
         .textData = {
-            .name = "Cacnea",
+            .name = "サボネア",
             .pokedexEntry = "It lives in arid locations. Its\\nyellow flowers bloom once a year.",
             .classification = "Cactus Pokémon",
             .height = "1’04”",
@@ -18927,7 +18927,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CACTURNE] = {
         .textData = {
-            .name = "Cacturne",
+            .name = "ノクタス",
             .pokedexEntry = "Packs of them follow travelers\\nthrough the desert until\\nthe travelers can no longer move.",
             .classification = "Scarecrow Pokémon",
             .height = "4’03”",
@@ -18984,7 +18984,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SWABLU] = {
         .textData = {
-            .name = "Swablu",
+            .name = "チルット",
             .pokedexEntry = "Its wings bring cottony clouds to\\nmind. It grooms with springwater\\nand loves to sit on heads.",
             .classification = "Cotton Bird Pokémon",
             .height = "1’04”",
@@ -19041,7 +19041,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ALTARIA] = {
         .textData = {
-            .name = "Altaria",
+            .name = "チルタリス",
             .pokedexEntry = "It flies gracefully through the\\nsky. Its melodic humming makes\\nyou feel like you’re in a dream.",
             .classification = "Humming Pokémon",
             .height = "3’07”",
@@ -19098,7 +19098,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ZANGOOSE] = {
         .textData = {
-            .name = "Zangoose",
+            .name = "ザング－ス",
             .pokedexEntry = "Its fur would all stand on end if\\nit smelled a SEVIPER nearby.\\nIts sharp claws tear up its foes.",
             .classification = "Cat Ferret Pokémon",
             .height = "4’03”",
@@ -19155,7 +19155,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SEVIPER] = {
         .textData = {
-            .name = "Seviper",
+            .name = "ハブネ－ク",
             .pokedexEntry = "In battle, it uses its bladed tail to\\ncounter any ZANGOOSE. It secretes\\na deadly venom in its tail.",
             .classification = "Fang Snake Pokémon",
             .height = "8’10”",
@@ -19212,7 +19212,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUNATONE] = {
         .textData = {
-            .name = "Lunatone",
+            .name = "ルナト－ン",
             .pokedexEntry = "It was discovered at the site of a\\nmeteor strike 40 years ago. Its\\nstare can lull its foes to sleep.",
             .classification = "Meteorite Pokémon",
             .height = "3’03”",
@@ -19269,7 +19269,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SOLROCK] = {
         .textData = {
-            .name = "Solrock",
+            .name = "ソルロック",
             .pokedexEntry = "When it rotates itself, it gives off\\nlight similar to the sun, thus\\nblinding its foes.",
             .classification = "Meteorite Pokémon",
             .height = "3’11”",
@@ -19326,7 +19326,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BARBOACH] = {
         .textData = {
-            .name = "Barboach",
+            .name = "ドジョッチ",
             .pokedexEntry = "BARBOACH uses its whiskers to\\ntaste things just as a person uses\\nhis or her tongue to taste things.",
             .classification = "Whiskers Pokémon",
             .height = "1’04”",
@@ -19383,7 +19383,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WHISCASH] = {
         .textData = {
-            .name = "Whiscash",
+            .name = "ナマズン",
             .pokedexEntry = "It claims a large swamp to itself.\\nIf a foe comes near it, it sets off\\ntremors by thrashing around.",
             .classification = "Whiskers Pokémon",
             .height = "2’11”",
@@ -19440,7 +19440,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CORPHISH] = {
         .textData = {
-            .name = "Corphish",
+            .name = "ヘイガニ",
             .pokedexEntry = "It was originally a Pokémon from\\nafar that escaped to the wild. It\\ncan adapt to the dirtiest river.",
             .classification = "Ruffian Pokémon",
             .height = "2’00”",
@@ -19497,7 +19497,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CRAWDAUNT] = {
         .textData = {
-            .name = "Crawdaunt",
+            .name = "シザリガ－",
             .pokedexEntry = "A brutish Pokémon that loves to\\nbattle. It will crash itself into any\\nfoe that approaches its nest.",
             .classification = "Rogue Pokémon",
             .height = "3’07”",
@@ -19554,7 +19554,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BALTOY] = {
         .textData = {
-            .name = "Baltoy",
+            .name = "ヤジロン",
             .pokedexEntry = "It moves while spinning around on\\nits single foot. Some BALTOY have\\nbeen seen spinning on their heads.",
             .classification = "Clay Doll Pokémon",
             .height = "1’08”",
@@ -19611,7 +19611,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CLAYDOL] = {
         .textData = {
-            .name = "Claydol",
+            .name = "ネンド－ル",
             .pokedexEntry = "It is said that it originates from clay\\ndolls made by an ancient civilization.",
             .classification = "Clay Doll Pokémon",
             .height = "4’11”",
@@ -19668,7 +19668,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LILEEP] = {
         .textData = {
-            .name = "Lileep",
+            .name = "リリ－ラ",
             .pokedexEntry = "It disguises its tentacles as\\nflowers to attract and catch prey.\\nIt became extinct in ancient times.",
             .classification = "Sea Lily Pokémon",
             .height = "3’03”",
@@ -19725,7 +19725,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CRADILY] = {
         .textData = {
-            .name = "Cradily",
+            .name = "ユレイドル",
             .pokedexEntry = "It lives in warm seas. Its heavy\\nbody weighs it down so it won’t\\nget washed away in rough weather.",
             .classification = "Barnacle Pokémon",
             .height = "4’11”",
@@ -19782,7 +19782,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ANORITH] = {
         .textData = {
-            .name = "Anorith",
+            .name = "アノプス",
             .pokedexEntry = "An ancestral Pokémon that lived in\\nthe ocean. Over time, its eight feet\\ntransformed into wings.",
             .classification = "Old Shrimp Pokémon",
             .height = "2’04”",
@@ -19839,7 +19839,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARMALDO] = {
         .textData = {
-            .name = "Armaldo",
+            .name = "ア－マルド",
             .pokedexEntry = "Its enormous, retractable claws\\ncan cut through most anything. Its\\nentire body is clad in sturdy plates.",
             .classification = "Plate Pokémon",
             .height = "4’11”",
@@ -19896,7 +19896,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FEEBAS] = {
         .textData = {
-            .name = "Feebas",
+            .name = "ヒンバス",
             .pokedexEntry = "It is the shabbiest Pokémon of all.\\nIt forms in schools and lives at the\\nbottom of rivers.",
             .classification = "Fish Pokémon",
             .height = "2’00”",
@@ -19953,7 +19953,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MILOTIC] = {
         .textData = {
-            .name = "Milotic",
+            .name = "ミロカロス",
             .pokedexEntry = "It’s said that a glimpse of a\\nMILOTIC and its beauty will calm any\\nhostile emotions you’re feeling.",
             .classification = "Tender Pokémon",
             .height = "20’04”",
@@ -20010,7 +20010,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CASTFORM] = {
         .textData = {
-            .name = "Castform",
+            .name = "ポワルン",
             .pokedexEntry = "This Pokémon can change its cells,\\ntaking different forms based on\\nthe temperature and humidity.",
             .classification = "Weather Pokémon",
             .height = "1’00”",
@@ -20067,7 +20067,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KECLEON] = {
         .textData = {
-            .name = "Kecleon",
+            .name = "カクレオン",
             .pokedexEntry = "It changes its shading to match its\\nsurroundings so it can sneak up on prey.\\nOnly its belly patterns stay fixed.",
             .classification = "Color Swap Pokémon",
             .height = "3’03”",
@@ -20124,7 +20124,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHUPPET] = {
         .textData = {
-            .name = "Shuppet",
+            .name = "カゲボウズ",
             .pokedexEntry = "It uses its horn to feed on envy\\nand malice, or so it’s said.\\nIt’s very active at night.",
             .classification = "Puppet Pokémon",
             .height = "2’00”",
@@ -20181,7 +20181,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BANETTE] = {
         .textData = {
-            .name = "Banette",
+            .name = "ジュペッタ",
             .pokedexEntry = "This Pokémon developed from an\\nabandoned doll that amassed a\\ngrudge. It is seen in dark alleys.",
             .classification = "Marionette Pokémon",
             .height = "3’07”",
@@ -20238,7 +20238,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DUSKULL] = {
         .textData = {
-            .name = "Duskull",
+            .name = "ヨマワル",
             .pokedexEntry = "If it finds bad children who won’t\\nlisten to their parents, it will\\nspirit them away--or so it’s said.",
             .classification = "Requiem Pokémon",
             .height = "2’07”",
@@ -20295,7 +20295,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DUSCLOPS] = {
         .textData = {
-            .name = "Dusclops",
+            .name = "サマヨ－ル",
             .pokedexEntry = "Anyone who dares peer into its body\\nto see its spectral ball of fire\\nwill have their spirit stolen away.",
             .classification = "Beckon Pokémon",
             .height = "5’03”",
@@ -20352,7 +20352,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TROPIUS] = {
         .textData = {
-            .name = "Tropius",
+            .name = "トロピウス",
             .pokedexEntry = "The bunch of fruit around its neck\\nripens twice a year and is delicious.\\nIt’s a highly favored tropical snack.",
             .classification = "Fruit Pokémon",
             .height = "6’07”",
@@ -20409,7 +20409,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHIMECHO] = {
         .textData = {
-            .name = "Chimecho",
+            .name = "チリ－ン",
             .pokedexEntry = "It uses the sucker on its head to\\nhang from a tree or from eaves. It\\ncan produce seven different tones.",
             .classification = "Wind Chime Pokémon",
             .height = "2’00”",
@@ -20466,7 +20466,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ABSOL] = {
         .textData = {
-            .name = "Absol",
+            .name = "アブソル",
             .pokedexEntry = "It has the ability to foretell\\nnatural disasters. Its life span is\\nover a hundred years.",
             .classification = "Disaster Pokémon",
             .height = "3’11”",
@@ -20523,7 +20523,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WYNAUT] = {
         .textData = {
-            .name = "Wynaut",
+            .name = "ソ－ナノ",
             .pokedexEntry = "It tends to move in a pack.\\nIndividuals squash against one\\nanother to toughen their spirits.",
             .classification = "Bright Pokémon",
             .height = "2’00”",
@@ -20580,7 +20580,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SNORUNT] = {
         .textData = {
-            .name = "Snorunt",
+            .name = "ユキワラシ",
             .pokedexEntry = "It’s said that if they are seen at\\nmidnight, they’ll cause heavy snow.\\nThey eat snow and ice to survive.",
             .classification = "Snow Hat Pokémon",
             .height = "2’04”",
@@ -20637,7 +20637,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GLALIE] = {
         .textData = {
-            .name = "Glalie",
+            .name = "オニゴ－リ",
             .pokedexEntry = "It can instantly freeze moisture in\\nthe atmosphere. It uses this power\\nto freeze its foes.",
             .classification = "Face Pokémon",
             .height = "4’11”",
@@ -20694,7 +20694,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SPHEAL] = {
         .textData = {
-            .name = "Spheal",
+            .name = "タマザラシ",
             .pokedexEntry = "It crosses the oceans by rolling itself\\non drifting ice. Fluffy fur keeps it warm\\nwhen the temperature is below freezing.",
             .classification = "Clap Pokémon",
             .height = "2’07”",
@@ -20751,7 +20751,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SEALEO] = {
         .textData = {
-            .name = "Sealeo",
+            .name = "トドグラ－",
             .pokedexEntry = "It has a very sensitive nose.\\nIt touches new things with its nose\\nto examine them.",
             .classification = "Ball Roll Pokémon",
             .height = "3’07”",
@@ -20808,7 +20808,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WALREIN] = {
         .textData = {
-            .name = "Walrein",
+            .name = "トドゼルガ",
             .pokedexEntry = "It shatters drift ice with its\\nstrong tusks. Its thick layer of\\nblubber repels enemy attacks.",
             .classification = "Ice Break Pokémon",
             .height = "4’07”",
@@ -20865,7 +20865,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CLAMPERL] = {
         .textData = {
-            .name = "Clamperl",
+            .name = "パ－ルル",
             .pokedexEntry = "When it evolves, it makes a\\nmysterious pearl that amplifies\\npsychic powers when it’s held.",
             .classification = "Bivalve Pokémon",
             .height = "1’04”",
@@ -20922,7 +20922,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HUNTAIL] = {
         .textData = {
-            .name = "Huntail",
+            .name = "ハンテ－ル",
             .pokedexEntry = "It lives deep in the pitch-dark sea.\\nIt attracts prey by moving its tail\\nin mimicry of a small animal.",
             .classification = "Deep Sea Pokémon",
             .height = "5’07”",
@@ -20979,7 +20979,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GOREBYSS] = {
         .textData = {
-            .name = "Gorebyss",
+            .name = "サクラビス",
             .pokedexEntry = "Its pink body becomes more vivid\\nwith the rise of water\\ntemperatures in the springtime.",
             .classification = "South Sea Pokémon",
             .height = "5’11”",
@@ -21036,7 +21036,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RELICANTH] = {
         .textData = {
-            .name = "Relicanth",
+            .name = "ジ－ランス",
             .pokedexEntry = "Discovered by chance during\\ndeep-sea explorations, it has not\\nchanged since ancient times.",
             .classification = "Longevity Pokémon",
             .height = "3’03”",
@@ -21093,7 +21093,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUVDISC] = {
         .textData = {
-            .name = "Luvdisc",
+            .name = "ラブカス",
             .pokedexEntry = "Its heart-shaped body makes it\\npopular. In some places, you would\\ngive a LUVDISC to someone you love.",
             .classification = "Rendezvous Pokémon",
             .height = "2’00”",
@@ -21150,7 +21150,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BAGON] = {
         .textData = {
-            .name = "Bagon",
+            .name = "タツベイ",
             .pokedexEntry = "Its well-developed neck muscles\\nand ironlike head can smash\\nboulders into pieces.",
             .classification = "Rock Head Pokémon",
             .height = "2’00”",
@@ -21207,7 +21207,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHELGON] = {
         .textData = {
-            .name = "Shelgon",
+            .name = "コモル－",
             .pokedexEntry = "It surrounds its body in an\\niron-hard shell to accumulate\\nenough power to evolve.",
             .classification = "Endurance Pokémon",
             .height = "3’07”",
@@ -21264,7 +21264,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SALAMENCE] = {
         .textData = {
-            .name = "Salamence",
+            .name = "ボ－マンダ",
             .pokedexEntry = "It’s uncontrollable if enraged.\\nIt flies around spouting flames and\\nscorching fields and mountains.",
             .classification = "Dragon Pokémon",
             .height = "4’11”",
@@ -21321,7 +21321,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BELDUM] = {
         .textData = {
-            .name = "Beldum",
+            .name = "ダンバル",
             .pokedexEntry = "The magnetic force generated by\\nits body repels the ground’s\\nnatural magnetism, letting it float.",
             .classification = "Iron Ball Pokémon",
             .height = "2’00”",
@@ -21378,7 +21378,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_METANG] = {
         .textData = {
-            .name = "Metang",
+            .name = "メタング",
             .pokedexEntry = "When two BELDUM fuse together, a\\nmagnetic nervous system places\\ntheir brains in union.",
             .classification = "Iron Claw Pokémon",
             .height = "3’11”",
@@ -21435,7 +21435,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_METAGROSS] = {
         .textData = {
-            .name = "Metagross",
+            .name = "メタグロス",
             .pokedexEntry = "It folds its four legs when flying.\\nIts four brains are said to be\\nsuperior to a supercomputer.",
             .classification = "Iron Leg Pokémon",
             .height = "5’03”",
@@ -21492,7 +21492,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_REGIROCK] = {
         .textData = {
-            .name = "Regirock",
+            .name = "レジロック",
             .pokedexEntry = "The same rocks that form its body\\nhave been found in ground layers\\naround the world.",
             .classification = "Rock Peak Pokémon",
             .height = "5’07”",
@@ -21549,7 +21549,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_REGICE] = {
         .textData = {
-            .name = "Regice",
+            .name = "レジアイス",
             .pokedexEntry = "It is said to have slept in a glacier\\nfor thousands of years. Its body\\ncan’t be melted, even by magma.",
             .classification = "Iceberg Pokémon",
             .height = "5’11”",
@@ -21606,7 +21606,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_REGISTEEL] = {
         .textData = {
-            .name = "Registeel",
+            .name = "レジスチル",
             .pokedexEntry = "Its body is said to be harder than\\nany kind of metal. A study has\\nrevealed that its body is hollow.",
             .classification = "Iron Pokémon",
             .height = "6’03”",
@@ -21663,7 +21663,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LATIAS] = {
         .textData = {
-            .name = "Latias",
+            .name = "ラティアス",
             .pokedexEntry = "It communicates using telepathy.\\nIts body is covered in down that\\nrefracts light to make it invisible.",
             .classification = "Eon Pokémon",
             .height = "4’07”",
@@ -21720,7 +21720,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LATIOS] = {
         .textData = {
-            .name = "Latios",
+            .name = "ラティオス",
             .pokedexEntry = "It understands human speech and is\\nhighly intelligent. It is a tender\\nPokémon that dislikes fighting.",
             .classification = "Eon Pokémon",
             .height = "6’07”",
@@ -21777,7 +21777,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KYOGRE] = {
         .textData = {
-            .name = "Kyogre",
+            .name = "カイオ－ガ",
             .pokedexEntry = "A mythical Pokémon said to have\\nswelled the seas with rain and tidal\\nwaves. It battled with GROUDON.",
             .classification = "Sea Basin Pokémon",
             .height = "14’09”",
@@ -21834,7 +21834,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GROUDON] = {
         .textData = {
-            .name = "Groudon",
+            .name = "グラ－ドン",
             .pokedexEntry = "Said to have expanded the lands by\\nevaporating water with raging heat.\\nIt battled titanically with KYOGRE.",
             .classification = "Continent Pokémon",
             .height = "11’06”",
@@ -21891,7 +21891,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RAYQUAZA] = {
         .textData = {
-            .name = "Rayquaza",
+            .name = "レックウザ",
             .pokedexEntry = "It flies in the ozone layer, way up\\nhigh in the sky. Until recently,\\nno one had ever seen it.",
             .classification = "Sky High Pokémon",
             .height = "23’00”",
@@ -21948,7 +21948,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_JIRACHI] = {
         .textData = {
-            .name = "Jirachi",
+            .name = "ジラ－チ",
             .pokedexEntry = "Generations have believed that any\\nwish written on a note on its head\\nwill come true when it awakens.",
             .classification = "Wish Pokémon",
             .height = "1’00”",
@@ -22005,7 +22005,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DEOXYS] = {
         .textData = {
-            .name = "Deoxys",
+            .name = "デオキシス",
             .pokedexEntry = "DNA from a space virus mutated and\\nbecame a Pokémon. It appears\\nwhere auroras are seen.",
             .classification = "DNA Pokémon",
             .height = "5’07”",
@@ -22062,7 +22062,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TURTWIG] = {
         .textData = {
-            .name = "Turtwig",
+            .name = "ナエトル",
             .pokedexEntry = "Photosynthesis occurs across its\\nbody under the sun. The shell on\\nits back is actually hardened soil.",
             .classification = "Tiny Leaf Pokémon",
             .height = "1’04”",
@@ -22119,7 +22119,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GROTLE] = {
         .textData = {
-            .name = "Grotle",
+            .name = "ハヤシガメ",
             .pokedexEntry = "A GROTLE that lives in the forest\\nis said to have its own secret\\nspringwater.",
             .classification = "Grove Pokémon",
             .height = "3’07”",
@@ -22176,7 +22176,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TORTERRA] = {
         .textData = {
-            .name = "Torterra",
+            .name = "ドダイトス",
             .pokedexEntry = "Ancient people imagined that\\nbeneath the ground, a gigantic\\nTORTERRA dwelled.",
             .classification = "Continent Pokémon",
             .height = "7’03”",
@@ -22233,7 +22233,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHIMCHAR] = {
         .textData = {
-            .name = "Chimchar",
+            .name = "ヒコザル",
             .pokedexEntry = "The gas made in its belly burns from\\nits rear end. The fire burns weakly\\nwhen it feels sick.",
             .classification = "Chimp Pokémon",
             .height = "1’08”",
@@ -22290,7 +22290,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MONFERNO] = {
         .textData = {
-            .name = "Monferno",
+            .name = "モウカザル",
             .pokedexEntry = "A bigger fire on its tail and a\\nbrighter blue pattern on its face\\nmeans its rank in its pack is higher.",
             .classification = "Playful Pokémon",
             .height = "2’11”",
@@ -22347,7 +22347,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_INFERNAPE] = {
         .textData = {
-            .name = "Infernape",
+            .name = "ゴウカザル",
             .pokedexEntry = "It tosses its enemies around with\\nagility. It uses all its limbs to\\nfight in its own unique style.",
             .classification = "Flame Pokémon",
             .height = "3’11”",
@@ -22404,7 +22404,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PIPLUP] = {
         .textData = {
-            .name = "Piplup",
+            .name = "ポッチャマ",
             .pokedexEntry = "It doesn’t like to be taken care\\nof. It’s difficult to bond with since\\nit won’t listen to its Trainer.",
             .classification = "Penguin Pokémon",
             .height = "1’04”",
@@ -22461,7 +22461,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PRINPLUP] = {
         .textData = {
-            .name = "Prinplup",
+            .name = "ポッタイシ",
             .pokedexEntry = "It lives a solitary life. Its wings\\ndeliver wicked blows that can\\nsnap even the thickest of trees.",
             .classification = "Penguin Pokémon",
             .height = "2’07”",
@@ -22518,7 +22518,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_EMPOLEON] = {
         .textData = {
-            .name = "Empoleon",
+            .name = "エンペルト",
             .pokedexEntry = "It avoids unnecessary disputes,\\nbut it will decimate anything that\\nthreatens its pride.",
             .classification = "Emperor Pokémon",
             .height = "5’07”",
@@ -22575,7 +22575,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STARLY] = {
         .textData = {
-            .name = "Starly",
+            .name = "ムックル",
             .pokedexEntry = "They flock around mountains and\\nfields, chasing after bug Pokémon.\\nTheir singing is noisy and annoying.",
             .classification = "Starling Pokémon",
             .height = "1’00”",
@@ -22632,7 +22632,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STARAVIA] = {
         .textData = {
-            .name = "Staravia",
+            .name = "ムクバ－ド",
             .pokedexEntry = "They maintain huge flocks, although\\nfierce scuffles break out between\\nvarious flocks.",
             .classification = "Starling Pokémon",
             .height = "2’00”",
@@ -22689,7 +22689,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STARAPTOR] = {
         .textData = {
-            .name = "Staraptor",
+            .name = "ムクホ－ク",
             .pokedexEntry = "When STARAVIA evolve into\\nSTARAPTOR, they leave the flock to\\nlive alone. They have sturdy wings.",
             .classification = "Predator Pokémon",
             .height = "3’11”",
@@ -22746,7 +22746,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BIDOOF] = {
         .textData = {
-            .name = "Bidoof",
+            .name = "ビッパ",
             .pokedexEntry = "It lives in groups by the water. \\nIt chews up boulders and trees\\naround its nest with its incisors.",
             .classification = "Plump Mouse Pokémon",
             .height = "1’08”",
@@ -22803,7 +22803,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BIBAREL] = {
         .textData = {
-            .name = "Bibarel",
+            .name = "ビ－ダル",
             .pokedexEntry = "It busily makes its nest with\\nstacks of branches and roots it\\nhas cut up with its sharp incisors.",
             .classification = "Beaver Pokémon",
             .height = "3’03”",
@@ -22860,7 +22860,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KRICKETOT] = {
         .textData = {
-            .name = "Kricketot",
+            .name = "コロボ－シ",
             .pokedexEntry = "When its antennae hit each other,\\nit sounds like the music of\\na xylophone.",
             .classification = "Cricket Pokémon",
             .height = "1’00”",
@@ -22917,7 +22917,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_KRICKETUNE] = {
         .textData = {
-            .name = "Kricketune",
+            .name = "コロトック",
             .pokedexEntry = "By allowing its cry to resonate in\\nthe hollow of its belly, it produces\\na captivating sound.",
             .classification = "Cricket Pokémon",
             .height = "3’03”",
@@ -22974,7 +22974,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHINX] = {
         .textData = {
-            .name = "Shinx",
+            .name = "コリンク",
             .pokedexEntry = "The extension and contraction of\\nits muscles generates electricity.\\nIts fur glows when it’s in trouble.",
             .classification = "Flash Pokémon",
             .height = "1’08”",
@@ -23031,7 +23031,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUXIO] = {
         .textData = {
-            .name = "Luxio",
+            .name = "ルクシオ",
             .pokedexEntry = "By gathering their tails together,\\nthey collectively generate powerful\\nelectricity from their claws.",
             .classification = "Spark Pokémon",
             .height = "2’11”",
@@ -23088,7 +23088,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUXRAY] = {
         .textData = {
-            .name = "Luxray",
+            .name = "レントラ－",
             .pokedexEntry = "LUXRAY’s ability to see through\\nobjects comes in handy when it’s\\nscouting for danger.",
             .classification = "Gleam Eyes Pokémon",
             .height = "4’07”",
@@ -23145,7 +23145,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BUDEW] = {
         .textData = {
-            .name = "Budew",
+            .name = "スボミ－",
             .pokedexEntry = "When it feels the sun’s warm touch,\\nit opens its bud to release pollen.\\nIt lives alongside clear pools.",
             .classification = "Bud Pokémon",
             .height = "0’08”",
@@ -23202,7 +23202,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ROSERADE] = {
         .textData = {
-            .name = "Roserade",
+            .name = "ロズレイド",
             .pokedexEntry = "Its sweet aroma attracts prey.\\nThen it spews poison. The more\\ntoxic it is, the sweeter its aroma.",
             .classification = "Bouquet Pokémon",
             .height = "2’11”",
@@ -23259,7 +23259,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CRANIDOS] = {
         .textData = {
-            .name = "Cranidos",
+            .name = "ズガイドス",
             .pokedexEntry = "CRANIDOS toughen up their already\\nrock-hard heads by headbutting\\none another.",
             .classification = "Head Butt Pokémon",
             .height = "2’11”",
@@ -23316,7 +23316,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RAMPARDOS] = {
         .textData = {
-            .name = "Rampardos",
+            .name = "ラムパルド",
             .pokedexEntry = "Its skull withstands impacts of any\\nmagnitude. As a result, its brain\\nnever gets the chance to grow.",
             .classification = "Head Butt Pokémon",
             .height = "5’03”",
@@ -23373,7 +23373,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHIELDON] = {
         .textData = {
-            .name = "Shieldon",
+            .name = "タテトプス",
             .pokedexEntry = "It was generated from a fossil dug out\\nof a layer of clay that was older than\\nanyone knows. It has a sturdy face.",
             .classification = "Shield Pokémon",
             .height = "1’08”",
@@ -23430,7 +23430,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BASTIODON] = {
         .textData = {
-            .name = "Bastiodon",
+            .name = "トリデプス",
             .pokedexEntry = "When attacked, they form a wall.\\nTheir rock-hard faces serve to\\nprotect them from the attacks.",
             .classification = "Shield Pokémon",
             .height = "4’03”",
@@ -23487,7 +23487,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BURMY] = {
         .textData = {
-            .name = "Burmy",
+            .name = "ミノムッチ",
             .pokedexEntry = "It covers itself with a cloak to\\nshelter from the cold. When it’s\\nhot, its cloak is thinner.",
             .classification = "Bagworm Pokémon",
             .height = "0’08”",
@@ -23544,7 +23544,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WORMADAM] = {
         .textData = {
-            .name = "Wormadam",
+            .name = "ミノマダム",
             .pokedexEntry = "It is said that a WORMADAM that\\nevolves on a cold day will have a\\nthicker cloak.",
             .classification = "Bagworm Pokémon",
             .height = "1’08”",
@@ -23601,7 +23601,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MOTHIM] = {
         .textData = {
-            .name = "Mothim",
+            .name = "ガ－メイル",
             .pokedexEntry = "It flutters around at night and\\nsteals honey from the COMBEE hive.",
             .classification = "Moth Pokémon",
             .height = "2’11”",
@@ -23658,7 +23658,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_COMBEE] = {
         .textData = {
-            .name = "Combee",
+            .name = "ミツハニ－",
             .pokedexEntry = "At night, COMBEE sleep in a group of\\nabout a thousand, packed closely\\ntogether in a lump.",
             .classification = "Tiny Bee Pokémon",
             .height = "1’00”",
@@ -23715,7 +23715,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_VESPIQUEN] = {
         .textData = {
-            .name = "Vespiquen",
+            .name = "ビ－クイン",
             .pokedexEntry = "It raises grubs in the holes in its\\nbody. It secretes pheromones to\\ncontrol COMBEE.",
             .classification = "Beehive Pokémon",
             .height = "3’11”",
@@ -23772,7 +23772,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PACHIRISU] = {
         .textData = {
-            .name = "Pachirisu",
+            .name = "パチリス",
             .pokedexEntry = "It’s one of the kinds of Pokémon \\nwith electric cheek pouches.\\nIt shoots charges from its tail.",
             .classification = "EleSquirrel Pokémon",
             .height = "1’04”",
@@ -23829,7 +23829,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BUIZEL] = {
         .textData = {
-            .name = "Buizel",
+            .name = "ブイゼル",
             .pokedexEntry = "It inflates its flotation sac,\\nkeeping its face above water in\\norder to watch for prey movement.",
             .classification = "Sea Weasel Pokémon",
             .height = "2’04”",
@@ -23886,7 +23886,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FLOATZEL] = {
         .textData = {
-            .name = "Floatzel",
+            .name = "フロ－ゼル",
             .pokedexEntry = "With its flotation sac inflated, it\\ncan carry people on its back. It\\ndeflates the sac before it dives.",
             .classification = "Sea Weasel Pokémon",
             .height = "3’07”",
@@ -23943,7 +23943,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHERUBI] = {
         .textData = {
-            .name = "Cherubi",
+            .name = "チェリンボ",
             .pokedexEntry = "It evolves by sucking the energy\\nout of the small ball where it had\\nbeen storing nutrients.",
             .classification = "Cherry Pokémon",
             .height = "1’04”",
@@ -24000,7 +24000,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHERRIM] = {
         .textData = {
-            .name = "Cherrim",
+            .name = "チェリム",
             .pokedexEntry = "During times of strong sunlight,\\nits bud blooms, its petals open\\nfully, and it becomes very active.",
             .classification = "Blossom Pokémon",
             .height = "1’08”",
@@ -24057,7 +24057,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHELLOS] = {
         .textData = {
-            .name = "Shellos",
+            .name = "カラナクシ",
             .pokedexEntry = "Its shape and coloration vary,\\ndepending on its habitat.",
             .classification = "Sea Slug Pokémon",
             .height = "1’00”",
@@ -24114,7 +24114,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GASTRODON] = {
         .textData = {
-            .name = "Gastrodon",
+            .name = "トリトドン",
             .pokedexEntry = "When its natural enemy attacks,\\nit oozes purple fluid and escapes.",
             .classification = "Sea Slug Pokémon",
             .height = "2’11”",
@@ -24171,7 +24171,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AMBIPOM] = {
         .textData = {
-            .name = "Ambipom",
+            .name = "エテボ－ス",
             .pokedexEntry = "They live on large trees. They are\\nsaid to communicate by connecting\\ntheir tails to those of others.",
             .classification = "Long Tail Pokémon",
             .height = "3’11”",
@@ -24228,7 +24228,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DRIFLOON] = {
         .textData = {
-            .name = "Drifloon",
+            .name = "フワンテ",
             .pokedexEntry = "It is whispered that any child who\\nmistakes DRIFLOON for a balloon and\\nholds on to it could wind up missing.",
             .classification = "Balloon Pokémon",
             .height = "1’04”",
@@ -24285,7 +24285,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DRIFBLIM] = {
         .textData = {
-            .name = "Drifblim",
+            .name = "フワライド",
             .pokedexEntry = "It can generate and release gas\\nwithin its body. That’s how it can\\ncontrol the altitude of its drift.",
             .classification = "Blimp Pokémon",
             .height = "3’11”",
@@ -24342,7 +24342,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BUNEARY] = {
         .textData = {
-            .name = "Buneary",
+            .name = "ミミロル",
             .pokedexEntry = "You can tell how it feels by the way\\nit rolls its ears. When it’s scared,\\nboth ears are rolled up.",
             .classification = "Rabbit Pokémon",
             .height = "1’04”",
@@ -24399,7 +24399,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LOPUNNY] = {
         .textData = {
-            .name = "Lopunny",
+            .name = "ミミロップ",
             .pokedexEntry = "It sheds its fur twice a year.\\nIts winter fur is soft and fluffy.",
             .classification = "Rabbit Pokémon",
             .height = "3’11”",
@@ -24456,7 +24456,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MISMAGIUS] = {
         .textData = {
-            .name = "Mismagius",
+            .name = "ムウマ－ジ",
             .pokedexEntry = "Its cries sound like incantations\\nto torment the foe. It appears\\nwhere you least expect it.",
             .classification = "Magical Pokémon",
             .height = "2’11”",
@@ -24513,7 +24513,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HONCHKROW] = {
         .textData = {
-            .name = "Honchkrow",
+            .name = "ドンカラス",
             .pokedexEntry = "It is merciless by nature. It is said\\nthat it never forgives the mistakes\\nof its MURKROW followers.",
             .classification = "Big Boss Pokémon",
             .height = "2’11”",
@@ -24570,7 +24570,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GLAMEOW] = {
         .textData = {
-            .name = "Glameow",
+            .name = "ニャルマ－",
             .pokedexEntry = "When it’s happy, GLAMEOW\\ndemonstrates beautiful movements\\nof its tail, like a dancing ribbon.",
             .classification = "Catty Pokémon",
             .height = "1’08”",
@@ -24627,7 +24627,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PURUGLY] = {
         .textData = {
-            .name = "Purugly",
+            .name = "ブニャット",
             .pokedexEntry = "It would claim another Pokémon’s\\nnest as its own if it finds a nest\\nsufficiently comfortable.",
             .classification = "Tiger Cat Pokémon",
             .height = "3’03”",
@@ -24684,7 +24684,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHINGLING] = {
         .textData = {
-            .name = "Chingling",
+            .name = "リ－シャン",
             .pokedexEntry = "It emits high-frequency cries that \\npeople can’t hear. Once it starts,\\nit can cry for an awfully long time.",
             .classification = "Bell Pokémon",
             .height = "0’08”",
@@ -24741,7 +24741,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_STUNKY] = {
         .textData = {
-            .name = "Stunky",
+            .name = "スカンプ－",
             .pokedexEntry = "The foul fluid from its rear is so\\nrevolting that it can make people feel\\nqueasy up to a mile and a quarter away.",
             .classification = "Skunk Pokémon",
             .height = "1’04”",
@@ -24798,7 +24798,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SKUNTANK] = {
         .textData = {
-            .name = "Skuntank",
+            .name = "スカタンク",
             .pokedexEntry = "It attacks by spraying a repugnant\\nfluid from its tail, but the stench\\ndulls after a few squirts.",
             .classification = "Skunk Pokémon",
             .height = "3’03”",
@@ -24855,7 +24855,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BRONZOR] = {
         .textData = {
-            .name = "Bronzor",
+            .name = "ド－ミラ－",
             .pokedexEntry = "Ancient people believed that the\\npattern on BRONZOR’s back\\ncontained a mysterious power.",
             .classification = "Bronze Pokémon",
             .height = "1’08”",
@@ -24912,7 +24912,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BRONZONG] = {
         .textData = {
-            .name = "Bronzong",
+            .name = "ド－タクン",
             .pokedexEntry = "Ancient people believed that\\npetitioning BRONZONG for rain\\nwas the way to make crops grow.",
             .classification = "Bronze Bell Pokémon",
             .height = "4’03”",
@@ -24969,7 +24969,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_BONSLY] = {
         .textData = {
-            .name = "Bonsly",
+            .name = "ウソハチ",
             .pokedexEntry = "In order to adjust the level of fluids in\\nits body, it exudes water from its eyes.\\nThis makes it appear to be crying.",
             .classification = "Bonsai Pokémon",
             .height = "1’08”",
@@ -25026,7 +25026,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MIME_JR] = {
         .textData = {
-            .name = "Mime Jr.",
+            .name = "マネネ",
             .pokedexEntry = "In an attempt to confuse its enemy,\\nit mimics the enemy’s movements. Then\\nit wastes no time in making itself scarce!",
             .classification = "Mime Pokémon",
             .height = "2’00”",
@@ -25083,7 +25083,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HAPPINY] = {
         .textData = {
-            .name = "Happiny",
+            .name = "ピンプク",
             .pokedexEntry = "It carefully carries a round, white rock\\nthat it thinks is an egg. It’s bothered\\nby how curly its hair looks.",
             .classification = "Playhouse Pokémon",
             .height = "2’00”",
@@ -25140,7 +25140,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CHATOT] = {
         .textData = {
-            .name = "Chatot",
+            .name = "ペラップ",
             .pokedexEntry = "It mimics the cries of other Pokémon to\\ntrick them into thinking it’s one of them.\\nThis way they won’t attack it.",
             .classification = "Music Note Pokémon",
             .height = "1’08”",
@@ -25197,7 +25197,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SPIRITOMB] = {
         .textData = {
-            .name = "Spiritomb",
+            .name = "ミカルゲ",
             .pokedexEntry = "It was formed by uniting 108 spirits.\\nIt has been bound to the Odd Keystone\\nto keep it from doing any mischief.",
             .classification = "Forbidden Pokémon",
             .height = "3’03”",
@@ -25254,7 +25254,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GIBLE] = {
         .textData = {
-            .name = "Gible",
+            .name = "フカマル",
             .pokedexEntry = "It nests in horizontal holes warmed by\\ngeothermal heat. Foes who get too close\\ncan expect to be pounced on and bitten.",
             .classification = "Land Shark Pokémon",
             .height = "2’04”",
@@ -25311,7 +25311,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GABITE] = {
         .textData = {
-            .name = "Gabite",
+            .name = "ガバイト",
             .pokedexEntry = "As it digs to expand its nest, it\\nhabitually digs up gems that it\\nthen hoards in its nest.",
             .classification = "Cave Pokémon",
             .height = "4’07”",
@@ -25368,7 +25368,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GARCHOMP] = {
         .textData = {
-            .name = "Garchomp",
+            .name = "ガブリアス",
             .pokedexEntry = "Its body is covered in fine scales that\\nreduce drag, enabling it to fly at\\nhigh speeds.",
             .classification = "Mach Pokémon",
             .height = "6’03”",
@@ -25425,7 +25425,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MUNCHLAX] = {
         .textData = {
-            .name = "Munchlax",
+            .name = "ゴンベ",
             .pokedexEntry = "It conceals food under the long fur on\\nits body. It carts around this food\\nstash and swallows it without chewing.",
             .classification = "Big Eater Pokémon",
             .height = "2’00”",
@@ -25482,7 +25482,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RIOLU] = {
         .textData = {
-            .name = "Riolu",
+            .name = "リオル",
             .pokedexEntry = "They communicate with one another\\nusing their auras. They are able to run\\nall through the night.",
             .classification = "Emanation Pokémon",
             .height = "2’04”",
@@ -25539,7 +25539,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUCARIO] = {
         .textData = {
-            .name = "Lucario",
+            .name = "ルカリオ",
             .pokedexEntry = "It’s said that no foe can remain invisible\\nto LUCARIO, since it can detect auras.\\nEven foes it could not otherwise see.",
             .classification = "Aura Pokémon",
             .height = "3’11”",
@@ -25596,7 +25596,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HIPPOPOTAS] = {
         .textData = {
-            .name = "Hippopotas",
+            .name = "ヒポポタス",
             .pokedexEntry = "It shrouds itself in sand to ward off\\ngerms. It travels easily through the\\nsands of the desert.",
             .classification = "Hippo Pokémon",
             .height = "2’07”",
@@ -25653,7 +25653,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HIPPOWDON] = {
         .textData = {
-            .name = "Hippowdon",
+            .name = "カバルドン",
             .pokedexEntry = "It brandishes its gaping mouth in a\\ndisplay of fearsome strength. It raises\\nvast quantities of sand while attacking.",
             .classification = "Heavyweight Pokémon",
             .height = "6’07”",
@@ -25710,7 +25710,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SKORUPI] = {
         .textData = {
-            .name = "Skorupi",
+            .name = "スコルピ",
             .pokedexEntry = "It burrows under the sand to lie in\\nwait for prey. Its tail claws can inject\\nits prey with a savage poison.",
             .classification = "Scorpion Pokémon",
             .height = "2’07”",
@@ -25767,7 +25767,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DRAPION] = {
         .textData = {
-            .name = "Drapion",
+            .name = "ドラピオン",
             .pokedexEntry = "It attacks people and Pokémon that\\ncross the desert. This has only\\nfurthered its bad reputation.",
             .classification = "Ogre Scorp Pokémon",
             .height = "4’03”",
@@ -25824,7 +25824,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CROAGUNK] = {
         .textData = {
-            .name = "Croagunk",
+            .name = "グレッグル",
             .pokedexEntry = "Fluid squeezed from its finger, albeit\\npoisonous, is a significant ingredient in\\nremedies for lower-back pain.",
             .classification = "Toxic Mouth Pokémon",
             .height = "2’04”",
@@ -25881,7 +25881,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TOXICROAK] = {
         .textData = {
-            .name = "Toxicroak",
+            .name = "ドクロッグ",
             .pokedexEntry = "Swaying and dodging the attacks of its\\nfoes, it weaves its flexible body in close,\\nthen lunges out with its poisonous claws.",
             .classification = "Toxic Mouth Pokémon",
             .height = "4’03”",
@@ -25938,7 +25938,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CARNIVINE] = {
         .textData = {
-            .name = "Carnivine",
+            .name = "マスキッパ",
             .pokedexEntry = "It walks around on its tentacles in\\nsearch of a tree branch where it\\ncan dangle down and ambush prey.",
             .classification = "Bug Catcher Pokémon",
             .height = "4’07”",
@@ -25995,7 +25995,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FINNEON] = {
         .textData = {
-            .name = "Finneon",
+            .name = "ケイコウオ",
             .pokedexEntry = "Swimming and fluttering its two tail fins,\\nit looks like a BEAUTIFLY. At night, the\\npatterns on its tail fins softly shine.",
             .classification = "Wing Fish Pokémon",
             .height = "1’04”",
@@ -26052,7 +26052,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LUMINEON] = {
         .textData = {
-            .name = "Lumineon",
+            .name = "ネオラント",
             .pokedexEntry = "LUMINEON swimming in the darkness\\nof the deep sea look like stars shining\\nin the night sky.",
             .classification = "Neon Pokémon",
             .height = "3’11”",
@@ -26109,7 +26109,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MANTYKE] = {
         .textData = {
-            .name = "Mantyke",
+            .name = "タマンタ",
             .pokedexEntry = "When it swims close to the surface of the\\nocean, people aboard ships are able to\\nobserve the pattern on its back.",
             .classification = "Kite Pokémon",
             .height = "3’03”",
@@ -26166,7 +26166,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SNOVER] = {
         .textData = {
-            .name = "Snover",
+            .name = "ユキカブリ",
             .pokedexEntry = "During cold seasons, it migrates to the\\nmountain’s lower reaches. It returns to\\nthe snow-covered summit in the spring.",
             .classification = "Frost Tree Pokémon",
             .height = "3’03”",
@@ -26223,7 +26223,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ABOMASNOW] = {
         .textData = {
-            .name = "Abomasnow",
+            .name = "ユキノオ－",
             .pokedexEntry = "It lives a quiet life on mountains that\\nare perpetually covered in snow.\\nIt hides itself by whipping up blizzards.",
             .classification = "Frost Tree Pokémon",
             .height = "7’03”",
@@ -26280,7 +26280,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_WEAVILE] = {
         .textData = {
-            .name = "Weavile",
+            .name = "マニュ－ラ",
             .pokedexEntry = "It lives in snowy regions. It carves\\npatterns in trees with its claws as\\na signal to others.",
             .classification = "Sharp Claw Pokémon",
             .height = "3’07”",
@@ -26337,7 +26337,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGNEZONE] = {
         .textData = {
-            .name = "Magnezone",
+            .name = "ジバコイル",
             .pokedexEntry = "Exposure to a special magnetic field\\nchanged MAGNETON’s molecular\\nstructure, turning it into MAGNEZONE.",
             .classification = "Magnet Area Pokémon",
             .height = "3’11”",
@@ -26394,7 +26394,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LICKILICKY] = {
         .textData = {
-            .name = "Lickilicky",
+            .name = "ベロベルト",
             .pokedexEntry = "Its saliva can decompose anything.\\nIt wraps its long tongue around things\\nto coat them with its sticky saliva.",
             .classification = "Licking Pokémon",
             .height = "5’07”",
@@ -26451,7 +26451,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_RHYPERIOR] = {
         .textData = {
-            .name = "Rhyperior",
+            .name = "ドサイドン",
             .pokedexEntry = "From holes in its palms, it fires out\\nGEODUDE. Its carapace \\ncan withstand volcanic eruptions.",
             .classification = "Drill Pokémon",
             .height = "7’10”",
@@ -26508,7 +26508,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TANGROWTH] = {
         .textData = {
-            .name = "Tangrowth",
+            .name = "モジャンボ",
             .pokedexEntry = "When it remains still, it appears to be a\\nlarge shrub. Unsuspecting prey that\\nwander near get ensnared by its vines.",
             .classification = "Vine Pokémon",
             .height = "6’07”",
@@ -26565,7 +26565,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ELECTIVIRE] = {
         .textData = {
-            .name = "Electivire",
+            .name = "エレキブル",
             .pokedexEntry = "As its electric charge amplifies,\\nblue sparks begin to crackle between\\nits horns.",
             .classification = "Thunderbolt Pokémon",
             .height = "5’11”",
@@ -26622,7 +26622,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAGMORTAR] = {
         .textData = {
-            .name = "Magmortar",
+            .name = "ブ－バ－ン",
             .pokedexEntry = "It blasts fireballs of over\\n3,600 degrees Fahrenheit out of its\\narms. Its breath also sears and sizzles.",
             .classification = "Blast Pokémon",
             .height = "5’03”",
@@ -26679,7 +26679,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_TOGEKISS] = {
         .textData = {
-            .name = "Togekiss",
+            .name = "トゲキッス",
             .pokedexEntry = "As everyone knows, it visits peaceful\\nregions, bringing them gifts of kindness\\nand sweet blessings.",
             .classification = "Jubilee Pokémon",
             .height = "4’11”",
@@ -26736,7 +26736,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_YANMEGA] = {
         .textData = {
-            .name = "Yanmega",
+            .name = "メガヤンマ",
             .pokedexEntry = "This six-legged Pokémon is easily capable\\nof transporting an adult in flight. The\\nwings on its tail help it stay balanced.",
             .classification = "Ogre Darner Pokémon",
             .height = "6’03”",
@@ -26793,7 +26793,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_LEAFEON] = {
         .textData = {
-            .name = "Leafeon",
+            .name = "リ－フィア",
             .pokedexEntry = "When you see LEAFEON asleep in a patch\\nof sunshine, you’ll know it is using\\nphotosynthesis to produce clean air.",
             .classification = "Verdant Pokémon",
             .height = "3’03”",
@@ -26850,7 +26850,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GLACEON] = {
         .textData = {
-            .name = "Glaceon",
+            .name = "グレイシア",
             .pokedexEntry = "It causes small ice crystals to form by\\nlowering the temperature of the\\nsurrounding atmosphere.",
             .classification = "Fresh Snow Pokémon",
             .height = "2’07”",
@@ -26907,7 +26907,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GLISCOR] = {
         .textData = {
-            .name = "Gliscor",
+            .name = "グライオン",
             .pokedexEntry = "Its flight is soundless. It uses its\\nlengthy tail to carry off its prey...\\nThen its elongated fangs do the rest.",
             .classification = "Fang Scorp Pokémon",
             .height = "6’07”",
@@ -26964,7 +26964,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MAMOSWINE] = {
         .textData = {
-            .name = "Mamoswine",
+            .name = "マンム－",
             .pokedexEntry = "A frozen MAMOSWINE was dug from ice\\ndating back 10,000 years. This Pokémon\\nhas been around a long, long, long time.",
             .classification = "Twin Tusk Pokémon",
             .height = "8’02”",
@@ -27021,7 +27021,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PORYGON_Z] = {
         .textData = {
-            .name = "Porygon-Z",
+            .name = "ポリゴンＺ",
             .pokedexEntry = "Its programming was modified to enable\\nit to travel through alien dimensions.\\nSeems there might have been an error...",
             .classification = "Virtual Pokémon",
             .height = "2’11”",
@@ -27078,7 +27078,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GALLADE] = {
         .textData = {
-            .name = "Gallade",
+            .name = "エルレイド",
             .pokedexEntry = "Because it can sense what its foe\\nis thinking, its attacks burst out\\nfirst, fast, and fierce.",
             .classification = "Blade Pokémon",
             .height = "5’03”",
@@ -27135,7 +27135,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PROBOPASS] = {
         .textData = {
-            .name = "Probopass",
+            .name = "ダイノ－ズ",
             .pokedexEntry = "It controls three units called Mini-Noses\\nusing magnetic force. With them, it can\\nattack the foe from three directions.",
             .classification = "Compass Pokémon",
             .height = "4’07”",
@@ -27192,7 +27192,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DUSKNOIR] = {
         .textData = {
-            .name = "Dusknoir",
+            .name = "ヨノワ－ル",
             .pokedexEntry = "This feared Pokémon is said to travel to\\nworlds unknown. Some even believe that\\nit takes lost spirits along with it.",
             .classification = "Gripper Pokémon",
             .height = "7’03”",
@@ -27249,7 +27249,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_FROSLASS] = {
         .textData = {
-            .name = "Froslass",
+            .name = "ユキメノコ",
             .pokedexEntry = "Legends in snowy regions say that\\na woman who was lost on an icy\\nmountain was reborn as FROSLASS.",
             .classification = "Snow Land Pokémon",
             .height = "4’03”",
@@ -27306,7 +27306,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ROTOM] = {
         .textData = {
-            .name = "Rotom",
+            .name = "ロトム",
             .pokedexEntry = "Research continues on this Pokémon,\\nwhich could be the power source of a\\nunique motor.",
             .classification = "Plasma Pokémon",
             .height = "1’00”",
@@ -27363,7 +27363,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_UXIE] = {
         .textData = {
-            .name = "Uxie",
+            .name = "ユクシ－",
             .pokedexEntry = "According to some sources, this Pokémon\\nprovided people with the intelligence\\nnecessary to solve various problems.",
             .classification = "Knowledge Pokémon",
             .height = "1’00”",
@@ -27420,7 +27420,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MESPRIT] = {
         .textData = {
-            .name = "Mesprit",
+            .name = "エムリット",
             .pokedexEntry = "This Pokémon is said to have endowed\\nthe human heart with emotions, such as\\nsorrow and joy.",
             .classification = "Emotion Pokémon",
             .height = "1’00”",
@@ -27477,7 +27477,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_AZELF] = {
         .textData = {
-            .name = "Azelf",
+            .name = "アグノム",
             .pokedexEntry = "This Pokémon is said to have endowed\\nhumans with the determination needed\\nto face any of life’s difficulties.",
             .classification = "Willpower Pokémon",
             .height = "1’00”",
@@ -27534,7 +27534,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DIALGA] = {
         .textData = {
-            .name = "Dialga",
+            .name = "ディアルガ",
             .pokedexEntry = "This Pokémon completely controls the\\nflow of time. It uses its power to travel\\nat will through the past and future.",
             .classification = "Temporal Pokémon",
             .height = "17’09”",
@@ -27591,7 +27591,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PALKIA] = {
         .textData = {
-            .name = "Palkia",
+            .name = "パルキア",
             .pokedexEntry = "Its total control over the boundaries\\nof space enable it to transport itself to\\nfaraway places or even other dimensions.",
             .classification = "Spatial Pokémon",
             .height = "13’09”",
@@ -27648,7 +27648,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_HEATRAN] = {
         .textData = {
-            .name = "Heatran",
+            .name = "ヒ－ドラン",
             .pokedexEntry = "Boiling blood, like magma, circulates\\nthrough its body. It makes its dwelling\\nplace in volcanic caves.",
             .classification = "Lava Dome Pokémon",
             .height = "5’07”",
@@ -27705,7 +27705,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_REGIGIGAS] = {
         .textData = {
-            .name = "Regigigas",
+            .name = "レジギガス",
             .pokedexEntry = "It is believed to have shaped\\nREGIROCK, REGICE, and REGISTEEL\\nout of clay, ice, and magma.",
             .classification = "Colossal Pokémon",
             .height = "12’02”",
@@ -27762,7 +27762,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_GIRATINA] = {
         .textData = {
-            .name = "Giratina",
+            .name = "ギラティナ",
             .pokedexEntry = "This Pokémon is said to live in a world on\\nthe reverse side of ours, where common\\nknowledge is distorted and strange.",
             .classification = "Renegade Pokémon",
             .height = "14’09”",
@@ -27819,7 +27819,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_CRESSELIA] = {
         .textData = {
-            .name = "Cresselia",
+            .name = "クレセリア",
             .pokedexEntry = "Those who sleep holding CRESSELIA’s\\nfeather are assured of joyful dreams. It\\nis said to represent the crescent moon.",
             .classification = "Lunar Pokémon",
             .height = "4’11”",
@@ -27876,7 +27876,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_PHIONE] = {
         .textData = {
-            .name = "Phione",
+            .name = "フィオネ",
             .pokedexEntry = "When the water warms, they inflate the\\nflotation sac on their heads and drift\\nlanguidly on the sea in packs.",
             .classification = "Sea Drifter Pokémon",
             .height = "1’04”",
@@ -27933,7 +27933,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_MANAPHY] = {
         .textData = {
-            .name = "Manaphy",
+            .name = "マナフィ",
             .pokedexEntry = "It starts its life with a wondrous power\\nthat permits it to bond with any kind\\nof Pokémon.",
             .classification = "Seafaring Pokémon",
             .height = "1’00”",
@@ -27990,7 +27990,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_DARKRAI] = {
         .textData = {
-            .name = "Darkrai",
+            .name = "ダ－クライ",
             .pokedexEntry = "It chases people and Pokémon from its\\nterritory by causing them to experience\\ndeep, nightmarish slumbers.",
             .classification = "Pitch-Black Pokémon",
             .height = "4’11”",
@@ -28047,7 +28047,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_SHAYMIN] = {
         .textData = {
-            .name = "Shaymin",
+            .name = "シェイミ",
             .pokedexEntry = "The blooming of Gracidea flowers confers\\nthe power of flight upon it. Feelings \\nof gratitude are the message it delivers.",
             .classification = "Gratitude Pokémon",
             .height = "0’08”",
@@ -28104,7 +28104,7 @@ const SpeciesDataEntry sSpeciesData[MAX_SPECIES_INCLUDING_FORMS + 1] = {
 
     [SPECIES_ARCEUS] = {
         .textData = {
-            .name = "Arceus",
+            .name = "アルセウス",
             .pokedexEntry = "It is told in mythology that this\\nPokémon was born before the universe\\neven existed.",
             .classification = "Alpha Pokémon",
             .height = "10’06”",
