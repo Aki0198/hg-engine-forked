@@ -4938,47 +4938,10 @@ void AbilityPopup_SlideIn(void *data)
 
 BOOL btl_scr_cmd_116_abilitypopup(void *bw, struct BattleStruct *sp)
 {
-#ifdef DEBUG_ABILITY_POPUP
-    debug_printf("btl_scr_cmd abilitypopup %d\n", sp->battle_progress_flag);
-#endif
-
-    if (sp->abilityPopupWork == NULL) {
-        IncrementBattleScriptPtr(sp, 1);
-        {
-            struct ABILITY_POPUP_WORK *work = sys_AllocMemory(HEAPID_BATTLE_HEAP, sizeof(struct ABILITY_POPUP_WORK));
-            int battler = GrabClientFromBattleScriptParam(bw, sp, read_battle_script_param(sp));
-            int side = IsClientEnemy(bw, battler);
-            int ability = read_battle_script_param(sp);
-
-            sp->skill_seq_no -= 3; // reset position to current command so script does not continue
-
-            if (ability == -1) {
-                ability = sp->battlemon[battler].ability;
-            }
-
-            sp->abilityPopupWork = work;
-            work->bsys = bw;
-            work->ability = ability;
-            work->battler = battler;
-            work->side = side;
-            work->frames = 0;
-            work->step = ABILITY_POPUP_INIT_PALETTE;
-            sp->battle_progress_flag = 1;
-        }
-    } else if (sp->abilityPopupWork != NULL && sp->abilityPopupWork->step >= ABILITY_POPUP_DESTROY) {
-        sys_FreeMemoryEz(sp->abilityPopupWork);
-        sp->abilityPopupWork = NULL;
-        IncrementBattleScriptPtr(sp, 3);
-        sp->battle_progress_flag = 0;
-
-#ifdef DEBUG_ABILITY_POPUP
-        debug_printf("btl_scr_cmd abilitypopup end\n");
-#endif
-    } else {
-        AbilityPopup_SlideIn(sp->abilityPopupWork);
-        sp->battle_progress_flag = 1;
-    }
-
+    // Temporarily disabled — duplicate-popup bug in doubles (upstream issue #826).
+    // Skips straight past the command without showing the popup window.
+    IncrementBattleScriptPtr(sp, 3);
+    sp->battle_progress_flag = 0;
     return FALSE;
 }
 
