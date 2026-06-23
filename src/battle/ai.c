@@ -57,6 +57,18 @@ void AITypeCalc(struct BattleStruct *sp, u32 move, u32 type, int atkAbility, int
     {
         flag[0] |= MOVE_STATUS_FLAG_NOT_EFFECTIVE; // not "not very effective", ineffective
     }
+    else if ((atkAbility != ABILITY_MOLD_BREAKER)
+          && (((defAbility == ABILITY_WATER_ABSORB)  && (typeLocal == TYPE_WATER))
+           || ((defAbility == ABILITY_DRY_SKIN)      && (typeLocal == TYPE_WATER))
+           || ((defAbility == ABILITY_STORM_DRAIN)   && (typeLocal == TYPE_WATER))
+           || ((defAbility == ABILITY_VOLT_ABSORB)   && (typeLocal == TYPE_ELECTRIC))
+           || ((defAbility == ABILITY_MOTOR_DRIVE)   && (typeLocal == TYPE_ELECTRIC))
+           || ((defAbility == ABILITY_LIGHTNING_ROD) && (typeLocal == TYPE_ELECTRIC))
+           || ((defAbility == ABILITY_FLASH_FIRE)    && (typeLocal == TYPE_FIRE))
+           || ((defAbility == ABILITY_SAP_SIPPER)    && (typeLocal == TYPE_GRASS))))
+    {
+        flag[0] |= MOVE_STATUS_FLAG_NOT_EFFECTIVE; // AI treats absorbed move as having no effect
+    }
     else
     {
         i = 0;
