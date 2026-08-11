@@ -894,7 +894,7 @@ int UNUSED CalcBaseDamageInternal(struct BattleSystem *bw, struct BattleStruct *
 
             // handle Gems
             if (gemBoostingMove) {
-                basePowerModifier = QMul_RoundUp(basePowerModifier, UQ412__1_3);
+                basePowerModifier = QMul_RoundUp(basePowerModifier, UQ412__1_5);
                 continue;
             }
 
