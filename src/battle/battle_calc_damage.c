@@ -892,7 +892,7 @@ void CalcDamageOverall(void *bw, struct BattleStruct *sp) {
 
         // 6.9.12 Life Orb
         if ((sp->rawSpeedNonRNGClientOrder[i] == attacker) && HeldItemHoldEffectGet(sp, attacker) == HOLD_EFFECT_HP_DRAIN_ON_ATK) {
-            finalModifier = QMul_RoundUp(finalModifier, UQ412__1_2);
+            finalModifier = QMul_RoundUp(finalModifier, UQ412__1_3_BUT_LOWER);
 #ifdef DEBUG_DAMAGE_CALC
             debug_printf("\n=================\n");
             debug_printf("[CalcBaseDamage] 6.9.12 Life Orb (client %d loop %d)\n", sp->rawSpeedNonRNGClientOrder[i], i);
